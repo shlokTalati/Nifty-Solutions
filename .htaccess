@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /
+
+# ✅ Allow direct access ONLY to public/ folder and its contents
+RewriteCond %{REQUEST_URI} ^/public/
+RewriteRule ^ - [L]
+
+# ❌ Block direct access to everything else — even if it exists
+# Funnel all requests through index.php no matter what
+RewriteRule ^ index.php [L,QSA]
