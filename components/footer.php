@@ -2,14 +2,15 @@
        <footer class="p-0 footer-light position-relative"> 
             <div class="container position-relative"> 
             <div class="row justify-content-center pt-5 sm-pt-40px">
-                    <!-- start footer column -->
+                  
+            <!-- start footer column -->
                     <div class="col-6 col-xl-3 col-lg-12 col-sm-6 last-paragraph-no-margin text-xl-start text-lg-center order-sm-1 lg-mb-50px sm-mb-30px">
-                        <a href="/" class="footer-logo mb-15px d-inline-block"> 
-                            <img src="public/images/logo.png" data-at2x="public/images/logo.png" alt="" width="0" height="0">
+                    <a href="/" class="footer-logo mb-15px d-inline-block"> 
+                            <img src="/public/images/logo-black.png" data-at2x="/public/images/logo-black.png">
                         </a>
                         <p class="lh-28 w-90 xl-w-100 mx-lg-auto mx-xl-0">Gearing your company through an innovative strategy.
                             <br>
-                        Est. 1992
+                        Est. 1999
                         </p>
                         
                         <div class="elements-social social-icon-style-02 mt-15px">
