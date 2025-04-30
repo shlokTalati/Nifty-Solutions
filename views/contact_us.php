@@ -31,69 +31,31 @@
                     <div class="col-xl-5 col-lg-8 col-md-10 lg-mb-50px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 250, "easing": "easeOutQuad" }'>
                         <div class="position-sticky top-120px lg-top-0px lg-position-relative text-center text-xl-start">
                             <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-xl-start"><i class="bi bi-chat-square-dots fs-16 me-5px"></i>Lets's work together</span>
-                            <h3 class="text-dark-gray ls-minus-2px fw-700">Call or visit us at one of our different locations.</h3>
-                            <p class="mb-35px w-90 lg-w-100 sm-mb-25px">Amet minim mollit non deserunt ullamco est aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit amet minim mollit on.</p>
-                            <a href="#" class="btn btn-extra-large btn-switch-text btn-gradient-purple-pink left-icon btn-rounded me-10px ls-0px">
-                                <span>
-                                    <span><i class="bi bi-telephone-outbound"></i></span>
-                                    <span class="btn-double-text" data-text="Schedule a call">Schedule a call</span>
-                                </span>
-                            </a>
+                            <h3 class="text-dark-gray ls-minus-2px fw-700">Call or visit us.</h3>
+                            <p class="mb-35px w-90 lg-w-100 sm-mb-25px">We’re always happy to connect. Whether you have a question, need a solution, or just want to explore how we can work together — reach out or drop by.</p>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-8 col-md-10 offset-xl-1">
                         <div class="row row-cols-1 justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                            <!-- start services box item -->
+                           
+                        <!-- start services box item -->
                             <div class="col services-box-style-02 mb-30px">
                                 <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
                                     <div class="col-lg-6 col-sm-6">
-                                        <div class="h-100 cover-background xs-h-300px" style="background-image: url(https://placehold.co/350x350)"></div>
+                                        <div class="h-100 cover-background xs-h-300px" style="background-image: url('/public/images/home-about1.png')"></div>
                                     </div>
                                     <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-40px xl-p-30px">
                                         <div class="services-box-content last-paragraph-no-margin">
-                                            <span class="d-block text-dark-gray primary-font fw-700 fs-19 mb-10px">New York</span>
-                                            <p>167 Hawthorne, Business central, New York, 11722</p>
-                                            <a href="#" class="fs-16 lh-20 primary-font fw-500 text-dark-gray text-decoration-line-bottom d-inline-block mb-25px">View on map</a>
-                                            <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href="tel:12345678910">+1 234 567 8910</a></div>
+                                            <span class="d-block text-dark-gray primary-font fw-700 fs-19 mb-10px">Vadodara</span>
+                                            <p>1109, Nilamber Triumph, Nilamber Circle, Gotri-Vasna Road, Vadodara</p>
+                                            <a href="https://www.google.co.in/maps/place/Nifty+Solutions/@22.3015476,73.1361139,17z/data=!3m1!4b1!4m6!3m5!1s0x395fc8862fb2f387:0xdb0d50d030907d09!8m2!3d22.3015476!4d73.1386888!16s%2Fg%2F11s9hjg1r5?entry=ttu&g_ep=EgoyMDI1MDQyMy4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" class="fs-16 lh-20 primary-font fw-500 text-dark-gray text-decoration-line-bottom d-inline-block mb-25px" target="_blank">View on map</a>
+                                            <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href="tel:12345678910">+919825412230</a></div>
                                         </div> 
                                     </div> 
                                 </div>
                             </div>
                             <!-- end services box item --> 
-                            <!-- start services box item -->
-                            <div class="col services-box-style-02 mb-30px">
-                                <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
-                                    <div class="col-lg-6 col-sm-6">
-                                        <div class="h-100 cover-background xs-h-300px" style="background-image: url(https://placehold.co/350x350)"></div>
-                                    </div>
-                                    <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-40px xl-p-30px">
-                                        <div class="services-box-content last-paragraph-no-margin">
-                                            <span class="d-block text-dark-gray primary-font fw-700 fs-19 mb-10px">San Francisco</span>
-                                            <p>777 Magnolia farme ville, San Francisco, 93223</p>
-                                            <a href="#" class="fs-16 lh-20 primary-font fw-500 text-dark-gray text-decoration-line-bottom d-inline-block mb-25px">View on map</a>
-                                            <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href="tel:12345678910">+1 234 567 8910</a></div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end services box item --> 
-                            <!-- start services box item -->
-                            <div class="col services-box-style-02 md-mb-30px">
-                                <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
-                                    <div class="col-lg-6 col-sm-6">
-                                        <div class="h-100 cover-background xs-h-300px" style="background-image: url(https://placehold.co/350x350)"></div>
-                                    </div>
-                                    <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-40px xl-p-30px">
-                                        <div class="services-box-content last-paragraph-no-margin">
-                                            <span class="d-block text-dark-gray primary-font fw-700 fs-19 mb-10px">Paris</span>
-                                            <p>959 Seven forks tower, Paris, France, 30557</p>
-                                            <a href="#" class="fs-16 lh-20 primary-font fw-500 text-dark-gray text-decoration-line-bottom d-inline-block mb-25px">View on map</a>
-                                            <div class="text-dark-gray fw-600"><i class="feather icon-feather-phone-call icon-small me-10px text-dark-gray"></i><a href="tel:12345678910">+1 234 567 8910</a></div>
-                                        </div> 
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end services box item --> 
+
                         </div>
                     </div>
                 </div>
@@ -111,20 +73,20 @@
                             <p class="w-85 sm-w-100">We're here to help and answer any question you might have.</p>
                             <div class="row row-cols-1 row-cols-sm-2">
                                 <div class="col last-paragraph-no-margin mb-25px">
-                                    <p>Call us directly?</p>
+                                    <p>Call or visit us</p>
                                     <a href="tel:+91 9825412230" class="text-dark-gray fw-600">+91 9825412230	</a>
                                 </div>
                                 <div class="col last-paragraph-no-margin mb-25px">
                                     <p>Need live support?</p>
-                                    <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support@niftysolutions.co.in</a>
+                                    <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support@<br>niftysolutions.co.in</a>
                                 </div>
                                 <div class="col last-paragraph-no-margin sm-mb-25px">
-                                    <p>Join growing team?</p>
-                                    <a href="mailto:career@niftysolutions.co.in" class="text-dark-gray fw-600">career@niftysolutions.co.in	</a>    
+                                    <p>Join growing teamx</p>
+                                    <a href="mailto:career@niftysolutions.co.in" class="text-dark-gray fw-600">career@<br>niftysolutions.co.in	</a>    
                                 </div>
                                 <div class="col last-paragraph-no-margin">
                                     <p>Sales Inquiry</p>
-                                   <a href="mailto:sales@niftysolutions.co.in" class="text-dark-gray fw-600">sales@niftysolutions.co.in	</a>   
+                                   <a href="mailto:sales@niftysolutions.co.in" class="text-dark-gray fw-600">sales@<br>niftysolutions.co.in	</a>   
                                 </div>
                             </div>
                         </div>
@@ -140,7 +102,7 @@
 							 <label for="exampleInputEmail1" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your mobile no.*</label>
                             <div class="position-relative form-group mb-20px">
                                 <span class="form-icon"><i class="bi bi-emoji-smile text-dark-gray"></i></span>
-                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="exampleInputEmail1" type="text" name="name" placeholder="What's your good name" />
+                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="exampleInputEmail1" type="text" name="name" placeholder="Enter your mobile number" />
                             </div>
                             <label for="exampleInputEmail1" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Email address*</label>
                             <div class="position-relative form-group mb-20px">

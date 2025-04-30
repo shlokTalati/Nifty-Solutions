@@ -4,14 +4,23 @@
             <nav class="navbar navbar-expand-lg header-transparent bg-transparent header-reverse glass-effect" data-header-hover="light">
                 <div class="container-fluid">
                     <div class="col-auto col-xxl-3 col-lg-2 me-lg-0 me-auto">
+
+                    <span class="d-flex align-items-center text-decoration-none">
+
                         <a class="navbar-brand" href="/">
-                            <img src="public/images/logo-name.svg" data-at2x="public/images/logo-name.svg" alt="" class="default-logo">
-                            <img src="public/images/logo-name.svg" data-at2x="public/images/logo-name.svg" alt="" class="alt-logo">
-                            <img src="public/images/logo-name.svg" data-at2x="public/images/logo-name.svg" alt="" class="mobile-logo"> 
+                            <img data-at2x="/public/images/logo-white.png" alt="" class="default-logo" data-cfsrc="/public/images/logo-white.png" src="/public/images/logo-white.png">
+                            <img data-at2x="/public/images/logo-black.png" alt="" class="alt-logo" data-cfsrc="/public/images/logo-black.png" src="/public/images/logo-black.png">
+                            <img data-at2x="/public/images/logo-black.png" alt="" class="mobile-logo" data-cfsrc="/public/images/logo-black.png" src="/public/images/logo-black.png"> 
                         </a>
+
+                    </span>
+                        
+
+
+                        
                     </div>
-                    <div class="col-auto col-xxl-6 col-lg-8 menu-order position-static">
-                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-label="Toggle navigation">
+                    <div class="col-auto col-xxl-6 col-lg-7 menu-order position-static">
+                        <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="#navbarNav-clone" aria-label="Toggle navigation" data-target="#navbarNav-clone">
                             <span class="navbar-toggler-line"></span>
                             <span class="navbar-toggler-line"></span>
                             <span class="navbar-toggler-line"></span>
@@ -23,7 +32,7 @@
                                 <li class="nav-item"><a href="/about-us" class="nav-link">About</a></li> 
 
                                 <li class="nav-item dropdown dropdown-with-icon-style02">
-                                    <a  href="#" class="nav-link">Products</a>
+                                    <a href="#" class="nav-link">Products</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                         <li><a href="/product/email-distribution-software"><i class="bi bi-briefcase"></i>Email Distribution Software</a></li>
@@ -41,7 +50,7 @@
                                     </ul>
                                 </li>
                                 <li class="nav-item dropdown dropdown-with-icon-style02">
-                                    <a  href="#" class="nav-link">Services</a>
+                                    <a href="#" class="nav-link">Services</a>
                                     <i class="fa-solid fa-angle-down dropdown-toggle" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false"></i>
                                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"> 
                                         <li><a href="/service/website-designing-and-development"><i class="bi bi-briefcase"></i>Website Designing and Development</a></li>

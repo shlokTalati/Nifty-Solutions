@@ -7032,8 +7032,9 @@ header .navbar-brand .alt-logo, header .navbar-brand .mobile-logo {
   opacity: 0;
   width: 0;
 }
-header .navbar-brand img {
-  max-height: 100px;
+
+header .navbar-brand{
+  max-width: 45px;
 }
 header .header-top-bar {
   position: fixed;
@@ -7131,7 +7132,7 @@ header.sticky .navbar.disable-fixed {
 .navbar .navbar-nav .nav-link {
   font-size: 16px;
   line-height: 20px;
-  padding: 10px 20px;
+  padding: 10px 10px;
   position: relative;
   font-weight: 500;
   opacity: 1;
@@ -7284,10 +7285,10 @@ header.sticky .navbar.disable-fixed {
   padding: 0;
 }
 .navbar .navbar-nav .dropdown.dropdown-with-icon-style02 .dropdown-menu li a {
-  font-size: 15px;
-  line-height: 26px;
+  font-size: 13px;
+  line-height: 16px;
   border-bottom: 1px solid rgba(23, 23, 23, 0.1);
-  padding: 17px 20px;
+  padding: 13px 18px;
 }
 .navbar .navbar-nav .dropdown.dropdown-with-icon-style02 .dropdown-menu li a i {
   font-size: 19px;
