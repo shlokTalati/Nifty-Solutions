@@ -6760,6 +6760,29 @@ input:focus, select:focus, textarea:focus, .form-control:focus {
 .z-index-minus-2 {
   z-index: -2;
 }
+
+.max-width-100 {
+  max-width: 100% !important;
+}
+.max-width-90 {
+  max-width: 90% !important;
+}
+.max-width-80 {
+  max-width: 80% !important;
+}
+.max-width-70 {
+  max-width: 70% !important;
+}
+.max-width-60 {
+  max-width: 60% !important;
+}
+.max-width-50 {
+  max-width: 50% !important;
+}
+.max-width-40 {
+  max-width: 40% !important;
+}
+
 /* ===================================
    10. Header
 ====================================== */
@@ -7250,11 +7273,9 @@ header.sticky .navbar.disable-fixed {
   position: relative;
 }
 .navbar .navbar-nav .simple-dropdown .dropdown-menu .dropdown i {
-  position: absolute;
-  right: 35px;
-  top: 6px;
+  position: static;
   width: auto;
-  font-size: 13px;
+  font-size: 14px;
 }
 .navbar .navbar-nav .simple-dropdown .dropdown-menu .dropdown.open > a {
   color: var(--dark-gray);
