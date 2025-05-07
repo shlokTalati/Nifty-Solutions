@@ -101,7 +101,9 @@
                 </div>
             </div> 
         </section>
-        <!-- end section -->   
+        <!-- end section --> 
+		
+		  
         <!-- start section -->
         <section class="pb-0">
             <div class="container">
@@ -116,6 +118,7 @@
 								
 								At Nifty Solutions, we are committed to delivering secure, scalable, and efficient I.T. solutions to help businesses thrive in a digital world.
 								</p>
+								<strong>Company Profile</strong></p>
 								 <a href="#" class="btn btn-extra-large btn-gradient-purple-pink btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
                             <span> 
                                 <span class="btn-text">DOWNLOAD</span>

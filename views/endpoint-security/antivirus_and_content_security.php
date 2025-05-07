@@ -60,7 +60,7 @@
         <div class="container">
             <div class="row justify-content-center mb-3">
                 <div class="col-xl-8 col-lg-9 col-md-10 text-center">
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>The role played by a business planning consultant?</h3>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Featured Solutions</h3>
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center" data-anime='{ "el": "childs", "willchange": "transform", "scale":[0.95,1], "opacity": [0, 1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -215,7 +215,7 @@
                                     <div class="atropos-scale">
                                         <div class="atropos-rotate">
                                             <div class="atropos-inner">
-                                                <img src="https://placehold.co/580x479" alt="" class="border-radius-6px w-100" />
+                                                <img src="/public/images/antivirus/antivirus-draw.jpg" alt="" class="border-radius-6px w-100" />
                                             </div>
                                         </div>
                                     </div>
@@ -365,19 +365,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
+                      
                     </div>
                 </section>
                 <!-- end section -->

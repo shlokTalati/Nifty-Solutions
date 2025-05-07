@@ -38,7 +38,7 @@
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Antivirus and Content Security</span>
+                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Firewall</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Advanced Firewall Solutions</h3>
                     <p class="w-95 md-w-100">Shield your network with advanced firewall security solutions that block unauthorized access, protect sensitive data, and ensure business continuity. In today’s cyber threat landscape, firewalls are your first and most critical line of defense.
                     </p>
@@ -108,7 +108,7 @@
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 <span class="text-white alt-font fw-500 fs-19 mb-5px">Fortinet</span>
                                 <p>Quis autem velo eum iure suam nihil molestiae.</p>
-                                <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.fortinet.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
 
 
@@ -187,7 +187,7 @@
                                                 <div class="atropos-scale">
                                                     <div class="atropos-rotate">
                                                         <div class="atropos-inner">
-                                                            <img src="https://placehold.co/580x479" alt="" class="border-radius-6px w-100" />
+                                                            <img src="/public/images/firewall/firewall-draw.jpg" alt="" class="border-radius-6px w-100" />
                                                         </div>
                                                     </div>
                                                 </div>
@@ -329,19 +329,7 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="row align-items-center text-center text-md-start mt-6">
-                                        <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                            <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                                        </div>
-                                        <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                            <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                                <span>
-                                                    <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                                    <span><i class="feather icon-feather-mail"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </section>
                             <!-- end section -->
