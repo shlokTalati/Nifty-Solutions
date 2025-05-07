@@ -1,1 +1,1 @@
-1) Footer - Add Links like Facebook, LinkedIn, etc.
+1) Custom Title in all pages.
