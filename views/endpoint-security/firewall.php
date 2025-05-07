@@ -1,5 +1,5 @@
     <!-- start page title -->
-    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/firewall-inner.jpg');">
+    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/firewall/firewall-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -29,7 +29,7 @@
             <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
-                        <img src="/public/images/firewall1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <img src="/public/images/firewall/firewall1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
                             <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
@@ -78,7 +78,7 @@
                         </div>
                         <!-- end front side -->
                         <!-- start back side -->
-                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall-sophos1.jpg')">
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall/sophos.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 <span class="text-white alt-font fw-500 fs-19 mb-5px">Sophos</span>
@@ -103,7 +103,7 @@
                         </div>
                         <!-- end front side -->
                         <!-- start back side -->
-                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall-fortinet1.jpg')">
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall/fortinet.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 <span class="text-white alt-font fw-500 fs-19 mb-5px">Fortinet</span>
@@ -229,8 +229,8 @@
                                     <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                         <div class="col-12">
                                             <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                                <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/antivirus-icon.png" alt=""></div>
-                                                <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Antivirus</span>
+                                                <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/firewall/firewall-icon.png" alt=""></div>
+                                                <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Firewall</span>
                                                 <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                                 <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
 
@@ -240,34 +240,36 @@
                                                         <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                             <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                                 <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">eScan Antivirus</span>
+                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Fortinet Firewall</span>
                                                                 </div>
                                                             </a>
                                                         </div>
                                                         <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                                <p>eScan is a globally trusted provider of advanced cybersecurity solutions since 1993. eScan offers an all-in-one defence suite for businesses and individuals &ndash; covering <strong>Anti-Virus</strong>, <strong>Anti-Ransomware</strong>, <strong>Content Security</strong>, <strong>Network Intrusion Prevention</strong>, and more.</p>
-                                                                <p><strong> eScan SMB Products &ndash; Complete Network Protection - Key Features That Make eScan Stand Out</strong></p>
-                                                                <ul type="disc">
-                                                                    <li> <strong>Web-Based Centralized Management Console</strong><br />
-                                                                        Monitor and manage all endpoints remotely through an intuitive web interface.</li>
-                                                                    <li> <strong>Advanced Endpoint Device Control</strong><br />
-                                                                        Control access to USB, CD/DVD devices with password protection and <strong>read-only</strong> options.</li>
-                                                                    <li> <strong>One-Time Password (OTP) Access</strong><br />
-                                                                        Grant temporary access to USB devices or websites for a defined time (e.g., 10 minutes).</li>
-                                                                    <li> <strong>USB Data Activity Logging</strong><br />
-                                                                        Track all data copied to USB devices by users via <strong>USB Recording</strong> &ndash; visible in the Management Console.</li>
-                                                                    <li> <strong>Website / URL Blocking</strong><br />
-                                                                        Block specific websites or URLs based on <strong>User, Group, or IP</strong>.</li>
-                                                                    <li> <strong>Application Control</strong><br />
-                                                                        Block predefined applications (e.g., games, chat messengers, media apps) to ensure productivity.</li>
-                                                                    <li> <strong>Asset / Inventory Management</strong><br />
-                                                                        Real-time tracking of all hardware and software assets. Get alerts on any changes or unauthorized installations.</li>
-                                                                    <li> <strong>Print Activity Monitoring</strong><br />
-                                                                        Log and report print jobs across your network &ndash; including document name, number of copies, username, date/time, and IP address. Reports available in <strong>PDF, Excel, or HTML</strong> formats.</li>
-                                                                    <li> <strong>File Activity Reports</strong><br />
-                                                                        Monitor file-level actions (create, copy, modify, delete) on all endpoints. Track misuse of sensitive data with detailed logs and user attribution.</li>
-                                                                </ul>
+                                                                <p><strong>Fortinet</strong> is a leading global cybersecurity company known for its <strong>FortiGate firewalls,</strong> FortiGate firewalls are designed to provide high-performance, integrated network security solutions for enterprises, data centres, cloud environments, and small businesses.<br />
+<strong>What is Fortinet Firewall (FortiGate)?</strong><br />
+<strong>FortiGate</strong> is a next-generation firewall (NGFW) developed by Fortinet Inc., offering advanced protection against cyber threats using AI, machine learning, and real-time threat intelligence.<br />
+</p>
+                                                                <p><strong> Key Features of FortiGate Firewall:</strong></p>
+<strong>NGFW Capabilities:</strong><br />
+Deep packet inspection<br />
+Application control<br />
+Intrusion prevention system (IPS)<br />
+URL filtering<br />
+Antivirus and anti-malware scanning<br />
+<strong>Secure SD-WAN:</strong><br />
+Integrated SD-WAN functionality with centralized management<br />
+Ideal for distributed networks and branch connectivity<br />
+<strong>VPN Support:</strong><br />
+SSL and IPsec VPN for secure remote access and site-to-site connectivity<br />
+High Performance:<br />
+Powered by Fortinet’s purpose-built security processors (SPUs) for high throughput and low latency<br />
+<strong>Centralized Management:</strong><br />
+Manage multiple devices using FortiManager or FortiCloud<br />
+Real-time monitoring and logging via FortiAnalyzer<br />
+<strong>Threat Intelligence:</strong><br />
+Constant updates from FortiGuard Labs, Fortinet’s in-house threat research team<br />
+
                                                             </div>
                                                         </div>
                                                     </div>
@@ -277,66 +279,52 @@
                                                         <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                             <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                                 <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">BitDefender</span>
+                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Sophos Firewall</span>
                                                                 </div>
                                                             </a>
                                                         </div>
                                                         <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                                <p class="w-90 sm-w-95 xs-w-100"><strong>Advanced Threat Prevention, Simplified Protection</strong></br>
-                                                                    Use GravityZone for effective threat prevention, automated remediation, and attack forensics to achieve top-level security without added complexity.</br>
-                                                                    <strong>Layered Protection</strong></br>
-                                                                    Signature-less technologies, including advanced local and cloud machine learning, behavior analysis, integrated sandbox, and device hardening, work as highly effective, layered, protection against sophisticated threats. Everything packed in a single agent-single console.</br>
-                                                                    <strong>Attack Forensics and Visualization</strong></br>
-                                                                    Attack forensics and visualization enhance the level of visibility into your organization's threat landscape and reveal the broader context of attacks on endpoints. It lets you zero in on specific threats and take corrective action.</br>
-                                                                    <strong>Risk Management</strong></br>
-                                                                    The Risk Management module reduces exposure and hardens endpoint surface area by discovering and prioritizing risky user behavior, OS and software misconfigurations.</br>
-                                                                    <strong>Fileless Attack Defense</strong></br>
-                                                                    Using machine learning, it analyzes commands, monitors connections, and protects running processes to detect and block fileless malware. It stops harmful PowerShell commands, blocks malicious traffic, and prevents code injection.</br>
-                                                                    <strong>Sandbox Analyzer</strong></br>
-                                                                    Sandbox Analyzer provides pre-execution detection of advanced attacks. GravityZone can automatically send suspicious files or scripts to the Sandbox Analyzer cloud sandbox.</br>
-                                                                    <strong>Ransomware Prevention and Mitigation</strong></br>
-                                                                    Defeating ransomware requires understanding the full cyber kill chain and mapping defenses to each attack stage. GravityZone offers built-in ransomware prevention and mitigation.
-                                                                </p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <!-- end accordion item -->
-                                                    <!-- start accordion item -->
-                                                    <div class="accordion-item">
-                                                        <div class="accordion-header border-bottom border-color-transparent">
-                                                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                                                <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Sophos</span>
-                                                                </div>
-                                                            </a>
-                                                        </div>
-                                                        <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                                                <p class="w-90 sm-w-95 xs-w-100">Sophos Endpoint Protection: Key Features</br>
-                                                                    <strong>Advanced Threat Prevention</strong></br>
-                                                                    <strong>Deep Learning AI:</strong> Utilizes advanced machine learning to detect and block both known and unknown malware threats. Sophos Home</br>
-                                                                    <strong>CryptoGuard Ransomware Protection:</strong> Monitors file contents for malicious encryption, blocking ransomware in real-time and automatically rolling back affected files without relying on Volume Shadow Copy Service (VSS). </br>
-                                                                    <strong>Adaptive Attack Protection:</strong> Automatically adjusts protection levels when a "hands-on-keyboard" attack is detected, blocking actions commonly performed by adversaries. </br>
-                                                                    <strong>Behavioral Analysis:</strong> Monitors process, file, and registry events over time to detect and stop malicious behaviors and processes. </br>
-                                                                    <strong>Anti-Exploitation:</strong> Employs over sixty anti-exploitation techniques to guard process integrity by hardening application memory and applying runtime code execution guardrails. </br>
-                                                                    <strong>Extended Detection and Response (XDR)</strong></br>
-                                                                    <strong>Comprehensive Visibility:</strong> Combines endpoint protection with XDR capabilities to detect, investigate, and respond to threats across the entire ecosystem. </br>
-                                                                    <strong>Continuous Monitoring:</strong> Provides real-time monitoring and response to threats, ensuring swift action against potential security incidents. </br>
-                                                                    <strong>Threat Exposure Reduction</strong></br>
-                                                                    <strong>Web Protection and Filtering:</strong> Blocks access to phishing and malicious sites by analyzing files, web pages, and IP addresses, powered by threat intelligence from SophosLabs. </br>
-                                                                    <strong>Application and Peripheral Control: </strong>Reduces your attack surface by controlling applications and peripheral devices, blocking common attack vectors.
-                                                                    <strong>Synchronized Security</strong></br>
-                                                                    <strong>Integrated Ecosystem:</strong> Shares status and health information with Sophos Firewall, Sophos Zero Trust Network Access (ZTNA), and other products to provide additional visibility into threats and application usage. </br>
-                                                                    <strong>Centralized Management with Sophos Central</strong></br>
-                                                                    <strong>Unified Console:</strong> Manage all Sophos solutions through a single, cloud-based platform, simplifying security management. </br>
-                                                                    <strong>Real-Time Insights:</strong> Provides real-time threat protection, automated responses, and customizable dashboards for comprehensive visibility. </br>
+                                                                <p class="w-90 sm-w-95 xs-w-100"><strong>SOPHOS</strong> is a global leader in cybersecurity with a strong focus on network security, cloud-based security solutions. It is founder in 1985 having headquarters at United Kingdom.
+Its Advanced Threat Protection, uses AI, deep learning, and real-time threat 
+        intelligence to detect and prevent cyber threats.</br>
+</br><strong>Key Features of SOPHOS Firewall:</strong></br>
+<strong>Load Balancing & Bandwidth Allocation</strong> – Optimizes internet usage and distributes bandwidth efficiently.</br>
+<strong>Multi-Internet Link Management</strong> – Ensures uninterrupted internet access by automatically switching between multiple connections.</br>
+<strong>Gateway Antivirus & Antispam</strong> – Scans all internet traffic to block malware, viruses, and spam emails.</br>
+<strong>Website & Content Filtering</strong> – Blocks unauthorized websites based on categories, keywords, or user-specific rules.</br>
+<strong>VPN Connectivity</strong> – Enables secure remote access to office networks, applications (e.g., Tally, ERP), and data from anywhere.</br></br>
+<strong>How Can a Firewall Benefit Your Business?</strong></br>
+ <strong>Network Security & Access Control</strong></br>
+🔹 Protects company data by allowing access only to authorized users.</br>
+🔹 Prevents unauthorized access from external threats.</br>
+<strong>Link Management & Automatic Failover</strong></br>
+🔹 Supports multiple internet connections for redundancy.</br>
+🔹 Automatically switches to an alternate connection if the primary internet fails, ensuring uninterrupted connectivity.</br>
+<strong>Website Control & Content Filtering</strong></br>
+🔹 Restricts non-work-related website access (e.g., gaming, social media, adult 
+        content) to enhance employee productivity.</br>
+🔹 Allows customized internet access for specific users or departments.</br>
+<strong>Bandwidth Management</strong></br>
+🔹 Allocates bandwidth based on priorities – e.g., ERP, emails, and business-critical 
+       applications get priority over general browsing.</br>
+🔹 Ensures optimized performance for critical business operations.</br>
+<strong>Advanced Gateway Antivirus</strong></br>
+🔹 Scans all incoming and outgoing traffic for threats, protecting your business from 
+       cyberattacks.</br>
+🔹 Ensures a secure and malware-free network.</br>
+<strong>Secure Remote Access via VPN</strong></br>
+🔹 Employees can securely access office systems and applications from anywhere.</br>
+🔹 Only authorized users can connect to the network remotely.</br>
+
+
 
                                                                 </p>
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <!-- end accordion item -->
+                                                  
                                                 </div>
                                             </div>
                                         </div>
@@ -370,15 +358,13 @@
                                         <div class="col md-mb-30px">
                                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">BitDefender</a>
+                                                    <a href="demo-it-business-services-details.html"><img src="/public/images/firewall/firewall-fortinet.jpg" alt=""></a>
+                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Fortinet</a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> BitDefender Antivirus</a>
-                                                        <p>Stay Safe with the Most Consistently Top-Rated
-                                                            Antivirus of the Last 10 Years (and Counting)
-                                                            Pick the perfect plan for your needs.</p>
+                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Fortinet Firewall</a>
+                                                        <p>text to be given by Manav</p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                                         <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -397,38 +383,13 @@
                                         <div class="col md-mb-30px">
                                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">eScan</a>
-                                                </div>
-                                                <div class="bg-white">
-                                                    <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">eScan Antivirus</a>
-                                                        <p>Protect your computer from harmful viruses and ensure efficient performance with eScan Anti-Virus for Windows. It provides real-time protection to computers from objectionable content and cyber threats, such as Ransomware, Spyware, Adware, Keyloggers, Rootkits, Botnets, and Phishing. </p>
-                                                    </div>
-                                                    <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                            <span>
-                                                                <span class="btn-text">Explore services</span>
-                                                                <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                                <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                            </span>
-                                                        </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end services box style -->
-                                        <!-- start services box style -->
-                                        <div class="col">
-                                            <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                                <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="https://placehold.co/600x440" alt=""></a>
+                                                    <a href="demo-it-business-services-details.html"><img src="/public/images/firewall/firewall-sophos.jpg" alt=""></a>
                                                     <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Sophos</a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Sophos Antivirus</a>
-                                                        <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Sophos Firewall</a>
+                                                        <p>text to be given by Manav </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                                         <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -443,6 +404,7 @@
                                             </div>
                                         </div>
                                         <!-- end services box style -->
+                                       
                                     </div>
                                 </div>
                                 <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
