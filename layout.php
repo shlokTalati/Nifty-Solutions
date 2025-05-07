@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="/public/demos/it-business/it-business.css" />
 </head>
 
-<body data-mobile-nav-style="full-screen-menu" data-mobile-nav-bg-color="#252840">
+<body data-mobile-nav-style="classic" data-mobile-nav-bg-color="#252840">
     <?php include_once __DIR__ . '/components/header.php'; ?>
 
     <main>
