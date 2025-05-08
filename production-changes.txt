@@ -1,0 +1,3 @@
+1) Modify the robots.txt file to allow crawlers to index everything
+2) Remove this from layout.php     <meta name="robots" content="noindex, nofollow">
+
