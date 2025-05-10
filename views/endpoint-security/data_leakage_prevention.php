@@ -17,7 +17,7 @@
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
-                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Advanced Data Leakage Prevention </h1>
+                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Data Leakage Prevention (DLP) </h1>
                 </div>
             </div>
         </div>
@@ -38,8 +38,8 @@
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Data Leakage Prevention</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Advanced Data Leakage Prevention</h3>
+                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Data Leakage Prevention</span>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Prevents Sensitive Data from being Exposed</h3>
                     <p class="w-95 md-w-100">text to be given by Manav / Shlok
                     </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
@@ -55,6 +55,7 @@
             </div>
     </section>
     <!-- end section -->
+	
     <!-- start section -->
     <section class="bg-very-light-gray">
         <div class="container">
@@ -128,7 +129,7 @@
                         <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
                             <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Antivirus.</h3>
+                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Data Leakage Prevention.</h3>
                                 <!-- start features box item -->
                                 <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
@@ -244,7 +245,7 @@
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Safetica</span>
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Safetica (DLP)</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -278,7 +279,7 @@
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">eScan Enterprise Data Leak Prevention (DLP)</span>
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">eScan Enterprise (DLP)</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -363,7 +364,7 @@ eScan DLP assists in categorizing and securing data:</br>
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">BitDefender</a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Safetica</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">

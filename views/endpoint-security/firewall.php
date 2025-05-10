@@ -38,8 +38,8 @@
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Firewall</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Advanced Firewall Solutions</h3>
+                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Firewall</span>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Network Traffic Filtering & Control</h3>
                     <p class="w-95 md-w-100">Shield your network with advanced firewall security solutions that block unauthorized access, protect sensitive data, and ensure business continuity. In today’s cyber threat landscape, firewalls are your first and most critical line of defense.
                     </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
@@ -329,7 +329,19 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                             </div>
                                         </div>
                                     </div>
-                                    
+                                    <div class="row align-items-center text-center text-md-start mt-6">
+                                        <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                                            <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
+                                        </div>
+                                        <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                                            <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
+                                                <span>
+                                                    <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
+                                                    <span><i class="feather icon-feather-mail"></i></span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
                                 </div>
                             </section>
                             <!-- end section -->

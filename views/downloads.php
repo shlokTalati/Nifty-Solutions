@@ -31,185 +31,259 @@
 <hr>
 
 <div class="container">
-    <div class="accordion accordion-flush" id="downloadsAccordion">
+  <div class="accordion" id="mainDownloadsAccordion">
+    <!-- Parent Accordion Item -->
+    <div class="accordion-item">
+      <h2 class="accordion-header" id="mainDownloadsHeading">
+        <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMainDownloads" aria-expanded="false" aria-controls="collapseMainDownloads">
+          Product Downloads
+        </button>
+      </h2>
+      <div id="collapseMainDownloads" class="accordion-collapse collapse" aria-labelledby="mainDownloadsHeading" data-bs-parent="#mainDownloadsAccordion">
+        <div class="accordion-body">
+          <!-- Start of nested accordion -->
+          <div class="accordion accordion-flush" id="downloadsAccordion">
+            <!-- SECTION: PostMaster Enterprise v8 -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingOne">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true">
+                  PostMaster Enterprise v8.
+                </button>
+              </h2>
+              <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
 
-      <!-- SECTION: PostMaster Enterprise v8 -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingOne">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true">
-            PostMaster Enterprise v8.
-          </button>
-        </h2>
-        <div id="collapseOne" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
+                  <div class="mb-4">
+                    <h5 class="fw-bold">32 Bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/java/JRE1.6-Setup.exe">&raquo; JRE1.6 Setup</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Setup.exe">&raquo; PMEv8 Setup</a></li>
+                      <li><a href="https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.53-win32.msi">&raquo; MySQL 5.5.53 (Win32)</a></li>
+                      <li><a href="http://download.qlc.co.in/cat/QHE-Windows-32Bit.exe">&raquo; QHE Windows 32Bit</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC16.exe">&raquo; PME Upgrade RC16</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC51-windows.zip">&raquo; PME Upgrade RC51 ZIP</a></li>
+                    </ul>
+                  </div>
 
-            <div class="mb-4">
-              <h5 class="fw-bold">32 Bit</h5>
-              <ul class="list-unstyled">
-                <li><a href="http://download.qlc.co.in/java/JRE1.6-Setup.exe">&raquo; JRE1.6 Setup</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Setup.exe">&raquo; PMEv8 Setup</a></li>
-                <li><a href="https://dev.mysql.com/get/Downloads/MySQL-5.5/mysql-5.5.53-win32.msi">&raquo; MySQL 5.5.53 (Win32)</a></li>
-                <li><a href="http://download.qlc.co.in/cat/QHE-Windows-32Bit.exe">&raquo; QHE Windows 32Bit</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC16.exe">&raquo; PME Upgrade RC16</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC51-windows.zip">&raquo; PME Upgrade RC51 ZIP</a></li>
-              </ul>
+                  <div class="mb-4">
+                    <h5 class="fw-bold">64 Bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/java/JRE1.64-Setup.exe">&raquo; JRE1.64 Setup</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Setup.exe">&raquo; PMEv8 Setup</a></li>
+                      <li><a href="http://download.qlc.co.in/mysql/mysql-5.5.32-winx64.msi">&raquo; MySQL 5.5.32 (x64)</a></li>
+                      <li><a href="http://download.qlc.co.in/cat/QHE-Windows-64Bit.exe">&raquo; QHE Windows 64Bit</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC16.exe">&raquo; PME Upgrade RC16</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC51-windows.zip">&raquo; PME Upgrade RC51 ZIP</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC65-ROOT.zip">&raquo; PME Upgrade RC65 ROOT ZIP</a></li>
+                      <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC65.jar">&raquo; PME Upgrade RC65 JAR</a></li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
             </div>
 
-            <div class="mb-4">
-              <h5 class="fw-bold">64 Bit</h5>
-              <ul class="list-unstyled">
-                <li><a href="http://download.qlc.co.in/java/JRE1.64-Setup.exe">&raquo; JRE1.64 Setup</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Setup.exe">&raquo; PMEv8 Setup</a></li>
-                <li><a href="http://download.qlc.co.in/mysql/mysql-5.5.32-winx64.msi">&raquo; MySQL 5.5.32 (x64)</a></li>
-                <li><a href="http://download.qlc.co.in/cat/QHE-Windows-64Bit.exe">&raquo; QHE Windows 64Bit</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC16.exe">&raquo; PME Upgrade RC16</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC51-windows.zip">&raquo; PME Upgrade RC51 ZIP</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC65-ROOT.zip">&raquo; PME Upgrade RC65 ROOT ZIP</a></li>
-                <li><a href="http://download.qlc.co.in/pmev8/PMEv8-Upgrade-808-RC65.jar">&raquo; PME Upgrade RC65 JAR</a></li>
-              </ul>
+            <!-- SECTION: PostMaster v7. -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingTwo">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
+                  PostMaster v7.
+                </button>
+              </h2>
+              <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+
+                  <div class="mb-4">
+                    <h5 class="fw-bold">32 Bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/pm7/PMv7-Setup.exe">&raquo; PMv7 Setup</a></li>
+                    </ul>
+                  </div>
+
+                  <div class="mb-4">
+                    <h5 class="fw-bold">64 Bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/pm7/PMv7-Setup-64.exe">&raquo; PMv7 Setup 64-bit</a></li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION: PostMaster Express -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingThree">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                  PostMaster Express
+                </button>
+              </h2>
+              <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+                  <ul class="list-unstyled">
+                    <li><a href="http://download.qlc.co.in/pmexpress/PMExpress-Setup.exe">&raquo; PM Express Setup</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION: PostMaster Xpress -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingFour">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
+                  PostMaster Xpress
+                </button>
+              </h2>
+              <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+                  <ul class="list-unstyled">
+                    <li><a href="http://download.qlc.co.in/pmx/PMX-Setup.exe">&raquo; PMX Setup</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION: NovaBACKUP -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingFive">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
+                  NovaBACKUP
+                </button>
+              </h2>
+              <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+                  <ul class="list-unstyled">
+                    <li><a href="http://download.qlc.co.in/backup/NovaBACKUP.exe">&raquo; NovaBACKUP Setup</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION: Iperius Backup -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingSix">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
+                  Iperius Backup
+                </button>
+              </h2>
+              <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+                  <ul class="list-unstyled">
+                    <li><a href="http://download.qlc.co.in/backup/Iperius.exe">&raquo; Iperius Setup</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION: eScan Antivirus -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingSeven">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven">
+                  eScan Antivirus
+                </button>
+              </h2>
+              <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+                  <ul class="list-unstyled">
+                    <li><a href="http://download.qlc.co.in/escan/eScanAV_Setup.exe">&raquo; eScan AV Setup</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- SECTION: Windows Installer -->
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingEight">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight">
+                  Microsoft Windows Installer
+                </button>
+              </h2>
+              <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+
+                  <div class="mb-3">
+                    <h5 class="fw-bold">Windows 32-bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x86.exe">&raquo; Installer 3.1 x86</a></li>
+                    </ul>
+                  </div>
+
+                  <div class="mb-3">
+                    <h5 class="fw-bold">Windows 64-bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x64.exe">&raquo; Installer 3.1 x64</a></li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
             </div>
 
           </div>
+          <!-- End of nested accordion -->
         </div>
       </div>
-
-      <!-- SECTION: PostMaster v7. -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingTwo">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
-            PostMaster v7.
-          </button>
-        </h2>
-        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-
-            <div class="mb-4">
-              <h5 class="fw-bold">32 Bit</h5>
-              <ul class="list-unstyled">
-                <li><a href="http://download.qlc.co.in/pm7/PMv7-Setup.exe">&raquo; PMv7 Setup</a></li>
-              </ul>
-            </div>
-
-            <div class="mb-4">
-              <h5 class="fw-bold">64 Bit</h5>
-              <ul class="list-unstyled">
-                <li><a href="http://download.qlc.co.in/pm7/PMv7-Setup-64.exe">&raquo; PMv7 Setup 64-bit</a></li>
-              </ul>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
-      <!-- SECTION: PostMaster Express -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingThree">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
-            PostMaster Express
-          </button>
-        </h2>
-        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-            <ul class="list-unstyled">
-              <li><a href="http://download.qlc.co.in/pmexpress/PMExpress-Setup.exe">&raquo; PM Express Setup</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- SECTION: PostMaster Xpress -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingFour">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
-            PostMaster Xpress
-          </button>
-        </h2>
-        <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-            <ul class="list-unstyled">
-              <li><a href="http://download.qlc.co.in/pmx/PMX-Setup.exe">&raquo; PMX Setup</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- SECTION: NovaBACKUP -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingFive">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
-            NovaBACKUP
-          </button>
-        </h2>
-        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-            <ul class="list-unstyled">
-              <li><a href="http://download.qlc.co.in/backup/NovaBACKUP.exe">&raquo; NovaBACKUP Setup</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- SECTION: Iperius Backup -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingSix">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix">
-            Iperius Backup
-          </button>
-        </h2>
-        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-            <ul class="list-unstyled">
-              <li><a href="http://download.qlc.co.in/backup/Iperius.exe">&raquo; Iperius Setup</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- SECTION: eScan Antivirus -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingSeven">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven">
-            eScan Antivirus
-          </button>
-        </h2>
-        <div id="collapseSeven" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-            <ul class="list-unstyled">
-              <li><a href="http://download.qlc.co.in/escan/eScanAV_Setup.exe">&raquo; eScan AV Setup</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
-
-      <!-- SECTION: Windows Installer -->
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="headingEight">
-          <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight">
-            Microsoft Windows Installer
-          </button>
-        </h2>
-        <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
-          <div class="accordion-body">
-
-            <div class="mb-3">
-              <h5 class="fw-bold">Windows 32-bit</h5>
-              <ul class="list-unstyled">
-                <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x86.exe">&raquo; Installer 3.1 x86</a></li>
-              </ul>
-            </div>
-
-            <div class="mb-3">
-              <h5 class="fw-bold">Windows 64-bit</h5>
-              <ul class="list-unstyled">
-                <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x64.exe">&raquo; Installer 3.1 x64</a></li>
-              </ul>
-            </div>
-
-          </div>
-        </div>
-      </div>
-
     </div>
+
+    <div class="accordion-item">
+              <h2 class="accordion-header" id="headingEight">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight">
+                  Product Brochures
+                  
+                </button>
+              </h2>
+              <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+
+                  <div class="mb-3">
+                    <h5 class="fw-bold">Windows 32-bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x86.exe">&raquo; Installer 3.1 x86</a></li>
+                    </ul>
+                  </div>
+
+                  <div class="mb-3">
+                    <h5 class="fw-bold">Windows 64-bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x64.exe">&raquo; Installer 3.1 x64</a></li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingEight">
+                <button class="accordion-button fw-semibold collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight">
+                  Company Brochure
+                </button>
+              </h2>
+              <div id="collapseEight" class="accordion-collapse collapse" data-bs-parent="#downloadsAccordion">
+                <div class="accordion-body">
+
+                  <div class="mb-3">
+                    <h5 class="fw-bold">Windows 32-bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x86.exe">&raquo; Installer 3.1 x86</a></li>
+                    </ul>
+                  </div>
+
+                  <div class="mb-3">
+                    <h5 class="fw-bold">Windows 64-bit</h5>
+                    <ul class="list-unstyled">
+                      <li><a href="http://download.qlc.co.in/msi/WindowsInstaller-KB893803-v2-x64.exe">&raquo; Installer 3.1 x64</a></li>
+                    </ul>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+    
   </div>
 
-  <hr>
+
+  
+</div>
+
+<hr>

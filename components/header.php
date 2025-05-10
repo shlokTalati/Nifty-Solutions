@@ -70,7 +70,7 @@
                                     <ul class="dropdown-menu">
                                         <li><a href="/remote-work-and-monitoring/remote-access"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access Apps. and Remote Desktop</a></li>
                                         <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li>
-                                        <li><a href="/remote-work-and-monitoring/motadata"><i class="bi bi-graph-up text-dark icon-small me-10px"></i>MotaData</a></li>
+                                      
                                     </ul>
                                 </li>
 
@@ -82,6 +82,7 @@
                                         <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li>
                                         <li><a href="/it-infrastructure/dedicated-vps"><i class="bi bi-server text-dark icon-small me-10px"></i>Dedicated Server & VPS</a></li>
                                         <li><a href="/it-infrastructure/licensed-software"><i class="bi bi-file-earmark-code text-dark icon-small me-10px"></i>Licensed Software</a></li>
+										  <li><a href="/it-infrastructure/motadata"><i class="bi bi-graph-up text-dark icon-small me-10px"></i>MotaData</a></li>
                                     </ul>
                                 </li>
                             </ul>
