@@ -40,8 +40,7 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Firewall</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Network Traffic Filtering & Control</h3>
-                    <p class="w-95 md-w-100">Shield your network with advanced firewall security solutions that block unauthorized access, protect sensitive data, and ensure business continuity. In today’s cyber threat landscape, firewalls are your first and most critical line of defense.
-                    </p>
+                    <p class="w-95 md-w-100">Our firewall services secure your network by controlling traffic and blocking unauthorized access. With smart filtering and real-time protection, we keep your systems safe and adaptable. Backed by 15+ years of experience, we help your business stay secure and ahead of threats. </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                         <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
                             <div class="feature-box-icon me-15px">
@@ -73,7 +72,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Sophos</div>
-                                <span>Quis autem velo eum iure suam nihil molestiae.</span>
+                                <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -81,8 +80,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall/sophos.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Sophos</span>
-                                <p>Quis autem velo eum iure suam nihil molestiae.</p>
+                               </br></br></br></br></br></br>
                                 <a href="https://www.sophos.com/en-us/products/next-gen-firewall" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -98,7 +96,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Fortinet</div>
-                                <span>Quis autem velo eum iure suam nihil molestiae.</span>
+                                <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -106,8 +104,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall/fortinet.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Fortinet</span>
-                                <p>Quis autem velo eum iure suam nihil molestiae.</p>
+                               </br></br></br></br></br></br>
                                 <a href="https://www.fortinet.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
 
@@ -128,7 +125,7 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">Real-Time Traffic Monitoring</span>
+                                                        <span class="text-dark-gray fw-500">Blocks Unauthorized Access</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -140,7 +137,7 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">Deep Packet Inspection (DPI)</span>
+                                                        <span class="text-dark-gray fw-500">Monitors Network Traffic</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -152,7 +149,8 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">	Intrusion Prevention Systems (IPS)</span>
+                                                        <span class="text-dark-gray fw-500">Protects Against Hackers and Malware
+</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -164,7 +162,7 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">Application Control & URL Filtering</span>
+                                                        <span class="text-dark-gray fw-500">Enhances Privacy and Data Security</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -176,7 +174,7 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">Zero Trust Network Architecture</span>
+                                                        <span class="text-dark-gray fw-500">Supports Compliance with Security Standards</span>
                                                     </div>
                                                 </div>
                                             </div>

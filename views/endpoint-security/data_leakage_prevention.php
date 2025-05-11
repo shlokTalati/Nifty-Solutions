@@ -82,9 +82,8 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/dlp/safetica.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Safetica </span>
-                                <p>text to be given by Manav / Shlok</p>
-                                <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                </br></br></br></br></br></br>
+                                <a href="#" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -107,9 +106,8 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/dlp/escan.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">eScan</span>
-                                <p>text to be given by Manav / Shlok</p>
-                                <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                </br></br></br></br></br></br>
+                                <a href="#" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -137,7 +135,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Real-Time Threat Detection</span>
+                                            <span class="text-dark-gray fw-500">111111111111111</span>
                                         </div>
                                     </div>
                                 </div>
@@ -149,7 +147,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Data Protection</span>
+                                            <span class="text-dark-gray fw-500">2222222222222222222</span>
                                         </div>
                                     </div>
                                 </div>
@@ -161,7 +159,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">System Performance Optimization</span>
+                                            <span class="text-dark-gray fw-500">333333333333333333</span>
                                         </div>
                                     </div>
                                 </div>
@@ -173,23 +171,12 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Safe Online Browsing and Banking</span>
+                                            <span class="text-dark-gray fw-500">4444444444444444</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Peace of Mind and Cost Saving</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
+                               
                             </div>
                             <div class="col-lg-6 offset-xl-1 position-relative z-index-1" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <div class="atropos" data-atropos data-atropos-perspective="2450">

@@ -73,7 +73,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">eScan</div>
-                                <span>Quis autem velo eum iure suam nihil molestiae.</span>
+                                <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -81,8 +81,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/escan.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">eScan</span>
-                                <p>Quis autem velo eum iure suam nihil molestiae.</p>
+                             </br></br></br></br></br></br>
                                 <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -98,7 +97,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BitDefender</div>
-                                <span>Quis autem velo eum iure suam nihil molestiae.</span>
+                                <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -106,8 +105,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/bitdefender.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">BitDefender</span>
-                                <p>Quis autem velo eum iure suam nihil molestiae.</p>
+                               </br></br></br></br></br></br>
                                 <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -123,7 +121,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Sophos</div>
-                                <span>Quis autem velo eum iure suam nihil molestiae.</span>
+                                <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -131,8 +129,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/sophos.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Sophos</span>
-                                <p>Quis autem velo eum iure suam nihil molestiae.</p>
+                                    </br></br></br></br></br></br>
                                 <a href="https://www.sophos.com/en-us/products/endpoint-antivirus" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -400,9 +397,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> BitDefender Antivirus</a>
-                                            <p>Stay Safe with the Most Consistently Top-Rated
-                                                Antivirus of the Last 10 Years (and Counting)
-                                                Pick the perfect plan for your needs.</p>
+                                            <p>text to be given by Manav / Shlok</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -427,7 +422,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">eScan Antivirus</a>
-                                            <p>Protect your computer from harmful viruses and ensure efficient performance with eScan Anti-Virus for Windows. It provides real-time protection to computers from objectionable content and cyber threats, such as Ransomware, Spyware, Adware, Keyloggers, Rootkits, Botnets, and Phishing. </p>
+                                            <p>text to be given by Manav / Shlok </p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -452,7 +447,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Sophos Antivirus</a>
-                                            <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            <p>text to be given by Manav / Shlok</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
