@@ -73,7 +73,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">eScan</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>eScan provides comprehensive antivirus protection with centralized management, USB control, and application blocking to secure your business endpoints.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -97,7 +97,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BitDefender</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>Bitdefender offers advanced threat prevention and risk management through its GravityZone platform, combining machine learning and behavioral analysis.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -121,7 +121,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Sophos</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>Sophos delivers AI-driven antivirus solutions with real-time threat detection and simplified management for robust endpoint security.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -362,19 +362,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
+
                     </div>
                 </section>
                 <!-- end section -->
@@ -397,7 +385,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> BitDefender Antivirus</a>
-                                            <p>text to be given by Manav / Shlok</p>
+                                            <p>Bitdefender’s GravityZone provides effective threat prevention, automated remediation, and attack forensics, delivering top-level security without added complexity.</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -422,7 +410,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">eScan Antivirus</a>
-                                            <p>text to be given by Manav / Shlok </p>
+                                            <p>eScan is a globally trusted provider of advanced cybersecurity solutions since 1993. It offers an all-in-one defense suite for businesses and individuals, covering antivirus, anti-ransomware, content security, and network intrusion prevention.</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -447,7 +435,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Sophos Antivirus</a>
-                                            <p>text to be given by Manav / Shlok</p>
+                                            <p>Sophos Intercept X Advanced utilizes AI for detecting malware, employing behavioral analysis and file recovery to protect against ransomware, ensuring comprehensive endpoint security.</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">

@@ -72,7 +72,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Sophos</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>Sophos Firewall protects your network with AI-based threat detection and secure VPN features — simple, fast, and effective.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -96,7 +96,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Fortinet</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>Fortinet FortiGate offers high-speed firewall security with built-in SD-WAN and real-time threat protection.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -325,19 +325,6 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                                   
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="row align-items-center text-center text-md-start mt-6">
-                                        <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                            <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                                        </div>
-                                        <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                            <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                                <span>
-                                                    <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                                    <span><i class="feather icon-feather-mail"></i></span>
-                                                </span>
-                                            </a>
                                         </div>
                                     </div>
                                 </div>

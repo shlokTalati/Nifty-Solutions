@@ -240,7 +240,20 @@
                                             </div>
                                             <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p> text to be given by Manav / Shlok
+                                                    <p> <b>MailVault - Centralized Email Archiving Solution</b><br><br>
+
+At Nifty Solutions, we are proud to be an authorized partner of MailVault, a robust and secure email archiving solution designed for organizations of all sizes. MailVault ensures that your organization's email communications are safely backed up, searchable, and compliant, with flexible deployment options.<br><br>
+
+<b>Key Features of MailVault:</b><br><br>
+
+<ul>
+  <li><b>Centralized Email Archiving:</b> Supports all standard email platforms, including Linux, Windows, Google Workspace (Gmail), Microsoft 365, Zimbra, Exchange, Rediff PRO, VPOP3, and more - whether deployed on-premise or in the cloud.</li>
+  <li><b>Flexible Storage Options:</b> Archive can be stored locally or on the cloud, depending on your IT strategy and compliance requirements.</li>
+  <li><b>Comprehensive Email Capture:</b> Archives incoming, outgoing, and internal emails across multiple domains in your organization.</li>
+  <li><b>Email Deduplication:</b> Uses single-instance storage to eliminate duplicate emails and optimize storage space.</li>
+  <li><b>Advanced Security:</b> Protects your data with military-grade encryption, ensuring your archived emails remain confidential and tamper-proof.</li>
+</ul>
+
 
                                                 </div>
                                             </div>
@@ -257,7 +270,35 @@
                                             </div>
                                             <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok
+                                                    <p class="w-90 sm-w-95 xs-w-100"><b>MailStore Server � The Standard in Email Archiving</b><br><br>
+
+Nifty Solutions is an authorized partner for MailStore Server, a globally trusted solution for centralized and tamper-proof email archiving. In use by tens of thousands of organizations worldwide, MailStore Server offers unmatched reliability, security, and compliance readiness for businesses of all sizes.<br><br>
+
+<b>? Why Choose MailStore Server?</b><br><br>
+
+<ul>
+  <li><b>Supports All Major Email Systems:</b> Compatible with Microsoft Exchange, Microsoft 365, Google Workspace, Linux/Windows mail servers, Zimbra, RediffPro, VPOP3, IceWarp and more.</li>
+  <li><b>Flexible Deployment:</b> Archive emails from on-premise or cloud-based servers without modifying your existing email infrastructure.</li>
+  <li><b>Comprehensive Archiving:</b> Archives internal, incoming, and outgoing emails with multi-domain support and journaling for complete coverage.</li>
+  <li><b>PST & Email File Archiving:</b> Centrally archive PST, EML files, public/shared mailboxes, and mail clients like Outlook and Thunderbird.</li>
+  <li><b>Powerful Search & Access:</b> Fast full-text search of emails and attachments with seamless access via Outlook add-in, Web, IMAP, or MailStore Client.</li>
+  <li><b>Efficient Storage:</b> Built-in de-duplication and compression reduce storage needs by up to 70%.</li>
+  <li><b>Tamper-Proof Security:</b> Uses SHA hashing and AES-256 encryption to secure email content and prevent data tampering.</li>
+  <li><b>eDiscovery & Legal Compliance:</b> Enables auditor access, legal hold, and retention policies to meet GDPR, eDiscovery, and other regulatory needs.</li>
+  <li><b>No External Database Required:</b> MailStore's integrated storage eliminates the need for SQL Server (optional use supported).</li>
+  <li><b>Independence & Portability:</b> Emails are stored in standard formats and can be exported at any time � ensuring vendor independence.</li>
+</ul><br>
+
+<b>Key Business Benefits:</b><br><br>
+
+<ul>
+  <li>Reduce email server load and backup complexity</li>
+  <li>Ensure fast disaster recovery and business continuity</li>
+  <li>Eliminate mailbox quotas and PST management headaches</li>
+  <li>Protect valuable communication records from accidental or intentional deletion</li>
+  <li>Gain peace of mind with a tamper-proof, legally compliant email archive</li>
+</ul>
+
  
                                                     </p>
                                                 </div>
@@ -267,19 +308,6 @@
                                        
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>

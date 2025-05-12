@@ -1,5 +1,5 @@
     <!-- start page title -->
-    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/about-inner.png');">
+    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/databackup/databackup-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -29,7 +29,7 @@
             <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
-                        <img src="/public/images/home-about1.png" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <img src="/public/images/databackup/databackup1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
                             <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
@@ -79,12 +79,11 @@
                         </div>
                         <!-- end front side -->
                         <!-- start back side -->
-                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/email-security/spam-expert.jpg')">
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/databackup/iperius.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Iperius</span>
-                                <p>text to be given by Manav / Shlok</p>
-                                <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                </br></br></br></br></br></br></br>
+                                <a href="#" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -104,11 +103,10 @@
                         </div>
                         <!-- end front side -->
                         <!-- start back side -->
-                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/email-security/rmail.jpg')">
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/databackup/nova.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Novabackup</span>
-                                <p>text to be given by Manav / Shlok</p>
+                                </br></br></br></br></br></br></br>
                                 <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -185,7 +183,7 @@
                                     <div class="atropos-scale">
                                         <div class="atropos-rotate">
                                             <div class="atropos-inner">
-                                                <img src="/public/images/dlp/dlp-draw.jpg" alt="" class="border-radius-6px w-100" />
+                                                <img src="/public/images/databackup/databackup-draw.jpg" alt="" class="border-radius-6px w-100" />
                                             </div>
                                         </div>
                                     </div>
@@ -225,7 +223,7 @@
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dlp-icon.png" alt=""></div>
+                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/databackup/databackup-icon.png" alt=""></div>
                                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Data Backup Software</span>
                                     <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                     <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
@@ -240,7 +238,23 @@
                                             </div>
                                             <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p> text to be given by Manav / Shlok
+                                                    <p> <b>Iperius Backup - Automated Data Backup & Recovery Solution</b><br><br>
+
+We at Nifty Solutions proudly serve as the <strong>National Distributor</strong> of <a href="https://www.iperiusbackup.com/"><strong>Iperius Backup</strong></a> a comprehensive and automated data backup & recovery solution for Windows systems and servers. Developed by Enter Srl, Italy (since 1997), Iperius Backup ensures secure, efficient, and scalable data protection for businesses of all sizes.<br><br>
+
+<b>Key Features & Benefits:</b><br><br>
+
+<ul>
+  <li><b>Automated Backup Scheduling:</b> Set predefined backup schedules with email notifications.</li>
+  <li><b>Multiple Backup Types:</b> Full, Incremental, and Differential backups to NAS, Network Drives, Tape LTO, FTP, and Cloud.</li>
+  <li><b>Advanced Retention Policies:</b> Retain backups as per your requirements and automatically delete old backups to optimize storage.</li>
+  <li><b>Cloud Backup & Storage:</b> Backup to Amazon S3, Google Drive, OneDrive, Wasabi, FTP, and more.</li>
+  <li><b>Microsoft Office 365 Backup:</b> Secure backups of OneDrive, Exchange, SharePoint, and Teams.</li>
+  <li><b>Full System Backup & Disaster Recovery:</b> Complete system imaging for workstations and servers.</li>
+  <li><b>Live Database Backup:</b> Backup critical databases like SQL Server, SQL Express, MySQL, and Oracle.</li>
+  <li><b>Hyper-V & VMware Backup & Replication:</b> Supports Incremental Hyper-V (RCT) and VMware (CBT) backups, ESXi, vCenter, and even replication between ESXi Free hosts with full or file-level recovery.</li>
+</ul>
+
 
                                                 </div>
                                             </div>
@@ -257,7 +271,24 @@
                                             </div>
                                             <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok
+                                                    <p class="w-90 sm-w-95 xs-w-100"><b>NovaBACKUP - Automated Data Backup Solution</b><br><br>
+
+We are proud to be the exclusive National Distributor of NovaBACKUP - a powerful, automated data backup solution developed in Germany and the USA, designed to meet the backup needs of businesses of all sizes and complexities.<br><br>
+
+<b>Key Features and Capabilities:</b><br><br>
+
+<ul>
+  <li><b>Universal Compatibility:</b> Backs up to any storage device - local drives, NAS, tape, external disks, network computers, and leading cloud platforms.</li>
+  <li><b>Supports Live Database Backups:</b> Seamless backup of MS SQL Server, MS Exchange, and other live applications without downtime.</li>
+  <li><b>Virtualization Support:</b> Effortlessly protects unlimited virtual machines running on Microsoft Hyper-V and VMware hosts.</li>
+  <li><b>Scheduled Automatic Backups:</b> Set and forget - backup tasks run as per schedule with automated email notifications for status reports.</li>
+  <li><b>Flexible Backup Types:</b> Choose from full, incremental, and differential backups depending on your data protection strategy.</li>
+  <li><b>Disaster Recovery with Disk Imaging:</b> In case of system failure, restore entire systems (OS, apps, and data) to the same or different hardware using disk imaging. Restore entire systems to new hardware in case of catastrophic failures.</li>
+  <li><b>Open File Backup:</b> Backs up files even while they are in use - ensuring no interruption or missed files.</li>
+  <li><b>Encryption & Compression:</b> Utilizes AES 128-bit to 256-bit encryption and compresses backups to save storage space.</li>
+  <li><b>Scalable for All Business Sizes:</b> Whether you are a small office or an enterprise, NovaBACKUP adapts to your volume, infrastructure, and operational needs.</li>
+</ul>
+
  
                                                     </p>
                                                 </div>
@@ -267,19 +298,6 @@
                                        
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>

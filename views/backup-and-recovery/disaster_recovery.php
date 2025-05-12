@@ -232,19 +232,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
+                 
                     </div>
                 </section>
                 <!-- end section -->

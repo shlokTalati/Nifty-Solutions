@@ -93,25 +93,25 @@
                     </div>
                     <div class="col-lg-6 offset-xl-1 md-mb-50px sm-mb-0" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         <h3 class="text-dark-gray ls-minus-2px fw-700">Looking for any help?</h3>
-                        <form action="email-templates/contact-form.php" method="post" class="contact-form-style-03">
-                            <label for="exampleInputEmail1" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your name*</label>
+                        <form action="/sendmail" method="post" class="contact-form-style-03">
+                            <label for="name" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your name*</label>
                             <div class="position-relative form-group mb-20px">
-                                <span class="form-icon"><i class="bi bi-emoji-smile text-dark-gray"></i></span>
-                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="exampleInputEmail1" type="text" name="name" placeholder="What's your good name" />
+                                <span class="form-icon"><i class="bi bi-type text-dark-gray"></i></span>
+                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="name" type="text" name="name" placeholder="What's your good name" required/>
                             </div>
-							 <label for="exampleInputEmail1" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your mobile no.*</label>
+							 <label for="mobile" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your mobile no.*</label>
                             <div class="position-relative form-group mb-20px">
-                                <span class="form-icon"><i class="bi bi-emoji-smile text-dark-gray"></i></span>
-                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="exampleInputEmail1" type="text" name="name" placeholder="Enter your mobile number" />
+                                <span class="form-icon"><i class="bi bi-sim text-dark-gray"></i></i></span>
+                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="mobile" type="number" name="mobile" placeholder="Enter your mobile number" required/>
                             </div>
-                            <label for="exampleInputEmail1" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Email address*</label>
+                            <label for="email" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Email address*</label>
                             <div class="position-relative form-group mb-20px">
                                 <span class="form-icon"><i class="bi bi-envelope text-dark-gray"></i></span>
-                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="exampleInputEmail2" type="email" name="email" placeholder="Enter your email address" />
+                                <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control required" id="email" type="email" name="email" placeholder="Enter your email address" required/>
                             </div>
-                            <label for="exampleInputEmail1" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Your message</label>
+                            <label for="message" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Your message</label>
                             <div class="position-relative form-group form-textarea mb-0"> 
-                                <textarea class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control" name="comment" placeholder="Describe about your project" rows="3"></textarea>
+                                <textarea class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control" name="message" placeholder="Describe about your project" rows="3" id="message" required></textarea>
                                 <span class="form-icon"><i class="bi bi-chat-square-dots text-dark-gray"></i></span>
                             </div>
                             <div class="row mt-25px align-items-center">

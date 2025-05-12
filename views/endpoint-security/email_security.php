@@ -1,5 +1,5 @@
     <!-- start page title -->
-    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/about-inner.png');">
+    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/email-security/email-security-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -9,7 +9,7 @@
                         values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
                             M 0 250 C 400 50 400 400 3000 250 L 3000 550 L 0 550 L 0 250;
                             M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250"
-                        repeatCount="indefinite" />
+                        repeatCount="indefinite" 
                 </path>
             </svg>
         </div>
@@ -29,7 +29,7 @@
             <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
-                        <img src="/public/images/home-about1.png" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <img src="/public/images/email-security/email-security1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
                             <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
@@ -40,7 +40,7 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Email Security</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Spam Filtering, Phishing Protection</h3>
-                    <p class="w-95 md-w-100">text to be given by Manav / Shlok
+                    <p class="w-95 md-w-100">Our Email Security solutions are designed to protect your organization’s communication channels from threats like phishing, malware, and unauthorized data access.
                     </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                         <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
@@ -74,7 +74,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> Spam Expert</div>
-                                <span>text to be given by Manav / Shlok.</span>
+                                <span>SpamExperts offers advanced inbound and outbound email filtering, blocking spam, phishing, and malware before they reach your mailbox.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -98,7 +98,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Rmail</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>RMail secures your outbound communication with encryption, e-signatures, and proof-of-delivery, ensuring your messages are tamper-proof and compliant.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -135,7 +135,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">1111111111111111</span>
+                                            <span class="text-dark-gray fw-500">Blocks Spam & Phishing</span>
                                         </div>
                                     </div>
                                 </div>
@@ -147,7 +147,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">2222222222222222</span>
+                                            <span class="text-dark-gray fw-500">Encrypted Outbound Mail</span>
                                         </div>
                                     </div>
                                 </div>
@@ -159,19 +159,43 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">33333333333333</span>
+                                            <span class="text-dark-gray fw-500">Proof-of-Delivery</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
                                 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">44444444444444444</span>
+                                            <span class="text-dark-gray fw-500">Protects Brand Reputation</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Improves Employee Safety</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">No Hardware Needed</span>
                                         </div>
                                     </div>
                                 </div>
@@ -183,7 +207,7 @@
                                     <div class="atropos-scale">
                                         <div class="atropos-rotate">
                                             <div class="atropos-inner">
-                                                <img src="/public/images/dlp/dlp-draw.jpg" alt="" class="border-radius-6px w-100" />
+                                                <img src="/public/images/email-security/email-security-draw.jpg" alt="" class="border-radius-6px w-100" />
                                             </div>
                                         </div>
                                     </div>
@@ -223,63 +247,137 @@
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dlp-icon.png" alt=""></div>
+                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/email-security/email-security-icon.png" alt=""></div>
                                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Email Security</span>
                                     <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                     <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
-                                        <!-- start accordion item -->
-                                        <div class="accordion-item">
-                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Spam Expert</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p> text to be given by Manav / Shlok
+                                                    <!-- start accordion item -->
+                                                    <div class="accordion-item">
+                                                        <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                                <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Spam Experts</span>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                        <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                                <p>The Spam Experts Incoming Email Filter (by SolarWinds) is an enterprise-grade email security gateway solution designed primarily for web hosts protect.<br />
+A email security solution designed to protect from a wide range of inbound threats, including spam, viruses, phishing, malware, and ransomware before they reach client mail servers. Utilizing proprietary, predictive, self-learning technology, the system analyzes millions of emails daily to detect and block threats before they reach your network.<br />
 
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end accordion item -->
-                                        <!-- start accordion item -->
-                                        <div class="accordion-item">
-                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Rmail</span>
+<strong>Key Benefits</strong><br />
+First-Level Email Defense: Filters emails before they reach your infrastructure using DNS-based MX record redirection.<br />
+Nearly 100% Accuracy: Advanced filtering algorithms and spam pattern detection ensure only legitimate emails reach the inbox.<br />
+Cost Efficiency: Saves resources and reduces spam-related IT costs with affordable licensing.<br />
+Flexible Deployment: Can be hosted in the cloud or deployed on-premises.<br />
+<br />
+<strong>Main Features</strong><br />
+<strong>Email Filtering</strong><br />
+Advanced anti-spam & anti-virus scanning.<br />
+SPF, DKIM, DMARC verification.<br />
+Extension blocking and email size management.<br />
+Sender/recipient allow/deny lists.<br />
+<strong>Quarantine Management</strong><br />
+Web and IMAP-based quarantine access.<br />
+iOS & Android apps for management.<br />
+Auto-expiry and manual release of messages.<br />
+Blacklist/whitelist management.<br />
+<strong>Web Interface & Security</strong><br />
+Multilingual, brandable UI with access control (admin to user level).<br />
+LDAP, OAuth2, OpenID Connect authentication.<br />
+Optional 2FA and HTTPS with free certificate generation.<br />
+<strong>Email Continuity</strong><br />
+Queues and stores emails during downtime.<br />
+Users can view, reply, or compose emails even when the mail server is offline.<br /><br />
+
+The Spam Experts Outgoing Email Filter (by SolarWinds) is a security-focused, gateway-based solution designed to prevent outbound spam, malware, and IP reputation issues helping web hosts, ISPs, and organizations protect their networks and maintain deliverability.<br />
+<strong>Key Purpose</strong><br />
+To detect and block compromised accounts, scripts, or infected systems from sending out spam or malware, thus:<br />
+Preserving your IP reputation<br />
+Maintaining email continuity<br />
+Preventing blacklisting<br /><br />
+
+<strong>How It Works</strong><br />
+Activated via web interface or API<br />
+Configured using Smart Host routing or direct SMTP authentication<br />
+All outbound email is routed through the filter<br />
+Malicious or suspicious messages are quarantined<br />
+Admins can lock compromised accounts automatically or manually<br />
+<strong>Security & Filtering Technologies</strong><br />
+SMTP-level and data-level filtering<br />
+SSL/TLS encryption<br />
+Attachment restrictions<br />
+Brute-force protection and auditing<br />
+<strong>Deployment & Integration</strong><br />
+Cloud or on-premises
+<br />
+
+                                                            </div>
+                                                        </div>
                                                     </div>
-                                                </a>
-                                            </div>
-                                            <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok
- 
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end accordion item -->
+                                                    <!-- end accordion item -->
+                                                    <!-- start accordion item -->
+                                                    <div class="accordion-item">
+                                                        <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                                <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Rmail</span>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                        <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                                <p class="w-90 sm-w-95 xs-w-100">RMail is product from rPost.com. It is providing AI base email security solution since 2000. Having Head Quarter and R&D centre based at California, USA. More than 25Million customer and partners in more then 190+ countries. RMail add-in to Microsoft 365 Outlook not only includes dynamically adapting email encryption, but also protection against sophisticated BEC and email impostor threats with in-the-moment automated e-security training, wire fraud protection, and real-time recipient and domain address verification in addition to many other AI-infused protections for common human e-security errors. RMail includes everything from privacy to compliance to workplace acceleration tools to track, prove, e-sign, encrypt, share, certify, and control email and document content-all-in-one.</br></br>
+<strong>Features</strong></br>
+
+<strong>Registered Email Track & Prove -</strong> Marked	Send important emails marked with banner and know precisely when they're delivered and opened, without causing disputes over "who said what when."</br>
+
+<strong>Registered Email Track & Prove</strong> - Unmarked	Send important emails without any marking or banner and not letting the recipients know of the email being tracked</br>                                                           
+<strong>Transmission Encryption	</strong>
+Transmit the email securely to the recipient mail server and delivered to the recipient's mailbox without requiring the recipient to enter a password to view the message and any attachment.</br>
+
+<strong>Message Level Encryption</strong>	Easily encrypt sensitive emails and attachments for security or legal compliance. The password email for decryption is sent in a separate email</br>
+
+<strong>Electronic Signature</strong>	Accelerate legally-binding e-signoff on documents and agreements making it easy for all parties to e-sign and complete a transaction.</br>
+
+<strong>Large Mail</strong>	Break free of file size limits when sending email attachments. LargeMail file transfer lets you send files up to 1GB using your email compose window.</br>
+
+<strong>SideNote</strong>	
+Append a yellow private note at the tip of your email message that is only visible to Cc'd or Bcc'd recipients</br>
+
+<strong>Convert to PDF</strong>	Convert any Word, Excel, or PowerPoint file attachments to PDF format, giving your recipients easy accessto document attachments whether they have Microsoft.</br>
+
+<strong>Clean Metadata</strong>	Document</br>
+
+<strong>Zip Compress Attachments</strong>	Compress attachments en-route to reduce the file size of the attachment(s) the recipient receives in their inbox.</br>
+
+<strong>Register Reply</strong>	Receive proof of content and time for any replies to your message</br>
+
+<strong>Client Code</strong>	Input a custom reference number</br>
+
+<strong>Digital Seal</strong>	Recipient can authenticate the sender, transmission time stamp, and the attachments/context of the message.</br>
+
+
+<strong>Digital Seal RPost Ink</strong>	Recipient can authenticate the sender, transmission time, and also the PDF attachments using the time stamp</br>
+
+
+<strong>Disappearing Ink</strong>	Add a private note available based on the number of views, time, and/or time per view, that is only visible to the To, Cc and/or Bcc recipients</br>
+
+
+<strong>Redacted</strong>	Tag selected sensitive content of an email to be removed from the recipient's reply (or reply-all) capability</br>
+
+
+  </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- end accordion item -->
                                        
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
-                            </div>
-                        </div>
+
                     </div>
                 </section>
                 <!-- end section -->
@@ -302,7 +400,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Spam Expert</a>
-                                            <p>text to be given by Manav/ Shlok</p>
+                                            <p>SpamExperts provides 99.98% spam detection accuracy, customizable policies, and threat analysis dashboards to protect your domain reputation.</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -327,7 +425,7 @@
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Rmail</a>
-                                            <p>text to be given by Manav/ Shlok </p>
+                                            <p>RMail enables secure and verifiable email delivery with built-in audit trails, reducing risk and legal exposure in sensitive communications.</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">

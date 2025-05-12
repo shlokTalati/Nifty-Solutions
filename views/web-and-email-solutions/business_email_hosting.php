@@ -55,8 +55,8 @@
             </div>
     </section>
     <!-- end section -->
-	
-	    <!-- start section -->
+
+    <!-- start section -->
     <section class="bg-very-light-gray">
         <div class="container">
             <div class="row justify-content-center mb-3">
@@ -82,7 +82,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/business-email/office365.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                             </br></br></br></br></br></br>
+                                </br></br></br></br></br></br>
                                 <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -106,7 +106,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/business-email/gsuite.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                               </br></br></br></br></br></br>
+                                </br></br></br></br></br></br>
                                 <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -130,11 +130,35 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/business-email/linux.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                    </br></br></br></br></br></br>
+                                </br></br></br></br></br></br>
                                 <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
-							
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col rotate-box-style-02 lg-mb-30px">
+                    <div class="w-100 min-h-300px text-center rotate-box to-left">
+                        <!-- start front side -->
+                        <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
+                            <div class="rotate-content-front z-index-2 p-30px">
+                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Linux</div>
+                                <span>text to be given by Manav / Shlok</span>
+                            </div>
+                        </div>
+                        <!-- end front side -->
+                        <!-- start back side -->
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/business-email/linux.jpg')">
+                            <div class="opacity-light bg-charcoal-blue"></div>
+                            <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
+                                </br></br></br></br></br></br>
+                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                            </div>
+                            <!-- end back side -->
+
                         </div>
                     </div>
                 </div>
@@ -196,7 +220,7 @@
                                     </div>
                                 </div>
                                 <!-- end features box item -->
-								
+
                             </div>
                             <div class="col-lg-6 offset-xl-1 position-relative z-index-1" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <div class="atropos" data-atropos data-atropos-perspective="2450">
@@ -259,23 +283,23 @@
                                             <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                     <p> <br />
-<strong>Office 365 </strong>is a cloud-based subscription service By combining best-in-class online apps like Excel, word and Outlook. With powerful cloud services like OneDrive and Microsoft Teams, Office 365 lets anyone create and share anywhere on any device.
-Best for businesses that need business email and other business services. includes <br /><br />
- 	Email hosting with 50 GB mailbox and custom email domain address.<br />
- 	Web versions of Outlook, Word, Excel and PowerPoint.<br />
- 	File storage and sharing with 1 TB of OneDrive storage.<br />
- 	Company-wide intranet and team sites with SharePoint.<br />
- 	Microsoft Team for Invite Online meetings with chat, call, video conferencing with screen sharing for presentation.
+                                                        <strong>Office 365 </strong>is a cloud-based subscription service By combining best-in-class online apps like Excel, word and Outlook. With powerful cloud services like OneDrive and Microsoft Teams, Office 365 lets anyone create and share anywhere on any device.
+                                                        Best for businesses that need business email and other business services. includes <br /><br />
+                                                        Email hosting with 50 GB mailbox and custom email domain address.<br />
+                                                        Web versions of Outlook, Word, Excel and PowerPoint.<br />
+                                                        File storage and sharing with 1 TB of OneDrive storage.<br />
+                                                        Company-wide intranet and team sites with SharePoint.<br />
+                                                        Microsoft Team for Invite Online meetings with chat, call, video conferencing with screen sharing for presentation.
 
-</br>
+                                                        </br>
 
 
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
-										
-                                                                              <!-- start accordion item -->
+
+                                        <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
@@ -287,15 +311,15 @@ Best for businesses that need business email and other business services. includ
                                             <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                     <p class="w-90 sm-w-95 xs-w-100">Branded Email from Google with Guaranteed 99.9+% up time and completed at a redundancy Gmail:</br>
- 	Work faster & Collaborate better</br>
- 	30GB of space per mailbox.</br>
- 	Spam filter ingand virus blocking.</br>
- 	Compatible with Microsoft outlook and other clients. </br>
- 	Hold HD video meetings through Hangouts with upto 25 people on your laptop, tabletor phone. You can share your screen, give presentations and chat as you work.</br>
- 	Drive: Store, sync and share files with ease: Save work files in Drive, access them from any device and share them instantly with teammates. No more sending attachments or merging different versions.</br>
- 	Keep files private, until you decide to share them. Grant permission to download, edit, comment or view, avoiding multiple versions and file merging.
-Sheets: Advanced, fast, online spreadsheets</br>
- 	Create spreadsheets in your browser - no dedicated software needed. Handle everything froms impletask lists to data analysis with charts, filters and pivot tables.</br>
+                                                        Work faster & Collaborate better</br>
+                                                        30GB of space per mailbox.</br>
+                                                        Spam filter ingand virus blocking.</br>
+                                                        Compatible with Microsoft outlook and other clients. </br>
+                                                        Hold HD video meetings through Hangouts with upto 25 people on your laptop, tabletor phone. You can share your screen, give presentations and chat as you work.</br>
+                                                        Drive: Store, sync and share files with ease: Save work files in Drive, access them from any device and share them instantly with teammates. No more sending attachments or merging different versions.</br>
+                                                        Keep files private, until you decide to share them. Grant permission to download, edit, comment or view, avoiding multiple versions and file merging.
+                                                        Sheets: Advanced, fast, online spreadsheets</br>
+                                                        Create spreadsheets in your browser - no dedicated software needed. Handle everything froms impletask lists to data analysis with charts, filters and pivot tables.</br>
 
 
                                                     </p>
@@ -303,51 +327,68 @@ Sheets: Advanced, fast, online spreadsheets</br>
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
+                                      
+                                        <!-- start accordion item -->
+                                        <div class="accordion-item">
+                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Google WorkSpace -Google BusinessS Email</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                    <p class="w-90 sm-w-95 xs-w-100">Branded Email from Google with Guaranteed 99.9+% up time and completed at a redundancy Gmail:</br>
+                                                        Work faster & Collaborate better</br>
+                                                        30GB of space per mailbox.</br>
+                                                        Spam filter ingand virus blocking.</br>
+                                                        Compatible with Microsoft outlook and other clients. </br>
+                                                        Hold HD video meetings through Hangouts with upto 25 people on your laptop, tabletor phone. You can share your screen, give presentations and chat as you work.</br>
+                                                        Drive: Store, sync and share files with ease: Save work files in Drive, access them from any device and share them instantly with teammates. No more sending attachments or merging different versions.</br>
+                                                        Keep files private, until you decide to share them. Grant permission to download, edit, comment or view, avoiding multiple versions and file merging.
+                                                        Sheets: Advanced, fast, online spreadsheets</br>
+                                                        Create spreadsheets in your browser - no dedicated software needed. Handle everything froms impletask lists to data analysis with charts, filters and pivot tables.</br>
+
+
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end accordion item -->
+                                      
                                         <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-04" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
                                                         <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Email on Linux Server (Unlimited Email IDs)</span>
                                                     </div>
                                                 </a>
                                             </div>
-                                            <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                            <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
                                                     <p class="w-90 sm-w-95 xs-w-100">We Nifty Solutions has our own dedicated server hosted in India with very high configuration. This give you very less latency compare to out of India hosted server. Less latency means your website gets open very fast and email delivery will be very fast. Our Linux hosting plans are a great option to host your email. With several layers of protection such as RBL spammer IP blocking, SPF verification, Domainkeys signing, configurable SpamAssassin, custom spam filters and virus protection with Clam Antivirus you can be in complete control of your mailboxes.</br></br>
-All our shared hosting Linux servers plans come with the extremely easy to use and very user friendly cPanel control panel. </br>
- 	Complete Website Hosting solution on Windows and Linux server with 99.9% uptime guarantee.</br>
- 	Provide control panel to create, modify and delete email accounts for complete email security.</br>
- 	Antispam on server to reduce SPAM email. Server allows creating rules by defining key word,
-phrase, email address etc. to stop such emails.</br>
- 	Create unlimited Email ID, FTPs, Sub Domains.</br>
- 	We can provide unique features of Outgoing Archiving of Email at hosting server for monitoring and backup purpose. </br>
- 	Webmail features allows to check email from anywhere using browser.</br>
- 	FREE SSL certificates for all websites hosted on our shared Linux servers </br>
+                                                        All our shared hosting Linux servers plans come with the extremely easy to use and very user friendly cPanel control panel. </br>
+                                                        Complete Website Hosting solution on Windows and Linux server with 99.9% uptime guarantee.</br>
+                                                        Provide control panel to create, modify and delete email accounts for complete email security.</br>
+                                                        Antispam on server to reduce SPAM email. Server allows creating rules by defining key word,
+                                                        phrase, email address etc. to stop such emails.</br>
+                                                        Create unlimited Email ID, FTPs, Sub Domains.</br>
+                                                        We can provide unique features of Outgoing Archiving of Email at hosting server for monitoring and backup purpose. </br>
+                                                        Webmail features allows to check email from anywhere using browser.</br>
+                                                        FREE SSL certificates for all websites hosted on our shared Linux servers </br>
 
- </br>
+                                                        </br>
 
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
-                                       
+
                                     </div>
                                 </div>
-                            </div>
-                        </div>
-                        <div class="row align-items-center text-center text-md-start mt-6">
-                            <div class="col sm-mb-20px" data-anime='{ "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <h4 class="text-dark-gray fw-700 ls-minus-1px m-0">Get a free personal business consultation?</h4>
-                            </div>
-                            <div class="col-12 col-md-auto" data-anime='{ "translateX": [30, 0], "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <a href="#" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-rounded btn-box-shadow ls-0px">
-                                    <span>
-                                        <span class="btn-double-text" data-text="Free consultation">Free consultation</span>
-                                        <span><i class="feather icon-feather-mail"></i></span>
-                                    </span>
-                                </a>
                             </div>
                         </div>
                     </div>
@@ -398,6 +439,31 @@ phrase, email address etc. to stop such emails.</br>
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">G Suite</a>
                                             <p>text to be given by Manav / Shlok </p>
+                                        </div>
+                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                <span>
+                                                    <span class="btn-text">Explore services</span>
+                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end services box style -->
+                            <!-- start services box style -->
+                            <div class="col">
+                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                    <div class="position-relative">
+                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/business-email-sophos.jpg" alt=""></a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Linux</a>
+                                    </div>
+                                    <div class="bg-white">
+                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Linux</a>
+                                            <p>G Suite</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
