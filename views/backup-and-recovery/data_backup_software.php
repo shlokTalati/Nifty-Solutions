@@ -55,7 +55,7 @@
             </div>
     </section>
     <!-- end section -->
-	
+
     <!-- start section -->
     <section class="bg-very-light-gray">
         <div class="container">
@@ -114,269 +114,269 @@
                     </div>
                 </div>
                 <!-- end rotate box item -->
-              
+
+            </div>
+        </div>
+        </div>
+
+
+
+        <!-- start section -->
+        <section>
+            <div class="container">
+                <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
+                    <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
+                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
+                        <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Data Backup Software</h3>
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span class="text-dark-gray fw-500">11111111111111111111</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span class="text-dark-gray fw-500">222222222222222222222</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span class="text-dark-gray fw-500">33333333333333333333333</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span class="text-dark-gray fw-500">444444444444444444444444444</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+
+                    </div>
+                    <div class="col-lg-6 offset-xl-1 position-relative z-index-1" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                        <div class="atropos" data-atropos data-atropos-perspective="2450">
+                            <div class="atropos-scale">
+                                <div class="atropos-rotate">
+                                    <div class="atropos-inner">
+                                        <img src="/public/images/databackup/databackup-draw.jpg" alt="" class="border-radius-6px w-100" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="absolute-middle-center text-white-space-nowrap z-index-9">
+                            <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU" class="btn btn-extra-large btn-white left-icon btn-box-shadow fw-600 btn-rounded popup-youtube ls-minus-05px"><i class="fa-brands fa-youtube icon-small"></i>How it works</a>
                         </div>
                     </div>
                 </div>
-
-
-
-                <!-- start section -->
-                <section>
-                    <div class="container">
-                        <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
-                            <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
-                                <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Data Backup Software</h3>
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                              
-                            </div>
-                            <div class="col-lg-6 offset-xl-1 position-relative z-index-1" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                <div class="atropos" data-atropos data-atropos-perspective="2450">
-                                    <div class="atropos-scale">
-                                        <div class="atropos-rotate">
-                                            <div class="atropos-inner">
-                                                <img src="/public/images/databackup/databackup-draw.jpg" alt="" class="border-radius-6px w-100" />
+                <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    <!-- start client item -->
+                    <div class="col client-box text-center md-mb-40px">
+                        <a href="#"><img src="../endpoint-security/images/logo-walmart-dark-blue.svg" alt=""></a>
+                    </div>
+                    <!-- end client item -->
+                    <!-- start client item -->
+                    <div class="col client-box text-center md-mb-40px">
+                        <a href="#"><img src="../endpoint-security/images/logo-netflix-dark-blue.svg" alt=""></a>
+                    </div>
+                    <!-- end client item -->
+                    <!-- start client item -->
+                    <div class="col client-box text-center md-mb-40px">
+                        <a href="#"><img src="../endpoint-security/images/logo-invision-dark-blue.svg" alt=""></a>
+                    </div>
+                    <!-- end client item -->
+                    <!-- start client item -->
+                    <div class="col client-box text-center sm-mb-40px">
+                        <a href="#"><img src="../endpoint-security/images/logo-yahoo-dark-blue.svg" alt=""></a>
+                    </div>
+                    <!-- end client item -->
+                    <!-- start client item -->
+                    <div class="col client-box text-center">
+                        <a href="#"><img src="../endpoint-security/images/logo-amazon-dark-blue.svg" alt=""></a>
+                    </div>
+                    <!-- end client item -->
+                </div>
+                <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    <div class="col-12">
+                        <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
+                            <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/databackup/databackup-icon.png" alt=""></div>
+                            <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Data Backup Software</span>
+                            <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
+                            <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
+                                <!-- start accordion item -->
+                                <div class="accordion-item">
+                                    <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                        <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                            <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Iperius</span>
                                             </div>
+                                        </a>
+                                    </div>
+                                    <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                        <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                            <p> <b>Iperius Backup - Automated Data Backup & Recovery Solution</b><br><br>
+
+                                                We at Nifty Solutions proudly serve as the <strong>National Distributor</strong> of <a href="https://www.iperiusbackup.com/"><strong>Iperius Backup</strong></a> a comprehensive and automated data backup & recovery solution for Windows systems and servers. Developed by Enter Srl, Italy (since 1997), Iperius Backup ensures secure, efficient, and scalable data protection for businesses of all sizes.<br><br>
+
+                                                <b>Key Features & Benefits:</b><br><br>
+
+                                            <ul>
+                                                <li><b>Automated Backup Scheduling:</b> Set predefined backup schedules with email notifications.</li>
+                                                <li><b>Multiple Backup Types:</b> Full, Incremental, and Differential backups to NAS, Network Drives, Tape LTO, FTP, and Cloud.</li>
+                                                <li><b>Advanced Retention Policies:</b> Retain backups as per your requirements and automatically delete old backups to optimize storage.</li>
+                                                <li><b>Cloud Backup & Storage:</b> Backup to Amazon S3, Google Drive, OneDrive, Wasabi, FTP, and more.</li>
+                                                <li><b>Microsoft Office 365 Backup:</b> Secure backups of OneDrive, Exchange, SharePoint, and Teams.</li>
+                                                <li><b>Full System Backup & Disaster Recovery:</b> Complete system imaging for workstations and servers.</li>
+                                                <li><b>Live Database Backup:</b> Backup critical databases like SQL Server, SQL Express, MySQL, and Oracle.</li>
+                                                <li><b>Hyper-V & VMware Backup & Replication:</b> Supports Incremental Hyper-V (RCT) and VMware (CBT) backups, ESXi, vCenter, and even replication between ESXi Free hosts with full or file-level recovery.</li>
+                                            </ul>
+
+
                                         </div>
                                     </div>
                                 </div>
-                                <div class="absolute-middle-center text-white-space-nowrap z-index-9">
-                                    <a href="https://www.youtube.com/watch?v=cfXHhfNy7tU" class="btn btn-extra-large btn-white left-icon btn-box-shadow fw-600 btn-rounded popup-youtube ls-minus-05px"><i class="fa-brands fa-youtube icon-small"></i>How it works</a>
+                                <!-- end accordion item -->
+                                <!-- start accordion item -->
+                                <div class="accordion-item">
+                                    <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                        <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                            <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Novabackup</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                        <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                            <p class="w-90 sm-w-95 xs-w-100"><b>NovaBACKUP - Automated Data Backup Solution</b><br><br>
+
+                                                We are proud to be the exclusive National Distributor of NovaBACKUP - a powerful, automated data backup solution developed in Germany and the USA, designed to meet the backup needs of businesses of all sizes and complexities.<br><br>
+
+                                                <b>Key Features and Capabilities:</b><br><br>
+
+                                            <ul>
+                                                <li><b>Universal Compatibility:</b> Backs up to any storage device - local drives, NAS, tape, external disks, network computers, and leading cloud platforms.</li>
+                                                <li><b>Supports Live Database Backups:</b> Seamless backup of MS SQL Server, MS Exchange, and other live applications without downtime.</li>
+                                                <li><b>Virtualization Support:</b> Effortlessly protects unlimited virtual machines running on Microsoft Hyper-V and VMware hosts.</li>
+                                                <li><b>Scheduled Automatic Backups:</b> Set and forget - backup tasks run as per schedule with automated email notifications for status reports.</li>
+                                                <li><b>Flexible Backup Types:</b> Choose from full, incremental, and differential backups depending on your data protection strategy.</li>
+                                                <li><b>Disaster Recovery with Disk Imaging:</b> In case of system failure, restore entire systems (OS, apps, and data) to the same or different hardware using disk imaging. Restore entire systems to new hardware in case of catastrophic failures.</li>
+                                                <li><b>Open File Backup:</b> Backs up files even while they are in use - ensuring no interruption or missed files.</li>
+                                                <li><b>Encryption & Compression:</b> Utilizes AES 128-bit to 256-bit encryption and compresses backups to save storage space.</li>
+                                                <li><b>Scalable for All Business Sizes:</b> Whether you are a small office or an enterprise, NovaBACKUP adapts to your volume, infrastructure, and operational needs.</li>
+                                            </ul>
+
+
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
+                                <!-- end accordion item -->
+
                             </div>
                         </div>
-                        <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-walmart-dark-blue.svg" alt=""></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- end section -->
+        <!-- start section -->
+        <section class="bg-very-light-gray overlap-height position-relative">
+            <div class="container overlap-gap-section">
+                <div class="row justify-content-center mb-4">
+                    <div class="col-xl-7 col-lg-9 col-md-10 text-center">
+                        <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Products</h3>
+                    </div>
+                </div>
+                <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                    <!-- start services box style -->
+                    <div class="col md-mb-30px">
+                        <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                            <div class="position-relative">
+                                <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
+                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Iperius</a>
                             </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-netflix-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-invision-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center sm-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-yahoo-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center">
-                                <a href="#"><img src="../endpoint-security/images/logo-amazon-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                        </div>
-                        <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <div class="col-12">
-                                <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/databackup/databackup-icon.png" alt=""></div>
-                                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Data Backup Software</span>
-                                    <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
-                                    <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
-                                        <!-- start accordion item -->
-                                        <div class="accordion-item">
-                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Iperius</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p> <b>Iperius Backup - Automated Data Backup & Recovery Solution</b><br><br>
-
-We at Nifty Solutions proudly serve as the <strong>National Distributor</strong> of <a href="https://www.iperiusbackup.com/"><strong>Iperius Backup</strong></a> a comprehensive and automated data backup & recovery solution for Windows systems and servers. Developed by Enter Srl, Italy (since 1997), Iperius Backup ensures secure, efficient, and scalable data protection for businesses of all sizes.<br><br>
-
-<b>Key Features & Benefits:</b><br><br>
-
-<ul>
-  <li><b>Automated Backup Scheduling:</b> Set predefined backup schedules with email notifications.</li>
-  <li><b>Multiple Backup Types:</b> Full, Incremental, and Differential backups to NAS, Network Drives, Tape LTO, FTP, and Cloud.</li>
-  <li><b>Advanced Retention Policies:</b> Retain backups as per your requirements and automatically delete old backups to optimize storage.</li>
-  <li><b>Cloud Backup & Storage:</b> Backup to Amazon S3, Google Drive, OneDrive, Wasabi, FTP, and more.</li>
-  <li><b>Microsoft Office 365 Backup:</b> Secure backups of OneDrive, Exchange, SharePoint, and Teams.</li>
-  <li><b>Full System Backup & Disaster Recovery:</b> Complete system imaging for workstations and servers.</li>
-  <li><b>Live Database Backup:</b> Backup critical databases like SQL Server, SQL Express, MySQL, and Oracle.</li>
-  <li><b>Hyper-V & VMware Backup & Replication:</b> Supports Incremental Hyper-V (RCT) and VMware (CBT) backups, ESXi, vCenter, and even replication between ESXi Free hosts with full or file-level recovery.</li>
-</ul>
-
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end accordion item -->
-                                        <!-- start accordion item -->
-                                        <div class="accordion-item">
-                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Novabackup</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100"><b>NovaBACKUP - Automated Data Backup Solution</b><br><br>
-
-We are proud to be the exclusive National Distributor of NovaBACKUP - a powerful, automated data backup solution developed in Germany and the USA, designed to meet the backup needs of businesses of all sizes and complexities.<br><br>
-
-<b>Key Features and Capabilities:</b><br><br>
-
-<ul>
-  <li><b>Universal Compatibility:</b> Backs up to any storage device - local drives, NAS, tape, external disks, network computers, and leading cloud platforms.</li>
-  <li><b>Supports Live Database Backups:</b> Seamless backup of MS SQL Server, MS Exchange, and other live applications without downtime.</li>
-  <li><b>Virtualization Support:</b> Effortlessly protects unlimited virtual machines running on Microsoft Hyper-V and VMware hosts.</li>
-  <li><b>Scheduled Automatic Backups:</b> Set and forget - backup tasks run as per schedule with automated email notifications for status reports.</li>
-  <li><b>Flexible Backup Types:</b> Choose from full, incremental, and differential backups depending on your data protection strategy.</li>
-  <li><b>Disaster Recovery with Disk Imaging:</b> In case of system failure, restore entire systems (OS, apps, and data) to the same or different hardware using disk imaging. Restore entire systems to new hardware in case of catastrophic failures.</li>
-  <li><b>Open File Backup:</b> Backs up files even while they are in use - ensuring no interruption or missed files.</li>
-  <li><b>Encryption & Compression:</b> Utilizes AES 128-bit to 256-bit encryption and compresses backups to save storage space.</li>
-  <li><b>Scalable for All Business Sizes:</b> Whether you are a small office or an enterprise, NovaBACKUP adapts to your volume, infrastructure, and operational needs.</li>
-</ul>
-
- 
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- end accordion item -->
-                                       
-                                    </div>
+                            <div class="bg-white">
+                                <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                    <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Iperius</a>
+                                    <p>text to be given by Manav/ Shlok</p>
+                                </div>
+                                <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                    <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                        <span>
+                                            <span class="btn-text">Explore services</span>
+                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                        </span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </section>
-                <!-- end section -->
-                <!-- start section -->
-                <section class="bg-very-light-gray overlap-height position-relative">
-                    <div class="container overlap-gap-section">
-                        <div class="row justify-content-center mb-4">
-                            <div class="col-xl-7 col-lg-9 col-md-10 text-center">
-                                <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Products</h3>
+                    <!-- end services box style -->
+                    <!-- start services box style -->
+                    <div class="col md-mb-30px">
+                        <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                            <div class="position-relative">
+                                <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
+                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Novabackup</a>
                             </div>
-                        </div>
-                        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start services box style -->
-                            <div class="col md-mb-30px">
-                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Iperius</a>
-                                    </div>
-                                    <div class="bg-white">
-                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Iperius</a>
-                                            <p>text to be given by Manav/ Shlok</p>
-                                        </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
+                            <div class="bg-white">
+                                <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                    <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Novabackup</a>
+                                    <p>text to be given by Manav/ Shlok </p>
+                                </div>
+                                <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                    <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                        <span>
+                                            <span class="btn-text">Explore services</span>
+                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                        </span>
+                                    </a>
                                 </div>
                             </div>
-                            <!-- end services box style -->
-                            <!-- start services box style -->
-                            <div class="col md-mb-30px">
-                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Novabackup</a>
-                                    </div>
-                                    <div class="bg-white">
-                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Novabackup</a>
-                                            <p>text to be given by Manav/ Shlok </p>
-                                        </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end services box style -->
-                           
                         </div>
                     </div>
-                    <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
-                        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
-                            <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
-                                <animate
-                                    attributeName="d"
-                                    dur="5s"
-                                    values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
+                    <!-- end services box style -->
+
+                </div>
+            </div>
+            <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
+                <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+                    <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
+                        <animate
+                            attributeName="d"
+                            dur="5s"
+                            values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
                             M 0 250 C 400 50 400 400 3000 250 L 3000 550 L 0 550 L 0 250;
                             M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250"
-                                    repeatCount="indefinite" />
-                            </path>
-                        </svg>
-                    </div>
-                </section>
-                <!-- end section -->
+                            repeatCount="indefinite" />
+                    </path>
+                </svg>
+            </div>
+        </section>
+        <!-- end section -->

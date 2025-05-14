@@ -225,7 +225,7 @@
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dlp-icon.png" alt=""></div>
+                                    <div    class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dlp-icon.png" alt=""></div>
                                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Cloud Backup</span>
                                     <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                     <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
@@ -240,7 +240,58 @@
                                             </div>
                                             <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p> text to be given by Manav / Shlok
+                                                    <p> <p><strong>Acronis – Cloud Backup, Cyber Protection & Disaster Recovery</strong></p>
+<p>Nifty Solutions is an authorized partner of Acronis, a globally renowned technology leader in data protection and cyber security, with presence in over 150 countries and local data centres, including India.</p>
+
+<p><strong>🔐 Key Features of Acronis Cloud Backup</strong></p>
+
+<ol>
+  <li>
+    <strong>Comprehensive Data Protection</strong><br>
+    <ul>
+      <li><strong>Broad Platform Support:</strong> Protects 20+ workloads including Windows, macOS, Linux, VMware, Microsoft 365, Google Workspace, SQL, Oracle, and SAP HANA.</li>
+      <li><strong>Cloud-to-Cloud Backup:</strong> Backs up Microsoft 365 and Google Workspace — including email, Drive, OneDrive, Teams, etc.</li>
+      <li><strong>Flexible Backup Options:</strong> File-level, disk, image, and application backups with incremental and differential support.</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Advanced Security Measures</strong><br>
+    <ul>
+      <li><strong>Military-Grade Encryption:</strong> AES-256 encryption for data in transit and at rest.</li>
+      <li><strong>Ransomware Protection:</strong> AI-based detection and prevention of ransomware attacks.</li>
+      <li><strong>Blockchain-Based Notarization:</strong> Immutable proof of file integrity for compliance and trust.</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Efficient Recovery and Management</strong><br>
+    <ul>
+      <li><strong>Rapid Recovery Times:</strong> Restore systems in as little as 15 seconds.</li>
+      <li><strong>Centralized Management Console:</strong> Manage all backups from one easy-to-use dashboard.</li>
+      <li><strong>Continuous Data Protection (CDP):</strong> Real-time monitoring and backups for minimal data loss.</li>
+    </ul>
+  </li>
+
+  <li>
+    <strong>Scalable and Flexible Storage</strong><br>
+    <ul>
+      <li><strong>Multiple Backup Locations:</strong> Choose between Acronis Cloud, Azure, AWS, or local storage.</li>
+      <li><strong>Geo-Redundant Storage:</strong> Auto-replicates data to remote data centers for availability and compliance.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><strong>💼 Business Benefits</strong></p>
+<ul>
+  <li>Automated and scheduled backups ensure business continuity</li>
+  <li>Centralized monitoring and control via intuitive dashboard</li>
+  <li>Meet compliance requirements with secure backup policies</li>
+  <li>Cut downtime and restore costs with ultra-fast recovery</li>
+  <li>Data stays in India — faster access, full sovereignty</li>
+</ul>
+
+<p><a href="https://www.acronis.com/en-sg/lp/cloud/backup/?utm_source=google&utm_medium=cpc&utm_campaign=MF-X-X-Mixed-APJ-IndiaSouthAsia-EN-MQL-EndUserSEMb-Biz-G-PS&gad_source=1&gad_campaignid=11570945951&gbraid=0AAAAAD7eew9hHGVhgQyU_m8c3fFJXNLcx&gclid=Cj0KCQjwlYHBBhD9ARIsALRu09o1CHE_zh9gqhNXOm3uKJmBa4eLWovm0h5xq5BVng9B3pyFt-kEDa4aAsqZEALw_wcB" target="_blank"><strong>🔗 Learn more at the official Acronis site</strong></a></p>
 
                                                 </div>
                                             </div>

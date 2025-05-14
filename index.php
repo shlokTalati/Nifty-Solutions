@@ -61,13 +61,18 @@ if ($cleanPath === 'sitemap.xml') {
 if (array_key_exists($cleanPath, $routes)) {
     $viewFile = __DIR__ . '/views/' . $routes[$cleanPath];
     
-    
     if (file_exists($viewFile)) {
-        // require $viewFile;
+        // require $layoutFile;
         require('layout.php');
         exit;
     }
 }
 
 // 5. Show 404 if route or file not found
-require __DIR__ . '/views/404.php';
+    $viewFile = __DIR__ . '/views/404.php';
+    // require $layoutFile;
+    header("HTTP/1.0 404 Not Found");
+    require('layout.php');
+    exit;
+
+

@@ -26,13 +26,13 @@ $routes = [
     // ── Remote Work & Monitoring ────────────────────────────────
     'remote-work-and-monitoring/remote-access'     => 'remote-work-and-monitoring/remote_access_apps_and_desktop.php',
     'remote-work-and-monitoring/employee-monitoring'=> 'remote-work-and-monitoring/employee_monitoring.php',
-    'remote-work-and-monitoring/motadata'          => 'remote-work-and-monitoring/motadata.php',
 
     // ── IT Infra & Hosting ──────────────────────────────────────
     'it-infrastructure/hardware-network-amc'       => 'it-infrastructure/computer_hardware_and_network_amc_fms.php',
     'it-infrastructure/network-monitoring'         => 'it-infrastructure/network_monitoring_and_ticketing.php',
     'it-infrastructure/dedicated-vps'              => 'it-infrastructure/dedicated_server_and_vps.php',
     'it-infrastructure/licensed-software'          => 'it-infrastructure/licensed_software.php',
+    'it-infrastructure/motadata'          => 'it-infrastructure/motadata.php',
 
     // ── Other Pages ─────────────────────────────────────────────
     'about-us'     => 'about_us.php',
