@@ -17,7 +17,7 @@
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
-                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Network Attached Storage (NAS) </h1>
+                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Cloud Backup </h1>
                 </div>
             </div>
         </div>
@@ -38,10 +38,19 @@
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Network Attached Storage (NAS)</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Centralized Data Storage over the Network</h3>
-                    <p class="w-95 md-w-100">QNAP Systems, Inc. specializes in Network-Attached Storage (NAS) solutions designed for both home and business users. Their NAS devices offer centralized data storage, multimedia streaming, backup solutions, and more, all accessible through a user-friendly interface.
+                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Cloud Backup</span>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Encrypted off Site Backups</h3>
+                    <p class="w-95 md-w-100">text to be given by Manav / Shlok
                     </p>
+                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
+                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
+                            <div class="feature-box-icon me-15px">
+                                <i class="bi bi-people icon-very-medium text-base-color"></i>
+
+                            </div>
+                        </div>
+                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
+                    </div>
                 </div>
             </div>
     </section>
@@ -64,7 +73,7 @@
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
-                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> Synology</div>
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> Acronis</div>
                                 <span>text to be given by Manav / Shlok.</span>
                             </div>
                         </div>
@@ -73,7 +82,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/email-security/spam-expert.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Synology</span>
+                                <span class="text-white alt-font fw-500 fs-19 mb-5px">Acronis</span>
                                 <p>text to be given by Manav / Shlok</p>
                                 <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
@@ -89,7 +98,7 @@
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-03.svg" alt="">
-                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">QNAP</div>
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BKP360</div>
                                 <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
@@ -98,7 +107,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/email-security/rmail.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">QNAP</span>
+                                <span class="text-white alt-font fw-500 fs-19 mb-5px">BKP360</span>
                                 <p>text to be given by Manav / Shlok</p>
                                 <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
@@ -120,7 +129,7 @@
                         <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
                             <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using NAS</h3>
+                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Cloud Backup</h3>
                                 <!-- start features box item -->
                                 <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
@@ -128,7 +137,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Centralized file storage for easy team access</span>
+                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
                                         </div>
                                     </div>
                                 </div>
@@ -140,7 +149,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Personal Cloud Access</span>
+                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
                                         </div>
                                     </div>
                                 </div>
@@ -152,31 +161,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Scales smoothly as your data grows</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Quick access across multiple devices</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Saves money compared to cloud plans</span>
+                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
                                         </div>
                                     </div>
                                 </div>
@@ -188,7 +173,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Strong access control and user permissions</span>
+                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
                                         </div>
                                     </div>
                                 </div>
@@ -241,7 +226,7 @@
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
                                     <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dlp-icon.png" alt=""></div>
-                                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Email Security</span>
+                                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Cloud Backup</span>
                                     <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                     <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
                                         <!-- start accordion item -->
@@ -249,7 +234,7 @@
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Synology</span>
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Acronis</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -266,46 +251,13 @@
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">QNAP</span>
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">BKP360</span>
                                                     </div>
                                                 </a>
                                             </div>
                                             <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100"><p><strong>QNAP Systems, Inc.</strong>, a Taiwanese company established in 2004, specializes in Network-Attached Storage (NAS) solutions designed for both home and business users. Their NAS devices offer centralized data storage, multimedia streaming, backup solutions, and more — all accessible through a user-friendly interface.</p>
-
-<p><strong>🔑 Key Features of QNAP NAS</strong></p>
-
-<ol>
-  <li>
-    <strong>Centralized Data Storage</strong><br>
-    QNAP NAS devices provide a secure and centralized location to store all your digital files, including documents, photos, videos, and music. This centralized approach simplifies data management and ensures easy access across multiple devices.
-  </li>
-  <li>
-    <strong>Personal Cloud Access</strong><br>
-    With QNAP's solutions, you can create your own private cloud, allowing remote access to your files without relying on third-party cloud services. This ensures greater control over your data and eliminates recurring subscription fees.
-  </li>
-  <li>
-    <strong>Multimedia Streaming</strong><br>
-    QNAP NAS supports multimedia applications like Plex and Twonky, enabling you to stream 4K videos, music, and photos to various devices, including smart TVs, computers, and mobile devices. Some models even offer HDMI output for direct playback.
-  </li>
-  <li>
-    <strong>AI-Powered Photo Management</strong><br>
-    The QuMagie application utilizes AI to organize your photos based on people, animals, objects, or locations, making it easier to manage and enjoy your photo library across devices.
-  </li>
-  <li>
-    <strong>Comprehensive Backup Solutions</strong><br>
-    QNAP NAS offers automatic backup and synchronization for Windows, macOS, and mobile devices. You can schedule regular backups to protect your data agaxinst loss or corruption.
-  </li>
-  <li>
-    <strong>Home Surveillance Integration</strong><br>
-    Transform your QNAP NAS into a surveillance system by connecting IP cameras. Monitor live feeds, record footage, and receive alerts, enhancing your home security setup.
-  </li>
-  <li>
-    <strong>Expandable and Flexible Hardware</strong><br>
-    QNAP provides a range of NAS models with varying capacities and features, including options for SSD caching, PCIe expansion, and 10GbE connectivity — catering to both beginners and advanced users.
-  </li>
-</ol>
+                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok
  
                                                     </p>
                                                 </div>
@@ -317,7 +269,6 @@
                                 </div>
                             </div>
                         </div>
-                        
                     </div>
                 </section>
                 <!-- end section -->
@@ -335,11 +286,11 @@
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Synology</a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Acronis</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Synology</a>
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Acronis</a>
                                             <p>text to be given by Manav/ Shlok</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
@@ -360,11 +311,11 @@
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">QNAP</a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">BKP360</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">QNAP</a>
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">BKP360</a>
                                             <p>text to be given by Manav/ Shlok </p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">

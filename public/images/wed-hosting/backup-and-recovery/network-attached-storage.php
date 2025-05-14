@@ -40,8 +40,17 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Network Attached Storage (NAS)</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Centralized Data Storage over the Network</h3>
-                    <p class="w-95 md-w-100">QNAP Systems, Inc. specializes in Network-Attached Storage (NAS) solutions designed for both home and business users. Their NAS devices offer centralized data storage, multimedia streaming, backup solutions, and more, all accessible through a user-friendly interface.
+                    <p class="w-95 md-w-100">text to be given by Manav / Shlok
                     </p>
+                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
+                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
+                            <div class="feature-box-icon me-15px">
+                                <i class="bi bi-people icon-very-medium text-base-color"></i>
+
+                            </div>
+                        </div>
+                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
+                    </div>
                 </div>
             </div>
     </section>
@@ -128,7 +137,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Centralized file storage for easy team access</span>
+                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
                                         </div>
                                     </div>
                                 </div>
@@ -140,7 +149,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Personal Cloud Access</span>
+                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
                                         </div>
                                     </div>
                                 </div>
@@ -152,31 +161,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Scales smoothly as your data grows</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Quick access across multiple devices</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end features box item -->
-                                <!-- start features box item -->
-                                <div class="icon-with-text-style-08 mb-10px">
-                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
-                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
-                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
-                                        </div>
-                                        <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Saves money compared to cloud plans</span>
+                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
                                         </div>
                                     </div>
                                 </div>
@@ -188,7 +173,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Strong access control and user permissions</span>
+                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
                                         </div>
                                     </div>
                                 </div>
@@ -272,40 +257,7 @@
                                             </div>
                                             <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100"><p><strong>QNAP Systems, Inc.</strong>, a Taiwanese company established in 2004, specializes in Network-Attached Storage (NAS) solutions designed for both home and business users. Their NAS devices offer centralized data storage, multimedia streaming, backup solutions, and more — all accessible through a user-friendly interface.</p>
-
-<p><strong>🔑 Key Features of QNAP NAS</strong></p>
-
-<ol>
-  <li>
-    <strong>Centralized Data Storage</strong><br>
-    QNAP NAS devices provide a secure and centralized location to store all your digital files, including documents, photos, videos, and music. This centralized approach simplifies data management and ensures easy access across multiple devices.
-  </li>
-  <li>
-    <strong>Personal Cloud Access</strong><br>
-    With QNAP's solutions, you can create your own private cloud, allowing remote access to your files without relying on third-party cloud services. This ensures greater control over your data and eliminates recurring subscription fees.
-  </li>
-  <li>
-    <strong>Multimedia Streaming</strong><br>
-    QNAP NAS supports multimedia applications like Plex and Twonky, enabling you to stream 4K videos, music, and photos to various devices, including smart TVs, computers, and mobile devices. Some models even offer HDMI output for direct playback.
-  </li>
-  <li>
-    <strong>AI-Powered Photo Management</strong><br>
-    The QuMagie application utilizes AI to organize your photos based on people, animals, objects, or locations, making it easier to manage and enjoy your photo library across devices.
-  </li>
-  <li>
-    <strong>Comprehensive Backup Solutions</strong><br>
-    QNAP NAS offers automatic backup and synchronization for Windows, macOS, and mobile devices. You can schedule regular backups to protect your data agaxinst loss or corruption.
-  </li>
-  <li>
-    <strong>Home Surveillance Integration</strong><br>
-    Transform your QNAP NAS into a surveillance system by connecting IP cameras. Monitor live feeds, record footage, and receive alerts, enhancing your home security setup.
-  </li>
-  <li>
-    <strong>Expandable and Flexible Hardware</strong><br>
-    QNAP provides a range of NAS models with varying capacities and features, including options for SSD caching, PCIe expansion, and 10GbE connectivity — catering to both beginners and advanced users.
-  </li>
-</ol>
+                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok
  
                                                     </p>
                                                 </div>
