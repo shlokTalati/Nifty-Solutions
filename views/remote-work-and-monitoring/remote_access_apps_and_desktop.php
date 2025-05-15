@@ -71,9 +71,9 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
+                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">TS Plus </div>
-                                <span>text to be given by Manav / Shlok.</span>
+                                <span>text to be given by Manav / Shlok</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -81,21 +81,86 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/remote-access/tsplus.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">TS Plus </span>
-                                <p>text to be given by Manav / Shlok</p>
-                                <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                </br></br></br></br></br></br>
+                                <a href="https://tsplus.net/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
                     </div>
                 </div>
                 <!-- end rotate box item -->
-               
-              
+                <!-- start rotate box item -->
+                <div class="col rotate-box-style-02 mb-30px">
+                    <div class="w-100 min-h-300px text-center rotate-box to-left">
+                        <!-- start front side -->
+                        <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
+                            <div class="rotate-content-front z-index-2 p-30px">
+                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Iperius Remote</div>
+                                <span>text to be given by Manav / Shlok</span>
+                            </div>
+                        </div>
+                        <!-- end front side -->
+                        <!-- start back side -->
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/remote-access/iperius_remote.jpg')">
+                            <div class="opacity-light bg-charcoal-blue"></div>
+                            <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
+                                </br></br></br></br></br></br>
+                                <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                            </div>
+                            <!-- end back side -->
+                        </div>
+                    </div>
+                </div>
+                <!-- end rotate box item -->
+                <!-- start rotate box item -->
+                <div class="col rotate-box-style-02 lg-mb-30px">
+                    <div class="w-100 min-h-300px text-center rotate-box to-left">
+                        <!-- start front side -->
+                        <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
+                            <div class="rotate-content-front z-index-2 p-30px">
+                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">TeamViewer</div>
+                                <span>text to be given by Manav / Shlok</span>
+                            </div>
+                        </div>
+                        <!-- end front side -->
+                        <!-- start back side -->
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/remote-access/teamviewer.jpg')">
+                            <div class="opacity-light bg-charcoal-blue"></div>
+                            <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
+                                </br></br></br></br></br></br>
+                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                            </div>
+                            <!-- end back side -->
+
                         </div>
                     </div>
                 </div>
 
+                <div class="col rotate-box-style-02 lg-mb-30px">
+                    <div class="w-100 min-h-300px text-center rotate-box to-left">
+                        <!-- start front side -->
+                        <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
+                            <div class="rotate-content-front z-index-2 p-30px">
+                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">AnyDesk</div>
+                                <span>text to be given by Manav / Shlok</span>
+                            </div>
+                        </div>
+                        <!-- end front side -->
+                        <!-- start back side -->
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/remote-access/anydesk.jpg')">
+                            <div class="opacity-light bg-charcoal-blue"></div>
+                            <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
+                                </br></br></br></br></br></br>
+                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                            </div>
+                            <!-- end back side -->
+
+                        </div>
+                    </div>
+                </div>
 
 
                 <!-- start section -->
@@ -104,7 +169,7 @@
                         <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
                             <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Antivirus.</h3>
+                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Remote Access.</h3>
                                 <!-- start features box item -->
                                 <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
@@ -245,13 +310,71 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
+                                                                            <!-- start accordion item -->
+                                        <div class="accordion-item">
+                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Iperius Remote</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok</br>
+
+
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end accordion item -->
                                       
-                                       
+                                        <!-- start accordion item -->
+                                        <div class="accordion-item">
+                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">TeamViewer</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok</br>
+
+
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end accordion item -->
+                                      
+                                        <!-- start accordion item -->
+                                        <div class="accordion-item">
+                                            <div class="accordion-header border-bottom border-color-transparent">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-04" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">AnyDesk</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
+                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok </br>
+
+                                                        </br>
+
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end accordion item -->
+
                                     </div>
                                 </div>
                             </div>
                         </div>
-       
                     </div>
                 </section>
                 <!-- end section -->
@@ -268,15 +391,13 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">BitDefender</a>
+                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/business-email-bitdefender.jpg" alt=""></a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">TS Plus</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> BitDefender Antivirus</a>
-                                            <p>Stay Safe with the Most Consistently Top-Rated
-                                                Antivirus of the Last 10 Years (and Counting)
-                                                Pick the perfect plan for your needs.</p>
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> TS Plus</a>
+                                            <p>text to be given by Manav / Shlok</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -295,13 +416,13 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">eScan</a>
+                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/business-email-escan.jpg" alt=""></a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Iperius Remote</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">eScan Antivirus</a>
-                                            <p>Protect your computer from harmful viruses and ensure efficient performance with eScan Anti-Virus for Windows. It provides real-time protection to computers from objectionable content and cyber threats, such as Ransomware, Spyware, Adware, Keyloggers, Rootkits, Botnets, and Phishing. </p>
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Iperius Remote</a>
+                                            <p>text to be given by Manav / Shlok </p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
@@ -320,13 +441,39 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                             <div class="col">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-sophos.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Sophos</a>
+                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/business-email-sophos.jpg" alt=""></a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">TeamViewer</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Sophos Antivirus</a>
-                                            <p>Lorem ipsum simply dummy text of amet consectetur.</p>
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">TeamViewer</a>
+                                            <p>text to be given by Manav / Shlok</p>
+                                        </div>
+                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                <span>
+                                                    <span class="btn-text">Explore services</span>
+                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
+                                                </span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end services box style -->
+
+                            <!-- start services box style -->
+                            <div class="col">
+                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                    <div class="position-relative">
+                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/business-email-sophos.jpg" alt=""></a>
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">AnyDesk</a>
+                                    </div>
+                                    <div class="bg-white">
+                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">AnyDesk</a>
+                                            <p>text to be given by Manav / Shlok</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                             <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">

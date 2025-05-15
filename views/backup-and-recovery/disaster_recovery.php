@@ -116,7 +116,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
+                                            <span class="text-dark-gray fw-500">Minimizes Downtime</span>
                                         </div>
                                     </div>
                                 </div>
@@ -128,7 +128,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
+                                            <span class="text-dark-gray fw-500">Protects Business Continuity</span>
                                         </div>
                                     </div>
                                 </div>
@@ -140,19 +140,43 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
+                                            <span class="text-dark-gray fw-500">Automated Failover Systems</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
                                 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
+                                            <span class="text-dark-gray fw-500">Data Integrity Assurance</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Regulatory Compliance</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Customizable Recovery Plans</span>
                                         </div>
                                     </div>
                                 </div>
@@ -251,10 +275,10 @@ The Acronis Cyber Protect Cloud with Advanced Disaster Recovery offers a compreh
   <li><b>Custom DNS Configuration:</b> Allows for tailored DNS settings during disaster recovery, ensuring seamless network integration.</li>
   <li><b>Support for Diverse Workloads:</b> Capable of protecting and recovering various workloads, including Windows and Linux physical servers, virtual machines, and major hypervisors.</li>
   <li><b>Production Failover:</b> In the event of a disaster (e.g., ransomware, hardware failure, natural disaster), your production systems are immediately spun up in the Acronis Cloud, allowing business operations to continue with minimal downtime.</li>
-  <li><b>Test Failover:</b> You can simulate a disaster recovery scenario in a controlled environment (Acronis Cloud) to verify recovery plans and compliance — without affecting the live production system.</li>
+  <li><b>Test Failover:</b> You can simulate a disaster recovery scenario in a controlled environment (Acronis Cloud) to verify recovery plans and compliance ï¿½ without affecting the live production system.</li>
 </ul><br>
 
-<b>Acronis Advanced DR is designed to meet critical business continuity goals</b> by delivering very low Recovery Time Objective (RTO) and Recovery Point Objective (RPO) — both under 15 minutes.<br><br>
+<b>Acronis Advanced DR is designed to meet critical business continuity goals</b> by delivering very low Recovery Time Objective (RTO) and Recovery Point Objective (RPO) ï¿½ both under 15 minutes.<br><br>
 
 <b>Link to OEM Product Page:</b> <a href="https://www.acronis.com/en-sg/products/cloud/cyber-protect/disaster-recovery/">https://www.acronis.com/en-sg/products/cloud/cyber-protect/disaster-recovery/</a>
 

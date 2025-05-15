@@ -182,7 +182,7 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i> 
                                 </div>
                                 <div class="feature-box-content"> 
-                                    <span class="text-dark-gray fw-500">Expansion opportunities of the business.</span>
+                                    <span class="text-dark-gray fw-500">High Delivery Rates</span>
                                 </div>
                             </div>
                         </div>
@@ -194,7 +194,7 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i> 
                                 </div>
                                 <div class="feature-box-content"> 
-                                    <span class="text-dark-gray fw-500">Diversification of services and new products.</span>
+                                    <span class="text-dark-gray fw-500">Mass Mailing Capability</span>
                                 </div>
                             </div>
                         </div>
@@ -206,19 +206,43 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i> 
                                 </div>
                                 <div class="feature-box-content"> 
-                                    <span class="text-dark-gray fw-500">Developing the goals of the start-up business.</span>
+                                    <span class="text-dark-gray fw-500">Detailed Analytics</span>
                                 </div>
                             </div>
                         </div>
                         <!-- end features box item -->
                         <!-- start features box item -->
-                        <div class="icon-with-text-style-08">
+                        <div class="icon-with-text-style-08 mb-10px">
                             <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                 <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i> 
                                 </div>
                                 <div class="feature-box-content"> 
-                                    <span class="text-dark-gray fw-500">Business planning continuation.</span>
+                                    <span class="text-dark-gray fw-500">Customizable Campaigns</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i> 
+                                </div>
+                                <div class="feature-box-content"> 
+                                    <span class="text-dark-gray fw-500">Secure SMTP Relay</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i> 
+                                </div>
+                                <div class="feature-box-content"> 
+                                    <span class="text-dark-gray fw-500">API Integration</span>
                                 </div>
                             </div>
                         </div>

@@ -135,7 +135,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
+                                            <span class="text-dark-gray fw-500">Safeguards Communication Data</span>
                                         </div>
                                     </div>
                                 </div>
@@ -147,7 +147,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
+                                            <span class="text-dark-gray fw-500">Ensures Legal & Compliance Readiness</span>
                                         </div>
                                     </div>
                                 </div>
@@ -159,19 +159,43 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
+                                            <span class="text-dark-gray fw-500">Supports Recovery from Accidental Deletion</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
                                 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
+                                            <span class="text-dark-gray fw-500">Protects Against Ransomware & Outages</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Automates Archiving & Storage</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Enables Easy Migration</span>
                                         </div>
                                     </div>
                                 </div>

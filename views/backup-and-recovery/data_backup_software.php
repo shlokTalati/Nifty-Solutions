@@ -135,7 +135,7 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="text-dark-gray fw-500">11111111111111111111</span>
+                                    <span class="text-dark-gray fw-500">Prevents Data Loss</span>
                                 </div>
                             </div>
                         </div>
@@ -147,7 +147,7 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="text-dark-gray fw-500">222222222222222222222</span>
+                                    <span class="text-dark-gray fw-500">Ensures Business Continuity</span>
                                 </div>
                             </div>
                         </div>
@@ -159,7 +159,31 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="text-dark-gray fw-500">33333333333333333333333</span>
+                                    <span class="text-dark-gray fw-500">Supports Automated Backups</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span class="text-dark-gray fw-500">Enables Fast Data Recovery</span>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- end features box item -->
+                        <!-- start features box item -->
+                        <div class="icon-with-text-style-08 mb-10px">
+                            <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                    <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                </div>
+                                <div class="feature-box-content">
+                                    <span class="text-dark-gray fw-500">Improves Compliance</span>
                                 </div>
                             </div>
                         </div>
@@ -171,7 +195,9 @@
                                     <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="text-dark-gray fw-500">444444444444444444444444444</span>
+                                    <span class="text-dark-gray fw-500">Protects Against Ransomware - </span>
+                                    <span class="text-dark-gray fw-200">Restores clean data in case of malicious attacks.</span>
+
                                 </div>
                             </div>
                         </div>
