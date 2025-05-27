@@ -83,7 +83,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="#" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.safetica.com/solutions-data-loss-prevention" target="_blank"  class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -107,7 +107,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="#" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://escanav.com/en/windows-antivirus/escan-enterprise-DLP.asp" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -361,12 +361,12 @@ eScan DLP assists in categorizing and securing data:</br>
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
+                                        <a href="#"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
                                         <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Safetica</a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Safetica DLP</a>
+                                            <a href="#" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Safetica DLP</a>
                                             <p>Safetica’s DLP tools integrate seamlessly with existing systems, offering real-time insights and controls to prevent data leaks and ensure regulatory compliance.</p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">

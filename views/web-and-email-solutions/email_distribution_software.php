@@ -183,34 +183,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-walmart-dark-blue.svg" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-netflix-dark-blue.svg" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-invision-dark-blue.svg" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center sm-mb-40px">
-                        <a href="#"><img src="images/logo-yahoo-dark-blue.svg" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center">
-                        <a href="#"><img src="images/logo-amazon-dark-blue.svg" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                </div>
-                <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+            </div>
+        </section>
+        <!-- end section -->
+        <!-- start section -->
+        <section class="bg-very-light-gray overlap-height position-relative pt-0">
+            <div class="container overlap-gap-section">
+                    <div class="row align-items-center sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="col-12">
                         <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
                             <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/email-distribute/email-icon.png" alt=""></div>
@@ -273,46 +252,6 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
-        <!-- end section -->
-        <!-- start section -->
-        <section class="bg-very-light-gray overlap-height position-relative">
-            <div class="container overlap-gap-section">
-                <div class="row justify-content-center mb-4">
-                    <div class="col-xl-7 col-lg-9 col-md-10 text-center">
-                        <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Products</h3>
-                    </div>
-                </div>
-                <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <!-- start services box style -->
-                    <div class="col md-mb-30px">
-                        <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <div class="position-relative">
-                                <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">PostMaster</a>
-                            </div>
-                            <div class="bg-white">
-                                <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                    <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">PostMaster</a>
-                                    <p>text to be given by Manav</p>
-                                </div>
-                                <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                    <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                        <span>
-                                            <span class="btn-text">Explore services</span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end services box style -->
-                    
-
                 </div>
             </div>
             <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">

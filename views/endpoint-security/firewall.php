@@ -156,7 +156,7 @@
                                             </div>
                                             <!-- end features box item -->
                                             <!-- start features box item -->
-                                            <div class="icon-with-text-style-08">
+                                            <div class="icon-with-text-style-08 mb-10px">
                                                 <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                                     <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>

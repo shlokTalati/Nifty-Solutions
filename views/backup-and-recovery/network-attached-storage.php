@@ -65,7 +65,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> Synology</div>
-                                <span>text to be given by Manav / Shlok.</span>
+                                <span>Synology NAS offers secure, centralized storage with remote access, data backup, media streaming, and robust privacy for home or business.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -74,7 +74,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.synology.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -89,7 +89,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                  <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> QNAP</div>
-                                <span>text to be given by Manav / Shlok.</span>
+                                <span>QNAP NAS provides high-performance storage with personal cloud access, multimedia streaming, AI photo management, and strong data protection features.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -98,7 +98,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.qnap.com/en-in" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -382,17 +382,17 @@
                     <div class="col md-mb-30px">
                         <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                             <div class="position-relative">
-                                <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/nas/synology1.jpg" alt=""></a>
-                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Synology</a>
+                                <a href="javascript:void(0)"><img src="/public/images/nas/synology1.jpg" alt=""></a>
+                                <a href="javascript:void(0)" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Synology</a>
                             </div>
                             <div class="bg-white">
                                 <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                     <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Synology</a>
-                                    <p>text to be given by Manav/ Shlok</p>
                                 </div>
                                 <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
                                     <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                        <span>
+                                        <!-- This is disabled and can be enabled in the future -->
+                                        <span class="d-none">
                                             <span class="btn-text">Explore services</span>
                                             <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
                                             <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -412,12 +412,12 @@
                             </div>
                             <div class="bg-white">
                                 <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                    <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">QNAP</a>
-                                    <p>text to be given by Manav/ Shlok </p>
+                                    <a href="javascript:void(0)" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">QNAP</a>
                                 </div>
                                 <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                    <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                        <span>
+                                    <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                        <!-- This is disabled and can be enabled in the future -->
+                                        <span class="d-none">
                                             <span class="btn-text">Explore services</span>
                                             <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
                                             <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>

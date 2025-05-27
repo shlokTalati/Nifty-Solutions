@@ -40,7 +40,7 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Remote Access</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Advanced Remote Access</h3>
-                    <p class="w-95 md-w-100">We are authorized partner of <strong>TSPlus</strong> (www.tsplus.net). TSPlus is one of the leading brands globally since 2007 and providing Remote Access, for application access and folder/data  access as per user writes. More then 500,000+ customers are access their data remotely using TSPlus application. License available as Perpetual /Life time license.
+                    <p class="w-95 md-w-100">We are authorized partner of <strong>TSPlus</strong> (www.tsplus.net). TSPlus is one of the leading brands globally since 2007 and providing Remote Access, for application access and folder/data access as per user writes. More then 500,000+ customers are access their data remotely using TSPlus application. License available as Perpetual /Life time license.
                     </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                         <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
@@ -73,7 +73,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">TS Plus </div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>TSplus offers cost-effective remote desktop access and application delivery for businesses, enabling secure, browser-based connections to internal systems without needing complex VPN setups.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -97,7 +97,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Iperius Remote</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>Iperius Remote provides lightweight, fast, and secure remote desktop control, ideal for remote support, IT management, and business access with features like file transfer and multi-session handling.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -121,7 +121,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">TeamViewer</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>TeamViewer is a popular all-in-one remote connectivity tool, known for its robust performance, cross-platform access, and enterprise-level features for IT support, collaboration, and remote administration.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -145,7 +145,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">AnyDesk</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>AnyDesk offers smooth and secure remote desktop access with low latency, ideal for both individual users and businesses seeking fast, high-performance connectivity across devices.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -177,7 +177,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Real-Time Threat Detection</span>
+                                            <span class="text-dark-gray fw-500">Work from Anywhere</span>
                                         </div>
                                     </div>
                                 </div>
@@ -189,7 +189,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Data Protection</span>
+                                            <span class="text-dark-gray fw-500">Faster IT Support</span>
                                         </div>
                                     </div>
                                 </div>
@@ -201,7 +201,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">System Performance Optimization</span>
+                                            <span class="text-dark-gray fw-500">Cost Efficiency</span>
                                         </div>
                                     </div>
                                 </div>
@@ -213,7 +213,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Safe Online Browsing and Banking</span>
+                                            <span class="text-dark-gray fw-500">Secure Access</span>
                                         </div>
                                     </div>
                                 </div>
@@ -225,7 +225,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">Peace of Mind and Cost Saving</span>
+                                            <span class="text-dark-gray fw-500">Business Continuity</span>
                                         </div>
                                     </div>
                                 </div>
@@ -292,25 +292,25 @@
                                             <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                     <p> <br />
-<strong>Remote Desktop Access</strong> </br>
-Provides your remote and local users access to centralized Windows applications on a full remote desktop, specific application OR folders as per company data security policy to specific user OR group. It also supports concurrent Remote Desktop (RDS) connections using HTML5 or any RDP compatible clients.</br>
-<strong>Application Publishing</strong></br>
-Publish Applications and enable users to remotely access them as if they were natively installed on their machine. Users access the remote apps from customizable launch menus or shortcuts on their desktops.</br>
-<strong>Application Assigning</strong></br>
-Once you have published some applications, you can assign them to one or more users or groups. Administrators can assign applications based on Active Directory, local accounts, Azure or AWS.</br>
-<strong>Data Download restriction</strong></br>
-Restrict your users to download data from remote server to local laptop/desktop for company data security.</br>
-<strong>RDP Client</strong></br>
-TSplus Remote Access is compatible with any RDP client. Your concurrent users will have access to a standard Windows desktop with its shortcuts, start menu and task bar. Use the TSplus RDP client generator to enable a 1-click connection experience for your users.</br>
-<strong>Universal Printer</strong></br>
-TSplus Remote Access is compatible with any RDP client. Your concurrent users will have access to a standard Windows desktop with its shortcuts, start menu and task bar. Use the TSplus RDP client generator to enable a 1-click connection experience for your users.TSplus Universal Printer enables you to print from any location, without having to install any specific printer driver. The document to print will be converted into a PDF file and automatically pushed to the user device. ?</br>
+                                                        <strong>Remote Desktop Access</strong> </br>
+                                                        Provides your remote and local users access to centralized Windows applications on a full remote desktop, specific application OR folders as per company data security policy to specific user OR group. It also supports concurrent Remote Desktop (RDS) connections using HTML5 or any RDP compatible clients.</br>
+                                                        <strong>Application Publishing</strong></br>
+                                                        Publish Applications and enable users to remotely access them as if they were natively installed on their machine. Users access the remote apps from customizable launch menus or shortcuts on their desktops.</br>
+                                                        <strong>Application Assigning</strong></br>
+                                                        Once you have published some applications, you can assign them to one or more users or groups. Administrators can assign applications based on Active Directory, local accounts, Azure or AWS.</br>
+                                                        <strong>Data Download restriction</strong></br>
+                                                        Restrict your users to download data from remote server to local laptop/desktop for company data security.</br>
+                                                        <strong>RDP Client</strong></br>
+                                                        TSplus Remote Access is compatible with any RDP client. Your concurrent users will have access to a standard Windows desktop with its shortcuts, start menu and task bar. Use the TSplus RDP client generator to enable a 1-click connection experience for your users.</br>
+                                                        <strong>Universal Printer</strong></br>
+                                                        TSplus Remote Access is compatible with any RDP client. Your concurrent users will have access to a standard Windows desktop with its shortcuts, start menu and task bar. Use the TSplus RDP client generator to enable a 1-click connection experience for your users.TSplus Universal Printer enables you to print from any location, without having to install any specific printer driver. The document to print will be converted into a PDF file and automatically pushed to the user device. ?</br>
 
 
                                                 </div>
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
-                                                                            <!-- start accordion item -->
+                                        <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
@@ -329,7 +329,7 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
-                                      
+
                                         <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
@@ -343,27 +343,27 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                     <p class="w-90 sm-w-95 xs-w-100"><b>TeamViewer</b> is a comprehensive remote access and support platform designed to facilitate secure and efficient connections across various devices and operating systems.<br><br>
 
-<b>Key Features</b><br>
-<ul>
-  <li><b>Remote Support:</b> TeamViewer enables IT professionals to provide real-time assistance by remotely controlling devices, facilitating quick issue resolution without the need for physical presence.</li>
-  <li><b>Remote Work:</b> Users can access their office computers from home or while traveling, ensuring uninterrupted workflow and productivity.</li>
-  <li><b>Cross-Platform Access:</b> The software supports connections between various operating systems, including Windows, macOS, Linux, iOS, and Android, allowing flexibility in device usage.</li>
-  <li><b>File Transfer:</b> Securely transfer files between connected devices, streamlining the process of sharing documents and resources during remote sessions.</li>
-  <li><b>Session Recording:</b> Record remote sessions for auditing, training, or quality assurance purposes, ensuring transparency and accountability.</li>
-  <li><b>Multi-User Support Sessions:</b> Collaborate with multiple users in a single session, allowing for team-based troubleshooting and support.</li>
-  <li><b>Mobile Device Support:</b> Provide support for mobile devices, including screen sharing and remote control functionalities, enhancing the scope of assistance.</li>
-  <li><b>Wake-on-LAN:</b> Remotely power on computers that are turned off, provided the hardware supports this feature, enabling access at any time.</li>
-</ul>
+                                                        <b>Key Features</b><br>
+                                                    <ul>
+                                                        <li><b>Remote Support:</b> TeamViewer enables IT professionals to provide real-time assistance by remotely controlling devices, facilitating quick issue resolution without the need for physical presence.</li>
+                                                        <li><b>Remote Work:</b> Users can access their office computers from home or while traveling, ensuring uninterrupted workflow and productivity.</li>
+                                                        <li><b>Cross-Platform Access:</b> The software supports connections between various operating systems, including Windows, macOS, Linux, iOS, and Android, allowing flexibility in device usage.</li>
+                                                        <li><b>File Transfer:</b> Securely transfer files between connected devices, streamlining the process of sharing documents and resources during remote sessions.</li>
+                                                        <li><b>Session Recording:</b> Record remote sessions for auditing, training, or quality assurance purposes, ensuring transparency and accountability.</li>
+                                                        <li><b>Multi-User Support Sessions:</b> Collaborate with multiple users in a single session, allowing for team-based troubleshooting and support.</li>
+                                                        <li><b>Mobile Device Support:</b> Provide support for mobile devices, including screen sharing and remote control functionalities, enhancing the scope of assistance.</li>
+                                                        <li><b>Wake-on-LAN:</b> Remotely power on computers that are turned off, provided the hardware supports this feature, enabling access at any time.</li>
+                                                    </ul>
 
-<b>Security Features</b><br>
-<p>TeamViewer prioritizes security to ensure safe remote connections:</p>
-<ul>
-  <li><b>End-to-End Encryption:</b> Utilizes AES 256-bit encryption to secure data transmission between devices.</li>
-  <li><b>Two-Factor Authentication (2FA):</b> Adds an extra layer of security by requiring a second form of verification during login.</li>
-  <li><b>Device Authorization:</b> New devices attempting to connect require approval, preventing unauthorized access.</li>
-  <li><b>Black Screen Functionality:</b> Allows the remote user to blank the screen of the controlled device, ensuring privacy during sessions.</li>
-</ul>
-</br>
+                                                    <b>Security Features</b><br>
+                                                    <p>TeamViewer prioritizes security to ensure safe remote connections:</p>
+                                                    <ul>
+                                                        <li><b>End-to-End Encryption:</b> Utilizes AES 256-bit encryption to secure data transmission between devices.</li>
+                                                        <li><b>Two-Factor Authentication (2FA):</b> Adds an extra layer of security by requiring a second form of verification during login.</li>
+                                                        <li><b>Device Authorization:</b> New devices attempting to connect require approval, preventing unauthorized access.</li>
+                                                        <li><b>Black Screen Functionality:</b> Allows the remote user to blank the screen of the controlled device, ensuring privacy during sessions.</li>
+                                                    </ul>
+                                                    </br>
 
 
                                                     </p>
@@ -371,7 +371,7 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
-                                      
+
                                         <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent">

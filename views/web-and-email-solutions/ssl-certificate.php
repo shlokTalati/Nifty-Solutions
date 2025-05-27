@@ -63,8 +63,9 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center mb-7"> 
                     <div class="col-xl-5 col-lg-6 mb-30px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-box-seam fs-16 me-5px"></i></>tital</span>
-                        <h3 class="text-dark-gray fw-700 ls-minus-2px mb-50px">tital</h3>
+                        <br>
+                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-box-seam fs-16 me-5px"></i>Security</span>
+                        <h3 class="text-dark-gray fw-700 ls-minus-2px mb-50px">SSL Certificate</h3>
                         <div class="row row-cols-1">
                             <!-- start process step item -->
                             <div class="col-12 process-step-style-05 position-relative hover-box">
@@ -96,12 +97,12 @@
                                     <div class="process-content ps-35px sm-ps-25px last-paragraph-no-margin mb-40px">
                                         <span class="d-block fw-600 text-dark-gray fs-17 mb-5px">Why Do You Need an SSL Certificate?</span>
                                         <p class="w-90 sm-w-100">
-    <ul>
-                       <li> <strong>Trust:</strong> Users see the padlock and “https” in the URL — a clear sign of security. </li>
-	                   <li> <strong>SEO:</strong> Google ranks SSL-enabled websites higher. </li>
-	                   <li> <strong>C</strong>ompliance: Mandatory for sites handling sensitive data like passwords, card info,  </li>or user forms.
-	                   <li> <strong>Data Protection:</strong> Encrypts all data transfer, keeping it safe from hackers. </li>
-    </ul>
+
+                         <strong>Trust:</strong> Users see the padlock and “https” in the URL — a clear sign of security. <br>
+	                     <strong>SEO:</strong> Google ranks SSL-enabled websites higher. <br>
+	                     <strong>C</strong>ompliance: Mandatory for sites handling sensitive data like passwords, card info,or user forms. <br>
+	                     <strong>Data Protection:</strong> Encrypts all data transfer, keeping it safe from hackers. <br>
+
 </p>	
                                     </div>
                                 </div> 
@@ -117,8 +118,8 @@
                                         </div>
                                     </div>
                                     <div class="process-content ps-35px sm-ps-25px last-paragraph-no-margin mb-30px">
-                                        <span class="d-block fw-600 text-dark-gray fs-17 mb-5px">tital</span>
-                                        <p class="w-90 sm-w-100">text givan by Manav / Shlok</p>
+                                        <span class="d-block fw-600 text-dark-gray fs-17 mb-5px">How Does an SSL Certificate Work?</span>
+                                        <p class="w-90 sm-w-100">When a user visits your website, their browser and your server initiate a process called the SSL Handshake. During this, they securely exchange encryption keys and establish a unique, encrypted session. This means that any data shared — passwords, payment info, personal details — is scrambled and unreadable to hackers, ensuring only the intended parties can access it.</p>
                                     </div>
                                 </div> 
                             </div>
@@ -169,7 +170,7 @@
                             <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
                                 <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                                    <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Firewall.</h3>
+                                    <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using SSL.</h3>
                                     <!-- start features box item -->
                                     <div class="icon-with-text-style-08 mb-10px">
                                         <div class="feature-box feature-box-left-icon-middle overflow-hidden">
@@ -177,7 +178,7 @@
                                                 <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                             </div>
                                             <div class="feature-box-content">
-                                                <span class="text-dark-gray fw-500">Blocks Unauthorized Access</span>
+                                                <span class="text-dark-gray fw-500">Data Encryption</span>
                                             </div>
                                         </div>
                                     </div>
@@ -189,7 +190,7 @@
                                                 <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                             </div>
                                             <div class="feature-box-content">
-                                                <span class="text-dark-gray fw-500">Monitors Network Traffic</span>
+                                                <span class="text-dark-gray fw-500">Trust & Credibility</span>
                                             </div>
                                         </div>
                                     </div>
@@ -201,7 +202,7 @@
                                                 <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                             </div>
                                             <div class="feature-box-content">
-                                                <span class="text-dark-gray fw-500">Protects Against Hackers and Malware
+                                                <span class="text-dark-gray fw-500">Improved SEO Ranking
                                                 </span>
                                             </div>
                                         </div>
@@ -214,7 +215,7 @@
                                                 <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                             </div>
                                             <div class="feature-box-content">
-                                                <span class="text-dark-gray fw-500">Enhances Privacy and Data Security</span>
+                                                <span class="text-dark-gray fw-500">Compliance Requirements</span>
                                             </div>
                                         </div>
                                     </div>
@@ -226,7 +227,7 @@
                                                 <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                             </div>
                                             <div class="feature-box-content">
-                                                <span class="text-dark-gray fw-500">Supports Compliance with Security Standards</span>
+                                                <span class="text-dark-gray fw-500">Protection Against Phishing</span>
                                             </div>
                                         </div>
                                     </div>

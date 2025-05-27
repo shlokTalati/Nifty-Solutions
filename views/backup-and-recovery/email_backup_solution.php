@@ -39,18 +39,10 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Email Backup Solution</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Email Specific Backup</h3>
-                    <p class="w-95 md-w-100">text to be given by Manav / Shlok
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Email Backup</h3>
+                    <p class="w-95 md-w-100">Email Specific Backup ensures secure, automated backups of all emails, attachments, and metadata, enabling quick recovery, compliance, and uninterrupted access across platforms like Microsoft 365 and Gmail.
                     </p>
-                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
-                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                            <div class="feature-box-icon me-15px">
-                                <i class="bi bi-people icon-very-medium text-base-color"></i>
-
-                            </div>
-                        </div>
-                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
-                    </div>
+                   
                 </div>
             </div>
     </section>
@@ -74,7 +66,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> MailVault</div>
-                                <span>text to be given by Manav / Shlok.</span>
+                                <span>MailVault securely archives emails, ensures compliance, enables easy search, and simplifies long-term email storage.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -98,7 +90,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">MailStore</div>
-                                <span>text to be given by Manav / Shlok</span>
+                                <span>MailStore offers secure email archiving, fast search, regulatory compliance, and efficient storage for all mailboxes.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -336,7 +328,8 @@ Nifty Solutions is an authorized partner for MailStore Server, a globally truste
                 </section>
                 <!-- end section -->
                 <!-- start section -->
-                <section class="bg-very-light-gray overlap-height position-relative">
+                 <!-- This section is hidden by default and can be displayed as needed. -->
+                <section class="bg-very-light-gray overlap-height position-relative d-none">
                     <div class="container overlap-gap-section">
                         <div class="row justify-content-center mb-4">
                             <div class="col-xl-7 col-lg-9 col-md-10 text-center">
