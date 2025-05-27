@@ -1,6 +1,6 @@
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0"
-    style="background-image:url('public/images/about-inner.png');">
+    style="background-image:url('public/images/portfolio/portfolio-inner.png');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
         <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -56,13 +56,11 @@
                                     <div
                                         class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
                                         <div class="me-auto">
-                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Branding
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24"> Education
                                             </div>
-                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Tailoring</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Shaishav School</div>
                                         </div>
-                                        <div class="ms-auto"><i
-                                                class="feather icon-feather-plus icon-extra-medium text-dark-gray lh-36"></i>
-                                        </div>
+                                         
                                     </div>
                                 </div>
                             </div>
@@ -80,13 +78,11 @@
                                     <div
                                         class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
                                         <div class="me-auto">
-                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Brochure
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Sourcing
                                             </div>
-                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Cropo</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Rubexco</div>
                                         </div>
-                                        <div class="ms-auto"><i
-                                                class="feather icon-feather-plus icon-extra-medium text-dark-gray lh-36"></i>
-                                        </div>
+                                         
                                     </div>
                                 </div>
                             </div>
@@ -106,13 +102,11 @@
                                     <div
                                         class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
                                         <div class="me-auto">
-                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Branding
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Technology
                                             </div>
-                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Herbal</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Inos</div>
                                         </div>
-                                        <div class="ms-auto"><i
-                                                class="feather icon-feather-plus icon-extra-medium text-dark-gray lh-36"></i>
-                                        </div>
+                                         
                                     </div>
                                 </div>
                             </div>
@@ -130,12 +124,10 @@
                                     <div
                                         class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
                                         <div class="me-auto">
-                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Design</div>
-                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Spanio</div>
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Instruments</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">BCI India</div>
                                         </div>
-                                        <div class="ms-auto"><i
-                                                class="feather icon-feather-plus icon-extra-medium text-dark-gray lh-36"></i>
-                                        </div>
+                                         
                                     </div>
                                 </div>
                             </div>
@@ -153,12 +145,10 @@
                                     <div
                                         class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
                                         <div class="me-auto">
-                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Design</div>
-                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Violator</div>
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Chemical Manufacturing</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">PAB Organics</div>
                                         </div>
-                                        <div class="ms-auto"><i
-                                                class="feather icon-feather-plus icon-extra-medium text-dark-gray lh-36"></i>
-                                        </div>
+                                         
                                     </div>
                                 </div>
                             </div>

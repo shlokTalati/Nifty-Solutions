@@ -1,5 +1,5 @@
     <!-- start page title -->
-    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/about-inner.png');">
+    <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/employee-monitoring/employee-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -29,7 +29,7 @@
             <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
-                        <img src="/public/images/home-about1.png" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <img src="/public/images/employee-monitoring/employee1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
                             <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
@@ -79,12 +79,11 @@
                         </div>
                         <!-- end front side -->
                         <!-- start back side -->
-                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/email-security/spam-expert.jpg')">
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/employee-monitoring/imonitor.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                                <span class="text-white alt-font fw-500 fs-19 mb-5px">iMonitor</span>
-                                <p>text to be given by Manav / Shlok</p>
-                                <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                 </br> </br> </br> </br> </br> </br>
+                                <a href="#" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -185,7 +184,7 @@
                                     <div class="atropos-scale">
                                         <div class="atropos-rotate">
                                             <div class="atropos-inner">
-                                                <img src="/public/images/dlp/dlp-draw.jpg" alt="" class="border-radius-6px w-100" />
+                                                <img src="/public/images/employee-monitoring/employee-draw.jpg" alt="" class="border-radius-6px w-100" />
                                             </div>
                                         </div>
                                     </div>
@@ -225,27 +224,106 @@
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dlp-icon.png" alt=""></div>
+                                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/employee-monitoring/employee-icon.png" alt=""></div>
                                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Employee Monitoring Software</span>
                                     <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                     <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
-                                        <!-- start accordion item -->
-                                        <div class="accordion-item">
-                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">iMonitor</span>
-                                                    </div>
-                                                </a>
-                                            </div>
-                                            <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p> text to be given by Manav / Shlok
+                                                                                           <!-- start accordion item -->
+                                                    <div class="accordion-item">
+                                                        <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                                <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">End customer</span>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                        <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                                <p><strong><b>DO YOU WANT TO PROTECT YOUR COMPANY DATA AND INCREASE THE PRODUCTIVITY OF YOUR STAFF?</b><br><br>
 
+We are an authorised partner of <b>iMonitor - Employee Monitoring Software</b> in India.<br><br>
+
+<b>Key Features:</b><br>
+<ul>
+  <li><b>Online Monitoring</b> for visited websites, sent/received emails, email attachments, etc.</li>
+  <li><b>PC Tracking & Management</b> features like:
+    <ul>
+      <li>Keylogger</li>
+      <li>Screenshot recorder</li>
+      <li>File Activity Monitor (copy, move, delete, rename, create, modify)</li>
+      <li>Print Job Monitor</li>
+      <li>Disable USB ports</li>
+    </ul>
+  </li>
+  <li><b>Real-time live remote monitoring</b> of network computers</li>
+  <li><b>Remote lock and data wipe</b> for any Windows and Mac laptop</li>
+  <li><b>Hardware and Software Inventory Management</b> of network computers</li>
+  <li><b>Email Data Control:</b> Encrypt or block file transfer in email applications like Outlook</li>
+  <li><b>File Transfer Tracking:</b> Automatically take a copy when a user transfers a file externally</li>
+  <li><b>Website Blocking and Filtering, Application Blocking</b></li>
+  <li><b>Stealth Mode Operation:</b> Runs invisibly so the user is unaware that monitoring is in progress</li>
+</ul>
+<br />
+
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- end accordion item -->
+                                                    <!-- start accordion item -->
+                                                    <div class="accordion-item">
+                                                        <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                            <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                                <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Dealer
+</span>
+                                                                </div>
+                                                            </a>
+                                                        </div>
+                                                        <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                            <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                                <p class="w-90 sm-w-95 xs-w-100"><b>IS YOUR CUSTOMER LOOKING TO PROTECT THEIR COMPANY DATA AND INCREASE THE PRODUCTIVITY OF THEIR STAFF?</b><br><br>
+
+We are an authorised partner of <b>iMonitor - Employee PC Monitoring Software</b> in India.<br><br>
+
+<b>Key Features:</b><br>
+<ul>
+  <li><b>Online Monitoring:</b> Track visited websites, sent/received emails, email attachments, and more.</li>
+  <li><b>PC Tracking & Management:</b>
+    <ul>
+      <li>Keylogger</li>
+      <li>Screenshot recorder</li>
+      <li>File Activity Monitor (copy, move, delete, rename, create, modify)</li>
+      <li>Print Job Monitor</li>
+      <li>USB Port Disabling</li>
+    </ul>
+  </li>
+  <li><b>Real-time Remote Monitoring:</b> Live monitoring of network computers.</li>
+  <li><b>Remote Lock & Wipe:</b> Securely lock and erase data from any Windows or Mac laptop remotely.</li>
+  <li><b>Hardware & Software Inventory Management:</b> Complete visibility of all assets across the network.</li>
+  <li><b>Email Data Protection:</b> Encrypt or block file transfers in email applications like Outlook.</li>
+  <li><b>File Transfer Copy:</b> Automatically create a backup copy when a user transfers files externally.</li>
+  <li><b>Website & Application Blocking:</b> Filter websites and restrict access to unauthorized applications.</li>
+  <li><b>Stealth Mode:</b> Operates invisibly so users are unaware of the monitoring.</li>
+</ul>
+</br>
+
+
+
+                                                                </p>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <!-- end accordion item -->
+                                                  
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- end accordion item -->
+                                    </div>
+                                </div>
+                            </section>
+                            <!-- end section -->
+										
+										
                                       
                                        
                                     </div>

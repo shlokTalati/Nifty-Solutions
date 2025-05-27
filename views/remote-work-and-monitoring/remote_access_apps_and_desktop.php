@@ -341,7 +341,29 @@ TSplus Remote Access is compatible with any RDP client. Your concurrent users wi
                                             </div>
                                             <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok</br>
+                                                    <p class="w-90 sm-w-95 xs-w-100"><b>TeamViewer</b> is a comprehensive remote access and support platform designed to facilitate secure and efficient connections across various devices and operating systems.<br><br>
+
+<b>Key Features</b><br>
+<ul>
+  <li><b>Remote Support:</b> TeamViewer enables IT professionals to provide real-time assistance by remotely controlling devices, facilitating quick issue resolution without the need for physical presence.</li>
+  <li><b>Remote Work:</b> Users can access their office computers from home or while traveling, ensuring uninterrupted workflow and productivity.</li>
+  <li><b>Cross-Platform Access:</b> The software supports connections between various operating systems, including Windows, macOS, Linux, iOS, and Android, allowing flexibility in device usage.</li>
+  <li><b>File Transfer:</b> Securely transfer files between connected devices, streamlining the process of sharing documents and resources during remote sessions.</li>
+  <li><b>Session Recording:</b> Record remote sessions for auditing, training, or quality assurance purposes, ensuring transparency and accountability.</li>
+  <li><b>Multi-User Support Sessions:</b> Collaborate with multiple users in a single session, allowing for team-based troubleshooting and support.</li>
+  <li><b>Mobile Device Support:</b> Provide support for mobile devices, including screen sharing and remote control functionalities, enhancing the scope of assistance.</li>
+  <li><b>Wake-on-LAN:</b> Remotely power on computers that are turned off, provided the hardware supports this feature, enabling access at any time.</li>
+</ul>
+
+<b>Security Features</b><br>
+<p>TeamViewer prioritizes security to ensure safe remote connections:</p>
+<ul>
+  <li><b>End-to-End Encryption:</b> Utilizes AES 256-bit encryption to secure data transmission between devices.</li>
+  <li><b>Two-Factor Authentication (2FA):</b> Adds an extra layer of security by requiring a second form of verification during login.</li>
+  <li><b>Device Authorization:</b> New devices attempting to connect require approval, preventing unauthorized access.</li>
+  <li><b>Black Screen Functionality:</b> Allows the remote user to blank the screen of the controlled device, ensuring privacy during sessions.</li>
+</ul>
+</br>
 
 
                                                     </p>

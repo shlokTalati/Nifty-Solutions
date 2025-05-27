@@ -345,7 +345,6 @@ eScan DLP assists in categorizing and securing data:</br>
                                 </div>
                             </div>
                         </div>
-w
                     </div>
                 </section>
                 <!-- end section -->

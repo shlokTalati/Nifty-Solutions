@@ -7293,7 +7293,7 @@ header.sticky .navbar.disable-fixed {
 .navbar .navbar-nav .simple-dropdown .dropdown-menu .dropdown-menu {
   display: none;
   position: absolute;
-  left: calc(100% + 1px);
+  left: calc(100%);
   top: -35px;
 }
 .navbar .navbar-nav .dropdown.dropdown-with-icon-style02 .dropdown-menu {
