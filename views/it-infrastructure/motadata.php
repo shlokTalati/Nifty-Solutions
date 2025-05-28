@@ -39,7 +39,7 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Employee Monitoring Software</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Track Productivity and App Usage</h3>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Motadata</h3>
                     <p class="w-95 md-w-100">text to be given by Manav / Shlok
                     </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
@@ -171,33 +171,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-walmart-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-netflix-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-invision-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center sm-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-yahoo-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center">
-                                <a href="#"><img src="../endpoint-security/images/logo-amazon-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                        </div>
+                        
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">

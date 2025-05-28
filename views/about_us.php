@@ -25,7 +25,7 @@
         </section>
         <!-- end page title --> 
         <!-- start section -->
-        <section class="position-relative pt-3 sm-pt-50px overlap-height background-no-repeat background-position-left-top" style="background-image: url('images/demo-it-business-about-bg.jpg')">
+        <section class="position-relative pt-3 sm-pt-50px overlap-height background-no-repeat background-position-left-top" style="background-image: url('')">
             <div class="container overlap-gap-section">
                 <div class="row align-items-center mb-6">
                     <div class="col-lg-6 md-mb-50px">
@@ -84,7 +84,7 @@
                                 <span class="btn-icon"><i class="feather icon-feather-briefcase"></i></span>
                             </span>
                         </a>
-                        <a href="#" class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray btn-icon-left align-middle fw-600 p-0 xs-mt-20px xs-mb-20px">
+                        <a href="/contact-us" class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray btn-icon-left align-middle fw-600 p-0 xs-mt-20px xs-mb-20px">
                             <span>
                                 <span class="btn-text">Quick contact</span>
                                 <span class="btn-icon"><i class="feather icon-feather-mail"></i></span>
@@ -96,7 +96,7 @@
                 <div class="row">
                     <div class="col-12 text-center" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <i class="bi bi-envelope text-dark-gray d-inline-block align-middle icon-extra-medium me-10px md-m-5px"></i>
-                        <div class="fs-18 text-dark-gray d-inline-block align-middle fw-500">Save your precious time and effort spent for finding a solution. <a href="demo-it-business-contact.html" class="text-dark-gray text-decoration-line-bottom fw-700">Contact us now</a></div>
+                        <div class="fs-18 text-dark-gray d-inline-block align-middle fw-500">Save your precious time and effort spent for finding a solution. <a href="/contact-us" class="text-dark-gray text-decoration-line-bottom fw-700">Contact us now</a></div>
                     </div>
                 </div>
             </div> 
@@ -119,7 +119,7 @@
 								At Nifty Solutions, we are committed to delivering secure, scalable, and efficient I.T. solutions to help businesses thrive in a digital world.
 								</p>
 								<strong>Company Profile</strong></p>
-								 <a href="#" class="btn btn-extra-large btn-gradient-purple-pink btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
+								 <a href="/public/pdf/Nifty_Solutions_profile.pdf" target="_blank" class="btn btn-extra-large btn-gradient-purple-pink btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
                             <span> 
                                 <span class="btn-text">DOWNLOAD</span>
                                 <span class="btn-icon"><i class="feather icon-feather-briefcase"></i></span>
@@ -218,7 +218,7 @@
         </section>
         <!-- end section -->
         <!-- start section -->
-        <section class="bg-very-light-gray pt-0 background-no-repeat background-position-left-top position-relative" style="background-image: url('images/demo-it-business-about-bg2.jpg')"> 
+        <section class="bg-very-light-gray mt-4 background-no-repeat background-position-left-top position-relative" style="background-image: url('')"> 
             <div class="container">
                 <div class="row align-items-center justify-content-center mb-7"> 
                     <div class="col-xl-5 col-lg-6 mb-30px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -286,33 +286,6 @@
                             </figcaption>
                         </figure>
                     </div>
-                </div>
-                <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center mb-8 sm-mb-0" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-walmart-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-netflix-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-invision-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center sm-mb-40px">
-                        <a href="#"><img src="images/logo-yahoo-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div> 
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center">
-                        <a href="#"><img src="images/logo-amazon-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div> 
-                    <!-- end client item -->
                 </div>
             </div>
             <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block"> 

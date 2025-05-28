@@ -73,7 +73,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">TS Plus </div>
-                                <span>TSplus offers cost-effective remote desktop access and application delivery for businesses, enabling secure, browser-based connections to internal systems without needing complex VPN setups.</span>
+                                <span>TSplus provides affordable remote desktop access and app delivery, allowing secure, browser-based connections to internal systems without complex VPNs.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -97,7 +97,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Iperius Remote</div>
-                                <span>Iperius Remote provides lightweight, fast, and secure remote desktop control, ideal for remote support, IT management, and business access with features like file transfer and multi-session handling.</span>
+                                <span>Iperius Remote provides lightweight, fast, and secure remote desktop control, ideal for remote support, and IT management with features like file transfer.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -106,7 +106,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.iperiusremote.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -121,7 +121,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">TeamViewer</div>
-                                <span>TeamViewer is a popular all-in-one remote connectivity tool, known for its robust performance, cross-platform access, and enterprise-level features for IT support, collaboration, and remote administration.</span>
+                                <span>TeamViewer is a leading remote connectivity tool, known for strong performance, cross-platform access, and enterprise-grade features for IT support and collaboration.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -130,7 +130,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.teamviewer.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
 
@@ -145,7 +145,7 @@
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">AnyDesk</div>
-                                <span>AnyDesk offers smooth and secure remote desktop access with low latency, ideal for both individual users and businesses seeking fast, high-performance connectivity across devices.</span>
+                                <span>AnyDesk provides secure, low-latency remote access, ideal for individuals and businesses needing fast, high-performance connectivity across devices.</span>
                             </div>
                         </div>
                         <!-- end front side -->
@@ -154,7 +154,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://anydesk.com/en" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
 
@@ -246,33 +246,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-walmart-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-netflix-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-invision-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center sm-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-yahoo-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center">
-                                <a href="#"><img src="../endpoint-security/images/logo-amazon-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                        </div>
+                        
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
@@ -321,9 +295,24 @@
                                             </div>
                                             <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok</br>
+                                                    <p class="w-90 sm-w-95 xs-w-100"><b>Iperius Remote</b> is a lightweight yet powerful remote desktop software tailored for fast, secure, and efficient remote support and access.<br><br>
 
+                                                        <b>Key Features</b><br>
+                                                    <ul>
+                                                        <li><b>Remote Desktop Access:</b> Offers stable and real-time desktop sharing, allowing users to control remote computers with minimal lag.</li>
+                                                        <li><b>File Transfer:</b> Easily transfer files between connected devices without requiring separate tools, ensuring smooth troubleshooting or collaboration.</li>
+                                                        <li><b>Multi-user and Unattended Access:</b> Connect to multiple PCs simultaneously or set up unattended access for servers and workstations with saved credentials.</li>
+                                                        <li><b>Cross-Platform Support:</b> Available for Windows, macOS, Android, and iOS — ideal for accessing work machines or supporting clients across platforms.</li>
+                                                        <li><b>Session History:</b> View detailed logs of all connection activity for internal reviews and audits.</li>
+                                                        <li><b>Address Book & Group Management:</b> Organize remote computers into categories, groups, and contacts — helpful for managing support at scale.</li>
+                                                    </ul>
 
+                                                    <b>Security Features</b><br>
+                                                    <ul>
+                                                        <li><b>End-to-End Encryption:</b> All sessions are protected by military-grade AES 256-bit encryption, ensuring complete data confidentiality.</li>
+                                                        <li><b>Session Protection:</b> Each session generates a dynamic password and requires user approval unless configured for unattended mode.</li>
+                                                        <li><b>Firewall Friendly:</b> Works seamlessly without port forwarding or complicated network configurations, making setup quick and safe.</li>
+                                                    </ul>
                                                     </p>
                                                 </div>
                                             </div>
@@ -383,10 +372,25 @@
                                             </div>
                                             <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                                    <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok </br>
+                                                    <p class="w-90 sm-w-95 xs-w-100"><b>AnyDesk</b> is a high-performance remote access solution renowned for its speed, low latency, and user-friendly interface, making it ideal for both IT support and remote work scenarios.<br><br>
 
-                                                        </br>
+                                                        <b>Key Features</b><br>
+                                                    <ul>
+                                                        <li><b>Remote Control:</b> Allows instant access to remote desktops, enabling users to control and operate systems from anywhere with near-zero delay.</li>
+                                                        <li><b>Lightweight & Fast:</b> The installation file is under 5MB and the DeskRT codec ensures ultra-low latency even on slow networks.</li>
+                                                        <li><b>Unattended Access:</b> Configure persistent access to machines using passwords — great for maintaining servers or client systems.</li>
+                                                        <li><b>Multi-Platform Support:</b> Available on Windows, macOS, Linux, Android, iOS, and even Raspberry Pi — ensuring wide compatibility.</li>
+                                                        <li><b>Custom Alias & Address Book:</b> Easily connect using personalized aliases and manage frequent connections using an integrated address book.</li>
+                                                        <li><b>File Transfer & Clipboard Sync:</b> Supports seamless drag-and-drop file transfers and clipboard syncing between host and client devices.</li>
+                                                    </ul>
 
+                                                    <b>Security Features</b><br>
+                                                    <ul>
+                                                        <li><b>TLS 1.2 Encryption:</b> Ensures secure data transmission, similar to banking-level security protocols.</li>
+                                                        <li><b>Two-Factor Authentication (2FA):</b> Add a second layer of protection with SMS-based or authenticator-based 2FA for sensitive systems.</li>
+                                                        <li><b>Access Control List (ACL):</b> Define which devices or users can connect to a particular system, offering granular connection control.</li>
+                                                        <li><b>Session Permission Controls:</b> Allow or deny actions like file access, clipboard sync, or screen viewing on a per-session basis.</li>
+                                                    </ul>
                                                     </p>
                                                 </div>
                                             </div>
@@ -401,7 +405,7 @@
                 </section>
                 <!-- end section -->
                 <!-- start section -->
-                <section class="bg-very-light-gray overlap-height position-relative">
+                <section class="bg-very-light-gray overlap-height position-relative d-none">
                     <div class="container overlap-gap-section">
                         <div class="row justify-content-center mb-4">
                             <div class="col-xl-7 col-lg-9 col-md-10 text-center">

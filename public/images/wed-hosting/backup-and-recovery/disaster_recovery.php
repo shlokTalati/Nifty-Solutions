@@ -174,33 +174,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-walmart-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-netflix-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-invision-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center sm-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-yahoo-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center">
-                                <a href="#"><img src="../endpoint-security/images/logo-amazon-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                        </div>
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
@@ -251,10 +224,10 @@ The Acronis Cyber Protect Cloud with Advanced Disaster Recovery offers a compreh
   <li><b>Custom DNS Configuration:</b> Allows for tailored DNS settings during disaster recovery, ensuring seamless network integration.</li>
   <li><b>Support for Diverse Workloads:</b> Capable of protecting and recovering various workloads, including Windows and Linux physical servers, virtual machines, and major hypervisors.</li>
   <li><b>Production Failover:</b> In the event of a disaster (e.g., ransomware, hardware failure, natural disaster), your production systems are immediately spun up in the Acronis Cloud, allowing business operations to continue with minimal downtime.</li>
-  <li><b>Test Failover:</b> You can simulate a disaster recovery scenario in a controlled environment (Acronis Cloud) to verify recovery plans and compliance — without affecting the live production system.</li>
+  <li><b>Test Failover:</b> You can simulate a disaster recovery scenario in a controlled environment (Acronis Cloud) to verify recovery plans and compliance ï¿½ without affecting the live production system.</li>
 </ul><br>
 
-<b>Acronis Advanced DR is designed to meet critical business continuity goals</b> by delivering very low Recovery Time Objective (RTO) and Recovery Point Objective (RPO) — both under 15 minutes.<br><br>
+<b>Acronis Advanced DR is designed to meet critical business continuity goals</b> by delivering very low Recovery Time Objective (RTO) and Recovery Point Objective (RPO) ï¿½ both under 15 minutes.<br><br>
 
 <b>Link to OEM Product Page:</b> <a href="https://www.acronis.com/en-sg/products/cloud/cyber-protect/disaster-recovery/">https://www.acronis.com/en-sg/products/cloud/cyber-protect/disaster-recovery/</a>
 

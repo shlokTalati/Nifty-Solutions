@@ -192,33 +192,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center ps-3 pe-3 xs-mt-40px" data-anime='{ "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-walmart-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-netflix-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center md-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-invision-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center sm-mb-40px">
-                                <a href="#"><img src="../endpoint-security/images/logo-yahoo-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                            <!-- start client item -->
-                            <div class="col client-box text-center">
-                                <a href="#"><img src="../endpoint-security/images/logo-amazon-dark-blue.svg" alt=""></a>
-                            </div>
-                            <!-- end client item -->
-                        </div>
+                        
                         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
@@ -275,7 +249,7 @@ Each VPS instance functions like an independent server:
   <li>Freedom to install complex applications</li>
   <li>Modify any file or system configuration</li>
 </ul>
-<b>With VPS Cloud Hosting, you get the security, scalability, and performance you need—without overextending your IT budget.</b>
+<b>With VPS Cloud Hosting, you get the security, scalability, and performance you needï¿½without overextending your IT budget.</b>
 
 
                                                 </div>
@@ -294,7 +268,7 @@ Each VPS instance functions like an independent server:
                                             <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                     <p><b>A Dedicated Server offers unmatched control, security, and performance, making it the preferred choice for businesses with advanced hosting needs.</b><br><br>
-This type of hosting provides exclusive access to a physical server—fully allocated to a single customer. The hardware is leased from the hosting provider, along with essential services such as network monitoring, high-speed internet bandwidth, and routing infrastructure.<br><br>
+This type of hosting provides exclusive access to a physical serverï¿½fully allocated to a single customer. The hardware is leased from the hosting provider, along with essential services such as network monitoring, high-speed internet bandwidth, and routing infrastructure.<br><br>
 
 <b>Key Features:</b>
 <ul>
