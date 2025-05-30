@@ -1,4 +1,5 @@
-    <!-- start page title -->
+<?php $pageTitle="Dedicated Server & VPS" ?>
+<!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/dedicated-vps/dedicated-vps-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
@@ -30,11 +31,6 @@
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
                         <img src="/public/images/dedicated-vps/dedicated-vps1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                        <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
-                            <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
-
-                        </figcaption>
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -126,7 +122,7 @@
                         <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
                             <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Employee Monitoring Software</h3>
+                                <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of using Virtual Private Server</h3>
                                 <!-- start features box item -->
                                 <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
@@ -134,7 +130,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
+                                            <span class="text-dark-gray fw-500">Dedicated Resources</span>
                                         </div>
                                     </div>
                                 </div>
@@ -146,7 +142,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
+                                            <span class="text-dark-gray fw-500">Full Root Access & Control</span>
                                         </div>
                                     </div>
                                 </div>
@@ -158,19 +154,33 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
+                                            <span class="text-dark-gray fw-500">Cost-Effective Alternative to Dedicated Hosting</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
                                 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
+                                            <span class="text-dark-gray fw-500">Better Security & Isolation</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                              
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Scalability & Performance</span>
+                                            <span class="text-dark-gray fw-200">VPS plans scale easily—add RAM, CPU, or storage as needed.</span>
                                         </div>
                                     </div>
                                 </div>

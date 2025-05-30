@@ -36,10 +36,10 @@
                     <div class="col-6 col-xl-3 col-lg-3 col-md-5 col-sm-4 xs-mb-30px order-sm-4 order-lg-3">
                         <span class="fw-600 d-block text-dark-gray mb-5px">Services</span>
                         <ul>
-                            <li><a href="#">Web Developement</a></li>
-                            <li><a href="#"></a></li>
-                            <li><a href="#">Consulting</a></li>
-                            <li><a href="#">Analysis</a></li>
+                            <li><a href="/web-and-email-services/website-hosting">Web Developement</a></li>
+                            <li><a href="/contact-us">Consulting</a></li>
+                            <li><a href="/backup-and-recovery/data-backup">Backup</a></li>
+                            <li><a href="/it-infrastructure/hardware-network-amc">Hardware</a></li>
                         </ul>
                     </div>
                     <!-- end footer column -->

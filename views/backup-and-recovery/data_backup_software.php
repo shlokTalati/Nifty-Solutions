@@ -1,4 +1,5 @@
-    <!-- start page title -->
+<?php $pageTitle="Data Backup Software" ?>
+<!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/databackup/databackup-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
@@ -40,17 +41,8 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Data Backup Software</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Local and Scheduled Backups</h3>
-                    <p class="w-95 md-w-100">text to be given by Manav / Shlok
+                    <p class="w-95 md-w-100">Data backup is the process of copying and storing digital information to protect it from loss due to hardware failure, cyberattacks, or accidental deletion. It ensures business continuity by enabling quick recovery of critical files and systems.
                     </p>
-                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
-                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                            <div class="feature-box-icon me-15px">
-                                <i class="bi bi-people icon-very-medium text-base-color"></i>
-
-                            </div>
-                        </div>
-                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
-                    </div>
                 </div>
             </div>
     </section>
@@ -197,7 +189,6 @@
                                 <div class="feature-box-content">
                                     <span class="text-dark-gray fw-500">Protects Against Ransomware - </span>
                                     <span class="text-dark-gray fw-200">Restores clean data in case of malicious attacks.</span>
-
                                 </div>
                             </div>
                         </div>

@@ -1,4 +1,6 @@
-    <!-- start page title -->
+<?php $pageTitle="Firewall" ?>
+
+<!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/firewall/firewall-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
@@ -16,7 +18,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
+                    <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>Security</span>
                     <h1 class="mb-0 text-white fw-600 ls-minus-1px">Firewall</h1>
                 </div>
             </div>
@@ -70,7 +72,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Sophos</div>
                                 <span>Sophos Firewall protects your network with AI-based threat detection and secure VPN features — simple, fast, and effective.</span>
                             </div>
@@ -80,7 +81,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall/sophos.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                               </br></br></br></br></br></br>
+                                </br></br></br></br></br></br>
                                 <a href="https://www.sophos.com/en-us/products/next-gen-firewall" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
@@ -94,7 +95,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Fortinet</div>
                                 <span>Fortinet FortiGate offers high-speed firewall security with built-in SD-WAN and real-time threat protection.</span>
                             </div>
@@ -104,7 +104,7 @@
                         <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/firewall/fortinet.jpg')">
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                               </br></br></br></br></br></br>
+                                </br></br></br></br></br></br>
                                 <a href="https://www.fortinet.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
 
@@ -150,7 +150,7 @@
                                                     </div>
                                                     <div class="feature-box-content">
                                                         <span class="text-dark-gray fw-500">Protects Against Hackers and Malware
-</span>
+                                                        </span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -216,28 +216,28 @@
                                                         <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                                 <p><strong>Fortinet</strong> is a leading global cybersecurity company known for its <strong>FortiGate firewalls,</strong> FortiGate firewalls are designed to provide high-performance, integrated network security solutions for enterprises, data centres, cloud environments, and small businesses.<br />
-<strong>What is Fortinet Firewall (FortiGate)?</strong><br />
-<strong>FortiGate</strong> is a next-generation firewall (NGFW) developed by Fortinet Inc., offering advanced protection against cyber threats using AI, machine learning, and real-time threat intelligence.<br />
-</p>
+                                                                    <strong>What is Fortinet Firewall (FortiGate)?</strong><br />
+                                                                    <strong>FortiGate</strong> is a next-generation firewall (NGFW) developed by Fortinet Inc., offering advanced protection against cyber threats using AI, machine learning, and real-time threat intelligence.<br />
+                                                                </p>
                                                                 <p><strong> Key Features of FortiGate Firewall:</strong></p>
-<strong>NGFW Capabilities:</strong><br />
-Deep packet inspection<br />
-Application control<br />
-Intrusion prevention system (IPS)<br />
-URL filtering<br />
-Antivirus and anti-malware scanning<br />
-<strong>Secure SD-WAN:</strong><br />
-Integrated SD-WAN functionality with centralized management<br />
-Ideal for distributed networks and branch connectivity<br />
-<strong>VPN Support:</strong><br />
-SSL and IPsec VPN for secure remote access and site-to-site connectivity<br />
-High Performance:<br />
-Powered by Fortinet’s purpose-built security processors (SPUs) for high throughput and low latency<br />
-<strong>Centralized Management:</strong><br />
-Manage multiple devices using FortiManager or FortiCloud<br />
-Real-time monitoring and logging via FortiAnalyzer<br />
-<strong>Threat Intelligence:</strong><br />
-Constant updates from FortiGuard Labs, Fortinet’s in-house threat research team<br />
+                                                                <strong>NGFW Capabilities:</strong><br />
+                                                                Deep packet inspection<br />
+                                                                Application control<br />
+                                                                Intrusion prevention system (IPS)<br />
+                                                                URL filtering<br />
+                                                                Antivirus and anti-malware scanning<br />
+                                                                <strong>Secure SD-WAN:</strong><br />
+                                                                Integrated SD-WAN functionality with centralized management<br />
+                                                                Ideal for distributed networks and branch connectivity<br />
+                                                                <strong>VPN Support:</strong><br />
+                                                                SSL and IPsec VPN for secure remote access and site-to-site connectivity<br />
+                                                                High Performance:<br />
+                                                                Powered by Fortinet’s purpose-built security processors (SPUs) for high throughput and low latency<br />
+                                                                <strong>Centralized Management:</strong><br />
+                                                                Manage multiple devices using FortiManager or FortiCloud<br />
+                                                                Real-time monitoring and logging via FortiAnalyzer<br />
+                                                                <strong>Threat Intelligence:</strong><br />
+                                                                Constant updates from FortiGuard Labs, Fortinet’s in-house threat research team<br />
 
                                                             </div>
                                                         </div>
@@ -255,36 +255,36 @@ Constant updates from FortiGuard Labs, Fortinet’s in-house threat research tea
                                                         <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                                 <p class="w-90 sm-w-95 xs-w-100"><strong>SOPHOS</strong> is a global leader in cybersecurity with a strong focus on network security, cloud-based security solutions. It is founder in 1985 having headquarters at United Kingdom.
-Its Advanced Threat Protection, uses AI, deep learning, and real-time threat 
-        intelligence to detect and prevent cyber threats.</br>
-</br><strong>Key Features of SOPHOS Firewall:</strong></br>
-<strong>Load Balancing & Bandwidth Allocation</strong> – Optimizes internet usage and distributes bandwidth efficiently.</br>
-<strong>Multi-Internet Link Management</strong> – Ensures uninterrupted internet access by automatically switching between multiple connections.</br>
-<strong>Gateway Antivirus & Antispam</strong> – Scans all internet traffic to block malware, viruses, and spam emails.</br>
-<strong>Website & Content Filtering</strong> – Blocks unauthorized websites based on categories, keywords, or user-specific rules.</br>
-<strong>VPN Connectivity</strong> – Enables secure remote access to office networks, applications (e.g., Tally, ERP), and data from anywhere.</br></br>
-<strong>How Can a Firewall Benefit Your Business?</strong></br>
- <strong>Network Security & Access Control</strong></br>
-🔹 Protects company data by allowing access only to authorized users.</br>
-🔹 Prevents unauthorized access from external threats.</br>
-<strong>Link Management & Automatic Failover</strong></br>
-🔹 Supports multiple internet connections for redundancy.</br>
-🔹 Automatically switches to an alternate connection if the primary internet fails, ensuring uninterrupted connectivity.</br>
-<strong>Website Control & Content Filtering</strong></br>
-🔹 Restricts non-work-related website access (e.g., gaming, social media, adult 
-        content) to enhance employee productivity.</br>
-🔹 Allows customized internet access for specific users or departments.</br>
-<strong>Bandwidth Management</strong></br>
-🔹 Allocates bandwidth based on priorities – e.g., ERP, emails, and business-critical 
-       applications get priority over general browsing.</br>
-🔹 Ensures optimized performance for critical business operations.</br>
-<strong>Advanced Gateway Antivirus</strong></br>
-🔹 Scans all incoming and outgoing traffic for threats, protecting your business from 
-       cyberattacks.</br>
-🔹 Ensures a secure and malware-free network.</br>
-<strong>Secure Remote Access via VPN</strong></br>
-🔹 Employees can securely access office systems and applications from anywhere.</br>
-🔹 Only authorized users can connect to the network remotely.</br>
+                                                                    Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
+                                                                    intelligence to detect and prevent cyber threats.</br>
+                                                                    </br><strong>Key Features of SOPHOS Firewall:</strong></br>
+                                                                    <strong>Load Balancing & Bandwidth Allocation</strong> – Optimizes internet usage and distributes bandwidth efficiently.</br>
+                                                                    <strong>Multi-Internet Link Management</strong> – Ensures uninterrupted internet access by automatically switching between multiple connections.</br>
+                                                                    <strong>Gateway Antivirus & Antispam</strong> – Scans all internet traffic to block malware, viruses, and spam emails.</br>
+                                                                    <strong>Website & Content Filtering</strong> – Blocks unauthorized websites based on categories, keywords, or user-specific rules.</br>
+                                                                    <strong>VPN Connectivity</strong> – Enables secure remote access to office networks, applications (e.g., Tally, ERP), and data from anywhere.</br></br>
+                                                                    <strong>How Can a Firewall Benefit Your Business?</strong></br>
+                                                                    <strong>Network Security & Access Control</strong></br>
+                                                                    🔹 Protects company data by allowing access only to authorized users.</br>
+                                                                    🔹 Prevents unauthorized access from external threats.</br>
+                                                                    <strong>Link Management & Automatic Failover</strong></br>
+                                                                    🔹 Supports multiple internet connections for redundancy.</br>
+                                                                    🔹 Automatically switches to an alternate connection if the primary internet fails, ensuring uninterrupted connectivity.</br>
+                                                                    <strong>Website Control & Content Filtering</strong></br>
+                                                                    🔹 Restricts non-work-related website access (e.g., gaming, social media, adult
+                                                                    content) to enhance employee productivity.</br>
+                                                                    🔹 Allows customized internet access for specific users or departments.</br>
+                                                                    <strong>Bandwidth Management</strong></br>
+                                                                    🔹 Allocates bandwidth based on priorities – e.g., ERP, emails, and business-critical
+                                                                    applications get priority over general browsing.</br>
+                                                                    🔹 Ensures optimized performance for critical business operations.</br>
+                                                                    <strong>Advanced Gateway Antivirus</strong></br>
+                                                                    🔹 Scans all incoming and outgoing traffic for threats, protecting your business from
+                                                                    cyberattacks.</br>
+                                                                    🔹 Ensures a secure and malware-free network.</br>
+                                                                    <strong>Secure Remote Access via VPN</strong></br>
+                                                                    🔹 Employees can securely access office systems and applications from anywhere.</br>
+                                                                    🔹 Only authorized users can connect to the network remotely.</br>
 
 
 
@@ -293,7 +293,7 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                                         </div>
                                                     </div>
                                                     <!-- end accordion item -->
-                                                  
+
                                                 </div>
                                             </div>
                                         </div>
@@ -314,16 +314,18 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                         <div class="col md-mb-30px">
                                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="/public/images/firewall/firewall-fortinet.jpg" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Fortinet</a>
+                                                    <img src="/public/images/firewall/firewall-fortinet.jpg" alt="">
+                                                    <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Fortinet</span>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                                         <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Fortinet Firewall</a>
-                                                        <p>text to be given by Manav</p>
+                                                        <p></p>
                                                     </div>
-                                                    <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+
+                                                    <!-- This is Button, can be enabled in the future -->
+                                                    <div class="d-flex d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                        <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -339,16 +341,17 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                         <div class="col md-mb-30px">
                                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="/public/images/firewall/firewall-sophos.jpg" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Sophos</a>
+                                                    <img src="/public/images/firewall/firewall-sophos.jpg" alt="">
+                                                    <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Sophos</span>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                                         <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Sophos Firewall</a>
-                                                        <p>text to be given by Manav </p>
+                                                        <p></p>
                                                     </div>
-                                                    <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                    <!-- This is Button, can be enabled in the future -->
+                                                    <div class="d-flex d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                                        <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -360,7 +363,7 @@ Its Advanced Threat Protection, uses AI, deep learning, and real-time threat
                                             </div>
                                         </div>
                                         <!-- end services box style -->
-                                       
+
                                     </div>
                                 </div>
                                 <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">

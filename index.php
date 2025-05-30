@@ -62,8 +62,13 @@ if (array_key_exists($cleanPath, $routes)) {
     $viewFile = __DIR__ . '/views/' . $routes[$cleanPath];
     
     if (file_exists($viewFile)) {
-        // require $layoutFile;
-        require('layout.php');
+        // Step 1: Include the view file first – it sets variables like $pageTitle
+        ob_start();
+        include $viewFile;
+        $pageContent = ob_get_clean();
+
+        // Step 2: Now load the layout, which uses $pageTitle and $pageContent
+        require 'layout.php';
         exit;
     }
 }

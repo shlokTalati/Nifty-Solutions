@@ -2,7 +2,7 @@
 <html class="no-js" lang="en">
 
 <head>
-    <title>Nifty Solutions</title>
+    <title><?= isset($pageTitle) ? $pageTitle : 'Nifty Solutions' ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
@@ -28,7 +28,7 @@
     <?php include_once __DIR__ . '/components/header.php'; ?>
 
     <main>
-        <?php include_once $viewFile; ?>
+        <?= $pageContent ?>
     </main>
 
 

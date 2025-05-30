@@ -22,7 +22,7 @@
 
                 <a href="index.html" target="blank" class="btn btn-extra-large btn-switch-text btn-gradient-purple-pink btn-rounded me-10px ls-0px mt-15px">
                     <span>
-                        <span class="btn-double-text" data-text="Explore crafto">Explore Nifty</span>
+                        <span class="btn-double-text" data-text="Explore Nifty">Explore Nifty</span>
                         <span><i class="fa-brands fa-youtube"></i></span>
                     </span>
                 </a>
@@ -97,7 +97,7 @@
                             <div class="d-inline-block w-100">
                                 <a href="demo-hotel-and-resort-about-us.html" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-box-shadow btn-round-edge d-inline-block align-middle me-30px xs-me-10px xs-mt-20px">
                                     <span>
-                                        <span class="btn-double-text" data-text="About resort">About Nifty Solutions</span>
+                                        <span class="btn-double-text" data-text="About Company">About Nifty Solutions</span>
                                     </span>
                                 </a>
                                 <div class="fs-20 fw-600 d-inline-block align-middle text-dark-gray xs-mt-20px"></a></div>
@@ -416,10 +416,10 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                   <img src="https://niftysolutions.co.in/img/postmaster/mail.png" class="max-width-50" alt="">
+                                   <img src="/public/images/clients/client-logo-anwesha.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Website des. And Development</span>
+                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Checkmate</span>
                                 </div>
                                 <div class="feature-box-overlay bg-base-color"></div>
                             </div>
@@ -429,7 +429,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Basket-Coins icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Business Email Hosting</span>
@@ -442,7 +442,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Bee icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-astral.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Email Security</span>
@@ -455,7 +455,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 md-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Management icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-banco.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Disaster Recovery</span>
@@ -468,7 +468,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-French-Fries icon-extra-large text-white mb-15px"></i>
+                                   <img src="/public/images/clients/client-logo-erda.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">SSL</span>
@@ -481,7 +481,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-1 md-border-end sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Road-3 icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-idmc.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Dedicated server and VPS</span>
@@ -494,7 +494,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Cow icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-kcmehta.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Computer Hardware and AMC</span>
@@ -507,7 +507,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-end-0 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Diamond icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-panasonic.svg" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">SMTP Services for Bulk Email</span>
@@ -520,7 +520,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 sm-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Drop icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-silox.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Energy</span>
@@ -533,7 +533,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 sm-border-end-0 sm-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Environmental-3 icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-sudeep-pharma.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Farming</span>
@@ -546,7 +546,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Gear icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Industries</span>
@@ -559,7 +559,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <i class="line-icon-Environmental-3 icon-extra-large text-white mb-15px"></i>
+                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-50" alt="">
                                 </div>
                                 <div class="feature-box-content">
                                     <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Events</span>
@@ -577,7 +577,7 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center g-0" data-anime='{  "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <div class="col-auto d-flex align-items-center">
-                            <img src="https://placehold.co/130x98" alt="">
+                            <img src="/public/images/logo-nifty.png" alt="">
                             <div class="fs-17 lh-26 last-paragraph-no-margin text-white pt-15px pb-15px fw-500">
                                 <p>Save your precious time and effort spent for finding a solution. <a href="demo-it-business-contact.html" class="text-decoration-line-bottom text-white">Contact us now</a></p>
                             </div>

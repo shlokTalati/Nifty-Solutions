@@ -1,4 +1,5 @@
-    <!-- start page title -->
+<?php $pageTitle="Data Leakage Prevention" ?>
+<!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/dlp/dlp-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
@@ -334,16 +335,17 @@ eScan DLP assists in categorizing and securing data:</br>
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="#"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Safetica</a>
+                                        <img src="/public/images/antivirus/antivirus-bitdefender.jpg" alt="">
+                                        <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Safetica</span>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="#" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Safetica DLP</a>
+                                            <span href="#" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Safetica DLP</span>
                                             <p>Safetica’s DLP tools integrate seamlessly with existing systems, offering real-time insights and controls to prevent data leaks and ensure regulatory compliance.</p>
                                         </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                        <!-- This is Button, can be enabled in the future -->
+                                        <div class="d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                            <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                 <span>
                                                     <span class="btn-text">Explore services</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -359,16 +361,17 @@ eScan DLP assists in categorizing and securing data:</br>
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">eScan</a>
+                                <img src="/public/images/antivirus/antivirus-escan.jpg" alt="">
+                                        <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">eScan</span>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">eScan DLP</a>
+                                            <span class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">eScan DLP</span>
                                             <p>eScan’s DLP solutions are designed to secure confidential information by monitoring data transfers and preventing unauthorized access or sharing.</p>
                                         </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                       <!-- This is Button, can be enabled in the future -->
+                                        <div class="d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                            <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                 <span>
                                                     <span class="btn-text">Explore services</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>

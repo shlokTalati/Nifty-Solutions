@@ -1,3 +1,4 @@
+  <?php $pageTitle="About Us" ?>
   <!-- start page title -->
         <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/about-inner.png');">
             <div class="shape-image-animation p-0 w-100 d-none d-md-block"> 
@@ -51,7 +52,6 @@
                         </div>
                     </div>
                     <div class="col-xl-5 offset-xl-1 col-lg-6" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-award fs-16 me-5px"></i>Creative approach</span>
                         <h3 class="text-dark-gray fw-700 ls-minus-1px md-w-80 sm-w-100">Provide advanced business solutions.</h3>
                         <div class="mb-40px sm-mb-30px">
                             <!-- start features box item -->
@@ -77,19 +77,12 @@
                             </div>
                             <!-- end features box item -->
                         </div>
-                        <a href="#" class="btn btn-extra-large btn-gradient-purple-pink btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
+                        <a href="/contact-us" class="btn btn-extra-large btn-gradient-purple-pink btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
                             <span> 
-                                <span class="btn-text">Explore services</span>
+                                <span class="btn-text">Quick Contact</span>
                                 <span class="btn-icon"><i class="feather icon-feather-briefcase"></i></span>
                                 <span class="btn-icon"><i class="feather icon-feather-briefcase"></i></span>
                             </span>
-                        </a>
-                        <a href="/contact-us" class="btn btn-link btn-hover-animation-switch btn-extra-large text-dark-gray btn-icon-left align-middle fw-600 p-0 xs-mt-20px xs-mb-20px">
-                            <span>
-                                <span class="btn-text">Quick contact</span>
-                                <span class="btn-icon"><i class="feather icon-feather-mail"></i></span>
-                                <span class="btn-icon"><i class="feather icon-feather-mail"></i></span>
-                            </span> 
                         </a>
                     </div>
                 </div>
@@ -222,8 +215,8 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center mb-7"> 
                     <div class="col-xl-5 col-lg-6 mb-30px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-box-seam fs-16 me-5px"></i></>Creative process</span>
-                        <h3 class="text-dark-gray fw-700 ls-minus-2px mb-50px">The creative process behind our projects.</h3>
+                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-box-seam fs-16 me-5px"></i></>Process</span>
+                        <h3 class="text-dark-gray fw-700 ls-minus-2px mb-50px">The chronological process behind our projects.</h3>
                         <div class="row row-cols-1">
                             <!-- start process step item -->
                             <div class="col-12 process-step-style-05 position-relative hover-box">

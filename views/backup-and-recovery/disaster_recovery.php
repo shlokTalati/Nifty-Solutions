@@ -1,4 +1,5 @@
-    <!-- start page title -->
+<?php $pageTitle="Disaster Recovery" ?>
+<!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/disaster-recovery/disaster-recovery-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
@@ -194,8 +195,8 @@
                 </section>
                 <!-- end section -->
                 <!-- start section -->
-                <section class="bg-very-light-gray overlap-height position-relative">
-                      <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <section class="bg-very-light-gray overlap-height position-relative pt-0">
+                      <div class="row align-items-center sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                             <div class="col-12">
                                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
                                     <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/disaster-recovery/disaster-recovery-icon.png" alt=""></div>

@@ -1,4 +1,5 @@
-    <!-- start page title -->
+<?php $pageTitle="Email Security" ?>
+<!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/email-security/email-security-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
@@ -16,7 +17,7 @@
         <div class="container">
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
+                    <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class IT services</span>
                     <h1 class="mb-0 text-white fw-600 ls-minus-1px">Email Security </h1>
                 </div>
             </div>
@@ -367,16 +368,17 @@ Append a yellow private note at the tip of your email message that is only visib
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Spam Expert</a>
+            <img src="/public/images/antivirus-bitdefender.jpg" alt="">
+                                        <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Spam Expert</span>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Spam Expert</a>
+                                            <span href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Spam Expert</span>
                                             <p>SpamExperts provides 99.98% spam detection accuracy, customizable policies, and threat analysis dashboards to protect your domain reputation.</p>
                                         </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                        <!-- This is Button, can be enabled in the future -->
+                                        <div class="d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                            <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                 <span>
                                                     <span class="btn-text">Explore services</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -392,16 +394,17 @@ Append a yellow private note at the tip of your email message that is only visib
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Rmail</a>
+<img src="/public/images/antivirus-escan.jpg" alt="">
+                                        <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Rmail</span>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Rmail</a>
+                                            <span class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Rmail</span>
                                             <p>RMail enables secure and verifiable email delivery with built-in audit trails, reducing risk and legal exposure in sensitive communications.</p>
                                         </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="#" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                        <!-- This is Button, can be enabled in the future -->
+                                        <div class="d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
+                                            <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                 <span>
                                                     <span class="btn-text">Explore services</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
