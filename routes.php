@@ -17,11 +17,11 @@ $routes = [
     'backup-and-recovery/nas-storage'              => 'backup-and-recovery/network-attached-storage.php',
 
     // ── Email & Web Solutions ───────────────────────────────────
-    'web-and-email-services/website-hosting'       => 'web-and-email-solutions/website_development_and_hosting.php',
+    'web-and-email-services/website-development'       => 'web-and-email-solutions/website_development_and_hosting.php',
     'web-and-email-services/business-email'        => 'web-and-email-solutions/business_email_hosting.php',
     'web-and-email-services/ssl-certificate'       => 'web-and-email-solutions/ssl-certificate.php',
-    'web-and-email-services/bulk-smtp'             => 'web-and-email-solutions/smtp_services_for_bulk_email.php',
-    'web-and-email-services/email-distribution'    => 'web-and-email-solutions/email_distribution_software.php',
+    'web-and-email-services/bulk-smtp'             => 'web-and-email-solutions/bulk_smtp.php',
+    'web-and-email-services/email-distribution'    => 'web-and-email-solutions/email_distribution.php',
 
     // ── Remote Work & Monitoring ────────────────────────────────
     'remote-work-and-monitoring/remote-access'     => 'remote-work-and-monitoring/remote_access_apps_and_desktop.php',
@@ -32,7 +32,6 @@ $routes = [
     'it-infrastructure/network-monitoring'         => 'it-infrastructure/network_monitoring_and_ticketing.php',
     'it-infrastructure/dedicated-vps'              => 'it-infrastructure/dedicated_server_and_vps.php',
     'it-infrastructure/licensed-software'          => 'it-infrastructure/licensed_software.php',
-    'it-infrastructure/motadata'          => 'it-infrastructure/motadata.php',
 
     // ── Other Pages ─────────────────────────────────────────────
     'about-us'     => 'about_us.php',

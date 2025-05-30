@@ -233,7 +233,7 @@
                         <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
                             <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/bulk-smtp/bulk-icon.png" alt=""></div>
                             <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information</span>
-                            <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3> 
+                            <h3 class="fw-700 text-dark-gray ls-minus-1px">Detailed Information</h3> 
                             <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
                                 <!-- start accordion item -->
                                 <div class="accordion-item active-accordion">
@@ -265,7 +265,7 @@ Our SMTP service is tailored for small to medium-sized businesses to reliably se
   Purchase email quotas as per your monthly requirement. No daily sending restrictions!</li><br>
 
   <li><b>High Deliverability:</b><br>
-  Designed for lightning-fast and reliable email delivery to inboxes�not spam folders.</li>
+  Designed for lightning-fast and reliable email delivery to inboxes not spam folders.</li>
 </ul><br>
 
 <b>Perfect for:</b><br>
@@ -304,129 +304,11 @@ Our SMTP service is tailored for small to medium-sized businesses to reliably se
                                     </div>
                                 </div>
                                 <!-- end accordion item -->
-                                <!-- start accordion item -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header border-bottom border-color-transparent">
-                                        <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                            <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">tital</span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                        <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                            <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end accordion item -->
                             </div>
                         </div>
                     </div> 
                 </div>
                 
-            </div>
-        </section>
-        <!-- end section -->
-        <!-- start section -->
-        <section class="bg-very-light-gray overlap-height position-relative">
-            <div class="container overlap-gap-section">
-                <div class="row justify-content-center mb-4">
-                    <div class="col-xl-7 col-lg-9 col-md-10 text-center">
-                        <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Other business services</h3>
-                    </div>
-                </div>
-                <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <!-- start services box style --> 
-                    <div class="col md-mb-30px"> 
-                        <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <div class="position-relative">
-                                <a href="demo-it-business-services-details.html"><img src="https://placehold.co/600x440" alt=""></a>
-                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
-                            </div>
-                            <div class="bg-white">
-                                <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                    <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">1</a>
-                                    <p>text to be given by Manav / Shlok</p> 
-                                </div> 
-                                <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                    <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                        <span>
-                                            <span class="btn-text">Explore services</span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                        </span> 
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end services box style --> 
-                    <!-- start services box style --> 
-                    <div class="col md-mb-30px"> 
-                        <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <div class="position-relative">
-                                <a href="demo-it-business-services-details.html"><img src="https://placehold.co/600x440" alt=""></a>
-                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Finance</a>
-                            </div>
-                            <div class="bg-white">
-                                <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                    <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">2</a>
-                                    <p>text to be given by Manav / Shlok</p> 
-                                </div> 
-                                <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                    <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                        <span>
-                                            <span class="btn-text">Explore services</span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                        </span> 
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end services box style --> 
-                    <!-- start services box style --> 
-                    <div class="col"> 
-                        <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                            <div class="position-relative">
-                                <a href="demo-it-business-services-details.html"><img src="https://placehold.co/600x440" alt=""></a>
-                                <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">analytics</a>
-                            </div>
-                            <div class="bg-white">
-                                <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                    <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">3</a>
-                                    <p>text to be given by Manav / Shlok</p> 
-                                </div> 
-                                <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                    <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                        <span>
-                                            <span class="btn-text">Explore services</span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                            <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                        </span> 
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- end services box style --> 
-                </div>  
-            </div> 
-            <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block"> 
-                <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff"> 
-                <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
-                <animate
-                    attributeName="d"
-                    dur="5s"
-                    values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
-                            M 0 250 C 400 50 400 400 3000 250 L 3000 550 L 0 550 L 0 250;
-                            M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250"
-                    repeatCount="indefinite"
-                    />
-                </path>
-                </svg>
             </div>
         </section>
         <!-- end section -->

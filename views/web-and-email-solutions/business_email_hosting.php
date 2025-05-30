@@ -17,7 +17,6 @@
         <div class="container">
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
                     <h1 class="mb-0 text-white fw-600 ls-minus-1px">Business Email Hosting </h1>
                 </div>
             </div>
@@ -43,15 +42,6 @@
                     <h3 class="text-dark-gray fw-700 ls-minus-1px"> Custom Domain Based Email Services</h3>
                     <p class="w-95 md-w-100">Business Email lets you use a professional email address like you@yourcompany.com. It enhances brand credibility, builds customer trust, and ensures better inbox delivery than generic addresses. Business emails also offer more control, security, and scalability, making them essential for any serious organization or growing enterprise.
                     </p>
-                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
-                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                            <div class="feature-box-icon me-15px">
-                                <i class="bi bi-people icon-very-medium text-base-color"></i>
-
-                            </div>
-                        </div>
-                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
-                    </div>
                 </div>
             </div>
     </section>
@@ -180,7 +170,8 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">1111111111111</span>
+                                            <span class="text-dark-gray fw-500">Professional Branding</span>
+                                            <span class="text-dark-gray fw-200">Use your domain name (e.g., yourname@yourcompany.com)</span>
                                         </div>
                                     </div>
                                 </div>
@@ -192,7 +183,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">2222222222</span>
+                                            <span class="text-dark-gray fw-500">Enhanced Security</span>
                                         </div>
                                     </div>
                                 </div>
@@ -204,19 +195,31 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">3333333333n</span>
+                                            <span class="text-dark-gray fw-500">Greater Reliability</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
                                 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">444444444444444</span>
+                                            <span class="text-dark-gray fw-500">Scalability</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
+                                <!-- start features box item -->
+                                <div class="icon-with-text-style-08 mb-10px">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Collaboration Tools</span>
                                         </div>
                                     </div>
                                 </div>

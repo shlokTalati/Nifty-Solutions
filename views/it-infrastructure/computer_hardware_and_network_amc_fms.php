@@ -41,17 +41,8 @@
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Computer Hardware, Network & AMC</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Complete IT Infrastructure Solutions Under One Roof</h3>
-                    <p class="w-95 md-w-100">At Nifty Solutions, we specialize in delivering end-to-end computer hardware, networking, and AMC solutions tailored to meet the growing demands of businesses across all industries. With decades of expertise, we ensure that your IT infrastructure runs seamlessly, reliably, and securely � allowing you to focus on what matters most: your business growth.
+                    <p class="w-95 md-w-100">At Nifty Solutions, we specialize in delivering end-to-end computer hardware, networking, and AMC solutions tailored to meet the growing demands of businesses across all industries. With decades of expertise, we ensure that your IT infrastructure runs seamlessly, reliably, and securely allowing you to focus on what matters most: your business growth.
                     </p>
-                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
-                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                            <div class="feature-box-icon me-15px">
-                                <i class="bi bi-people icon-very-medium text-base-color"></i>
-
-                            </div>
-                        </div>
-                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
-                    </div>
                 </div>
             </div>
     </section>
@@ -59,58 +50,77 @@
 	
         <!-- start section -->
         <section class="bg-very-light-gray">
-            <div class="container">
-                <div class="row justify-content-center mb-3">
-                    <div class="col-xl-8 col-lg-9 col-md-10 text-center">
-                        <h3 class="text-dark-gray fw-700 ls-minus-1px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Offerings</h3>
+            <div class="container overlap-gap-section">
+                        <div class="row justify-content-center mb-4">
+                            <div class="col-xl-7 col-lg-9 col-md-10 text-center">
+                                <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Offerings</h3>
+                            </div>
+                        </div>
+                        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                            <!-- start services box style -->
+                            <div class="col md-mb-30px mt-20px">
+                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                    <div class="position-relative">
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
+                                    </div>
+                                    <div class="bg-white">
+                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Hardware</a>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolore illo sequi voluptate dolor corrupti!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end services box style -->
+                            <!-- start services box style -->
+                            <div class="col md-mb-30px mt-20px">
+                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                    <div class="position-relative">
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
+                                    </div>
+                                    <div class="bg-white">
+                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Network</a>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo nam fugit, ab quo quis nisi numquam placeat vero, fuga debitis eius dolorem ducimus similique.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end services box style -->
+                            <!-- start services box style -->
+                            <div class="col md-mb-30px mt-20px">
+                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                    <div class="position-relative">
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
+                                    </div>
+                                    <div class="bg-white">
+                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> AMC Service</a>
+                                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim dolorum quos velit praesentium aspernatur numquam, aperiam eveniet veniam quod autem ea alias nam eum cum doloremque commodi consequuntur nesciunt suscipit?</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end services box style -->
+                            <!-- start services box style -->
+                            <div class="col md-mb-30px mt-20px">
+                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
+                                    <div class="position-relative">
+                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
+                                    </div>
+                                    <div class="bg-white">
+                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
+                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">FMS Service</a>
+                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex odio molestiae quo sint fuga, illum blanditiis iusto enim, at doloribus aspernatur, perspiciatis esse deleniti labore magnam. Aliquam dolore nihil dolores?</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end services box style -->
+                           
+                           
+                        </div>
                     </div>
-                </div>
-                <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center" data-anime='{ "el": "childs", "willchange": "transform", "scale":[0.95,1], "opacity": [0, 1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <!-- start features box item -->
-                    <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
-                        <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
-                            <div class="feature-box-icon">
-                                <i class="bi bi-body-text text-base-color icon-extra-large text-light-opacity mb-25px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Computer Hardware Solutions</span>
-                                <p class="text-light-opacity">text to be givan by Manav Shlok.</p>
-                            </div>
-                            <div class="feature-box-overlay bg-base-color"></div>
-                        </div>  
-                    </div>
-                    <!-- end features box item -->
-                    <!-- start features box item -->
-                    <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
-                        <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
-                            <div class="feature-box-icon">
-                                <i class="bi bi-paragraph text-base-color icon-extra-large text-light-opacity mb-25px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Networking Solutions</span>
-                                <p class="text-light-opacity">text to be givan by Manav Shlok</p>
-                            </div>
-                            <div class="feature-box-overlay bg-base-color"></div>
-                        </div>  
-                    </div>
-                    <!-- end features box item -->
-                    <!-- start features box item -->
-                    <div class="col icon-with-text-style-04 transition-inner-all xs-mb-30px">
-                        <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
-                            <div class="feature-box-icon">
-                                <i class="bi bi-cart4 text-base-color icon-extra-large text-light-opacity mb-25px"></i>
-                            </div>
-                            <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Annual Maintenance Contract (AMC)</span>
-                                <p class="text-light-opacity">text to be givan by Manav Shlok</p>
-                            </div>
-                            <div class="feature-box-overlay bg-base-color"></div>
-                        </div>  
-                    </div>
-                    <!-- end features box item -->
-                   
-                </div>
-            </div>
         </section>
         <!-- end section -->
               
@@ -205,9 +215,12 @@
                                 </div>
                             </div>
                         </div>
-                                    <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                                        <div class="col-12">
-                                            <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
+                                </div>
+                            </section>
+                            <!-- end section -->
+                <!-- start section -->
+                <section class="bg-very-light-gray overlap-height position-relative">
+                    <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
                                                 <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/hardware-network/hardware-network-icon.png" alt=""></div>
                                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Firewall</span>
                                                 <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
@@ -303,49 +316,6 @@ We offer flexible AMC packages - quarterly, half-yearly, or annual - for Network
                                                   
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                            <!-- end section -->
-                <!-- start section -->
-                <section class="bg-very-light-gray overlap-height position-relative">
-                    <div class="container overlap-gap-section">
-                        <div class="row justify-content-center mb-4">
-                            <div class="col-xl-7 col-lg-9 col-md-10 text-center">
-                                <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Products</h3>
-                            </div>
-                        </div>
-                        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start services box style -->
-                            <div class="col md-mb-30px">
-                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
-                                    </div>
-                                    <div class="bg-white">
-                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Hardware, Networking & AMC Services</a>
-                                            <p>text to be given by Manav/ Shlok</p>
-                                        </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end services box style -->
-                           
-                           
-                        </div>
-                    </div>
                     <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
                         <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">

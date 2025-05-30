@@ -76,6 +76,9 @@ if (array_key_exists($cleanPath, $routes)) {
 // 5. Show 404 if route or file not found
     $viewFile = __DIR__ . '/views/404.php';
     // require $layoutFile;
+    ob_start();
+    include $viewFile;
+    $pageContent = ob_get_clean();
     header("HTTP/1.0 404 Not Found");
     require('layout.php');
     exit;

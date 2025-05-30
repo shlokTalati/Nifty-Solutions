@@ -56,7 +56,7 @@
                                 <li class="dropdown">
                                     <a href="javascript:void(0);">Web Dev. and Email Solutions<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="/web-and-email-services/website-hosting"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
+                                        <li><a href="/web-and-email-services/website-development"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
                                         <li><a href="/web-and-email-services/business-email"><i class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business Email Hosting</a></li>
                                         <li><a href="/web-and-email-services/ssl-certificate"><i class="bi bi-lock text-dark icon-small me-10px"></i>SSL Certificate</a></li>
                                         <li><a href="/web-and-email-services/bulk-smtp"><i class="bi bi-send-check text-dark icon-small me-10px"></i>Bulk Email / SMTP Services</a></li>
@@ -82,7 +82,6 @@
                                         <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li>
                                         <li><a href="/it-infrastructure/dedicated-vps"><i class="bi bi-server text-dark icon-small me-10px"></i>Dedicated Server & VPS</a></li>
                                         <li><a href="/it-infrastructure/licensed-software"><i class="bi bi-file-earmark-code text-dark icon-small me-10px"></i>Licensed Software</a></li>
-										  <li><a href="/it-infrastructure/motadata"><i class="bi bi-graph-up text-dark icon-small me-10px"></i>MotaData</a></li>
                                     </ul>
                                 </li>
                             </ul>

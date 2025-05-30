@@ -43,15 +43,6 @@
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Real-Time Network Infrastructure Monitoring</h3>
                     <p class="w-95 md-w-100">Motadata is an AI-powered unified observability and IT service management (ITSM) platform designed to help organizations monitor, manage, and optimize their IT infrastructure. It offers a comprehensive suite of tools that integrate network monitoring, infrastructure observability, log analytics, and service desk automation into a single platform.
                     </p>
-                    <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
-                        <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
-                            <div class="feature-box-icon me-15px">
-                                <i class="bi bi-people icon-very-medium text-base-color"></i>
-
-                            </div>
-                        </div>
-                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
-                    </div>
                 </div>
             </div>
     </section>
