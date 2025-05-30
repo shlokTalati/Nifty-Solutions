@@ -18,7 +18,7 @@
             <div class="container">
                 <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                     <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
+                        <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class IT services</span>
                         <h1 class="mb-0 text-white fw-600 ls-minus-1px">Bulk Email SMTP Service </h1>
                     </div> 
                 </div>
@@ -72,11 +72,13 @@
                     <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
                         <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
                             <div class="feature-box-icon">
-                                <i class="ti-bar-chart text-base-color icon-extra-large text-light-opacity mb-25px"></i>
+                                <i class="bi bi-envelope text-base-color icon-extra-large text-light-opacity mb-25px"></i>
                             </div>
                             <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Tital</span>
-                                <p class="text-light-opacity">text to be given by Manav / Shlok.</p>
+                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">What is SMTP?
+</span>
+                                <p class="text-light-opacity">Protocol used to send emails from your server to inboxes.
+</p>
                             </div>
                             <div class="feature-box-overlay bg-base-color"></div>
                         </div>  
@@ -86,11 +88,13 @@
                     <div class="col icon-with-text-style-04 transition-inner-all md-mb-30px">
                         <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
                             <div class="feature-box-icon">
-                                <i class="ti-time text-base-color icon-extra-large text-light-opacity mb-25px"></i>
+                                <i class="bi bi-send text-base-color icon-extra-large text-light-opacity mb-25px"></i>
                             </div>
                             <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Tital</span>
-                                <p class="text-light-opacity">text to be given by Manav / Shlok</p>
+                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Bulk Sending Power
+</span>
+                                <p class="text-light-opacity">Send up to 200,000 emails/month with zero daily limits.
+</p>
                             </div>
                             <div class="feature-box-overlay bg-base-color"></div>
                         </div>  
@@ -100,11 +104,13 @@
                     <div class="col icon-with-text-style-04 transition-inner-all xs-mb-30px">
                         <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
                             <div class="feature-box-icon">
-                                <i class="ti-user text-base-color icon-extra-large text-light-opacity mb-25px"></i>
+                                <i class="bi bi-buildings text-base-color icon-extra-large text-light-opacity mb-25px"></i>
                             </div>
                             <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Tital</span>
-                                <p class="text-light-opacity">text to be given by Manav / Shlok</p>
+                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Your Domain, Your Way
+</span>
+                                <p class="text-light-opacity">Use your own email & domain — stay authentic & trusted.
+</p>
                             </div>
                             <div class="feature-box-overlay bg-base-color"></div>
                         </div>  
@@ -114,11 +120,13 @@
                     <div class="col icon-with-text-style-04 transition-inner-all">
                         <div class="feature-box hover-box transition dark-hover bg-white border-radius-6px pt-17 pb-17 ps-15 pe-15 lg-ps-8 lg-pe-8 last-paragraph-no-margin box-shadow-quadruple-large box-shadow-hover overflow-hidden">
                             <div class="feature-box-icon">
-                                <i class="ti-bookmark-alt text-base-color icon-extra-large text-light-opacity mb-25px"></i>
+                                <i class="bi bi-inboxes text-base-color icon-extra-large text-light-opacity mb-25px"></i>
                             </div>
                             <div class="feature-box-content">
-                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Tital</span>
-                                <p class="text-light-opacity">text to be given by Manav / Shlok</p>
+                                <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Plug & Play SMTP
+</span>
+                                <p class="text-light-opacity">Works with Gmail, Outlook, or any bulk mail software.
+</p>
                             </div>
                             <div class="feature-box-overlay bg-base-color"></div>
                         </div>  
@@ -139,7 +147,7 @@
                 <div class="row align-items-center justify-content-center mb-7 sm-mb-40px">
                     <div class="col-xl-5 col-lg-6 col-md-12 md-mb-50px" data-anime='{ "el": "childs", "translateY": [15, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 100, "easing": "easeOutQuad" }'>
                         <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Services benefits</span>
-                        <h3 class="fw-700 text-dark-gray ls-minus-1px">Benefits of Bulk Email SMTP Service </h3>
+                        <h3 class="fw-700 text-dark-gray ls-minus-1px">Features of Bulk Email SMTP Service </h3>
                         <!-- start features box item -->
                         <div class="icon-with-text-style-08 mb-10px">
                             <div class="feature-box feature-box-left-icon-middle overflow-hidden">
@@ -284,22 +292,6 @@ Our SMTP service is tailored for small to medium-sized businesses to reliably se
   <li>Detailed logs & analytics</li>
 </ul>
 </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end accordion item -->
-                                <!-- start accordion item -->
-                                <div class="accordion-item">
-                                    <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                        <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                            <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">tital</span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                    <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                        <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                            <p class="w-90 sm-w-95 xs-w-100">text to be given by Manav / Shlok</p>
                                         </div>
                                     </div>
                                 </div>

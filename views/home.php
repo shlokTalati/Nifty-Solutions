@@ -17,16 +17,10 @@
     <div class="container h-100">
         <div class="row align-items-center h-100">
             <div class="col-xl-6 col-lg-8 col-md-10 position-relative z-index-1" data-anime='{ "el": "childs", "translateY": [0, 0], "perspective": [1200,1200], "scale": [1.05, 1], "rotateX": [30, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex w-70 sm-w-100"><i class="bi bi-megaphone text-white icon-small me-10px"></i>Grow your business with us</span>
+                <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex w-70 sm-w-100"><i class="bi bi-megaphone text-white icon-small me-10px"></i>Grow your IT Infrastructure with us</span>
                 <h1 class="text-white fw-600 ls-minus-2px mb-25px">IT Communication & Data Security</h1>
 
-                <a href="index.html" target="blank" class="btn btn-extra-large btn-switch-text btn-gradient-purple-pink btn-rounded me-10px ls-0px mt-15px">
-                    <span>
-                        <span class="btn-double-text" data-text="Explore Nifty">Explore Nifty</span>
-                        <span><i class="fa-brands fa-youtube"></i></span>
-                    </span>
-                </a>
-                <a href="demo-it-business-contact.html" class="btn btn-extra-large btn-switch-text btn-transparent-white-light btn-rounded border-1 ls-0px mt-15px">
+                <a href="/contact-us" class="btn btn-extra-large btn-switch-text btn-transparent-white-light btn-rounded border-1 ls-0px mt-15px">
                     <span>
                         <span class="btn-double-text" data-text="Contact us">Contact us</span>
                         <span><i class="fa-regular fa-envelope"></i></span>
@@ -95,7 +89,7 @@
                             <h2 class="alt-font text-dark-gray ls-minus-2px">Your Dedicated IT Touchpoint</h2>
                             <p class="w-80 xl-w-100 mb-35px xs-mb-10px">“At Nifty Solutions, we are committed to delivering excellence with a team of highly skilled and experienced engineers. Our dedication to staying ahead of market trends and emerging technologies ensures that our clients receive the most innovative, secure, and efficient IT solutions.”</p>
                             <div class="d-inline-block w-100">
-                                <a href="demo-hotel-and-resort-about-us.html" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-box-shadow btn-round-edge d-inline-block align-middle me-30px xs-me-10px xs-mt-20px">
+                                <a href="/about-us" class="btn btn-extra-large btn-switch-text btn-dark-gray btn-box-shadow btn-round-edge d-inline-block align-middle me-30px xs-me-10px xs-mt-20px">
                                     <span>
                                         <span class="btn-double-text" data-text="About Company">About Nifty Solutions</span>
                                     </span>
@@ -147,17 +141,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product1.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
+                                                    <img src="public/images/home-product-data-backup.png" alt="">
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data Backup Software</a>
-                                                        <p>Automatic backup of File/Folder/Databases/Image/O365 to offsite OR any Cloud
+                                                        <a href="/backup-and-recovery/data-backup" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data Backup Software</a>
+                                                        <p>Automated backup of files, folders, databases, images, or Office 365 to an offsite location or any cloud platform.
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/backup-and-recovery/data-backup" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -175,17 +168,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product2.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">2</a>
+                                                    <a href="/endpoint-security/firewall"><img src="public/images/home-product-firewall.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Firewall</a>
+                                                        <a href="/endpoint-security/firewall" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Firewall</a>
                                                         <p>Protect your network with advanced Firewall and UTM solutions like Fortinet and SOPHOS, ensuring secure, reliable, and controlled access to your IT infrastructure.
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/endpoint-security/firewall" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -203,17 +195,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product3.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">3</a>
+                                                    <a href="/endpoint-security/antivirus-and-content-security"><img src="public/images/home-product-antivirus.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Antivirus and Endpoint Security</a>
+                                                        <a href="/endpoint-security/antivirus-and-content-security" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Antivirus and Endpoint Security</a>
                                                         <p>Safeguard your devices with powerful endpoint protection and antivirus solutions like SOPHOS, Bitdefender, and eScan. Prevent malware, ransomware, and unauthorized access across your network
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/endpoint-security/antivirus-and-content-security" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -231,17 +222,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product4.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">4</a>
+                                                    <a href="/backup-and-recovery/email-backup"><img src="public/images/home-product-email-backup.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Email Backup Software</a>
+                                                        <a href="/backup-and-recovery/email-backup" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Email Backup Software</a>
                                                         <p>Secure and archive all your emails with reliable backup solutions like MailVault and MailStore to ensure data protection and easy retrieval when needed.
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/backup-and-recovery/email-backup" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -259,17 +249,17 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product5.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">5</a>
+                                                    <a href="/endpoint-security/data-leakage-prevention"><img src="public/images/home-product-dlp
+.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data Leakage Prevention</a>
+                                                        <a href="/endpoint-security/data-leakage-prevention" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Data Leakage Prevention</a>
                                                         <p>Prevent sensitive data from being accidentally or maliciously shared and Monitor, control, and secure data flow across endpoints, emails, and cloud platforms
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/endpoint-security/data-leakage-prevention" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -287,17 +277,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product6.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">6</a>
+                                                    <a href="/remote-work-and-monitoring/remote-access"><img src="public/images/home-product-remote-access.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Remote access Apps</a>
+                                                        <a href="/remote-work-and-monitoring/remote-access" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Remote access Apps</a>
                                                         <p>Publish Windows applications and folders to enable secure remote access for users from anywhere, anytime — with full control and flexibility.
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/remote-work-and-monitoring/remote-access" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -315,17 +304,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product7.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">7</a>
+                                                    <a href="/backup-and-recovery/nas-storage"><img src="public/images/home-product-nas.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Network Attached Storage (NAS)</a>
+                                                        <a href="/backup-and-recovery/nas-storage" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Network Attached Storage (NAS)</a>
                                                         <p>Back up data scattered across PCs, servers, and VMs, or centralize it with secure, role-based access control — ensuring data protection and streamlined management
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/backup-and-recovery/nas-storage" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -343,18 +331,17 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product8.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">8</a>
+                                                    <a href="/it-infrastructure/network-monitoring"><img src="public/images/home-product-network-monitoring.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Network Monitoring and Ticketing Solution</a>
+                                                        <a href="/it-infrastructure/network-monitoring" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Network Monitoring and Ticketing Solution</a>
                                                         <p>Monitor your entire IT infrastructure in real-time and manage issues efficiently with an integrated network monitoring and ticketing solution — ensuring faster resolution and minimal downtime
 
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/it-infrastructure/network-monitoring" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -372,17 +359,16 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="demo-it-business-services-details.html"><img src="public/images/home-product9.png" alt=""></a>
-                                                    <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">9</a>
+                                                    <a href="/web-and-email-services/email-distribution"><img src="public/images/home-product-email-distribution.png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                                        <a href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Email Distribution software</a>
+                                                        <a href="/web-and-email-services/email-distribution" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Email Distribution software</a>
                                                         <p>Download and distribute emails efficiently within your organization ensures smart routing and centralized control over your internal and external email flow.
                                                         </p>
                                                     </div>
                                                     <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                                        <a href="demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                                        <a href="/web-and-email-services/email-distribution" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                             <span>
                                                                 <span class="btn-text">Explore services</span>
                                                                 <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
@@ -416,12 +402,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                   <img src="/public/images/clients/client-logo-anwesha.png" class="max-width-50" alt="">
+                                   <img src="/public/images/clients/client-logo-anwesha.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Checkmate</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -429,12 +411,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Business Email Hosting</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -442,12 +420,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-astral.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-astral.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Email Security</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -455,51 +429,35 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 md-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-banco.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-banco.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Disaster Recovery</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
                         <!-- start features box item -->
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
-                                <div class="feature-box-icon">
-                                   <img src="/public/images/clients/client-logo-erda.png" class="max-width-50" alt="">
+                                <div class="feature-box-icon bg-light">
+                                   <img src="/public/images/clients/client-logo-erda.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">SSL</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
                         <!-- start features box item -->
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-1 md-border-end sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
-                                <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-idmc.png" class="max-width-50" alt="">
+                                <div class="feature-box-icon bg-light">
+                                    <img src="/public/images/clients/client-logo-idmc.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Dedicated server and VPS</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
                         <!-- start features box item -->
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
-                                <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-kcmehta.png" class="max-width-50" alt="">
+                                <div class="feature-box-icon bg-light">
+                                    <img src="/public/images/clients/client-logo-kcmehta.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Computer Hardware and AMC</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -507,12 +465,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-end-0 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-panasonic.svg" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-panasonic.svg" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">SMTP Services for Bulk Email</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -520,12 +474,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 sm-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-silox.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-silox.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Energy</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -533,12 +483,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 sm-border-end-0 sm-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-sudeep-pharma.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-sudeep-pharma.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Farming</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -546,12 +492,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Industries</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -559,12 +501,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-50" alt="">
+                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-70" alt="">
                                 </div>
-                                <div class="feature-box-content">
-                                    <span class="d-inline-block text-white fw-600 fs-14 text-uppercase">Events</span>
-                                </div>
-                                <div class="feature-box-overlay bg-base-color"></div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -579,7 +517,7 @@
                         <div class="col-auto d-flex align-items-center">
                             <img src="/public/images/logo-nifty.png" alt="">
                             <div class="fs-17 lh-26 last-paragraph-no-margin text-white pt-15px pb-15px fw-500">
-                                <p>Save your precious time and effort spent for finding a solution. <a href="demo-it-business-contact.html" class="text-decoration-line-bottom text-white">Contact us now</a></p>
+                                <p>Save your precious time and effort spent for finding a solution. <a href="/contact-us" class="text-decoration-line-bottom text-white">Contact us now</a></p>
                             </div>
                         </div>
                     </div>
@@ -664,113 +602,16 @@
             </section>
             <!-- end section -->
             <!-- start section -->
-            <section class="pt-0">
-                <div class="container background-no-repeat background-position-top" style="background-image: url('public/images/home-bg-testimonial.png')">
-                    <div class="row justify-content-center mb-2">
-                        <div class="col-xxl-6 col-lg-8 col-md-9 text-center" data-anime='{ "el": "childs", "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <h3 class="text-dark-gray fw-700 ls-minus-2px">Trusted by the world's fastest growing companies.</h3>
-                        </div>
-                    </div>
-                    <div class="row justify-content-center align-items-center mb-6 sm-mb-8">
-                        <div class="col-xl-10 position-relative">
-                            <div class="swiper magic-cursor testimonials-style-06" data-slider-options='{ "loop": true, "autoplay": { "delay": 4000, "disableOnInteraction": false }, "keyboard": { "enabled": true, "onlyInViewport": true }, "navigation": { "nextEl": ".swiper-button-next-nav", "prevEl": ".swiper-button-previous-nav", "effect": "fade" } }'>
-                                <div class="swiper-wrapper">
-                                    <!-- start testimonial item -->
-                                    <div class="swiper-slide">
-                                        <div class="row align-items-center justify-content-center">
-                                            <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                                <img alt="" src="https://placehold.co/270x245">
-                                            </div>
-                                            <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
-                                                <a href="#" class="mb-15px d-block"><img src="images/logo-monday-dark-blue-01.svg" class="h-35px" alt=""></a>
-                                                <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
-                                                <span class="fs-15 text-uppercase fw-800 text-dark-gray ls-05px">Herman miller, Monday</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- end testimonial item -->
-                                    <!-- start testimonial item -->
-                                    <div class="swiper-slide">
-                                        <div class="row align-items-center justify-content-center">
-                                            <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                                <img alt="" src="https://placehold.co/270x245">
-                                            </div>
-                                            <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
-                                                <a href="#" class="mb-15px d-block"><img src="images/logo-loitech-dark-blue.svg" class="h-35px" alt=""></a>
-                                                <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
-                                                <span class="fs-15 text-uppercase fw-800 text-dark-gray ls-05px">Leonel mooney, Logitech</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- end testimonial item -->
-                                    <!-- start testimonial item -->
-                                    <div class="swiper-slide">
-                                        <div class="row align-items-center justify-content-center">
-                                            <div class="col-8 col-md-4 col-sm-6 text-center md-mb-30px">
-                                                <img alt="" src="https://placehold.co/270x245">
-                                            </div>
-                                            <div class="col-lg-5 col-md-7 last-paragraph-no-margin text-center text-md-start">
-                                                <a href="#" class="mb-15px d-block"><img src="images/logo-invision-dark-blue.svg" class="h-35px" alt=""></a>
-                                                <span class="mb-5px d-table fs-18 lh-30 fw-500 text-dark-gray">Their team are easy to work with and helped me make amazing websites in a short amount of time. Thanks guys for all your hard work. Trust us we looked for a very long time.</span>
-                                                <span class="fs-15 text-uppercase fw-800 text-dark-gray ls-05px">Matthew taylor, Invision</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- end testimonial item -->
-                                </div>
-                                <!-- start slider navigation -->
-                                <div class="swiper-button-previous-nav swiper-button-prev md-left-0px"><i class="feather icon-feather-arrow-left icon-extra-medium text-dark-gray"></i></div>
-                                <div class="swiper-button-next-nav swiper-button-next md-right-0px"><i class="feather icon-feather-arrow-right icon-extra-medium text-dark-gray"></i></div>
-                                <!-- end slider pagination -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row row-cols-1 row-cols-md-3 justify-content-center" data-anime='{ "el": "childs", "translateY": [0, 0], "perspective": [1200,1200], "scale": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <div class="col sm-mb-30px">
-                            <div class="bg-white h-100 border-radius-6px text-center box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                                <div class="pt-10 pb-10">
-                                    <img src="images/logo-monday-dark-gray-02.svg" class="h-40px md-h-35px sm-h-40px" alt="" />
-                                </div>
-                                <div class="border-top fs-16 p-15px lg-ps-25px lg-pe-25px md-ps-15px md-pe-15px last-paragraph-no-margin">
-                                    <p>Project management - <span class="fw-600 text-dark-gray">275% Growth</span></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col sm-mb-30px">
-                            <div class="bg-white h-100 border-radius-6px text-center box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                                <div class="pt-10 pb-10">
-                                    <img src="images/logo-dropbox-dark-gray-02.svg" class="h-40px md-h-35px sm-h-40px" alt="" />
-                                </div>
-                                <div class="border-top fs-16 border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
-                                    <p>Team management - <span class="fw-600 text-dark-gray">195% Growth</span></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col">
-                            <div class="bg-white h-100 border-radius-6px text-center box-shadow-quadruple-large box-shadow-quadruple-large-hover">
-                                <div class="pt-10 pb-10">
-                                    <img src="images/logo-slack-dark-gray-02.svg" class="h-40px md-h-35px sm-h-40px" alt="" />
-                                </div>
-                                <div class="border-top fs-16 border-1 border-color-extra-medium-gray p-15px last-paragraph-no-margin">
-                                    <p>Secure storage - <span class="fw-600 text-dark-gray">235% Growth</span></p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- end section -->
-            <!-- start section -->
             <section class="cover-background one-third-screen sm-h-500px pb-0 position-relative" style="background-image:url('public/images/home-footer.png');">
                 <div class="opacity-extra-medium bg-dark-gray"></div>
                 <div class="container h-100">
                     <div class="row align-items-center justify-content-center h-100">
                         <div class="col-xl-8 col-lg-10 mb-9 md-mb-15 position-relative z-index-1 text-center d-flex flex-wrap align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-inline-flex align-items-center text-start sm-lh-20"><i class="bi bi-megaphone text-white d-inline-block align-middle icon-small me-10px"></i> Let's make something great work together.</span>
-                            <h1 class="text-white fw-600 ls-minus-2px mb-50px">We make the creative solutions for business!</h1>
-                            <a href="#" class="btn btn-extra-large btn-switch-text btn-gradient-purple-pink btn-rounded me-10px">
+                            <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-inline-flex align-items-center text-start sm-lh-20"><i class="bi bi-megaphone text-white d-inline-block align-middle icon-small me-10px"></i> Let's make something great together.</span>
+                            <h1 class="text-white fw-600 ls-minus-2px mb-50px">We solve the IT needs for business!</h1>
+                            <a href="/contact-us" class="btn btn-extra-large btn-switch-text btn-gradient-purple-pink btn-rounded me-10px">
                                 <span>
-                                    <span class="btn-double-text" data-text="Got a project in mind">Got a project in mind</span>
+                                    <span class="btn-double-text" data-text="Got a need">Got a need</span>
                                     <span><i class="fa-solid fa-arrow-right"></i></span>
                                 </span>
                             </a>

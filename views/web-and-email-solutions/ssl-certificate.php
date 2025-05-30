@@ -60,7 +60,7 @@
     </section>
     <!-- end section -->
         <!-- start section -->
-        <section class="bg-very-light-gray pt-0 background-no-repeat background-position-left-top position-relative" style="background-image: url('images/demo-it-business-about-bg2.jpg')"> 
+        <section class="bg-very-light-gray pt-0 background-no-repeat background-position-left-top position-relative"> 
             <div class="container">
                 <div class="row align-items-center justify-content-center mb-7"> 
                     <div class="col-xl-5 col-lg-6 mb-30px" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -137,34 +137,6 @@
                         </figure>
                     </div>
                 </div>
-                <div class="row row-cols-1 row-cols-lg-5 row-cols-md-3 row-cols-sm-2 clients-style-06 justify-content-center mb-8 sm-mb-0" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-walmart-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-netflix-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center md-mb-40px">
-                        <a href="#"><img src="images/logo-invision-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div>
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center sm-mb-40px">
-                        <a href="#"><img src="images/logo-yahoo-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div> 
-                    <!-- end client item -->
-                    <!-- start client item -->
-                    <div class="col client-box text-center">
-                        <a href="#"><img src="images/logo-amazon-dark-blue.svg" class="h-45px" alt=""></a>
-                    </div> 
-                    <!-- end client item -->
-
-
                     <!-- start section -->
                     <section>
                         <div class="container">

@@ -60,13 +60,10 @@
                             <!-- start services box style -->
                             <div class="col md-mb-30px mt-20px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
-                                    </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Hardware</a>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos dolore illo sequi voluptate dolor corrupti!</p>
+                                            <a href="javascript:void(0)" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Hardware</a>
+                                            <p>We supply and install reliable computer hardware and peripherals, ensuring your business runs on fast, efficient, and up-to-date systems.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -75,13 +72,10 @@
                             <!-- start services box style -->
                             <div class="col md-mb-30px mt-20px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
-                                    </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Network</a>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat illo nam fugit, ab quo quis nisi numquam placeat vero, fuga debitis eius dolorem ducimus similique.</p>
+                                            <a href="javascript:void(0)" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Computer Network</a>
+                                            <p>We design, set up, and maintain secure computer networks that keep your team connected, collaborative, and always online.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -90,13 +84,10 @@
                             <!-- start services box style -->
                             <div class="col md-mb-30px mt-20px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
-                                    </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> AMC Service</a>
-                                            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim dolorum quos velit praesentium aspernatur numquam, aperiam eveniet veniam quod autem ea alias nam eum cum doloremque commodi consequuntur nesciunt suscipit?</p>
+                                            <a href="javascript:void(0)" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">AMC - Annual Maintenance Contract</a>
+                                            <p>Get round-the-year support with our AMC plans—regular checkups, quick repairs, and peace of mind for all your IT systems.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -105,13 +96,10 @@
                             <!-- start services box style -->
                             <div class="col md-mb-30px mt-20px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">1</a>
-                                    </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">FMS Service</a>
-                                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex odio molestiae quo sint fuga, illum blanditiis iusto enim, at doloribus aspernatur, perspiciatis esse deleniti labore magnam. Aliquam dolore nihil dolores?</p>
+                                            <a href="javascript:void(0)" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">FMS - Facility Management Service</a>
+                                            <p>End-to-end IT management for your business—on-site experts handling hardware, software, networking, and support, so you don’t have to.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -175,7 +163,7 @@
                                 </div>
                                 <!-- end features box item -->
                                 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
@@ -187,7 +175,7 @@
                                 </div>
                                 <!-- end features box item -->
 								 <!-- start features box item -->
-                                <div class="icon-with-text-style-08">
+                                <div class="icon-with-text-style-08 mb-10px">
                                     <div class="feature-box feature-box-left-icon-middle overflow-hidden">
                                         <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
@@ -222,7 +210,7 @@
                 <section class="bg-very-light-gray overlap-height position-relative">
                     <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
                                                 <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/hardware-network/hardware-network-icon.png" alt=""></div>
-                                                <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Firewall</span>
+                                                <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Detailed Information</span>
                                                 <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                                 <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
 
