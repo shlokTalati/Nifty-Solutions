@@ -73,7 +73,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://escanav.com/en/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.microsoft.com/en-in/microsoft-365/business/compare-all-microsoft-365-business-products" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -87,7 +87,7 @@
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
                                 <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
-                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">G Suite</div>
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Google Workspace</div>
                                 <span>Google’s business email solution with Gmail, Drive, Docs, and more—perfect for teams needing collaboration, accessibility, and simplicity.</span>
                             </div>
                         </div>
@@ -97,7 +97,31 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.bitdefender.com/en-in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://workspace.google.com/pricing.html?utm_source=google&utm_medium=cpc&utm_campaign=1710070-Workspace-DR-APAC-IN-en-Google-BKWS-EXA-Hybrid-HV-Neoptica&utm_content=c-Hybrid+%7C+BKWS+-+EXA+%7C+Txt-Workspace-N/A-43700081986994150&utm_term=google%20workspace%20plans&gad_source=1&gad_campaignid=22563124540&gclid=Cj0KCQjw9O_BBhCUARIsAHQMjS7QqJKxcys48w2GNfLyBsdOC_SweOeE4pHzO9X8SDw9GiT-p99vBkwaAkJ2EALw_wcB&gclsrc=aw.ds" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                            </div>
+                            <!-- end back side -->
+                        </div>
+                    </div>
+                </div>
+				
+				               <!-- start rotate box item -->
+                <div class="col rotate-box-style-02 mb-30px">
+                    <div class="w-100 min-h-300px text-center rotate-box to-left">
+                        <!-- start front side -->
+                        <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
+                            <div class="rotate-content-front z-index-2 p-30px">
+                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
+                                <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Icewarp</div>
+                                <span>IceWarp is a Global Company having HO in Prague - Czech Republic. 50 Million paid users world wide 50,000 customers worldwide</span>
+                            </div>
+                        </div>
+                        <!-- end front side -->
+                        <!-- start back side -->
+                        <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/business-email/icewarp.jpg')">
+                            <div class="opacity-light bg-charcoal-blue"></div>
+                            <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
+                                </br></br></br></br></br></br>
+                                <a href="https://www.icewarp.co.in/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
                             <!-- end back side -->
                         </div>
@@ -122,7 +146,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                
                             </div>
                             <!-- end back side -->
 
@@ -146,7 +170,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.sophos.com/en-us/products/endpoint-business-email" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                               
                             </div>
                             <!-- end back side -->
 
@@ -256,7 +280,7 @@
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Office 365 - Microsoft Business </span>
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Microsoft O365 - Microsoft Business </span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -284,7 +308,7 @@
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                                 <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Google WorkSpace -Google BusinessS Email</span>
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Google WorkSpace -Google Business Email</span>
                                                     </div>
                                                 </a>
                                             </div>
@@ -307,17 +331,49 @@
                                             </div>
                                         </div>
                                         <!-- end accordion item -->
+										
+										 <!-- start accordion item -->
+                                        <div class="accordion-item">
+                                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">IceWarp - Enterprise Collaborative Email Solution</span>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                            <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
+                                                    <p class="w-90 sm-w-95 xs-w-100">IceWarp is a Global Company having HO in Prague - Czech Republic.
+50 Million paid users world wide 50,000 customers worldwide
+ Partner Presence in 50 Countries
+ More than 20 Years of Experience
+</br>
+<strong>Key Features:</strong></br>
+<strong>Flexible Mailbox Storage Options:</strong> Choose from 1GB, 2GB, 5GB, 10GB, 30GB, 50GB, and 100GB as per your budget and requirements.</br>
+<strong>Advanced Communication Features:</strong> Instant Messaging (IM), Audio & Video Calls, TeamChat, and Video Conferencing.</br>
+<strong>Space Consolidation:</strong> Mailbox + Online Documents + Outlook Integration + Active Directory (AD) Integration.</br>
+<strong>Smart Mobile Support:</strong> ActiveSync and Lightweight Mobile Device Management (MDM).</br>
+<strong>Enhanced Security & Compliance:</strong> Anti-Virus (AV) & Anti-Spam (AS) powered by CISCO, DMARC Compliance & Reporting.</br>
+IceWarp offers a cost-effective, secure, and powerful email solution for your business.
+</br>
+
+
+                                                    </p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!-- end accordion item -->
                                       
                                         <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-03-04" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
                                                         <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Email on Linux Server (Unlimited Email IDs)</span>
                                                     </div>
                                                 </a>
                                             </div>
-                                            <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                            <div id="accordion-style-03-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                                     <p class="w-90 sm-w-95 xs-w-100">We Nifty Solutions has our own dedicated server hosted in India with very high configuration. This give you very less latency compare to out of India hosted server. Less latency means your website gets open very fast and email delivery will be very fast. Our Linux hosting plans are a great option to host your email. With several layers of protection such as RBL spammer IP blocking, SPF verification, Domainkeys signing, configurable SpamAssassin, custom spam filters and virus protection with Clam Antivirus you can be in complete control of your mailboxes.</br></br>
                                                         All our shared hosting Linux servers plans come with the extremely easy to use and very user friendly cPanel control panel. </br>
@@ -343,13 +399,13 @@
                                         <!-- start accordion item -->
                                         <div class="accordion-item">
                                             <div class="accordion-header border-bottom border-color-transparent">
-                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-04" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-04-05" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                                     <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
                                                         <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Hybrid Mailing</span>
                                                     </div>
                                                 </a>
                                             </div>
-                                            <div id="accordion-style-02-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                            <div id="accordion-style-04-05" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
                                                     <p class="w-90 sm-w-95 xs-w-100">Hybrid Email Systems are rapidly gaining traction due to their impressive flexibility and cost-effectiveness. They enable organizations to use premium services such as Google Workspace and Microsoft 365 for select users while offering a more economical email solution for the rest, all while preserving the same domain identity. Recent developments in Hybrid Email Systems have even exceeded the capabilities of Google Workspace and Microsoft 365 in certain areas.</br>
 Are you running your entire email infrastructure on G Suite or O365 and want to cut down on your recurring email hosting charges?</br>

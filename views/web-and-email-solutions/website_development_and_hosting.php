@@ -261,13 +261,24 @@
                                     <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                         <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-01" aria-expanded="true" data-bs-parent="#accordion-style-02">
                                             <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                <i class="feather icon-feather-minus fs-20"></i><span class="fs-17 fw-500">Q: How long does it take to develop a website?</span>
+                                                <i class="feather icon-feather-minus fs-20"></i><span class="fs-17 fw-500">Q: What Is Website Designing?</span>
                                             </div>
                                         </a>
                                     </div>
                                     <div id="accordion-style-02-01" class="accordion-collapse collapse show" data-bs-parent="#accordion-style-02">
                                         <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                            <p class="w-90 sm-w-95 xs-w-100">It depends on the complexity. A basic static site may take a few days, while a CMS-based or e-commerce site could take 2–4 weeks. Timelines also vary based on client feedback and revisions.</p>
+                                            <p class="w-90 sm-w-95 xs-w-100"><b>Website designing focuses on the look and feel of a site.</b><br><br>
+
+<b>Key Components:</b>
+<ul>
+  <li><b>UI/UX Design:</b> Ensuring the website is visually appealing and user-friendly.</li>
+  <li><b>Responsive Design:</b> Works seamlessly on desktops, tablets, and mobile devices.</li>
+  <li><b>Branding Elements:</b> Colors, fonts, logos, icons, and visual consistency.</li>
+  <li><b>Prototyping & Wireframing:</b> Planning the structure and layout before development.</li>
+</ul>
+
+<b>Tools Used:</b> Adobe XD, Figma, Sketch, Photoshop, Canva.
+</p>
                                         </div>
                                     </div>
                                 </div>
@@ -277,13 +288,22 @@
                                     <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                                         <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                             <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Q: Is Web Hosting included with Web Design?</span>
+                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Q: What Is Website Development?</span>
                                             </div>
                                         </a>
                                     </div>
                                     <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                         <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                            <p class="w-90 sm-w-95 xs-w-100">Yes. We offer secure, reliable hosting packages along with our web design services. You don’t have to coordinate with multiple vendors — we handle everything from design to deployment.</p>
+                                            <p class="w-90 sm-w-95 xs-w-100"><b>Website development deals with the coding and technical functionality of the website.</b><br><br>
+
+<b>Key Components:</b>
+<ul>
+  <li><b>Frontend Development (what users see):</b> HTML, CSS, JavaScript, frameworks like React or Vue.js.</li>
+  <li><b>Backend Development (what users don’t see):</b> Databases, server-side logic using PHP, Node.js, Python, etc.</li>
+  <li><b>CMS Integration:</b> WordPress, Joomla, or custom CMS.</li>
+  <li><b>Hosting & Domain Setup:</b> Deploying the site on a server and linking it to a domain.</li>
+</ul>
+</p>
                                         </div>
                                     </div>
                                 </div>
@@ -293,13 +313,37 @@
                                     <div class="accordion-header border-bottom border-color-transparent">
                                         <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-03" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                             <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Q: Can we update the website content myself later?</span>
+                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Q: Types of Websites You Can Build</span>
                                             </div>
                                         </a>
                                     </div>
                                     <div id="accordion-style-02-03" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                         <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
-                                            <p class="w-90 sm-w-95 xs-w-100">Yes. If you opt for a CMS-based website, you’ll be able to manage and update your content easily without needing to touch code.</p>
+                                            <p class="w-90 sm-w-95 xs-w-100">•	<strong>Static Website:</strong> Simple, fast, informational (e.g., portfolio, brochure sites).</br>
+•	<strong>Dynamic Website: </strong>Interactive with databases (e.g., blogs, news sites).</br>
+•	<strong>E-commerce Website:</strong> Online store (e.g., Shopify, WooCommerce, Magento).</br>
+</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end accordion item -->
+								<!-- start accordion item -->
+                                <div class="accordion-item">
+                                    <div class="accordion-header border-bottom border-color-transparent">
+                                        <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-03-04" aria-expanded="false" data-bs-parent="#accordion-style-02">
+                                            <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
+                                                <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">Q: Why It's Important</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div id="accordion-style-03-04" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
+                                        <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent">
+                                            <p class="w-90 sm-w-95 xs-w-100">
+•	Enhances online presence and brand image.</br>
+•	Builds trust with customers.</br>
+•	Enables sales, lead generation, or information sharing 24/7.</br>
+
+</p>
                                         </div>
                                     </div>
                                 </div>

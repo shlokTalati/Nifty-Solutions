@@ -105,7 +105,7 @@
                             <div class="opacity-light bg-charcoal-blue"></div>
                             <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                                 </br></br></br></br></br></br>
-                                <a href="https://www.fortinet.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                                <a href="https://www.fortinet.com/products/next-generation-firewall" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                             </div>
 
 
@@ -125,7 +125,7 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">Blocks Unauthorized Access</span>
+                                                        <span class="text-dark-gray fw-500">Block Internet access on Network Computer Or provide Limited website access by user, Category</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -137,7 +137,7 @@
                                                         <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                                     </div>
                                                     <div class="feature-box-content">
-                                                        <span class="text-dark-gray fw-500">Monitors Network Traffic</span>
+                                                        <span class="text-dark-gray fw-500">Provide access of your network from anywhere using Virtual Private Network (VPN)</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -306,7 +306,7 @@
                                 <div class="container overlap-gap-section">
                                     <div class="row justify-content-center mb-4">
                                         <div class="col-xl-7 col-lg-9 col-md-10 text-center">
-                                            <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Products</h3>
+                                            <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Firewall Offering</h3>
                                         </div>
                                     </div>
                                     <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>

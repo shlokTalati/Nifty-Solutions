@@ -40,8 +40,8 @@
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Employee Monitoring Software</span>
-                <h3 class="text-dark-gray fw-700 ls-minus-1px">Track Productivity and App Usage</h3>
-                <p class="w-95 md-w-100">Gain real-time insights into employee productivity with Motadata. Monitor app usage, track active and idle time, and identify inefficiencies. Make data-driven decisions to optimize workflows and ensure accountability across your organization.
+                <h3 class="text-dark-gray fw-700 ls-minus-1px">Silently Monitor and Track Staff Computer Activity to Boost Productivity Without Disrupting Their Workflow</h3>
+                <p class="w-95 md-w-100">Gain real-time insights into employee productivity. Monitor app usage, track active and idle time, and identify inefficiencies. Make data-driven decisions to optimize workflows and ensure accountability across your organization.
 
                 </p>
             </div>

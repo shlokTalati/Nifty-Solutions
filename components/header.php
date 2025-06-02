@@ -42,7 +42,7 @@
 
                                 <!-- Backup & Recovery -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">Backup & Recovery<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="javascript:void(0);">Data and Email backup<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/backup-and-recovery/data-backup"><i class="bi bi-archive text-dark icon-small me-10px"></i>Data Backup Software</a></li>
                                         <li><a href="/backup-and-recovery/email-backup"><i class="bi bi-envelope-paper text-dark icon-small me-10px"></i>Email Backup Solution</a></li>
@@ -54,10 +54,10 @@
 
                                 <!-- Web and Email Solutions -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">Web Dev. and Email Solutions<i class="fa-solid fa-angle-right"></i></a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="/web-and-email-services/website-development"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
+                                    <a href="javascript:void(0);">Email Solution & Web Development<i class="fa-solid fa-angle-right"></i></a>
+                                    <ul class="dropdown-menu">  
                                         <li><a href="/web-and-email-services/business-email"><i class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business Email Hosting</a></li>
+										 <li><a href="/web-and-email-services/website-development"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
                                         <li><a href="/web-and-email-services/ssl-certificate"><i class="bi bi-lock text-dark icon-small me-10px"></i>SSL Certificate</a></li>
                                         <li><a href="/web-and-email-services/bulk-smtp"><i class="bi bi-send-check text-dark icon-small me-10px"></i>Bulk Email / SMTP Services</a></li>
                                         <li><a href="/web-and-email-services/email-distribution"><i class="bi bi-diagram-3 text-dark icon-small me-10px"></i>Email Distribution Software</a></li>

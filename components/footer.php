@@ -48,7 +48,7 @@
                         <span class="fw-600 d-block text-dark-gray mb-5px">Need help?</span>
                         <span>Call us directly?</span>
                         <br>
-                        <span class="d-block mb-10px"><a class="text-dark-gray fw-600" href="tel:9825412230">+919825412230</a></span>
+                        <span class="d-block mb-10px"><a class="text-dark-gray fw-600" href="tel:9825412230">+91 9825412230</a></span>
                         <span>Need support?</span> <br>
                         <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support@<br>niftysolutions.co.in</a>
                     </div>

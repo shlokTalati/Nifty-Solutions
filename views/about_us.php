@@ -131,14 +131,14 @@
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
                   <div class="row">
                       <div class="col-md-5">
-                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Enterprise Email Hosting Solutions</div>
+                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Enterprise Email Hosting and Advance Email security solutions</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
                           <ul>
                               <li><strong>-</strong>Google Workspace, Microsoft O365, IceWarp</li>
                               <li><strong>-</strong>Linux Email Solution with Unlimited Email IDs</li>
-                              <li><strong>-</strong>Hybrid Email Solutions (Assign Google Workspace/Microsoft 365 accounts to key users and give rest users to use Enterprise class Email to Cut down licensing costs)</li>
-                              <li><strong>-</strong>Advanced Email Security: RMail, CISCO, SPAM Expert</li>
+                              <li><strong>-</strong>Hybrid Email Solutions (Assign Google Workspace/Microsoft 365 accounts to key users and give rest users to use Enterprise class Email to cut down recurring cost on email)</li>
+                              <li><strong>-</strong>Advanced Email Security: RMail, SPAM Expert</li>
                           </ul>
                       </div>
                   </div>
@@ -150,7 +150,7 @@
                       <div class="col-md-7 last-paragraph-no-margin">
                           <ul>
                               <li><strong>-</strong>Remote Desktop & Support: Iperius REMOTE, Team Viewer, AnyDesk</li>
-                              <li><strong>-</strong>Secure Remote Access for Specific Applications (Tally, Folders): TSPlus</li>
+                              <li><strong>-</strong>To provide full secure Remote Desktop (RDP) access to any user from anywhere OR access to specific applications and folders/data (eg. Tally, Folders): TSPlus</li>
                               <li><strong>-</strong>Employee Monitoring & Data Security: iMonitor</li>
                           </ul>
                       </div>
@@ -158,7 +158,7 @@
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
                   <div class="row">
                       <div class="col-md-5">
-                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Cybersecurity & Network Protection</div>
+                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Cyber security & Network Protection</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
                           <ul>
@@ -190,7 +190,7 @@
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
                           <ul>
-                              <li><strong>-</strong> VPS & Dedicated Server Hosting (ERP, Mobile Applications)</li>
+                              <li><strong>-</strong> VPS & Dedicated Server Hosting on cloud for ERP, CRM, Mobile Applications, Database, Mailing)</li>
                               <li><strong>-</strong> NAS Storage Solutions: Synology, QNAP</li>
                               <li><strong>-</strong> Domain, Website Design & Development, Hosting</li>
                           </ul>
@@ -208,10 +208,10 @@
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
                   <div class="row">
                       <div class="col-md-5">
-                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Bulk Email Software & SMTP Services for Promotional Email and Transection email</div>
+                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Bulk Email Solution</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <p><ul><li>We value each and every human life placed our hands constantly work towards meeting the expectations of our customers.</li></ul></p>
+                          <p><ul><li>Bulk Email Software & SMTP Services for Promotional Email and Transactional email(eg. from ERP, CRM, Tally).</li></ul></p>
                       </div>
                   </div>
               </div>

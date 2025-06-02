@@ -40,8 +40,9 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Disaster Recovery</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Plans & Tools for Recovering from Data Loss</h3>
-                    <p class="w-95 md-w-100">Data loss can happen due to hardware failure, human error, or cyberattacks. Having a recovery plan and the right tools is essential to minimize downtime and prevent business disruption. From automated backup software to disaster recovery as a service (DRaaS), these solutions ensure your data is protected, restorable, and compliant with regulatory standards.
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Advanced Cloud base Disaster Recovery </h3>
+                    <p class="w-95 md-w-100">Advanced Cloud base Disaster Recovery enables you to restore operations in a few clicks when your local production servers down because of hardware failure, ransomware, physical disaster. With minimum download time and minimum data loss, all your network users start working on your cloud infrastructure</br>
+					Data loss can happen due to hardware failure, human error, or cyberattacks. Having a disastery recovery plan and the right tools is essential to minimize downtime and prevent business disruption. From automated backup software to disaster recovery as a service (DRaaS), these solutions ensure your data is protected, restorable, and compliant with regulatory standards.
                     </p>
                 </div>
             </div>

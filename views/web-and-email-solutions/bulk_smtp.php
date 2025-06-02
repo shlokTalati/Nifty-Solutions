@@ -93,7 +93,7 @@
                             <div class="feature-box-content">
                                 <span class="d-inline-block text-dark-gray fw-600 fs-17 mb-5px">Bulk Sending Power
 </span>
-                                <p class="text-light-opacity">Send up to 200,000 emails/month with zero daily limits.
+                                <p class="text-light-opacity">Send from 2,500 to to 10,00,000 emails/month with zero daily limits.
 </p>
                             </div>
                             <div class="feature-box-overlay bg-base-color"></div>

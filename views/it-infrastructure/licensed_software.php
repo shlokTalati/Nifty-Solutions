@@ -215,7 +215,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">11111111111111111111</span>
+                                            <span class="text-dark-gray fw-500">Legal Compliance</span>
                                         </div>
                                     </div>
                                 </div>
@@ -227,7 +227,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">222222222222222222222</span>
+                                            <span class="text-dark-gray fw-500">Regular Updates & Security Patches</span>
                                         </div>
                                     </div>
                                 </div>
@@ -239,7 +239,7 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">33333333333333333333333</span>
+                                            <span class="text-dark-gray fw-500">Reliable Performance & Stability</span>
                                         </div>
                                     </div>
                                 </div>
@@ -251,12 +251,34 @@
                                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                                         </div>
                                         <div class="feature-box-content">
-                                            <span class="text-dark-gray fw-500">444444444444444444444444444</span>
+                                            <span class="text-dark-gray fw-500">Technical Support & Documentation</span>
                                         </div>
                                     </div>
                                 </div>
                                 <!-- end features box item -->
-                              
+                               <!-- start features box item -->
+                                <div class="icon-with-text-style-08">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Full Features & Functionality</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item --> <!-- start features box item -->
+                                <div class="icon-with-text-style-08">
+                                    <div class="feature-box feature-box-left-icon-middle overflow-hidden">
+                                        <div class="feature-box-icon feature-box-icon-rounded w-35px h-35px bg-very-light-gray rounded-circle me-15px">
+                                            <i class="fa-solid fa-check fs-12 text-base-color"></i>
+                                        </div>
+                                        <div class="feature-box-content">
+                                            <span class="text-dark-gray fw-500">Data Security & Privacy</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end features box item -->
                             </div>
                             <div class="col-lg-6 offset-xl-1 position-relative z-index-1" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
                                 <div class="atropos" data-atropos data-atropos-perspective="2450">

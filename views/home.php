@@ -411,8 +411,8 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-70" alt="">
-                                </div>
+                                    <img src="/public/images/clients/client-logo-jyoti.png" class="max-width-70" alt="">
+                              </div>
                             </div>
                         </div>
                         <!-- end features box item -->
@@ -429,7 +429,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 md-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-banco.png" class="max-width-70" alt="">
+                                    <img src="/public/images/clients/client-logo-glf.png" class="max-width-70" alt="">
                                 </div>
                             </div>
                         </div>
@@ -437,7 +437,7 @@
                         <!-- start features box item -->
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
-                                <div class="feature-box-icon bg-light">
+                                <div class="feature-box-icon">
                                    <img src="/public/images/clients/client-logo-erda.png" class="max-width-70" alt="">
                                 </div>
                             </div>
@@ -446,7 +446,7 @@
                         <!-- start features box item -->
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-1 md-border-end sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
-                                <div class="feature-box-icon bg-light">
+                                <div class="feature-box-icon">
                                     <img src="/public/images/clients/client-logo-idmc.png" class="max-width-70" alt="">
                                 </div>
                             </div>
@@ -455,8 +455,8 @@
                         <!-- start features box item -->
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
-                                <div class="feature-box-icon bg-light">
-                                    <img src="/public/images/clients/client-logo-kcmehta.png" class="max-width-70" alt="">
+                                <div class="feature-box-icon">
+                                    <img src="/public/images/clients/client-logo-pdil.png" class="max-width-70" alt="">
                                 </div>
                             </div>
                         </div>
@@ -465,7 +465,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-end-0 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-panasonic.svg" class="max-width-70" alt="">
+                                    <img src="/public/images/clients/client-logo-panasonic.png" class="max-width-70" alt="">
                                 </div>
                             </div>
                         </div>
@@ -492,7 +492,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-70" alt="">
+                                    <img src="/public/images/clients/client-logo-zeppelin.png" class="max-width-70" alt="">
                                 </div>
                             </div>
                         </div>
@@ -501,7 +501,7 @@
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img src="/public/images/clients/client-logo-checkmate.png" class="max-width-70" alt="">
+                                    <img src="/public/images/clients/client-logo-lonsen-kiri.png" class="max-width-70" alt="">
                                 </div>
                             </div>
                         </div>

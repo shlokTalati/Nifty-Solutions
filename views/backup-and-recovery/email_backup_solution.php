@@ -40,8 +40,8 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Email Backup Solution</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Email Backup</h3>
-                    <p class="w-95 md-w-100">Email Specific Backup ensures secure, automated backups of all emails, attachments, and metadata, enabling quick recovery, compliance, and uninterrupted access across platforms like Microsoft 365 and Gmail.
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Automatically securely backs up your entire organization's email into a centralized archive</h3>
+                    <p class="w-95 md-w-100">It is compatible with all mail systems including Google Workspace, Microsoft 365, Zimbra, Exchange, LINUX, ZOHO, Icewarp, RediffPro and any on-premise or cloud-based email servers on Linux or Windows.
                     </p>
                    
                 </div>

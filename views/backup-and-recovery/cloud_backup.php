@@ -40,8 +40,10 @@
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Cloud Backup</span>
-                <h3 class="text-dark-gray fw-700 ls-minus-1px">Encrypted off Site Backups</h3>
-                <p class="w-95 md-w-100">Cloud Backup provide secure, remote storage of your critical data, protected with advanced encryption protocols like AES-256. This approach safeguards against local disasters, ransomware, and unauthorized access while ensuring business continuity. Off-site backups are essential for compliance, disaster recovery, and maintaining data integrity across geographically distributed environments.
+                <h3 class="text-dark-gray fw-700 ls-minus-1px">Encrypted Off-Site Backups</h3>
+                <p class="w-95 md-w-100">
+				Automatic Data Backup like File/Folders, Databases, Image to cloud/off Site to protect against ransomware, Physical disaster, Computer Hardware failure, Human Error with encryption and password protection to restore data any time anywhere securely</br>
+				In today’s technology-driven world, relying solely on on-premise backup is not a foolproof solution. It is essential to maintain a second copy of important data on the cloud or at an offsite location to ensure protection against any disaster. Cloud Backup provide secure, remote storage of your critical data, protected with advanced encryption protocols like AES-256. 
                 </p>
             </div>
         </div>
@@ -75,7 +77,7 @@
                         <div class="opacity-light bg-charcoal-blue"></div>
                         <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                             </br></br></br></br></br></br>
-                            <a href="https://www.acronis.com/en-sg/solutions/cloud-backup/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                            <a href="https://www.acronis.com/en-sg/products/cyber-protect/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
                         </div>
                         <!-- end back side -->
                     </div>
@@ -99,7 +101,7 @@
                         <div class="opacity-light bg-charcoal-blue"></div>
                         <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                             </br></br></br></br></br></br>
-                            <a href="https://www.bkp365.com/" target="_blank" class="btn btn-medium btn-rounded with-rounded btn-base-color btn-box-shadow">Learn more<span class="bg-white text-base-color"><i class="feather icon-feather-arrow-right"></i></span></a>
+                           
                         </div>
                         <!-- end back side -->
                     </div>

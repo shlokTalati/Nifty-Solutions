@@ -40,8 +40,9 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Network Attached Storage (NAS)</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Centralized Data Storage over the Network</h3>
-                    <p class="w-95 md-w-100">QNAP Systems, Inc. specializes in Network-Attached Storage (NAS) solutions designed for both home and business users. Their NAS devices offer centralized data storage, multimedia streaming, backup solutions, and more, all accessible through a user-friendly interface.
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Network-Attached Storage (NAS)</h3>
+                    <p class="w-95 md-w-100">Network-Attached Storage (NAS) can be used for multiple purposes, such as providing centralized data access to network users with user-specific write permissions (like a file server), enabling automatic backup of all network data, and allowing remote access to data from anywhere</br>
+					Network-Attached Storage (NAS) solutions designed for both home and business users. Their NAS devices offer centralized data storage, multimedia streaming, backup solutions, and more, all accessible through a user-friendly interface.
                     </p>
                 </div>
             </div>

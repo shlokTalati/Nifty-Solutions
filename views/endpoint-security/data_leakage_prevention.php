@@ -335,7 +335,7 @@ eScan DLP assists in categorizing and securing data:</br>
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <img src="/public/images/antivirus/antivirus-bitdefender.jpg" alt="">
+                                        <img src="/public/images/dlp/" alt="">
                                         <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Safetica</span>
                                     </div>
                                     <div class="bg-white">
@@ -361,7 +361,7 @@ eScan DLP assists in categorizing and securing data:</br>
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                <img src="/public/images/antivirus/antivirus-escan.jpg" alt="">
+                                <img src="/public/images/dlp" alt="">
                                         <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">eScan</span>
                                     </div>
                                     <div class="bg-white">

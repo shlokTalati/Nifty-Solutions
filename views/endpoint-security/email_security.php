@@ -40,7 +40,7 @@
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Email Security</span>
-                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Spam Filtering, Phishing Protection</h3>
+                    <h3 class="text-dark-gray fw-700 ls-minus-1px">Protection against SPAM, Virus, Malware, Ransomwarepam, spoofed email, Phishing</h3>
                     <p class="w-95 md-w-100">Our Email Security solutions are designed to protect your organization’s communication channels from threats like phishing, malware, and unauthorized data access.
                     </p>
                     <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
