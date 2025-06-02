@@ -65,7 +65,6 @@
                     <!-- start front side -->
                     <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                         <div class="rotate-content-front z-index-2 p-30px">
-                            <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                             <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> iMonitor</div>
                             <span>iMonitor software offers powerful employee monitoring, tracking user activity, internet usage, and productivity to enhance workplace transparency and efficiency.</span>
                         </div>

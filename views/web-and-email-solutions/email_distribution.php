@@ -63,7 +63,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Postmaster</div>
                                 <span>PostMaster Enterprise is a versatile, robust and highly scalable solution that addresses all the email-related requirements of mid-sized and large organizations.</span>
                             </div>

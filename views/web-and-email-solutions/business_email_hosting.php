@@ -62,7 +62,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Microsoft Office 365 </div>
                                 <span>A cloud-based suite offering professional email, calendars, and productivity tools with seamless Outlook integration and enterprise-grade security.</span>
                             </div>
@@ -86,7 +85,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Google Workspace</div>
                                 <span>Google’s business email solution with Gmail, Drive, Docs, and more—perfect for teams needing collaboration, accessibility, and simplicity.</span>
                             </div>
@@ -110,7 +108,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Icewarp</div>
                                 <span>IceWarp is a Global Company having HO in Prague - Czech Republic. 50 Million paid users world wide 50,000 customers worldwide</span>
                             </div>
@@ -134,7 +131,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Linux</div>
                                 <span>A cost-effective, open-source email server offering complete control, strong security, and full customization for tech-savvy organizations.
 </span>
@@ -159,7 +155,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-04.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Hybrid Mail</div>
                                 <span>Combines cloud and on-premise email systems for flexibility, backup, and compliance—ideal for businesses with complex IT needs.</span>
                             </div>

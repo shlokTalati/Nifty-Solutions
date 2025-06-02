@@ -73,7 +73,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> Spam Expert</div>
                                 <span>SpamExperts offers advanced inbound and outbound email filtering, blocking spam, phishing, and malware before they reach your mailbox.</span>
                             </div>
@@ -97,7 +96,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Rmail</div>
                                 <span>RMail secures your outbound communication with encryption, e-signatures, and proof-of-delivery, ensuring your messages are tamper-proof and compliant.</span>
                             </div>
@@ -368,23 +366,13 @@ Append a yellow private note at the tip of your email message that is only visib
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-            <img src="/public/images/antivirus-bitdefender.jpg" alt="">
+            <img src="" alt="">
                                         <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Spam Expert</span>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <span href="demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Spam Expert</span>
+                                            <span href="https://www.spamexperts.com/" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> Spam Expert</span>
                                             <p>SpamExperts provides 99.98% spam detection accuracy, customizable policies, and threat analysis dashboards to protect your domain reputation.</p>
-                                        </div>
-                                        <!-- This is Button, can be enabled in the future -->
-                                        <div class="d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -401,16 +389,6 @@ Append a yellow private note at the tip of your email message that is only visib
                                         <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
                                             <span class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Rmail</span>
                                             <p>RMail enables secure and verifiable email delivery with built-in audit trails, reducing risk and legal exposure in sensitive communications.</p>
-                                        </div>
-                                        <!-- This is Button, can be enabled in the future -->
-                                        <div class="d-none justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="javascript:void(0)" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
                                         </div>
                                     </div>
                                 </div>

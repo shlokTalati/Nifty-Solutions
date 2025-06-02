@@ -66,7 +66,6 @@
                     <!-- start front side -->
                     <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                         <div class="rotate-content-front z-index-2 p-30px">
-                            <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                             <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> Acronis</div>
                             <span>Reliable cloud backup and cyber protection platform with fast recovery, AI-based security, and multi-platform support.</span>
                         </div>
@@ -90,7 +89,6 @@
                     <!-- start front side -->
                     <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                         <div class="rotate-content-front z-index-2 p-30px">
-                            <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                             <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BKP365</div>
                             <span>Scalable, easy-to-use backup solution offering encrypted storage, automated scheduling, and seamless recovery for diverse business environments.</span>
                         </div>

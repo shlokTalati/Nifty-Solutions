@@ -65,7 +65,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-02.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px"> MailVault</div>
                                 <span>MailVault securely archives emails, ensures compliance, enables easy search, and simplifies long-term email storage.</span>
                             </div>
@@ -89,7 +88,6 @@
                         <!-- start front side -->
                         <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                             <div class="rotate-content-front z-index-2 p-30px">
-                                <img class="mb-25px h-70px" src="../endpoint-security/images/demo-lawyer-practice-areas-icon-03.svg" alt="">
                                 <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">MailStore</div>
                                 <span>MailStore offers secure email archiving, fast search, regulatory compliance, and efficient storage for all mailboxes.</span>
                             </div>
@@ -299,84 +297,6 @@ Nifty Solutions is an authorized partner for MailStore Server, a globally truste
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </section>
-                <!-- end section -->
-                <!-- start section -->
-                 <!-- This section is hidden by default and can be displayed as needed. -->
-                <section class="bg-very-light-gray overlap-height position-relative d-none">
-                    <div class="container overlap-gap-section">
-                        <div class="row justify-content-center mb-4">
-                            <div class="col-xl-7 col-lg-9 col-md-10 text-center">
-                                <h3 class="text-dark-gray fw-700 ls-minus-2px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Our Products</h3>
-                            </div>
-                        </div>
-                        <div class="row row-cols-1 row-cols-lg-3 row-cols-md-2 justify-content-center mb-8" data-anime='{ "el": "childs", "translateY": [50, 0], "translateX": [-30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <!-- start services box style -->
-                            <div class="col md-mb-30px">
-                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-bitdefender.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">MailVault</a>
-                                    </div>
-                                    <div class="bg-white">
-                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px"> MailVault</a>
-                                            <p>text to be given by Manav/ Shlok</p>
-                                        </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end services box style -->
-                            <!-- start services box style -->
-                            <div class="col md-mb-30px">
-                                <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
-                                        <a href="../endpoint-security/demo-it-business-services-details.html"><img src="/public/images/antivirus-escan.jpg" alt=""></a>
-                                        <a href="#" class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">MailStore</a>
-                                    </div>
-                                    <div class="bg-white">
-                                        <div class="ps-65px pe-65px lg-ps-30px lg-pe-30px pt-30px pb-30px text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">MailStore</a>
-                                            <p>text to be given by Manav/ Shlok </p>
-                                        </div>
-                                        <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="../endpoint-security/demo-it-business-services-details.html" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- end services box style -->
-                           
-                        </div>
-                    </div>
-                    <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
-                        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
-                            <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
-                                <animate
-                                    attributeName="d"
-                                    dur="5s"
-                                    values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
-                            M 0 250 C 400 50 400 400 3000 250 L 3000 550 L 0 550 L 0 250;
-                            M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250"
-                                    repeatCount="indefinite" />
-                            </path>
-                        </svg>
                     </div>
                 </section>
                 <!-- end section -->
