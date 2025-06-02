@@ -41,7 +41,7 @@ if ($cleanPath === 'sendmail') {
 
 // 3.3 Check for sitemap.xml
 if ($cleanPath === 'sitemap.xml') {
-    $sitemapPath = __DIR__ . '/sitemap.xml'; // Or wherever you put it
+    $sitemapPath = __DIR__ . '/sitemap.xml';
 
     if (file_exists($sitemapPath)) {
         header('Content-Type: application/xml');

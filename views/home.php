@@ -249,7 +249,7 @@
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/endpoint-security/data-leakage-prevention"><img src="public/images/home-product-dlp
+                                                    <a href="/endpoint-security/data-leakage-prevention"><img src="/public/images/home-product-dlp
 .png" alt=""></a>
                                                 </div>
                                                 <div class="bg-white">
@@ -515,7 +515,6 @@
                 <div class="container">
                     <div class="row align-items-center justify-content-center g-0" data-anime='{  "opacity": [0,1], "duration": 600, "delay":0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <div class="col-auto d-flex align-items-center">
-                            <img src="/public/images/logo-nifty.png" alt="">
                             <div class="fs-17 lh-26 last-paragraph-no-margin text-white pt-15px pb-15px fw-500">
                                 <p>Save your precious time and effort spent for finding a solution. <a href="/contact-us" class="text-decoration-line-bottom text-white">Contact us now</a></p>
                             </div>

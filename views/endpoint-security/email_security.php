@@ -382,7 +382,6 @@ Append a yellow private note at the tip of your email message that is only visib
                             <div class="col md-mb-30px">
                                 <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-<img src="/public/images/antivirus-escan.jpg" alt="">
                                         <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Rmail</span>
                                     </div>
                                     <div class="bg-white">
