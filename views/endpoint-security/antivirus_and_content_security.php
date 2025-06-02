@@ -1,4 +1,5 @@
-<?php $pageTitle = "Antivirus and Content Security" ?>
+<?php $page_title = "Antivirus and Content Security";
+$meta_description ="Comprehensive antivirus and content security solutions by Nifty Solutions. Real-time malware protection, web filtering, and content monitoring to keep your endpoints secure from cyber threats."?>
 
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/antivirus/antivirus-inner.jpg');">

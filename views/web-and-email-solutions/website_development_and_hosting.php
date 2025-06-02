@@ -1,4 +1,5 @@
-<?php $pageTitle="Web Developement & Hosting" ?>
+<?php $page_title = "Web Developement & Hosting";
+$meta_description = "Custom website development services by Nifty Solutions. Responsive design, SEO optimization, e-commerce solutions, and modern web technologies for your business success."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/wed-hosting/web-hosting-inner.jpg');">
             <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block"> 

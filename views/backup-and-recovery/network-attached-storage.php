@@ -1,4 +1,5 @@
-<?php $pageTitle = "Network Attached Storage (NAS)" ?>
+<?php $page_title = "Network Attached Storage (NAS)";
+$meta_description = "Network Attached Storage solutions by Nifty Solutions. Centralized data management, secure file sharing, and scalable storage for efficient business operations and backup."?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/nas/nas-inner.png');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

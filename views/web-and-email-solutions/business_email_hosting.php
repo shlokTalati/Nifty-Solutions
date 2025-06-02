@@ -1,4 +1,5 @@
-<?php $pageTitle="Business Email" ?>
+<?php $page_title = "Business Email";
+$meta_description = "Professional business email solutions from Nifty Solutions. Custom domain emails, secure hosting, spam protection, and 24/7 support for reliable business communication."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/business-email/business-email-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

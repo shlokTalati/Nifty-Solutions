@@ -1,4 +1,5 @@
-<?php $pageTitle="Downloads" ?>
+<?php $page_title = "Downloads";
+$meta_description = "Download Nifty Solutions brochures, feature sheets & product information. Access technical specs for backup software, email security & IT solutions."?>
 
 <!-- Hero Section -->
 <!-- start page title -->

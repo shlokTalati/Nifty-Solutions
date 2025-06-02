@@ -1,4 +1,5 @@
-<?php $pageTitle="Email Distribution Software" ?>
+<?php $page_title = "Email Distribution Software";
+$meta_description = "Efficient email distribution services from Nifty Solutions. Mass email campaigns, automated distribution, delivery tracking, and list management for effective marketing." ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/email-distribution/email-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

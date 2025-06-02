@@ -1,4 +1,5 @@
-<?php $pageTitle="Data Leakage Prevention" ?>
+<?php $page_title = "Data Leakage Prevention";
+$meta_description = "Prevent data breaches with Nifty Solutions' data leakage prevention services. Monitor, detect, and block unauthorized data transfers to protect sensitive business information and ensure compliance."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/dlp/dlp-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

@@ -1,4 +1,7 @@
-<?php $pageTitle="Contact Us" ?>
+<?php
+$page_title = "Contact Us";
+$meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +91 9825412230 or visit us at Nilamber Triumph, Gotri-Vasna Road. Expert IT solutions & consultation available.";
+?>
 <!-- start page title -->
         <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/contact-inner.jpg');">
             <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block"> 

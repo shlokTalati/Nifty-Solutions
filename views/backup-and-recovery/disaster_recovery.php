@@ -1,4 +1,5 @@
-<?php $pageTitle="Disaster Recovery" ?>
+<?php $page_title = "Disaster Recovery";
+$meta_description= "Business continuity with Nifty Solutions' disaster recovery services. Rapid recovery, minimal downtime, and comprehensive planning to keep your operations running during emergencies." ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/disaster-recovery/disaster-recovery-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

@@ -1,4 +1,5 @@
-<?php $pageTitle="Bulk Email / SMTP Services" ?>
+<?php $page_title = "Bulk Email / SMTP Services";
+$meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume email delivery, marketing campaigns, transactional emails, and detailed analytics for business growth."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/bulk-smtp/bulk-inner.png');">
             <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block"> 

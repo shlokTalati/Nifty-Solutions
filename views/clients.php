@@ -1,4 +1,5 @@
-<?php $pageTitle="Clients" ?>
+<?php $page_title="Clients" ;
+$meta_description = "Trusted IT partner for 100+ companies including Astral Pipes, Panasonic & IDMC. View our client portfolio showcasing long-term IT solution partnerships." ?>
 <!-- start page title -->
   <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/client-inner.png');">
       <div class="shape-image-animation p-0 w-100 d-none d-md-block">

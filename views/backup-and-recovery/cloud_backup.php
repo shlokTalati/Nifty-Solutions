@@ -1,4 +1,5 @@
-<?php $pageTitle = "Cloud Backup" ?>
+<?php $page_title = "Cloud Backup";
+$meta_description = "Secure cloud backup solutions from Nifty Solutions. Scalable storage, automated backups, and 24/7 accessibility to protect your data with enterprise-grade security." ?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/cloud-backup/cloud-backup-inner.png');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

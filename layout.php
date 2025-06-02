@@ -20,11 +20,11 @@
     to set the canonical URL dynamically for each page. -->
     <link rel="canonical" href="<?= htmlspecialchars('https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'), ENT_QUOTES, 'UTF-8') ?>" />
 
-    <title><?= isset($pageTitle) ? $pageTitle : 'Nifty Solutions' ?></title>
+    <title><?= isset($page_title) ? $page_title : 'Nifty Solutions' ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <meta name="description" content="">
+    <meta name="description" content="<?= isset($meta_description) ? $meta_description : 'Nifty Solutions provides complete IT solutions in Vadodara - data backup, enterprise email, firewall security, web development & hardware. Expert IT support for businesses.' ?>">
     <meta name="robots" content="index, follow">
     <!-- favicon icon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/public/images/apple-touch-icon.png">
@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="/public/css/vendors.min.css" />
     <link rel="stylesheet" href="/public/css/icon.min.css" />
     <link rel="stylesheet" href="/public/css/style.css" />
-    <link rel="stylesheet" href="/public/css/responsive.css" />
+    <link rel="stylesheet" href="/public/css/responsive.min.css" />
     <link rel="stylesheet" href="/public/css/demo-it-business.css" />
 </head>
 

@@ -1,4 +1,4 @@
-<?php $pageTitle="Computer Hardware & AMC" ?>
+<?php $page_title="Computer Hardware & AMC" ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/hardware-network/hardware-network-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

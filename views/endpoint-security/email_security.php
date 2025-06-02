@@ -1,4 +1,5 @@
-<?php $pageTitle="Email Security" ?>
+<?php $page_title = "Email Security";
+$meta_description = "Secure your email communications with Nifty Solutions' email security services. Advanced spam filtering, phishing protection, and encryption to protect against email-based cyber attacks."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/email-security/email-security-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

@@ -1,4 +1,5 @@
-<?php $pageTitle="Data Backup Software" ?>
+<?php $page_title = "Data Backup Software";
+$meta_description = "Reliable data backup solutions from Nifty Solutions. Automated backups, secure storage, and easy recovery to protect your critical business data from loss or corruption."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/databackup/databackup-inner.png');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

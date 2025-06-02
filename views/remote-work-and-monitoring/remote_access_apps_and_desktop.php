@@ -1,4 +1,4 @@
-<?php $pageTitle="Remote Access Apps and Desktop" ?>
+<?php $page_title="Remote Access Apps and Desktop" ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/remote-access/remote-access-inner.jpg');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">

@@ -1,4 +1,5 @@
-<?php $pageTitle = "Firewall" ?>
+<?php $page_title = "Firewall";
+$meta_description = "Protect your network with advanced firewall solutions from Nifty Solutions. Enterprise-grade security, threat detection, and 24/7 monitoring to safeguard your business data and infrastructure."?>
 
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/firewall/firewall-inner.jpg');">

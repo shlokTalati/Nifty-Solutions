@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = "Page Not Found";
+$page_title = "Page Not Found";
 ?>
 
 <!-- start page title -->

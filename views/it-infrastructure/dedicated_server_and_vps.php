@@ -1,4 +1,4 @@
-<?php $pageTitle = "Dedicated Server & VPS" ?>
+<?php $page_title = "Dedicated Server & VPS" ?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/dedicated-vps/dedicated-vps-inner.png');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
