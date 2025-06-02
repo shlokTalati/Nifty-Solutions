@@ -14,6 +14,12 @@
 
         gtag('config', 'G-HFJPXGTH23');
     </script>
+
+    <!-- Auto-generated canonical tag to avoid duplicate content issues. 
+    This uses the current domain and URL path (without query parameters) 
+    to set the canonical URL dynamically for each page. -->
+    <link rel="canonical" href="<?= htmlspecialchars('https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'), ENT_QUOTES, 'UTF-8') ?>" />
+
     <title><?= isset($pageTitle) ? $pageTitle : 'Nifty Solutions' ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -33,6 +39,7 @@
     <link rel="stylesheet" href="/public/css/icon.min.css" />
     <link rel="stylesheet" href="/public/css/style.css" />
     <link rel="stylesheet" href="/public/css/responsive.css" />
+    <link rel="stylesheet" href="/public/css/demo-it-business.css" />
 </head>
 
 <body data-mobile-nav-style="full-screen-menu" data-mobile-nav-bg-color="#252840">

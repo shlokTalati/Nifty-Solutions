@@ -89,13 +89,13 @@
                     <!-- start front side -->
                     <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                         <div class="rotate-content-front z-index-2 p-30px">
-                            <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BKP365</div>
+                            <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BKP360</div>
                             <span>Scalable, easy-to-use backup solution offering encrypted storage, automated scheduling, and seamless recovery for diverse business environments.</span>
                         </div>
                     </div>
                     <!-- end front side -->
                     <!-- start back side -->
-                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/cloud-backup/bkp365.jpg')">
+                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/cloud-backup/BKP360.jpg')">
                         <div class="opacity-light bg-charcoal-blue"></div>
                         <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                             </br></br></br></br></br></br>
@@ -294,18 +294,18 @@
                         <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                             <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
                                 <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">BKP365</span>
+                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">BKP360</span>
                                 </div>
                             </a>
                         </div>
                         <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                 <p class="w-90 sm-w-95 xs-w-100">
-                                <p><strong>BKP365 – Affordable, Secure & Scalable Cloud Storage for Businesses</strong></p>
+                                <p><strong>BKP360 – Affordable, Secure & Scalable Cloud Storage for Businesses</strong></p>
 
-                                <p><strong>Nifty Solutions brings you BKP365 – a next-gen cloud storage solution</strong> built for modern businesses that demand cost-efficiency, data security, and total control. BKP365 cuts your storage costs by up to <strong>70%</strong> compared to major hyperscalers, <strong>with zero hidden charges</strong>, no fees for egress or API requests, and free immutable backups for ransomware protection.</p>
+                                <p><strong>Nifty Solutions brings you BKP360 – a next-gen cloud storage solution</strong> built for modern businesses that demand cost-efficiency, data security, and total control. BKP360 cuts your storage costs by up to <strong>70%</strong> compared to major hyperscalers, <strong>with zero hidden charges</strong>, no fees for egress or API requests, and free immutable backups for ransomware protection.</p>
 
-                                <p><strong>🔐 Key Features of BKP365 Cloud Storage</strong></p>
+                                <p><strong>🔐 Key Features of BKP360 Cloud Storage</strong></p>
 
                                 <p><strong>Enterprise-Grade Security</strong></p>
                                 <ul>
@@ -335,7 +335,7 @@
                                     <li>Search & Monitor: Smart file search + real-time storage usage stats.</li>
                                 </ul>
 
-                                <p><strong>💼 Why BKP365 Makes Business Sense</strong></p>
+                                <p><strong>💼 Why BKP360 Makes Business Sense</strong></p>
                                 <ul>
                                     <li>Slash your cloud bills without sacrificing performance</li>
                                     <li>Lock your data from ransomware with free object-locking</li>
@@ -344,7 +344,7 @@
                                     <li><strong>30-day Free Trial</strong> with 1 TB storage — no obligations</li>
                                 </ul>
 
-                                <p><strong>🔗 Explore more with BKP365 from Nifty Solutions</strong></p>
+                                <p><strong>🔗 Explore more with BKP360 from Nifty Solutions</strong></p>
 
                                 </p>
                             </div>

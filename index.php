@@ -55,7 +55,8 @@ if ($cleanPath === 'sitemap.xml') {
     }
 }
 
-
+// 4. Check for older URLs and redirect if necessary
+require(__DIR__ . '/redirect.php'); // This file contains the $redirects array and logic
 
 // 4. Check if view route exists
 if (array_key_exists($cleanPath, $routes)) {
