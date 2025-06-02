@@ -30,7 +30,7 @@
         <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
             <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <figure class="position-relative m-0">
-                    <img src="/public/images/dedicated-vps/dedicated-vps1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    <img src="/public/images/dedicated-vps/dedicated-vps1.jpg" alt="VPS" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 </figure>
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
@@ -202,7 +202,7 @@
                     <div class="atropos-scale">
                         <div class="atropos-rotate">
                             <div class="atropos-inner">
-                                <img src="/public/images/dedicated-vps/dedicated-vps-draw.jpg" alt="" class="border-radius-6px w-100" />
+                                <img src="/public/images/dedicated-vps/dedicated-vps-draw.jpg" alt="VPS Drawing" class="border-radius-6px w-100" />
                             </div>
                         </div>
                     </div>
@@ -216,7 +216,7 @@
         <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
             <div class="col-12">
                 <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dedicated-vps/dedicated-vps-icon.png" alt=""></div>
+                    <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/dedicated-vps/dedicated-vps-icon.png" alt="VPS Icon"></div>
                     <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Detailed Information</span>
                     <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                     <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">

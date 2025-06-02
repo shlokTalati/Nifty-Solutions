@@ -30,7 +30,7 @@
         <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
             <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <figure class="position-relative m-0">
-                    <img src="/public/images/ssl/ssl1.jpg" alt="" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    <img src="/public/images/ssl/ssl1.jpg" alt="SSL Certificate" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
                         <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
@@ -129,7 +129,7 @@
             </div>
             <div class="col-lg-6 text-center md-mb-20px offset-xl-1">
                 <figure class="position-relative mb-0 overflow-hidden" data-shadow-animation="true" data-bottom-top="transform: translateY(70px)" data-top-bottom="transform: translateY(-70px)">
-                    <img src="/public/images/ssl/ssl2.jpg" class="w-100 border-radius-6px" alt="">
+                    <img src="/public/images/ssl/ssl2.jpg" class="w-100 border-radius-6px" alt="SSL Certificate">
                     <figcaption class="position-absolute border-radius-4px text-center right-30px bottom-30px pt-35px pb-35px ps-5px pe-5px bg-white-transparent glass-effect">
                         <span class="fs-80 lh-75 text-dark-gray ls-minus-4px position-relative fw-800 mb-5px d-block alt-font">SSL<sub class="fs-40 lh-40 text-dark-gray position-relative top-minus-40px">+</sub></span>
                         <span class="d-block mx-auto fs-14 fw-700 lh-20 w-200px text-center text-dark-gray text-uppercase">https://</span>
@@ -211,7 +211,7 @@
                             <div class="atropos-scale">
                                 <div class="atropos-rotate">
                                     <div class="atropos-inner">
-                                        <img src="/public/images/ssl/ssl-draw.jpg" alt="" class="border-radius-6px w-100" />
+                                        <img src="/public/images/ssl/ssl-draw.jpg" alt="SSL Certificate Drawing" class="border-radius-6px w-100" />
                                     </div>
                                 </div>
                             </div>
@@ -224,7 +224,7 @@
                 <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <div class="col-12">
                         <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                            <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/ssl/ssl-icon.png" alt=""></div>
+                            <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/ssl/ssl-icon.png" alt="SSL Certificate Icon"></div>
                             <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Detailed Information</span>
                             <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                             <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">

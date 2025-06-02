@@ -279,7 +279,7 @@
               </div>
               <div class="col-lg-6 text-center md-mb-20px offset-xl-1">
                   <figure class="position-relative mb-0 overflow-hidden" data-shadow-animation="true" data-bottom-top="transform: translateY(70px)" data-top-bottom="transform: translateY(-70px)">
-                      <img src="public/images/about-planning.jpg" class="w-100 border-radius-6px" alt="">
+                      <img src="public/images/about-planning.jpg" class="w-100 border-radius-6px" alt="planning steps">
                       <figcaption class="position-absolute border-radius-4px text-center right-30px bottom-30px pt-35px pb-35px ps-5px pe-5px bg-white-transparent glass-effect">
                           <span class="fs-80 lh-75 text-dark-gray ls-minus-4px position-relative fw-800 mb-5px d-block alt-font">26<sub class="fs-40 lh-40 text-dark-gray position-relative top-minus-40px">+</sub></span>
                           <span class="d-block mx-auto fs-14 fw-700 lh-20 w-200px text-center text-dark-gray text-uppercase">Years working experience</span>

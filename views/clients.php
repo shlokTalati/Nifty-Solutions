@@ -45,13 +45,13 @@
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center bg-black">
-                          <img src="/public/images/clients/client-logo-anwesha.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-anwesha.png" alt="Anwesha Technologies client logo - IT services partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-astral.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-astral.png" alt="Astral Pipes client logo - trusted business partner" class="img-fluid">
                       </div>
                   </div>
                  
@@ -59,80 +59,80 @@
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-erda.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-erda.png" alt="ERDA client logo - enterprise solutions partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-idmc.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-idmc.png" alt="IDMC client logo - digital transformation partner" class="img-fluid">
                       </div>
                   </div>
                   
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-panasonic.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-panasonic.png" alt="Panasonic client logo - global electronics partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-silox.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-silox.png" alt="Silox client logo - technology solutions partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-sudeep-pharma.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-sudeep-pharma.png" alt="Sudeep Pharma client logo - pharmaceutical industry partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-lonsen-kiri.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-lonsen-kiri.png" alt="Lonsen Kiri client logo - corporate solutions partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-glf.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-glf.png" alt="GLF client logo - business services partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-pdil.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-pdil.png" alt="PDIL client logo - industrial solutions partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-shiva.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-shiva.png" alt="Shiva client logo - trusted business partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-narayan.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-narayan.png" alt="Narayan client logo - enterprise solutions partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-jyoti.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-jyoti.png" alt="Jyoti client logo - technology services partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-amoli.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-amoli.png" alt="Amoli client logo - business solutions partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-zeppelin.png" alt="Client 1" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-zeppelin.png" alt="Zeppelin client logo - industrial equipment partner" class="img-fluid">
                       </div>
                   </div>
               </div>
