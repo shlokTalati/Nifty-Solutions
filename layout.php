@@ -39,11 +39,11 @@ include 'cache.php'; // At the very top
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- style sheets and font icons -->
-    <link rel="stylesheet" href="/public/css/vendors.min.css" />
-    <link rel="stylesheet" href="/public/css/icon.min.css" />
-    <link rel="stylesheet" href="/public/css/style.css" />
-    <link rel="stylesheet" href="/public/css/responsive.min.css" />
-    <link rel="stylesheet" href="/public/css/demo-it-business.css" />
+    <link rel="stylesheet" href="/public/css/vendors.min.css"  media="print" onload="this.media='all';"/>
+    <link rel="stylesheet" href="/public/css/icon.min.css"  media="print" onload="this.media='all';"/>
+    <link rel="stylesheet" href="/public/css/style.css"  media="print" onload="this.media='all';"/>
+    <link rel="stylesheet" href="/public/css/responsive.min.css"  media="print" onload="this.media='all';"/>
+    <link rel="stylesheet" href="/public/css/demo-it-business.css"  media="print" onload="this.media='all';"/>
 </head>
 
 <body data-mobile-nav-style="full-screen-menu" data-mobile-nav-bg-color="#252840">
