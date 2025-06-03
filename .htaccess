@@ -1,10 +1,13 @@
 RewriteEngine On
 RewriteBase /
 
-# ✅ Allow direct access ONLY to public/ folder and its contents
+# Dont apply rules for the subdomain
+RewriteCond %{HTTP_HOST} ^renewalportal\.niftysolutions\.co\.in$ [NC]
+RewriteRule ^ - [L]
+
+# Allow direct access ONLY to public/ folder and its contents (if still needed)
 RewriteCond %{REQUEST_URI} ^/public/
 RewriteRule ^ - [L]
 
-# ❌ Block direct access to everything else — even if it exists
-# Funnel all requests through index.php no matter what
+# Funnel all other requests to index.php
 RewriteRule ^ index.php [L,QSA]

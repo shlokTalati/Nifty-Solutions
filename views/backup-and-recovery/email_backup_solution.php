@@ -205,7 +205,7 @@ $meta_description = "Comprehensive email backup services by Nifty Solutions. Sec
                                     </div>
                                 </div>
                                 <div class="absolute-middle-center text-white-space-nowrap z-index-9">
-                                    <a href="javascript:void(0)" rel="nofollow" class="d-none btn btn-extra-large btn-white left-icon btn-box-shadow fw-600 btn-rounded popup-youtube ls-minus-05px"><i class="fa-brands fa-youtube icon-small"></i>How it works</a>
+                                    <!-- <a href="javascript:void(0)" rel="nofollow" class="d-none btn btn-extra-large btn-white left-icon btn-box-shadow fw-600 btn-rounded popup-youtube ls-minus-05px"><i class="fa-brands fa-youtube icon-small"></i>How it works</a> -->
                                 </div>
                             </div>
                         </div>

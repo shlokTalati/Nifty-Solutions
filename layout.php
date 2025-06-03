@@ -1,3 +1,7 @@
+<?php
+include 'cache.php'; // At the very top
+?>
+
 <!doctype html>
 <html class="no-js" lang="en">
 
