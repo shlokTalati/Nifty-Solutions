@@ -27,7 +27,7 @@ if ($cleanPath === 'robots.txt') {
 // 
 // 3.2 Check for sendmail.php
 if ($cleanPath === 'sendmail') {
-    $sendmailPath = __DIR__ . '/sendmail.php'; // Path to sendmail.php
+    $sendmailPath = __DIR__ . '/contact-form.php'; // Path to contact-form.php
 
     if (file_exists($sendmailPath)) {
         require $sendmailPath;

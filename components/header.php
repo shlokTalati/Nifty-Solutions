@@ -91,6 +91,7 @@
                         <li class="nav-item"><a href="/clients" class="nav-link">Clients</a></li>
                         <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
                         <li class="nav-item"><a href="/downloads" class="nav-link">Downloads</a></li>
+                        <li class="nav-item d-md-none"><a href="/contact-us" class="nav-link">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
