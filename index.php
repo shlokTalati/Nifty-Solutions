@@ -55,10 +55,27 @@ if ($cleanPath === 'sitemap.xml') {
     }
 }
 
+// 3.4 Check for favicon.ico
+if ($cleanPath === 'favicon.ico') {
+    $faviconPath = __DIR__ . '/public/images/favicon.ico';
+
+    if (file_exists($faviconPath)) {
+        header('Content-Type: image/x-icon');
+        http_response_code(200);
+        readfile($faviconPath);
+        exit;
+    } else {
+        http_response_code(404);
+        echo "Favicon not found.";
+        exit;
+    }
+}
+
+
 // 4. Check for older URLs and redirect if necessary
 require(__DIR__ . '/redirect.php'); // This file contains the $redirects array and logic
 
-// 4. Check if view route exists
+// 5. Check if view route exists
 if (array_key_exists($cleanPath, $routes)) {
     $viewFile = __DIR__ . '/views/' . $routes[$cleanPath];
     
@@ -74,7 +91,7 @@ if (array_key_exists($cleanPath, $routes)) {
     }
 }
 
-// 5. Show 404 if route or file not found
+// 6. Show 404 if route or file not found
     $viewFile = __DIR__ . '/views/404.php';
     // require $layoutFile;
     ob_start();

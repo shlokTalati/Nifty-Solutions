@@ -26,12 +26,12 @@
                         <li class="nav-item"><a href="/about-us" class="nav-link">About</a></li> 
                         
                         <li class="nav-item dropdown simple-dropdown">
-                            <a href="javascript:void(0)" class="nav-link">Our Offerings</a>
+                            <a href="#" class="nav-link dropdown-helper-link">Our Offerings</a>
                             <i class="fa-solid fa-angle-down dropdown-toggle" data-bs-toggle="dropdown"></i>
                             <ul class="dropdown-menu">
                                 <!-- Endpoint, Network & Data Protection -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">Endpoint, Network & Data Protection<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">Endpoint, Network & Data Protection<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/endpoint-security/firewall"><i class="bi bi-bricks text-dark icon-small me-10px"></i>Firewall</a></li>
                                         <li><a href="/endpoint-security/antivirus-and-content-security"><i class="bi bi-shield-check text-dark icon-small me-10px"></i>Antivirus & Content Security</a></li>
@@ -42,7 +42,7 @@
 
                                 <!-- Backup & Recovery -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">Data and Email backup<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">Data and Email backup<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/backup-and-recovery/data-backup"><i class="bi bi-archive text-dark icon-small me-10px"></i>Data Backup Software</a></li>
                                         <li><a href="/backup-and-recovery/email-backup"><i class="bi bi-envelope-paper text-dark icon-small me-10px"></i>Email Backup Solution</a></li>
@@ -54,7 +54,7 @@
 
                                 <!-- Web and Email Solutions -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">Email Solution & Web Development<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">Email Solution & Web Development<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">  
                                         <li><a href="/web-and-email-services/business-email"><i class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business Email Hosting</a></li>
 										 <li><a href="/web-and-email-services/website-development"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
@@ -66,7 +66,7 @@
 
                                 <!-- Remote Work & Monitoring -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">Remote Work & Monitoring<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">Remote Work & Monitoring<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/remote-work-and-monitoring/remote-access"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access Apps. and Remote Desktop</a></li>
                                         <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li>
@@ -76,7 +76,7 @@
 
                                 <!-- IT Infra & App Hosting -->
                                 <li class="dropdown">
-                                    <a href="javascript:void(0);">IT Infrastructure & Apps. Hosting<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">IT Infrastructure & Apps. Hosting<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/it-infrastructure/hardware-network-amc"><i class="bi bi-pc text-dark icon-small me-10px"></i>Computer Hardware, Network & AMC</a></li>
                                         <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li>

@@ -1,7 +1,3 @@
-<?php
-include 'cache.php'; // At the very top
-?>
-
 <!doctype html>
 <html class="no-js" lang="en">
 
@@ -32,18 +28,19 @@ include 'cache.php'; // At the very top
     <meta name="robots" content="index, follow">
     <!-- favicon icon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/public/images/apple-touch-icon.webp">
-    <link rel="icon" type="image/webp" sizes="48x48" href="/public/images/favicon.ico">
+    <link rel="icon" type="image/x-icon" sizes="48x48" href="/favicon.ico">
     <link rel="manifest" href="/public/manifest/site.webmanifest">
     <meta name="theme-color" content="#ffffff">
     <!-- google fonts preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- style sheets and font icons -->
-    <link rel="stylesheet" href="/public/css/vendors.min.css"  media="print" onload="this.media='all';"/>
-    <link rel="stylesheet" href="/public/css/icon.min.css"  media="print" onload="this.media='all';"/>
-    <link rel="stylesheet" href="/public/css/style.css"  media="print" onload="this.media='all';"/>
-    <link rel="stylesheet" href="/public/css/responsive.min.css"  media="print" onload="this.media='all';"/>
-    <link rel="stylesheet" href="/public/css/demo-it-business.css"  media="print" onload="this.media='all';"/>
+    <link rel="stylesheet" href="/public/css/vendors.min.css"/>
+    <link rel="stylesheet" href="/public/css/icon.min.css"/>
+    <link rel="stylesheet" href="/public/css/style.css"/>
+    <link rel="stylesheet" href="/public/css/responsive.min.css"/>
+    <link rel="stylesheet" href="/public/css/demo-it-business.css"/>
+    <link rel="stylesheet" href="/public/css/custom.css"/>
 </head>
 
 <body data-mobile-nav-style="full-screen-menu" data-mobile-nav-bg-color="#252840">
@@ -59,6 +56,7 @@ include 'cache.php'; // At the very top
     <script type="text/javascript" src="/public/js/jquery.js"></script>
     <script type="text/javascript" src="/public/js/vendors.min.js"></script>
     <script type="text/javascript" src="/public/js/main.js"></script>
+    <script type="text/javascript" src="/public/js/custom.js"></script>
 </body>
 
 </html>
