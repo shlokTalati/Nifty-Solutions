@@ -5,9 +5,9 @@
             <div class="col-auto col-lg-2 me-lg-0 me-auto">
                 <span class="d-flex align-items-center text-decoration-none">
                     <a class="navbar-brand" href="/">
-                        <img data-at2x="/public/images/logo-white.png" alt="Nifty Solutions company logo white" class="default-logo" src="/public/images/logo-white.png">
-                        <img data-at2x="/public/images/logo-black.png" alt="Nifty Solutions company logo black" class="alt-logo" src="/public/images/logo-black.png">
-                        <img data-at2x="/public/images/logo-black.png" alt="Nifty Solutions company logo black" class="mobile-logo" src="/public/images/logo-black.png"> 
+                        <img data-at2x="/public/images/logo-white.webp" alt="Nifty Solutions company logo white" class="default-logo" src="/public/images/logo-white.webp">
+                        <img for f in *.{webp,webp}; do [ -f "$f" ] && cwebp -q 90 "$f" -o "${f%.*}.webp" && rm "$f"; done; data-at2x="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" class="alt-logo" src="/public/images/logo-black.webp">
+                        <img data-at2x="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" class="mobile-logo" src="/public/images/logo-black.webp"> 
                     </a>
                 </span>
             </div>

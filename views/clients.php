@@ -1,7 +1,7 @@
 <?php $page_title="Clients" ;
 $meta_description = "Trusted IT partner for 100+ companies including Astral Pipes, Panasonic & IDMC. View our client portfolio showcasing long-term IT solution partnerships." ?>
 <!-- start page title -->
-  <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/client-inner.png');">
+  <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/client-inner.webp');">
       <div class="shape-image-animation p-0 w-100 d-none d-md-block">
           <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
               <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -46,13 +46,13 @@ $meta_description = "Trusted IT partner for 100+ companies including Astral Pipe
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center bg-black">
-                          <img src="/public/images/clients/client-logo-anwesha.png" alt="Anwesha Technologies client logo - IT services partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-anwesha.webp" alt="Anwesha Technologies client logo - IT services partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-astral.png" alt="Astral Pipes client logo - trusted business partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-astral.webp" alt="Astral Pipes client logo - trusted business partner" class="img-fluid">
                       </div>
                   </div>
                  
@@ -60,80 +60,80 @@ $meta_description = "Trusted IT partner for 100+ companies including Astral Pipe
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-erda.png" alt="ERDA client logo - enterprise solutions partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-erda.webp" alt="ERDA client logo - enterprise solutions partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-idmc.png" alt="IDMC client logo - digital transformation partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-idmc.webp" alt="IDMC client logo - digital transformation partner" class="img-fluid">
                       </div>
                   </div>
                   
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-panasonic.png" alt="Panasonic client logo - global electronics partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-panasonic.webp" alt="Panasonic client logo - global electronics partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-silox.png" alt="Silox client logo - technology solutions partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-silox.webp" alt="Silox client logo - technology solutions partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-sudeep-pharma.png" alt="Sudeep Pharma client logo - pharmaceutical industry partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-sudeep-pharma.webp" alt="Sudeep Pharma client logo - pharmaceutical industry partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-lonsen-kiri.png" alt="Lonsen Kiri client logo - corporate solutions partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-lonsen-kiri.webp" alt="Lonsen Kiri client logo - corporate solutions partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-glf.png" alt="GLF client logo - business services partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-glf.webp" alt="GLF client logo - business services partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-pdil.png" alt="PDIL client logo - industrial solutions partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-pdil.webp" alt="PDIL client logo - industrial solutions partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-shiva.png" alt="Shiva client logo - trusted business partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-shiva.webp" alt="Shiva client logo - trusted business partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-narayan.png" alt="Narayan client logo - enterprise solutions partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-narayan.webp" alt="Narayan client logo - enterprise solutions partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-jyoti.png" alt="Jyoti client logo - technology services partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-jyoti.webp" alt="Jyoti client logo - technology services partner" class="img-fluid">
                       </div>
                   </div>
 				   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-amoli.png" alt="Amoli client logo - business solutions partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-amoli.webp" alt="Amoli client logo - business solutions partner" class="img-fluid">
                       </div>
                   </div>
                   <!-- Client Logo Item -->
                   <div class="col mb-4">
                       <div class="client-logo text-center">
-                          <img src="/public/images/clients/client-logo-zeppelin.png" alt="Zeppelin client logo - industrial equipment partner" class="img-fluid">
+                          <img src="/public/images/clients/client-logo-zeppelin.webp" alt="Zeppelin client logo - industrial equipment partner" class="img-fluid">
                       </div>
                   </div>
               </div>

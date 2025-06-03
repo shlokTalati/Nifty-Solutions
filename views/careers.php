@@ -3,7 +3,7 @@ $meta_description = "Join Nifty Solutions team in Vadodara. IT career opportunit
 
 <!-- Hero Section -->
 <!-- start page title -->
-<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/careers-inner.png');">
+<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/careers-inner.webp');">
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
             <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">

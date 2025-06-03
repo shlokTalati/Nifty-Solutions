@@ -23444,7 +23444,7 @@ var pJS = function(tag_id, params){
   };
 
   pJS.fn.vendors.exportImg = function(){
-    window.open(pJS.canvas.el.toDataURL('image/png'), '_blank');
+    window.open(pJS.canvas.el.toDataURL('image/webp'), '_blank');
   };
 
 

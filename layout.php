@@ -27,8 +27,8 @@
     <meta name="description" content="<?= isset($meta_description) ? $meta_description : 'Nifty Solutions provides complete IT solutions in Vadodara - data backup, enterprise email, firewall security, web development & hardware. Expert IT support for businesses.' ?>">
     <meta name="robots" content="index, follow">
     <!-- favicon icon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/public/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="48x48" href="/public/images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/public/images/apple-touch-icon.webp">
+    <link rel="icon" type="image/webp" sizes="48x48" href="/public/images/favicon.ico">
     <link rel="manifest" href="/public/manifest/site.webmanifest">
     <meta name="theme-color" content="#ffffff">
     <!-- google fonts preconnect -->

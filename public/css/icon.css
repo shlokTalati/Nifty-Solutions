@@ -14734,7 +14734,7 @@ readers do not read off random characters that represent icons */
   content: "\e8a1";
 }
 
-.line-icon-File-JPG:before {
+.line-icon-File-webp:before {
   content: "\e8a2";
 }
 
@@ -27906,7 +27906,7 @@ readers do not read off random characters that represent icons */
   content: "\f74a";
 }
 
-.bi-filetype-jpg::before {
+.bi-filetype-webp::before {
   content: "\f74b";
 }
 
@@ -27958,7 +27958,7 @@ readers do not read off random characters that represent icons */
   content: "\f757";
 }
 
-.bi-filetype-png::before {
+.bi-filetype-webp::before {
   content: "\f758";
 }
 

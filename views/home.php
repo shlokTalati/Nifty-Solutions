@@ -44,7 +44,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             <div class="col icon-with-text-style-01 md-mb-30px">
                 <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                     <div class="feature-box-icon me-5px">
-                        <img loading="eager" src="public/images/home-main-pro1.png" alt="database stack brown icon" style="max-width: 75%;" />
+                        <img loading="eager" src="public/images/home-main-pro1.webp" alt="database stack brown icon" style="max-width: 75%;" />
                     </div>
                     <div class="feature-box-content">
                         <span class="d-inline-block fs-18 text-dark-gray fw-700 mb-5px">Data & Email Backup</br>Solutions</span>
@@ -57,7 +57,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             <div class="col icon-with-text-style-01 md-mb-30px">
                 <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                     <div class="feature-box-icon me-5px">
-                        <img loading="eager"  src="public/images/home-main-pro2.png" alt="email stack brown icon" style="max-width: 75%;"/>
+                        <img loading="eager"  src="public/images/home-main-pro2.webp" alt="email stack brown icon" style="max-width: 75%;"/>
                     </div>
                     <div class="feature-box-content">
                         <span class="d-inline-block fs-18 text-dark-gray fw-700 mb-5px">Enterprise
@@ -73,7 +73,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             <div class="col icon-with-text-style-01 md-mb-30px">
                 <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                     <div class="feature-box-icon me-5px">
-                        <img loading="eager" src="public/images/home-main-pro3.png" alt="web designing brown icon" style="max-width: 75%;"/>
+                        <img loading="eager" src="public/images/home-main-pro3.webp" alt="web designing brown icon" style="max-width: 75%;"/>
                     </div>
                     <div class="feature-box-content">
                         <span class="d-inline-block fs-18 text-dark-gray fw-700 mb-5px">Web Designing</br>
@@ -104,10 +104,10 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col-lg-6 position-relative offset-lg-1">
                             <span class="fs-90 position-absolute left-60px md-left-100px sm-left-70px xs-left-10px top-90px xs-top-50px text-dark-gray fw-700 z-index-1" data-bottom-top="transform: translateY(50px) scale(1,1)" data-top-bottom="transform: translateY(-50px) scale(1,1)" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 1500, "staggervalue": 300, "easing": "easeOutQuad" }'><span class="fs-15 fw-600 d-table lh-16 text-uppercase text-medium-gray">Started in</span>1999</span>
                             <div class="w-75 overflow-hidden position-relative xs-w-80 border-radius-4px float-end" data-anime='{ "effect": "slide", "color": "#A0875B", "direction":"rl", "easing": "easeOutQuad", "duration": 600, "delay":400}'>
-                                <img loading="eager" class="w-100" src="public/images/home-nilamber-triumph.png" alt="Nilamber Triumph Vadodara Building">
+                                <img loading="eager" class="w-100" src="public/images/home-nilamber-triumph.webp" alt="Nilamber Triumph Vadodara Building">
                             </div>
                             <div class="position-absolute left-minus-70px md-left-15px bottom-minus-50px w-55 overflow-hidden" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" data-anime='{ "effect": "slide", "color": "#ffffff", "direction":"lr", "easing": "easeOutQuad", "duration": 600, "delay":500}'>
-                                <img loading="eager" class="w-100 border-radius-4px" src="public/images/home-nilamber-triumph-drawing.png" alt="Nilamber Triumph Vadodara building drawing">
+                                <img loading="eager" class="w-100 border-radius-4px" src="public/images/home-nilamber-triumph-drawing.webp" alt="Nilamber Triumph Vadodara building drawing">
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <img loading="lazy" src="public/images/home-product-data-backup.png" alt="Data Backup">
+                                                    <img loading="lazy" src="public/images/home-product-data-backup.webp" alt="Data Backup">
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -172,7 +172,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/endpoint-security/firewall"><img loading="lazy"  src="public/images/home-product-firewall.png" alt="Firewall"></a>
+                                                    <a href="/endpoint-security/firewall"><img loading="lazy"  src="public/images/home-product-firewall.webp" alt="Firewall"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -199,7 +199,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/endpoint-security/antivirus-and-content-security"><img  loading="lazy" src="public/images/home-product-antivirus.png" alt="Antivirus"></a>
+                                                    <a href="/endpoint-security/antivirus-and-content-security"><img  loading="lazy" src="public/images/home-product-antivirus.webp" alt="Antivirus"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -226,7 +226,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/backup-and-recovery/email-backup"><img loading="lazy" src="public/images/home-product-email-backup.png" alt="Email Backup"></a>
+                                                    <a href="/backup-and-recovery/email-backup"><img loading="lazy" src="public/images/home-product-email-backup.webp" alt="Email Backup"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -254,7 +254,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
                                                 <div class="position-relative">
                                                     <a href="/endpoint-security/data-leakage-prevention"><img loading="lazy" src="/public/images/home-product-dlp
-.png" alt="Data Leakage Prevention"></a>
+.webp" alt="Data Leakage Prevention"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -281,7 +281,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/remote-work-and-monitoring/remote-access"><img loading="lazy" src="public/images/home-product-remote-access.png" alt="Remote access apps"></a>
+                                                    <a href="/remote-work-and-monitoring/remote-access"><img loading="lazy" src="public/images/home-product-remote-access.webp" alt="Remote access apps"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -308,7 +308,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/backup-and-recovery/nas-storage"><img loading="lazy" src="public/images/home-product-nas.png" alt="Network Attached Storage"></a>
+                                                    <a href="/backup-and-recovery/nas-storage"><img loading="lazy" src="public/images/home-product-nas.webp" alt="Network Attached Storage"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -335,7 +335,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/it-infrastructure/network-monitoring"><img loading="lazy" src="public/images/home-product-network-monitoring.png" alt="Network Monitoring"></a>
+                                                    <a href="/it-infrastructure/network-monitoring"><img loading="lazy" src="public/images/home-product-network-monitoring.webp" alt="Network Monitoring"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -363,7 +363,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                             <!-- start services box style -->
                                             <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                                 <div class="position-relative">
-                                                    <a href="/web-and-email-services/email-distribution"><img loading="lazy" src="public/images/home-product-email-distribution.png" alt="Email Distribution"></a>
+                                                    <a href="/web-and-email-services/email-distribution"><img loading="lazy" src="public/images/home-product-email-distribution.webp" alt="Email Distribution"></a>
                                                 </div>
                                                 <div class="bg-white">
                                                     <div class="ps-65px pe-65px pt-30px pb-30px text-center">
@@ -406,7 +406,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                   <img loading="lazy" src="/public/images/clients/client-logo-anwesha.png" class="max-width-70" alt="Anwesha Technologies client logo - IT services partner">
+                                   <img loading="lazy" src="/public/images/clients/client-logo-anwesha.webp" class="max-width-70" alt="Anwesha Technologies client logo - IT services partner">
                                 </div>
                             </div>
                         </div>
@@ -415,7 +415,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-jyoti.png" class="max-width-70" alt="Jyoti client logo - technology services partner">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-jyoti.webp" class="max-width-70" alt="Jyoti client logo - technology services partner">
                               </div>
                             </div>
                         </div>
@@ -424,7 +424,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-astral.png" class="max-width-70" alt="Astral Pipes client logo - trusted business partner">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-astral.webp" class="max-width-70" alt="Astral Pipes client logo - trusted business partner">
                                 </div>
                             </div>
                         </div>
@@ -433,7 +433,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 md-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-glf.png" class="max-width-70" alt="GLF client logo - business services partner">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-glf.webp" class="max-width-70" alt="GLF client logo - business services partner">
                                 </div>
                             </div>
                         </div>
@@ -442,7 +442,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                   <img loading="lazy" src="/public/images/clients/client-logo-erda.png" class="max-width-70" alt="ERDA client logo - enterprise solution partner">
+                                   <img loading="lazy" src="/public/images/clients/client-logo-erda.webp" class="max-width-70" alt="ERDA client logo - enterprise solution partner">
                                 </div>
                             </div>
                         </div>
@@ -451,7 +451,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-bottom border-1 md-border-end sm-border-end-0 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-idmc.png" class="max-width-70" alt="IDMC client logo - business service client">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-idmc.webp" class="max-width-70" alt="IDMC client logo - business service client">
                                 </div>
                             </div>
                         </div>
@@ -460,7 +460,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-pdil.png" class="max-width-70" alt="PDIL client logo - industrial solutions">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-pdil.webp" class="max-width-70" alt="PDIL client logo - industrial solutions">
                                 </div>
                             </div>
                         </div>
@@ -469,7 +469,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 md-border-end-0 md-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-panasonic.png" class="max-width-70" alt="Panasonic client logo - global electronics">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-panasonic.webp" class="max-width-70" alt="Panasonic client logo - global electronics">
                                 </div>
                             </div>
                         </div>
@@ -478,7 +478,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 sm-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-silox.png" class="max-width-70" alt="Silox client logo - technology solutions">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-silox.webp" class="max-width-70" alt="Silox client logo - technology solutions">
                                 </div>
                             </div>
                         </div>
@@ -487,7 +487,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 sm-border-end-0 sm-border-bottom border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-sudeep-pharma.png" class="max-width-70" alt="Sudeep Pharma client logo - pharmaceutical">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-sudeep-pharma.webp" class="max-width-70" alt="Sudeep Pharma client logo - pharmaceutical">
                                 </div>
                             </div>
                         </div>
@@ -496,7 +496,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-end border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-zeppelin.png" class="max-width-70" alt="Zeppelin client logo - industrial solutions">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-zeppelin.webp" class="max-width-70" alt="Zeppelin client logo - industrial solutions">
                                 </div>
                             </div>
                         </div>
@@ -505,7 +505,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col icon-with-text-style-04 transition-inner-all">
                             <div class="feature-box hover-box h-100 transition dark-hover pt-25 pb-25 xs-p-12 last-paragraph-no-margin overflow-hidden border-1 border-color-transparent-white-light border-color-transparent-on-hover">
                                 <div class="feature-box-icon">
-                                    <img loading="lazy" src="/public/images/clients/client-logo-lonsen-kiri.png" class="max-width-70" alt="Lonsen Kiri client logo - Corporate Solutions">
+                                    <img loading="lazy" src="/public/images/clients/client-logo-lonsen-kiri.webp" class="max-width-70" alt="Lonsen Kiri client logo - Corporate Solutions">
                                 </div>
                             </div>
                         </div>
@@ -543,7 +543,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                   <li class="grid-item web branding transition-inner-all">
                                         <div class="portfolio-box">
                                             <div class="portfolio-image border-radius-6px">
-                                                <img loading="lazy" src="/public/images/portfolio/portfolio-shaishav-school.png" alt="Shaishav School Website" />
+                                                <img loading="lazy" src="/public/images/portfolio/portfolio-shaishav-school.webp" alt="Shaishav School Website" />
                                             </div>
                                             <div class="portfolio-hover box-shadow-extra-large">
                                                 <div class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
@@ -563,7 +563,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                <li class="grid-item web branding transition-inner-all">
                                         <div class="portfolio-box">
                                             <div class="portfolio-image border-radius-6px">
-                                                <img loading="lazy" src="/public/images/portfolio/portfolio-rubexco.png" alt="Rubexco Website" />
+                                                <img loading="lazy" src="/public/images/portfolio/portfolio-rubexco.webp" alt="Rubexco Website" />
                                             </div>
                                             <div class="portfolio-hover box-shadow-extra-large">
                                                 <div class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
@@ -583,7 +583,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                 <li class="grid-item selected digital transition-inner-all">
                                         <div class="portfolio-box">
                                             <div class="portfolio-image border-radius-4px">
-                                                <img loading="lazy" src="/public/images/portfolio/portfolio-inos.png" alt="Inos Website" />
+                                                <img loading="lazy" src="/public/images/portfolio/portfolio-inos.webp" alt="Inos Website" />
                                             </div>
                                             <div class="portfolio-hover box-shadow-extra-large">
                                                 <div class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
@@ -605,7 +605,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             </section>
             <!-- end section -->
             <!-- start section -->
-            <section class="cover-background one-third-screen sm-h-500px pb-0 position-relative" style="background-image:url('public/images/home-footer.png');">
+            <section class="cover-background one-third-screen sm-h-500px pb-0 position-relative" style="background-image:url('public/images/home-footer.webp');">
                 <div class="opacity-extra-medium bg-dark-gray"></div>
                 <div class="container h-100">
                     <div class="row align-items-center justify-content-center h-100">

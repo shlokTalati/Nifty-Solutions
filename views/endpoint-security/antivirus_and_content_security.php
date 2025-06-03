@@ -2,7 +2,7 @@
 $meta_description ="Comprehensive antivirus and content security solutions by Nifty Solutions. Real-time malware protection, web filtering, and content monitoring to keep your endpoints secure from cyber threats."?>
 
 <!-- start page title -->
-<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/antivirus/antivirus-inner.jpg');">
+<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/antivirus/antivirus-inner.webp');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
         <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -32,7 +32,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
         <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
             <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <figure class="position-relative m-0">
-                    <img src="/public/images/antivirus/antivirus1.jpg" alt="Antivirus" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    <img src="/public/images/antivirus/antivirus1.webp" alt="Antivirus" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
                         <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
@@ -80,7 +80,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                     </div>
                     <!-- end front side -->
                     <!-- start back side -->
-                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/escan.jpg')">
+                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/escan.webp')">
                         <div class="opacity-light bg-charcoal-blue"></div>
                         <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                             </br></br></br></br></br></br>
@@ -103,7 +103,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                     </div>
                     <!-- end front side -->
                     <!-- start back side -->
-                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/bitdefender.jpg')">
+                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/bitdefender.webp')">
                         <div class="opacity-light bg-charcoal-blue"></div>
                         <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                             </br></br></br></br></br></br>
@@ -126,7 +126,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                     </div>
                     <!-- end front side -->
                     <!-- start back side -->
-                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/sophos.jpg')">
+                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/antivirus/sophos.webp')">
                         <div class="opacity-light bg-charcoal-blue"></div>
                         <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
                             </br></br></br></br></br></br>
@@ -212,7 +212,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                                 <div class="atropos-scale">
                                     <div class="atropos-rotate">
                                         <div class="atropos-inner">
-                                            <img src="/public/images/antivirus/antivirus-draw.jpg" alt="Antivirus Drawing" class="border-radius-6px w-100" />
+                                            <img src="/public/images/antivirus/antivirus-draw.webp" alt="Antivirus Drawing" class="border-radius-6px w-100" />
                                         </div>
                                     </div>
                                 </div>
@@ -225,7 +225,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                     <div class="row align-items-center mt-8 sm-mt-40px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <div class="col-12">
                             <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/antivirus/antivirus-icon.png" alt="Antivirus Icon"></div>
+                                <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/antivirus/antivirus-icon.webp" alt="Antivirus Icon"></div>
                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Basic information of Antivirus</span>
                                 <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                 <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">
@@ -352,7 +352,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                         <div class="col md-mb-30px">
                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                 <div class="position-relative">
-                                    <a href="https://www.bitdefender.com/en-in/small-business/" rel="nofollow"><img src="/public/images/antivirus/antivirus-bitdefender.jpg" alt="Bitdefender"></a>
+                                    <a href="https://www.bitdefender.com/en-in/small-business/" rel="nofollow"><img src="/public/images/antivirus/antivirus-bitdefender.webp" alt="Bitdefender"></a>
                                     <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">BitDefender</span>
                                 </div>
                                 <div class="bg-white">
@@ -378,7 +378,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                         <div class="col md-mb-30px">
                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                 <div class="position-relative">
-                                    <a href="https://escanav.com/en/windows-antivirus/escan-elite-for-business.asp" rel="nofollow"><img src="/public/images/antivirus/antivirus-escan.jpg" alt="Escan"></a>
+                                    <a href="https://escanav.com/en/windows-antivirus/escan-elite-for-business.asp" rel="nofollow"><img src="/public/images/antivirus/antivirus-escan.webp" alt="Escan"></a>
                                     <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">eScan</span>
                                 </div>
                                 <div class="bg-white">
@@ -404,7 +404,7 @@ $meta_description ="Comprehensive antivirus and content security solutions by Ni
                         <div class="col">
                             <div class="services-box-style-03 box-shadow-extra-large last-paragraph-no-margin border-radius-6px overflow-hidden">
                                 <div class="position-relative">
-                                    <a href="https://www.sophos.com/en-us/products/endpoint-antivirus" rel="nofollow"><img src="/public/images/antivirus/antivirus-sophos.jpg" alt="Sophos"></a>
+                                    <a href="https://www.sophos.com/en-us/products/endpoint-antivirus" rel="nofollow"><img src="/public/images/antivirus/antivirus-sophos.webp" alt="Sophos"></a>
                                     <span class="btn btn-very-small btn-rounded btn-dark-gray text-white btn-box-shadow ps-15px pe-15px pt-5px pb-5px lh-16 position-absolute right-30px top-30px text-uppercase">Sophos</span>
                                 </div>
                                 <div class="bg-white">

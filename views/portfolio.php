@@ -1,7 +1,7 @@
 <?php $page_title="Portfolio" ?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0"
-    style="background-image:url('public/images/portfolio/portfolio-inner.png');">
+    style="background-image:url('public/images/portfolio/portfolio-inner.webp');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
         <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -51,7 +51,7 @@
                         <a href="https://shaishavschool.in/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-4px">
-                                    <img src="/public/images/portfolio/portfolio-shaishav-school.png" alt="Shaishav School Website" />
+                                    <img src="/public/images/portfolio/portfolio-shaishav-school.webp" alt="Shaishav School Website" />
                                 </div>
                                 <div class="portfolio-hover box-shadow-extra-large">
                                     <div
@@ -73,7 +73,7 @@
                         <a href="https://www.rubexco.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
-                                    <img src="/public/images/portfolio/portfolio-rubexco.png" alt="Rubexco Website" />
+                                    <img src="/public/images/portfolio/portfolio-rubexco.webp" alt="Rubexco Website" />
                                 </div>
                                 <div class="portfolio-hover box-shadow-extra-large">
                                     <div
@@ -97,7 +97,7 @@
                         <a href="https://inos.in/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
-                                    <img src="/public/images/portfolio/portfolio-inos.png" alt="INOS Website" />
+                                    <img src="/public/images/portfolio/portfolio-inos.webp" alt="INOS Website" />
                                 </div>
                                 <div class="portfolio-hover box-shadow-extra-large">
                                     <div
@@ -119,7 +119,7 @@
                         <a href="https://www.bci-india.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
-                                    <img src="/public/images/portfolio/portfolio-bci.png" alt="BCI Website" />
+                                    <img src="/public/images/portfolio/portfolio-bci.webp" alt="BCI Website" />
                                 </div>
                                 <div class="portfolio-hover box-shadow-extra-large">
                                     <div
@@ -140,7 +140,7 @@
                         <a href="http://www.paborganics.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
-                                    <img src="/public/images/portfolio/portfolio-pab.png" alt="PAB Website" />
+                                    <img src="/public/images/portfolio/portfolio-pab.webp" alt="PAB Website" />
                                 </div>
                                 <div class="portfolio-hover box-shadow-extra-large">
                                     <div

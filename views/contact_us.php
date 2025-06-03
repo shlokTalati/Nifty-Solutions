@@ -3,7 +3,7 @@ $page_title = "Contact Us";
 $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +91 9825412230 or visit us at Nilamber Triumph, Gotri-Vasna Road. Expert IT solutions & consultation available.";
 ?>
 <!-- start page title -->
-<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/contact-inner.jpg');">
+<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/contact-inner.webp');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
         <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -45,7 +45,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
                     <div class="col services-box-style-02 mb-30px">
                         <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
                             <div class="col-lg-6 col-sm-6">
-                                <div class="h-100 cover-background xs-h-300px" style="background-image: url('/public/images/home-nilamber-triumph-drawing.png')"></div>
+                                <div class="h-100 cover-background xs-h-300px" style="background-image: url('/public/images/home-nilamber-triumph-drawing.webp')"></div>
                             </div>
                             <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-40px xl-p-30px">
                                 <div class="services-box-content last-paragraph-no-margin">

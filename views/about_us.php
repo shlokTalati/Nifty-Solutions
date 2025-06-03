@@ -1,7 +1,7 @@
   <?php $page_title = "About Us";
   $meta_description = "Established 1999, Nifty Solutions delivers IT security & communication solutions in Vadodara. Data backup, email hosting, cybersecurity & hardware services.";?>
   <!-- start page title -->
-  <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/about-inner.png');">
+  <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/about-inner.webp');">
       <div class="shape-image-animation p-0 w-100 d-none d-md-block">
           <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
               <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
@@ -280,7 +280,7 @@
               </div>
               <div class="col-lg-6 text-center md-mb-20px offset-xl-1">
                   <figure class="position-relative mb-0 overflow-hidden" data-shadow-animation="true" data-bottom-top="transform: translateY(70px)" data-top-bottom="transform: translateY(-70px)">
-                      <img src="public/images/about-planning.jpg" class="w-100 border-radius-6px" alt="planning steps">
+                      <img src="public/images/about-planning.webp" class="w-100 border-radius-6px" alt="planning steps">
                       <figcaption class="position-absolute border-radius-4px text-center right-30px bottom-30px pt-35px pb-35px ps-5px pe-5px bg-white-transparent glass-effect">
                           <span class="fs-80 lh-75 text-dark-gray ls-minus-4px position-relative fw-800 mb-5px d-block alt-font">26<sub class="fs-40 lh-40 text-dark-gray position-relative top-minus-40px">+</sub></span>
                           <span class="d-block mx-auto fs-14 fw-700 lh-20 w-200px text-center text-dark-gray text-uppercase">Years working experience</span>

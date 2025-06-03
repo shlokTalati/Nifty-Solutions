@@ -6,7 +6,7 @@
             <!-- start footer column -->
                     <div class="col-6 col-xl-3 col-lg-12 col-sm-6 last-paragraph-no-margin text-xl-start text-lg-center order-sm-1 lg-mb-50px sm-mb-30px">
                     <a href="/" class="footer-logo mb-15px d-inline-block"> 
-                            <img src="/public/images/logo-black.png" alt="Nifty Solutions company logo black" data-at2x="/public/images/logo-black.png">
+                            <img src="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" data-at2x="/public/images/logo-black.webp">
                         </a>
                         <p class="lh-28 w-90 xl-w-100 mx-lg-auto mx-xl-0">Gearing your company through an innovative strategy.
                             <br>
