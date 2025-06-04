@@ -1,8 +1,8 @@
 RewriteEngine On
 RewriteBase /
 
-# Dont apply rules for the subdomain
-RewriteCond %{HTTP_HOST} ^(renewalportal|support)\.niftysolutions\.co\.in$ [NC]
+# Handle subdomain requests (with or without www)
+RewriteCond %{HTTP_HOST} ^(www\.)?(renewalportal|support)\.niftysolutions\.co\.in$ [NC]
 RewriteRule ^ - [L]
 
 # Allow direct access ONLY to public/ folder and its contents (if still needed)
