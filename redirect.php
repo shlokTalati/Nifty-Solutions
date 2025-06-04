@@ -90,6 +90,6 @@ $redirects = [
 
 // If the request matches an old URL, it will redirect to the new path
 if (array_key_exists($cleanPath, $redirects)) {
-    header("Location: /" . $redirects[$cleanPath], true, 301);
+    header("Location: https://niftysolutions.co.in/" . $redirects[$cleanPath], true, 301);
     exit;
 }

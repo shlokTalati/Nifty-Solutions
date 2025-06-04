@@ -72,8 +72,13 @@ if ($cleanPath === 'favicon.ico') {
 }
 
 
-// 4. Check for older URLs and redirect if necessary
+// 4.0 Check for older URLs and redirect if necessary
 require(__DIR__ . '/redirect.php'); // This file contains the $redirects array and logic
+
+
+// 4.1 Redirect from www to non-www
+require(__DIR__ . '/canonical_redirect.php'); // This file handles www to non-www redirects
+
 
 // 5. Check if view route exists
 if (array_key_exists($cleanPath, $routes)) {
