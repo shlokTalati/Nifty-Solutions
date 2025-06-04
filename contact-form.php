@@ -5,7 +5,7 @@ if (! empty($_POST['email'])) {
 	$enable_smtp = 'yes'; // yes OR no
 
 	// Email Receiver Address
-	$receiver_email = 'sales@niftysolutions.co.in';
+	$receiver_email = 'shloktalati@niftysolutions.co.in';
 
 	// Email Receiver Name for SMTP Email
 	$receiver_name 	= 'Sales Team - Nifty Solutions';
@@ -85,7 +85,7 @@ if (! empty($_POST['email'])) {
 			<body>
 				<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
 				<tr>
-				<td colspan="2" align="center" valign="top"><img style="margin-top: 15px;" src="http://www.yourdomain.com/images/logo-email.webp" ></td>
+				<td colspan="2" align="center" valign="top"><img style="margin-top: 15px;" src="" ></td>
 				</tr>
 				<tr>
 				<td width="50%" align="right">&nbsp;</td>
