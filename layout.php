@@ -57,6 +57,23 @@
     <script type="text/javascript" src="/public/js/vendors.min.js"></script>
     <script type="text/javascript" src="/public/js/main.js"></script>
     <script type="text/javascript" src="/public/js/custom.js"></script>
+    <!-- Additional javascript links can be included here -->
+    <?php 
+    if(isset($additional_javascript_link)){
+        foreach ($additional_javascript_link as $link) {
+            echo '<script type="text/javascript" src="' . htmlspecialchars($link, ENT_QUOTES, 'UTF-8') . '"></script>';
+        }
+    }
+    ?>
+    
+    <!-- Additional inline scripts can be included here -->
+    <?php
+    if (isset($additional_inline_script)) {
+        foreach ($additional_inline_script as $script) {
+            echo '<script type="text/javascript">' . htmlspecialchars($script, ENT_QUOTES, 'UTF-8') . '</script>';
+        }
+    }
+    ?>
 </body>
 
 </html>

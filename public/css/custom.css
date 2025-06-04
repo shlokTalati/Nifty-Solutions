@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+  .text-lg-light {
+    color: var(--bs-light) !important; /* or use var(--bs-light) */
+  }
+}
+
+header.sticky.sticky-active [data-header-hover=light] .company-text{
+  color: var(--dark-gray) !important;
+}

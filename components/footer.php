@@ -15,7 +15,6 @@
                         
                         <div class="elements-social social-icon-style-02 mt-15px">
                             <ul class="medium-icon dark">
-                                <li class="my-0"><a class="facebook" href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
                                 <li class="my-0"><a class="linkedin" href="https://www.linkedin.com/company/nifty-solutions/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li> 
                             </ul>
                         </div>

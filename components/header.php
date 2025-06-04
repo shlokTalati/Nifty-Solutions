@@ -2,17 +2,18 @@
     <!-- start navigation -->
     <nav class="navbar navbar-expand-lg header-transparent bg-transparent header-reverse glass-effect" data-header-hover="light">
         <div class="container-fluid"> 
-            <div class="col-auto col-lg-2 me-lg-0 me-auto">
-                <span class="d-flex align-items-center text-decoration-none">
+            <div class="col-auto col-lg-3 col-sm-5 me-lg-0 me-auto">
+                <span class="me-2">
                     <a class="navbar-brand" href="/">
                         <img data-at2x="/public/images/logo-white.webp" alt="Nifty Solutions company logo white" class="default-logo" src="/public/images/logo-white.webp">
-                        <img for f in *.{webp,webp}; do [ -f "$f" ] && cwebp -q 90 "$f" -o "${f%.*}.webp" && rm "$f"; done; data-at2x="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" class="alt-logo" src="/public/images/logo-black.webp">
+                        <img data-at2x="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" class="alt-logo" src="/public/images/logo-black.webp">
                         <img data-at2x="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" class="mobile-logo" src="/public/images/logo-black.webp"> 
                     </a>
                 </span>
+                <a href="/" class="company-text text-light d-none d-sm-flex align-items-center fw-500 fs-20">Nifty Solutions</a>
             </div>
 
-            <div class="col-auto col-xxl-6 col-lg-7 menu-order position-static">
+            <div class="col-auto col-lg-6 menu-order position-static">
                 <button class="navbar-toggler float-start" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                     <span class="navbar-toggler-line"></span>
                     <span class="navbar-toggler-line"></span>
@@ -91,12 +92,12 @@
                         <li class="nav-item"><a href="/clients" class="nav-link">Clients</a></li>
                         <li class="nav-item"><a href="/careers" class="nav-link">Careers</a></li>
                         <li class="nav-item"><a href="/downloads" class="nav-link">Downloads</a></li>
-                        <li class="nav-item d-md-none"><a href="/contact-us" class="nav-link">Contact Us</a></li>
+                        <li class="nav-item d-sm-none"><a href="/contact-us" class="nav-link">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
 
-            <div class="col-auto col-xxl-3 col-lg-2 text-end d-none d-sm-flex">
+            <div class="col-auto col-lg-3 text-end d-none d-sm-flex">
                 <div class="header-icon">
                     <div class="header-button">
                         <a href="/contact-us" class="btn btn-large btn-transparent-white-light btn-rounded text-transform-none border-1">
