@@ -31,11 +31,7 @@
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
                         <img src="/public/images/network-monitoring/network-monitoring1.webp" alt="Network Monitoring" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
-                        <figcaption class="w-190px sm-w-180px xs-w-140px bg-white p-30px xs-p-15px border-radius-6px position-absolute bottom-30px left-30px xs-bottom-20px xs-left-15px overflow-hidden box-shadow-medium animation-float text-center" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 1000, "delay": 300, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                            <span class="fs-90 xs-fs-80 fw-700 text-white d-block position-relative z-index-1"></span>
-                            <div class="fw-500 fs-20 xs-fs-18 d-block text-dark-gray lh-24 xs-lh-22 ls-minus-05px xs-mb-5px">2</div>
-
-                        </figcaption>
+                       
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>

@@ -121,12 +121,25 @@
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Automatic Data Backup, Email Backup & Disaster Recovery</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <ul>
-                              <li><strong>-</strong>Automatic File/Folder, Database, Image, Share Point, Exchange Backup (Exclusive National Distributor): NovaStor, Iperius</li>
-                              <li><strong>-</strong>Cloud Backup Solutions: Acronis</li>
-                              <li><strong>-</strong>Centralized Email Backup: MailVault, MailStore</li>
-                              <li><strong>-</strong>Business Continuity & Disaster Recovery: Acronis</li>
-                          </ul>
+                         <ul>
+  <li>
+    <b>Automatic File/Folder, Database, Image, SharePoint & Exchange Backup</b><br>
+    <i>Exclusive National Distributor:</i> NovaStor, Iperius
+  </li>
+  <li>
+    <b>Cloud Backup Solutions</b><br>
+    <i>Powered by:</i> Acronis
+  </li>
+  <li>
+    <b>Centralized Email Backup</b><br>
+    <i>Solutions from:</i> MailVault, MailStore
+  </li>
+  <li>
+    <b>Business Continuity & Disaster Recovery</b><br>
+    <i>Enterprise-grade protection by:</i> Acronis
+  </li>
+</ul>
+
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -135,12 +148,25 @@
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Enterprise Email Hosting and Advance Email security solutions</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <ul>
-                              <li><strong>-</strong>Google Workspace, Microsoft O365, IceWarp</li>
-                              <li><strong>-</strong>Linux Email Solution with Unlimited Email IDs</li>
-                              <li><strong>-</strong>Hybrid Email Solutions (Assign Google Workspace/Microsoft 365 accounts to key users and give rest users to use Enterprise class Email to cut down recurring cost on email)</li>
-                              <li><strong>-</strong>Advanced Email Security: RMail, SPAM Expert</li>
-                          </ul>
+                         <ul>
+  <li>
+    <b>Email Platforms:</b><br>
+    Google Workspace, Microsoft O365, IceWarp
+  </li>
+  <li>
+    <b>Linux Email Solution:</b><br>
+    Unlimited Email IDs
+  </li>
+  <li>
+    <b>Hybrid Email Solutions:</b><br>
+    Assign Google Workspace / Microsoft 365 accounts to key users and provide enterprise-class email to others to reduce recurring email costs
+  </li>
+  <li>
+    <b>Advanced Email Security:</b><br>
+    RMail, SPAM Expert
+  </li>
+</ul>
+
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -150,10 +176,23 @@
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
                           <ul>
-                              <li><strong>-</strong>Remote Desktop & Support: Iperius REMOTE, Team Viewer, AnyDesk</li>
-                              <li><strong>-</strong>To provide full secure Remote Desktop (RDP) access to any user from anywhere OR access to specific applications and folders/data (eg. Tally, Folders): TSPlus</li>
-                              <li><strong>-</strong>Employee Monitoring & Data Security: iMonitor</li>
-                          </ul>
+  <li>
+    <b>Email Platforms:</b><br>
+    Google Workspace, Microsoft O365, IceWarp
+  </li>
+  <li>
+    <b>Linux Email Solution:</b><br>
+    Unlimited Email IDs
+  </li>
+  <li>
+    <b>Hybrid Email Solutions:</b><br>
+    Assign Google Workspace / Microsoft 365 accounts to key users and provide enterprise-class email to others to reduce recurring email costs
+  </li>
+  <li>
+    <b>Advanced Email Security:</b><br>
+    RMail, SPAM Expert
+  </li>
+</ul>
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -163,10 +202,20 @@
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
                           <ul>
-                              <li><strong>-</strong>Firewall/UTM & VPN Solutions: Fortinet, SOPHOS</li>
-                              <li><strong>-</strong>Antivirus Solutions: Escan, BitDefender, SOPHOS</li>
-                              <li><strong>-</strong>Data Leak Prevention (DLP): Escan, Safetica</li>
-                          </ul>
+  <li>
+    <b>Firewall/UTM & VPN Solutions:</b><br>
+    Fortinet, SOPHOS
+  </li>
+  <li>
+    <b>Antivirus Solutions:</b><br>
+    Escan, BitDefender, SOPHOS
+  </li>
+  <li>
+    <b>Data Leak Prevention (DLP):</b><br>
+    Escan, Safetica
+  </li>
+</ul>
+
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -175,13 +224,28 @@
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Computer Hardware, Server, Networking, AMC, FMS</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <ul>
-                              <li><strong>-</strong> Branded Desktops, Laptops, Workstations: HP, Dell, Lenovo</li>
-                              <li><strong>-</strong> Servers & Storage Solutions: HPE, Dell EMC, Synology</li>
-                              <li><strong>-</strong> Networking Products: Cisco, Netgear, Ubiquiti</li>
-                              <li><strong>-</strong> Structured Cabling & Rack Setup for Office Infrastructure</li>
-                              <li><strong>-</strong> Annual Maintenance Contracts (AMC) & Facility Management Services (FMS)</li>
-                          </ul>
+<ul>
+  <li>
+    <b>Branded Desktops, Laptops, Workstations:</b><br>
+    HP, Dell, Lenovo
+  </li>
+  <li>
+    <b>Servers & Storage Solutions:</b><br>
+    HPE, Dell EMC, Synology
+  </li>
+  <li>
+    <b>Networking Products:</b><br>
+    Cisco, Netgear, Ubiquiti
+  </li>
+  <li>
+    <b>Structured Cabling & Rack Setup:</b><br>
+    For Office Infrastructure
+  </li>
+  <li>
+    <b>Annual Maintenance Contracts (AMC) & Facility Management Services (FMS)</b>
+  </li>
+</ul>
+
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -190,11 +254,20 @@
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Infrastructure & Hosting Services</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <ul>
-                              <li><strong>-</strong> VPS & Dedicated Server Hosting on cloud for ERP, CRM, Mobile Applications, Database, Mailing)</li>
-                              <li><strong>-</strong> NAS Storage Solutions: Synology, QNAP</li>
-                              <li><strong>-</strong> Domain, Website Design & Development, Hosting</li>
-                          </ul>
+<ul>
+  <li>
+    <b>VPS & Dedicated Server Hosting:</b><br>
+    Cloud hosting for ERP, CRM, Mobile Applications, Databases, and Mailing
+  </li>
+  <li>
+    <b>NAS Storage Solutions:</b><br>
+    Synology, QNAP
+  </li>
+  <li>
+    <b>Domain, Website Design & Development, Hosting</b>
+  </li>
+</ul>
+
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -203,7 +276,16 @@
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Licensed Software & IT Solutions</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <p><ul><li> Authorized Partner: Microsoft, Adobe, Tally, FOXIT PDF, Autocad etc. We may try to supply almost any license software</li></ul></p>
+                          <ul>
+  <li>
+    <b>Authorized Partner:</b><br>
+    Microsoft, Adobe, Tally, FOXIT PDF, AutoCAD, etc.
+  </li>
+  <li>
+    We strive to supply almost any licensed software as per customer requirements
+  </li>
+</ul>
+
                       </div>
                   </div>
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
@@ -212,7 +294,13 @@
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Bulk Email Solution</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">
-                          <p><ul><li>Bulk Email Software & SMTP Services for Promotional Email and Transactional email(eg. from ERP, CRM, Tally).</li></ul></p>
+                         <ul>
+  <li>
+    <b>Bulk Email Software & SMTP Services:</b><br>
+    For Promotional Emails and Transactional Emails (e.g., from ERP, CRM, Tally)
+  </li>
+</ul>
+
                       </div>
                   </div>
               </div>

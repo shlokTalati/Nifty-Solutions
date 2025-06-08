@@ -25,16 +25,16 @@ if ($cleanPath === 'robots.txt') {
 }
 
 // 
-// 3.2 Check for sendmail.php
-if ($cleanPath === 'sendmail') {
-    $sendmailPath = __DIR__ . '/contact-form.php'; // Path to contact-form.php
+// 3.2 Check for contact-form
+if ($cleanPath === 'contact-form') {
+    $contact_form_path = __DIR__ . '/contact-form.php'; // Path to contact-form.php
 
-    if (file_exists($sendmailPath)) {
-        require $sendmailPath;
+    if (file_exists($contact_form_path)) {
+        require $contact_form_path;
         exit;
     } else {
         http_response_code(404);
-        echo "sendmail.php not found.";
+        echo "contact-form.php not found.";
         exit;
     }
 }

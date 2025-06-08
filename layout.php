@@ -35,12 +35,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- style sheets and font icons -->
-    <link rel="stylesheet" href="/public/css/vendors.min.css"/>
-    <link rel="stylesheet" href="/public/css/icon.min.css"/>
-    <link rel="stylesheet" href="/public/css/style.css"/>
-    <link rel="stylesheet" href="/public/css/responsive.min.css"/>
-    <link rel="stylesheet" href="/public/css/demo-it-business.css"/>
-    <link rel="stylesheet" href="/public/css/custom.css"/>
+    <link rel="stylesheet" href="/public/css/vendors.min.css" />
+    <link rel="stylesheet" href="/public/css/icon.min.css" />
+    <link rel="stylesheet" href="/public/css/style.css" />
+    <link rel="stylesheet" href="/public/css/responsive.min.css" />
+    <link rel="stylesheet" href="/public/css/demo-it-business.css" />
+    <link rel="stylesheet" href="/public/css/custom.css" />
 </head>
 
 <body data-mobile-nav-style="full-screen-menu" data-mobile-nav-bg-color="#252840">
@@ -57,15 +57,15 @@
     <script type="text/javascript" src="/public/js/vendors.min.js"></script>
     <script type="text/javascript" src="/public/js/main.js"></script>
     <script type="text/javascript" src="/public/js/custom.js"></script>
-    <!-- Additional javascript links can be included here -->
-    <?php 
-    if(isset($additional_javascript_link)){
+     <!-- Additional javascript links can be included here -->
+    <?php
+    if (isset($additional_javascript_link)) {
         foreach ($additional_javascript_link as $link) {
             echo '<script type="text/javascript" src="' . htmlspecialchars($link, ENT_QUOTES, 'UTF-8') . '"></script>';
         }
     }
     ?>
-    
+
     <!-- Additional inline scripts can be included here -->
     <?php
     if (isset($additional_inline_script)) {

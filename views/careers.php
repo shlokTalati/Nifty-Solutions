@@ -71,11 +71,33 @@ $meta_description = "Join Nifty Solutions team in Vadodara. IT career opportunit
     </div>
   </div>
 </section>
-
-<!-- Application Section -->
-<section class="bg-light py-5">
-  <div class="container text-center">
-    <h3 class="fw-bold mb-4">Send Us Your Resume</h3>
-    <p>Email your CV to <strong><a href="mailto:career@niftysolutions.co.in">career@niftysolutions.co.in</a></strong> with the job title as the subject.</p>
-  </div>
+<!-- start section -->
+<section class="cover-background one-third-screen sm-h-500px pb-0 position-relative" style="background-image:url('public/images/footer.jpg');">
+    <div class="opacity-extra-medium bg-dark-gray"></div>
+    <div class="container h-100">
+        <div class="row align-items-center justify-content-center h-100">
+            <div class="col-xl-8 col-lg-10 mb-9 md-mb-15 position-relative z-index-1 text-center d-flex flex-wrap align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
+                <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-inline-flex align-items-center text-start sm-lh-20"><i class="bi bi-megaphone text-white d-inline-block align-middle icon-small me-10px"></i> Let's make something great together.</span>
+                <h1 class="text-white fw-600 ls-minus-2px mb-50px">Send us Your Resume</h1>
+                
+                  <p>Email your CV to <strong><a href="mailto:career@niftysolutions.co.in">career@niftysolutions.co.in</a></strong> with the job title as the subject.</p> 
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
+        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+            <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
+                <animate
+                    attributeName="d"
+                    dur="5s"
+                    values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
+                            M 0 250 C 400 50 400 400 3000 250 L 3000 550 L 0 550 L 0 250;
+                            M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250"
+                    repeatCount="indefinite" />
+            </path>
+        </svg>
+    </div>
 </section>
+<!-- end section -->
+

@@ -96,7 +96,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
             </div>
             <div class="col-lg-6 offset-xl-1 md-mb-50px sm-mb-0" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <h3 class="text-dark-gray ls-minus-2px fw-700">Looking for any help?</h3>
-                <form action="/sendmail" method="post" class="contact-form-style-03">
+                <form action="/contact-form" method="post" class="contact-form-style-03">
                     <label for="name" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your name*</label>
                     <div class="position-relative form-group mb-20px">
                         <span class="form-icon"><i class="bi bi-type text-dark-gray"></i></span>
@@ -122,8 +122,8 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
                             <p class="mb-0 fs-14 lh-22 text-center text-sm-start">We will never collect information about you without your explicit consent.</p>
                         </div>
                         <div class="col-xl-5 col-lg-12 col-sm-5 text-center text-sm-end text-lg-start text-xl-end xs-mt-25px">
-                            <input id="exampleInputEmail3" type="hidden" name="redirect" value="">
-                            <button class="btn btn-dark-gray btn-medium btn-round-edge btn-box-shadow submit" type="submit">Send message</button>
+                            <button class="btn btn-dark-gray btn-medium btn-round-edge btn-box-shadow submit" data-sitekey="6LeoflUrAAAAALdJ9hCqcJvBGCet1kBFC5QTjaNu"
+                                data-callback='onSubmit'>Send message</button>
                         </div>
                         <div class="col-12 mt-20px mb-0 text-center text-md-start">
                             <div class="form-results d-none"></div>
@@ -151,6 +151,23 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
 
 
 <script>
+    function onSubmit(token) {
+        grecaptcha.ready(function() {
+            grecaptcha.execute('6LeoflUrAAAAALdJ9hCqcJvBGCet1kBFC5QTjaNu', {
+                action: 'submit'
+            }).then(function(token) {
+                // Inject token into form
+                var form = document.getElementById('contact-form');
+                var hiddenInput = document.createElement('input');
+                hiddenInput.setAttribute('type', 'hidden');
+                hiddenInput.setAttribute('name', 'g-recaptcha-response');
+                hiddenInput.setAttribute('value', "token");
+                form.appendChild(hiddenInput);
+                form.submit();
+            });
+        });
+    }
+
     document.addEventListener("ajaxFormSubmitResponse", function(event) {
         const response = event.detail;
 
@@ -186,3 +203,4 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
         }
     });
 </script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LeoflUrAAAAALdJ9hCqcJvBGCet1kBFC5QTjaNu"></script>
