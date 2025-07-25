@@ -80,7 +80,9 @@ $meta_description = "Join Nifty Solutions team in Vadodara. IT career opportunit
                 <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-inline-flex align-items-center text-start sm-lh-20"><i class="bi bi-megaphone text-white d-inline-block align-middle icon-small me-10px"></i> Let's make something great together.</span>
                 <h1 class="text-white fw-600 ls-minus-2px mb-50px">Send us Your Resume</h1>
                 
-                  <p>Email your CV to <strong><a href="mailto:career@niftysolutions.co.in">career@niftysolutions.co.in</a></strong> with the job title as the subject.</p> 
+                  <p class="lead w-75 mx-auto  text-white">Email your CV to<br />
+ <strong ><a href="mailto:career@niftysolutions.co.in" class="text-base-color">career@niftysolutions.co.in</a></strong> <br />
+with the job title as the subject.</p> 
                 </a>
             </div>
         </div>

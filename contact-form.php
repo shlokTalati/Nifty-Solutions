@@ -156,14 +156,8 @@ if( ! empty( $_POST['email'] ) ) {
 				if ($mail->send()) {
 
 					// Redirect to success page
-					$redirect_page_url = !empty($_POST['redirect']) ? $_POST['redirect'] : '';
-					if (!empty($redirect_page_url)) {
-						header("Location: " . $redirect_page_url);
-						exit();
-					}
-
-					//Success Message
 					echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }';
+					header("Location: /contact-us?message=success");
 				} else {
 					//Fail Message
 					echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Your message could not been sent!" }';

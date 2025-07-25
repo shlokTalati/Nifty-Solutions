@@ -96,7 +96,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
             </div>
             <div class="col-lg-6 offset-xl-1 md-mb-50px sm-mb-0" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <h3 class="text-dark-gray ls-minus-2px fw-700">Looking for any help?</h3>
-                <form action="/contact-form" method="post" class="contact-form-style-03">
+                <form action="/contact-form" method="post" class="contact-form-style-03" id="contact-form">
                     <label for="name" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your name*</label>
                     <div class="position-relative form-group mb-20px">
                         <span class="form-icon"><i class="bi bi-type text-dark-gray"></i></span>
@@ -123,10 +123,10 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
                         </div>
                         <div class="col-xl-5 col-lg-12 col-sm-5 text-center text-sm-end text-lg-start text-xl-end xs-mt-25px">
                             <button class="btn btn-dark-gray btn-medium btn-round-edge btn-box-shadow submit" data-sitekey="6LeoflUrAAAAALdJ9hCqcJvBGCet1kBFC5QTjaNu"
-                                data-callback='onSubmit'>Send message</button>
+                                data-callback='onSubmit' onclick="onSubmit(event)">Send message</button>
                         </div>
                         <div class="col-12 mt-20px mb-0 text-center text-md-start">
-                            <div class="form-results d-none"></div>
+                            <div class="form-results d-none" id="form-results"></div>
                         </div>
                     </div>
                 </form>
@@ -151,17 +151,22 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
 
 
 <script>
-    function onSubmit(token) {
+    function onSubmit(event) {
+        // Prevent default form submission
+        event.preventDefault();
+        console.log("onSubmit Function Triggered");
+
         grecaptcha.ready(function() {
             grecaptcha.execute('6LeoflUrAAAAALdJ9hCqcJvBGCet1kBFC5QTjaNu', {
                 action: 'submit'
             }).then(function(token) {
                 // Inject token into form
+                console.log("reCAPTCHA token received:", token);
                 var form = document.getElementById('contact-form');
                 var hiddenInput = document.createElement('input');
                 hiddenInput.setAttribute('type', 'hidden');
                 hiddenInput.setAttribute('name', 'g-recaptcha-response');
-                hiddenInput.setAttribute('value', "token");
+                hiddenInput.setAttribute('value', token);
                 form.appendChild(hiddenInput);
                 form.submit();
             });

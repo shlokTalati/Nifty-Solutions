@@ -1,5 +1,5 @@
   <?php $page_title = "About Us";
-  $meta_description = "Established 1999, Nifty Solutions delivers IT security & communication solutions in Vadodara. Data backup, email hosting, cybersecurity & hardware services.";?>
+  $meta_description = "Established in Vadodara, Gujarat in 1999, Nifty Solutions delivers IT security & communication solutions pan India. Data backup, email hosting, cybersecurity & hardware services.";?>
   <!-- start page title -->
   <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/about-inner.webp');">
       <div class="shape-image-animation p-0 w-100 d-none d-md-block">
@@ -99,12 +99,12 @@
 
 
                   <div class="col-md-7 last-paragraph-no-margin">
-                      <p>Established in 1999, Nifty Solutions is a trusted I.T. communication and security solutions provider. We have partnered with leading global I.T. brands, offering cutting-edge technology solutions to businesses across industries. Our Expertise:</p>
+                      <p>Established in Vadodara, Gujarat in 1999, Nifty Solutions is a trusted I.T. communication and security solutions provider providing services pan India. We have partnered with leading global I.T. brands, offering cutting-edge technology solutions to businesses across industries. Our Expertise:</p>
 
 
                       At Nifty Solutions, we are committed to delivering secure, scalable, and efficient I.T. solutions to help businesses thrive in a digital world.
                       </p>
-                      <a href="/public/pdf/Nifty_Solutions_profile.pdf" target="_blank" class="btn btn-extra-large btn-gradient-purple-pink btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
+                      <a href="/public/pdf/Nifty_Solutions_profile.pdf" target="_blank" class="btn btn-extra-large btn-gradient-black-gray btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
                           <span>
                               <span class="btn-text">Brochure</span>
                               <span class="btn-icon"><i class="feather icon-feather-download"></i></span>

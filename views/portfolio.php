@@ -156,6 +156,69 @@
                         </a>
                     </li>
                     <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item industry corporate smb transition-inner-all">
+                        <a href="https://rubex-phosphates.com/" target="_blank">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border border-black border-radius-6px">
+                                    <img src="/public/images/portfolio/portfolio-rubex-international.webp" alt="Rubex International Website" />
+                                </div>
+                                <div class="portfolio-hover box-shadow-extra-large">
+                                    <div
+                                        class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
+                                        <div class="me-auto">
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Chemical Manufacturing</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Rubex International</div>
+                                        </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item industry corporate smb transition-inner-all">
+                        <a href="https://pabpolymers.com/" target="_blank">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border border-black border-radius-6px">
+                                    <img src="/public/images/portfolio/portfolio-pab-polymers.webp" alt="PAB Polymers Website" />
+                                </div>
+                                <div class="portfolio-hover box-shadow-extra-large">
+                                    <div
+                                        class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
+                                        <div class="me-auto">
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Polymer Manufacturing</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">PAB Polymers</div>
+                                        </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item industry smb transition-inner-all">
+                        <a href="https://elementspharma.com/" target="_blank">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border border-black border-radius-6px">
+                                    <img src="/public/images/portfolio/portfolio-elements-pharma.webp" alt="Elements Pharma Website" />
+                                </div>
+                                <div class="portfolio-hover box-shadow-extra-large">
+                                    <div
+                                        class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
+                                        <div class="me-auto">
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Polymer Manufacturing</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">PAB Polymers</div>
+                                        </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <!-- end portfolio item -->
                 </ul>
             </div>
         </div>

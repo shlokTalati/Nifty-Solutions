@@ -2,6 +2,12 @@
   --base-color: #c57a13; /* Base color for the theme */
 }
 
+.btn-gradient-black-gray {
+    background-image: linear-gradient(to right, #000000, #9d9d9d, #000000);
+    background-size: 200% auto;
+    color: var(--white);
+}
+
 @media (min-width: 992px) {
   .text-lg-light {
     color: var(--bs-light) !important; /* or use var(--bs-light) */

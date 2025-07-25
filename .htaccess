@@ -2,7 +2,7 @@ RewriteEngine On
 RewriteBase /
 
 # Handle subdomain requests (with or without www)
-RewriteCond %{HTTP_HOST} ^(www\.)?(renewalportal|support)\.niftysolutions\.co\.in$ [NC]
+RewriteCond %{HTTP_HOST} ^(www\.)?(renewalportal|support|hub)\.niftysolutions\.co\.in$ [NC]
 RewriteRule ^ - [L]
 
 # Allow direct access ONLY to public/ folder and its contents (if still needed)
@@ -11,3 +11,10 @@ RewriteRule ^ - [L]
 
 # Funnel all other requests to index.php
 RewriteRule ^ index.php [L,QSA]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php70” package as the default “PHP” programming language.
+# <IfModule mime_module>
+#  AddHandler application/x-httpd-ea-php70___lsphp .php .php7 .phtml
+# </IfModule>
+# php -- END cPanel-generated handler, do not edit

@@ -36,8 +36,8 @@
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Licensed Software</span>
-                <h3 class="text-dark-gray fw-700 ls-minus-1px">Microsoft, Adobe, Corel, FOXIT, Autocad etc.</h3>
-                <p class="w-95 md-w-100">text to be given by Manav / Shlok
+                <h3 class="text-dark-gray fw-700 ls-minus-1px">Licensed Software Solutions That Power Your Business</h3>
+                <p class="w-95 md-w-100">Acquire, deploy, and manage genuine software licenses effortlessly. From Microsoft and Adobe to AutoCAD and Tally, we help you stay legal, secure, and ready to scale.
                 </p>
             </div>
         </div>
