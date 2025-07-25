@@ -37,7 +37,7 @@
     <!-- style sheets and font icons -->
     <link rel="stylesheet" href="/public/css/vendors.min.css" />
     <link rel="stylesheet" href="/public/css/icon.min.css" />
-    <link rel="stylesheet" href="/public/css/style.css" />
+    <link rel="stylesheet" href="/public/css/style.min.css" />
     <link rel="stylesheet" href="/public/css/responsive.min.css" />
     <!-- <link rel="stylesheet" href="/public/css/demo-it-business.css" /> -->
     <link rel="stylesheet" href="/public/css/custom.css" />
