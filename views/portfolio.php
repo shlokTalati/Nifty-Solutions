@@ -209,8 +209,8 @@
                                     <div
                                         class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
                                         <div class="me-auto">
-                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Polymer Manufacturing</div>
-                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">PAB Polymers</div>
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Pharmaceuticals</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Elements Pharma</div>
                                         </div>
                                          
                                     </div>

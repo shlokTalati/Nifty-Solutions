@@ -1,5 +1,5 @@
 :root{
-  --base-color: #c57a13; /* Base color for the theme */
+  --base-color: #c57a13 !important; /* Base color for the theme */
 }
 
 .btn-gradient-black-gray {
