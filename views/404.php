@@ -3,7 +3,15 @@ $page_title = "Page Not Found";
 ?>
 
 <!-- start page title -->
- <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/404-inner-page.webp');">
+ <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
+
+<!-- Optimized background image with fetchpriority -->
+    <img src="/public/images/404-inner-page.webp"
+         alt="Careers Background"
+         class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-index-minus-1"
+         fetchpriority="high"
+         decoding="async"
+         loading="eager" />
      <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
          <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
              <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">

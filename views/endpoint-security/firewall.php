@@ -2,7 +2,15 @@
 $meta_description = "Protect your network with advanced firewall solutions from Nifty Solutions. Enterprise-grade security, threat detection, and 24/7 monitoring to safeguard your business data and infrastructure."?>
 
 <!-- start page title -->
-<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('/public/images/firewall/firewall-inner.webp');">
+<section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
+
+<!-- Optimized background image with fetchpriority -->
+    <img src="/public/images/firewall/firewall-inner.webp"
+         alt="Careers Background"
+         class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-index-minus-1"
+         fetchpriority="high"
+         decoding="async"
+         loading="eager" />
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
         <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
