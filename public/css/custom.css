@@ -17,3 +17,7 @@
 header.sticky.sticky-active [data-header-hover=light] .company-text{
   color: var(--dark-gray) !important;
 }
+
+video{
+  max-width: 100%;
+}

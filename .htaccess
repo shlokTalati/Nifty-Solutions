@@ -24,8 +24,17 @@ RewriteRule ^ index.php [L,QSA]
    ExpiresByType image/webp "access 1 month"
    ExpiresByType image/gif "access 1 month"
    ExpiresByType image/png "access 1 month"
-   ExpiresByType text/css "access 1 week"
-   ExpiresByType application/javascript "access 1 week"
-   ExpiresByType application/x-javascript "access 1 week"
+   ExpiresByType text/css "access 1 month"
+   ExpiresByType application/javascript "access 1 month"
+   ExpiresByType application/x-javascript "access 1 month"
+
+   # Font files
+    ExpiresByType font/ttf "access 1 year"
+    ExpiresByType font/otf "access 1 year"
+    ExpiresByType font/woff "access 1 year"
+    ExpiresByType font/woff2 "access 1 year"
+    ExpiresByType application/x-font-ttf "access 1 year"
+
+
    ExpiresDefault "access 2 days"
  </IfModule>

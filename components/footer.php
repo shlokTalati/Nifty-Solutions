@@ -15,7 +15,7 @@
                         
                         <div class="elements-social social-icon-style-02 mt-15px">
                             <ul class="medium-icon dark">
-                                <li class="my-0"><a class="linkedin" href="https://www.linkedin.com/company/nifty-solutions/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li> 
+                                <li class="my-0"><a class="linkedin" href="https://www.linkedin.com/company/nifty-solutions/" target="_blank" aria-label="Nifty Solutions on LinkedIn"><i class="fa-brands fa-linkedin"></i></a></li> 
                             </ul>
                         </div>
                     </div>

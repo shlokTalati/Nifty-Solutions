@@ -31,16 +31,29 @@
     <link rel="icon" type="image/x-icon" sizes="48x48" href="/favicon.ico">
     <link rel="manifest" href="/public/manifest/site.webmanifest">
     <meta name="theme-color" content="#ffffff">
+
     <!-- google fonts preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- style sheets and font icons -->
-    <link rel="stylesheet" href="/public/css/vendors.min.css" />
-    <link rel="stylesheet" href="/public/css/icon.min.css" />
-    <link rel="stylesheet" href="/public/css/style.min.css" />
-    <link rel="stylesheet" href="/public/css/responsive.min.css" />
+
+    <link rel="stylesheet" href="/public/css/critical.css">
+    <!-- Preload and apply CSS files with high priority -->
+    <link rel="preload" as="style" href="/public/css/vendors.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" as="style" href="/public/css/icon.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" as="style" href="/public/css/responsive.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" as="style" href="/public/css/style.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" as="style" href="/public/css/custom.css" onload="this.onload=null;this.rel='stylesheet'">
+    <!-- <link rel="stylesheet" href="/public/css/style.min.css"> -->
+    <!-- <link rel="stylesheet" href="/public/css/custom.css"> -->
+
+<!-- Fallback for browsers with JavaScript disabled -->
+<noscript><link rel="stylesheet" href="/public/css/vendors.min.css"></noscript>
+<noscript><link rel="stylesheet" href="/public/css/icon.min.css"></noscript>
+<noscript><link rel="stylesheet" href="/public/css/responsive.min.css"></noscript>
+<noscript><link rel="stylesheet" href="/public/css/style.min.css"></noscript>
+<noscript><link rel="stylesheet" href="/public/css/custom.css"></noscript>
     <!-- <link rel="stylesheet" href="/public/css/demo-it-business.css" /> -->
-    <link rel="stylesheet" href="/public/css/custom.css" />
 </head>
 
 <body data-mobile-nav-style="full-screen-menu" data-mobile-nav-bg-color="#252840">
