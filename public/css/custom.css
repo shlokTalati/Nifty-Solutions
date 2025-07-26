@@ -21,3 +21,7 @@ header.sticky.sticky-active [data-header-hover=light] .company-text{
 video{
   max-width: 100%;
 }
+
+.btn.btn-rounded.btn-extra-large {
+    padding: 0px 0px;
+}

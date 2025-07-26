@@ -44,7 +44,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             <div class="col icon-with-text-style-01 md-mb-30px">
                 <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                     <div class="feature-box-icon me-5px">
-                        <img loading="eager" src="public/images/home-main-pro1.webp" alt="database stack brown icon" style="max-width: 75%;" />
+                        <img loading="eager" src="public/images/home-main-pro1.webp" alt="database stack brown icon" style="max-width: 60%;" />
                     </div>
                     <div class="feature-box-content">
                         <span class="d-inline-block fs-18 text-dark-gray fw-700 mb-5px">Data & Email Backup</br>Solutions</span>
@@ -57,7 +57,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             <div class="col icon-with-text-style-01 md-mb-30px">
                 <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                     <div class="feature-box-icon me-5px">
-                        <img loading="eager" src="public/images/home-main-pro2.webp" alt="email stack brown icon" style="max-width: 75%;" />
+                        <img loading="eager" src="public/images/home-main-pro2.webp" alt="email stack brown icon" style="max-width: 60%;" />
                     </div>
                     <div class="feature-box-content">
                         <span class="d-inline-block fs-18 text-dark-gray fw-700 mb-5px">Enterprise
@@ -73,7 +73,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
             <div class="col icon-with-text-style-01 md-mb-30px">
                 <div class="feature-box feature-box-left-icon last-paragraph-no-margin">
                     <div class="feature-box-icon me-5px">
-                        <img loading="eager" src="public/images/home-main-pro3.webp" alt="web designing brown icon" style="max-width: 75%;" />
+                        <img loading="eager" src="public/images/home-main-pro3.webp" alt="web designing brown icon" style="max-width: 60%;" />
                     </div>
                     <div class="feature-box-content">
                         <span class="d-inline-block fs-18 text-dark-gray fw-700 mb-5px">Web Designing</br>
