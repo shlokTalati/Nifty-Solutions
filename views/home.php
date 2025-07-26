@@ -105,7 +105,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                         <div class="col-lg-6 position-relative offset-lg-1">
                             <span class="fs-90 position-absolute left-60px md-left-100px sm-left-70px xs-left-10px top-90px xs-top-50px text-dark-gray fw-700 z-index-1" data-bottom-top="transform: translateY(50px) scale(1,1)" data-top-bottom="transform: translateY(-50px) scale(1,1)" data-anime='{ "opacity": [0,1], "duration": 600, "delay": 1500, "staggervalue": 300, "easing": "easeOutQuad" }'><span class="fs-15 fw-600 d-table lh-16 text-uppercase text-medium-gray">Started in</span>1999</span>
                             <div class="w-75 overflow-hidden position-relative xs-w-80 border-radius-4px float-end" data-anime='{ "effect": "slide", "color": "#A0875B", "direction":"rl", "easing": "easeOutQuad", "duration": 600, "delay":400}'>
-                                <img loading="eager" class="w-100" src="public/images/home-about-nifty.png" alt="Nilamber Triumph Vadodara Building">
+                                <img loading="eager" class="w-100" src="public/images/home-about-nifty.webp" alt="Nilamber Triumph Vadodara Building">
                             </div>
                             <div class="position-absolute left-minus-70px md-left-15px bottom-minus-50px w-55 overflow-hidden" data-bottom-top="transform: translateY(50px)" data-top-bottom="transform: translateY(-50px)" data-anime='{ "effect": "slide", "color": "#ffffff", "direction":"lr", "easing": "easeOutQuad", "duration": 600, "delay":500}'>
                                 <img loading="eager" class="w-100 border-radius-4px" src="public/images/home-about-nifty-card.png" alt="Nilamber Triumph Vadodara building drawing">
