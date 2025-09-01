@@ -156,6 +156,27 @@
                         </a>
                     </li>
                     <!-- end portfolio item -->
+					 <!-- start portfolio item -->
+                    <li class="grid-item industry corporate smb transition-inner-all">
+                        <a href="https://www.omgene.com" target="_blank">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border border-black border-radius-6px">
+                                    <img src="/public/images/portfolio/omgene.png" alt="Omgene Website" />
+                                </div>
+                                <div class="portfolio-hover box-shadow-extra-large">
+                                    <div
+                                        class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
+                                        <div class="me-auto">
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Bio-Pharmaceutical company </div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Omgene Life Science Pvt. Ltd. </div>
+                                        </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <!-- end portfolio item -->
                     <!-- start portfolio item -->
                     <li class="grid-item industry corporate smb transition-inner-all">
                         <a href="https://rubex-phosphates.com/" target="_blank">
