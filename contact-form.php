@@ -9,18 +9,16 @@ if( ! empty( $_POST['email'] ) ) {
 	$enable_smtp = 'yes'; // yes OR no
 
 	// Email Receiver Address
-	$receiver_email = 'shloktalati@niftysolutions.co.in';
+	$receiver_email = 'sales@niftysolutions.co.in';
 
 	// Email Receiver Name for SMTP Email
-	$receiver_name 	= 'Shlok Talati';
+	$receiver_name 	= 'Sales - Nifty Solutions';
 
 	// Email Subject
 	$subject = 'Contact form details';
 
 	$from 	= $_POST['email'];
 	$name 	= isset( $_POST['name'] ) ? $_POST['name'] : '';
-
-	echo $_POST['g-recaptcha-response'];
 
 	if (!empty($grecaptcha_secret_key) && !empty($_POST['g-recaptcha-response'])) {
 
@@ -51,12 +49,26 @@ if( ! empty( $_POST['email'] ) ) {
 		if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
 			$prefix = !empty($_POST['prefix']) ? $_POST['prefix'] : '';
+			
+			// Define fields to exclude from the email
+			$excluded_fields = array(
+				'g-recaptcha-response',
+				'action', // if you don't want this in email either
+				'redirect',
+				'prefix'
+			);
+			
 			$submits = $_POST;
 			$botpassed = false;
 
 			$fields = array();
 			foreach ($submits as $name => $value) {
 				if (empty($value)) {
+					continue;
+				}
+				
+				// Skip excluded fields
+				if (in_array($name, $excluded_fields)) {
 					continue;
 				}
 
@@ -88,7 +100,7 @@ if( ! empty( $_POST['email'] ) ) {
 			<body>
 				<table width="50%" border="0" align="center" cellpadding="0" cellspacing="0">
 				<tr>
-				<td colspan="2" align="center" valign="top"><img style="margin-top: 15px;" src="http://www.yourdomain.com/images/logo-email.png" ></td>
+				<td colspan="2" align="center" valign="top"><img style="margin-top: 15px; max-height: 40px; height: 30px;" src="https://niftysolutions.co.in/public/images/logo-black.webp" ></td>
 				</tr>
 				<tr>
 				<td width="50%" align="right">&nbsp;</td>
@@ -108,7 +120,7 @@ if( ! empty( $_POST['email'] ) ) {
 				if (mail($receiver_email, $subject, $message, $headers)) {
 
 					// Redirect to success page
-					$redirect_page_url = !empty($_POST['redirect']) ? $_POST['redirect'] : '';
+					$redirect_page_url = !empty($_POST['redirect']) ? $_POST['redirect'] : '/contact-us?message=success';
 					if (!empty($redirect_page_url)) {
 						header("Location: " . $redirect_page_url);
 						exit();
@@ -156,8 +168,10 @@ if( ! empty( $_POST['email'] ) ) {
 				if ($mail->send()) {
 
 					// Redirect to success page
-					echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }';
+					//echo '{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }';
 					header("Location: /contact-us?message=success");
+					exit();
+
 				} else {
 					//Fail Message
 					echo '{ "alert": "alert alert-danger alert-dismissable", "message": "Your message could not been sent!" }';

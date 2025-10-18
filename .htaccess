@@ -41,10 +41,10 @@ RewriteRule ^ index.php [L,QSA]
 
    ExpiresDefault "access 2 days"
  </IfModule>
+ # Comment out the below lines during developement, or else it will not work
 
 # php -- BEGIN cPanel-generated handler, do not edit
 # Set the “ea-php83” package as the default “PHP” programming language.
-# Comment out the below lines during developement, or else it will not work
 
 <IfModule mime_module>
   AddHandler application/x-httpd-ea-php83___lsphp .php .php8 .phtml

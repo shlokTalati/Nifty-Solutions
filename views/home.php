@@ -22,7 +22,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
         <div class="row align-items-center h-100">
             <div class="col-xl-6 col-lg-8 col-md-10 position-relative z-index-1" data-anime='{ "el": "childs", "translateY": [0, 0], "perspective": [1200,1200], "scale": [1.05, 1], "rotateX": [30, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px pt-5px pb-5px mb-25px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex w-70 sm-w-100"><i class="bi bi-megaphone text-white icon-small me-10px"></i>Grow your IT Infrastructure with us</span>
-                <h1 class="text-white fw-600 ls-minus-2px mb-25px">IT Communication & Data Security</h1>
+                <h1 class="text-white fw-600 ls-minus-2px mb-25px">You grow, we'll handle your tech.</h1>
 
                 <a href="/contact-us" class="btn btn-extra-large btn-switch-text btn-transparent-white-light btn-rounded border-1 ls-0px mt-15px">
                     <span>

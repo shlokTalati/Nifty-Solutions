@@ -94,7 +94,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
                             <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support@<br>niftysolutions.co.in</a>
                         </div>
                         <div class="col last-paragraph-no-margin sm-mb-25px">
-                            <p>Join growing teamx</p>
+                            <p>Join growing team</p>
                             <a href="mailto:career@niftysolutions.co.in" class="text-dark-gray fw-600">career@<br>niftysolutions.co.in </a>
                         </div>
                         <div class="col last-paragraph-no-margin">
@@ -107,6 +107,11 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
             <div class="col-lg-6 offset-xl-1 md-mb-50px sm-mb-0" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 <h3 class="text-dark-gray ls-minus-2px fw-700">Looking for any help?</h3>
                 <form action="/contact-form" method="post" class="contact-form-style-03" id="contact-form">
+                    <!-- <label for="cname" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your company name</label>
+                    <div class="position-relative form-group mb-20px">
+                        <span class="form-icon"><i class="bi bi-type text-dark-gray"></i></span>
+                        <input class="fs-15 ps-0 border-radius-0px border-color-dark-gray bg-transparent form-control" id="cname" type="text" name="name" placeholder="What's your company name"  />
+                    </div> -->
                     <label for="name" class="form-label fs-13 text-uppercase text-dark-gray fw-700 mb-0">Enter your name*</label>
                     <div class="position-relative form-group mb-20px">
                         <span class="form-icon"><i class="bi bi-type text-dark-gray"></i></span>
