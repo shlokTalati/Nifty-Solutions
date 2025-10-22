@@ -7,7 +7,7 @@ $meta_description = "Download Nifty Solutions brochures, feature sheets & produc
 
 
 <!-- Optimized background image with fetchpriority -->
-    <img src="public/images/download-inner.webp"
+    <img src="/public/images/download-inner.webp"
          alt="Downloads Background"
          class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-index-minus-1"
          fetchpriority="high"

@@ -6,7 +6,7 @@ $meta_description = "Join Nifty Solutions team in Vadodara. IT career opportunit
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 
 <!-- Optimized background image with fetchpriority -->
-    <img src="public/images/careers-inner.webp"
+    <img src="/public/images/careers-inner.webp"
          alt="Careers Background"
          class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-index-minus-1"
          fetchpriority="high"

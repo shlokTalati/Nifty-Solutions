@@ -1,4 +1,7 @@
 <?php
+// 0. Include utilities
+require_once(__DIR__ . '/utilities.php');
+
 // 1. Clean the URL (strip query string, leading slash, and trailing slash)
 $requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $cleanPath = trim($requestUri, '/');
@@ -72,38 +75,46 @@ if ($cleanPath === 'favicon.ico') {
 }
 
 
-// 4.0 Check for older URLs and redirect if necessary
+/* 4
+1) Check for older URLs and redirects if matched
+2) Redirects from www to non-www and HTTP to HTTPS for SEO consistency
+*/
 require(__DIR__ . '/redirect.php'); // This file contains the $redirects array and logic
 
 
-// 4.1 Redirect from www to non-www
-require(__DIR__ . '/canonical_redirect.php'); // This file handles www to non-www redirects
+// 5. Call blog controller if it is a blog route
+if (preg_match('#^blog(?:/(.*))?$#', $cleanPath, $matches)) {
+    require(__DIR__ . '/controllers/blog.php');
 
+    // $matches[1] will contain the slug if it exists
+    $slug = isset($matches[1]) ? trim($matches[1]) : '';
 
-// 5. Check if view route exists
-if (array_key_exists($cleanPath, $routes)) {
-    $viewFile = __DIR__ . '/views/' . $routes[$cleanPath];
-    
-    if (file_exists($viewFile)) {
-        // Step 1: Include the view file first – it sets variables like $page_title
-        ob_start();
-        include $viewFile;
-        $pageContent = ob_get_clean();
-
-        // Step 2: Now load the layout, which uses $page_title and $pageContent
-        require 'layout.php';
-        exit;
+    if ($slug === '') {
+        BlogController::get_all_blog_posts(); // e.g., show list of blogs
+    } else {
+        BlogController::get_blog_post($slug); // e.g., show specific blog post
     }
+
+    exit;
 }
 
-// 6. Show 404 if route or file not found
+
+// 6. Check if view route exists
+if (array_key_exists($cleanPath, $routes)) {
+    $viewFile = __DIR__ . '/views/' . $routes[$cleanPath];
+    if (!file_exists($viewFile)) {
+        $viewFile = __DIR__ . '/views/404.php';
+        header("HTTP/1.0 404 Not Found");
+    }
+}
+else{
+// 7. Show 404 if route or file not found
     $viewFile = __DIR__ . '/views/404.php';
-    // require $layoutFile;
-    ob_start();
-    include $viewFile;
-    $pageContent = ob_get_clean();
     header("HTTP/1.0 404 Not Found");
-    require('layout.php');
-    exit;
+}
 
+// Renders the View
+render_view($viewFile);
+exit;
 
+?>

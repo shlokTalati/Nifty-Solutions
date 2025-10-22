@@ -1,6 +1,7 @@
 <?php 
 
-// 3. Redirect old URLs to new paths if mapped
+// Redirect old URLs to new paths if matched
+// Redirect old URLs to new paths if matched
 $redirects = [
     // Homepage redirects
     'index.php' => '',
@@ -93,3 +94,34 @@ if (array_key_exists($cleanPath, $redirects)) {
     header("Location: https://niftysolutions.co.in/" . $redirects[$cleanPath], true, 301);
     exit;
 }
+
+
+// Force HTTPS and non-www redirection for SEO purposes
+// Force HTTPS and non-www redirection for SEO purposes
+$host = $_SERVER['HTTP_HOST'];
+$requestURI = $_SERVER['REQUEST_URI'];
+
+// Don't run below block if the request is not from localhost
+if ($host != 'localhost') {
+
+    // Force non-www
+    if (substr($host, 0, 4) === 'www.') {
+        $host = substr($host, 4);
+    }
+
+    // Force HTTPS
+    if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === 'off') {
+        header("HTTP/1.1 301 Moved Permanently");
+        header("Location: https://" . $host . $requestURI);
+        exit();
+    }
+
+    // Redirect to non-www version even if HTTPS is already enabled
+    if ($_SERVER['HTTP_HOST'] !== $host) {
+        header("HTTP/1.1 301 Moved Permanently");
+        header("Location: https://" . $host . $requestURI);
+        exit();
+    }
+
+}
+?>

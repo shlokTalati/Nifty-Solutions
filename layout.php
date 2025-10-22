@@ -18,13 +18,49 @@
     <!-- Auto-generated canonical tag to avoid duplicate content issues. 
     This uses the current domain and URL path (without query parameters) 
     to set the canonical URL dynamically for each page. -->
-    <link rel="canonical" href="<?= htmlspecialchars('https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'), ENT_QUOTES, 'UTF-8') ?>" />
+    <link rel="canonical"
+        href="<?= htmlspecialchars('https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'), ENT_QUOTES, 'UTF-8') ?>" />
+
+    <?php 
+    // if (!empty($metadata)): 
+        if (0 == 1):
+    ?>
+        <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "<?= htmlspecialchars($metadata['title']) ?>",
+      "description": "<?= htmlspecialchars($metadata['description']) ?>",
+      "image": "<?= htmlspecialchars($metadata['thumbnail_url']) ?>",
+      "author": {
+        "@type": "Person",
+        "name": "<?= htmlspecialchars($metadata['author']) ?>",
+        "url": "<?= htmlspecialchars($metadata['author-social-link']) ?>"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Nifty Solutions",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://niftysolutions.co.in/public/images/logo-white.webp"
+        }
+      },
+      "datePublished": "<?= date('Y-m-d', strtotime($metadata['date'])) ?>",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://niftysolutions.co.in<?= htmlspecialchars($_SERVER['REQUEST_URI']) ?>"
+      }
+    }
+    </script>
+    <?php endif; ?>
+
 
     <title><?= isset($page_title) ? $page_title : 'Nifty Solutions' ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-    <meta name="description" content="<?= isset($meta_description) ? $meta_description : 'Nifty Solutions provides complete IT solutions in Vadodara - data backup, enterprise email, firewall security, web development & hardware. Expert IT support for businesses.' ?>">
+    <meta name="description"
+        content="<?= isset($meta_description) ? $meta_description : 'Nifty Solutions provides complete IT solutions in Vadodara - data backup, enterprise email, firewall security, web development & hardware. Expert IT support for businesses.' ?>">
     <meta name="robots" content="index, follow">
     <!-- favicon icon -->
     <link rel="apple-touch-icon" sizes="180x180" href="/public/images/apple-touch-icon.webp">
@@ -41,18 +77,29 @@
     <!-- Preload and apply CSS files with high priority -->
     <link rel="preload" as="style" href="/public/css/vendors.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/icon.min.css" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" as="style" href="/public/css/responsive.min.css" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" as="style" href="/public/css/responsive.min.css"
+        onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/style.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/custom.css" onload="this.onload=null;this.rel='stylesheet'">
     <!-- <link rel="stylesheet" href="/public/css/style.min.css"> -->
     <!-- <link rel="stylesheet" href="/public/css/custom.css"> -->
 
-<!-- Fallback for browsers with JavaScript disabled -->
-<noscript><link rel="stylesheet" href="/public/css/vendors.min.css"></noscript>
-<noscript><link rel="stylesheet" href="/public/css/icon.min.css"></noscript>
-<noscript><link rel="stylesheet" href="/public/css/responsive.min.css"></noscript>
-<noscript><link rel="stylesheet" href="/public/css/style.min.css"></noscript>
-<noscript><link rel="stylesheet" href="/public/css/custom.css"></noscript>
+    <!-- Fallback for browsers with JavaScript disabled -->
+    <noscript>
+        <link rel="stylesheet" href="/public/css/vendors.min.css">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/public/css/icon.min.css">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/public/css/responsive.min.css">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/public/css/style.min.css">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/public/css/custom.css">
+    </noscript>
     <!-- <link rel="stylesheet" href="/public/css/demo-it-business.css" /> -->
 </head>
 
@@ -70,7 +117,7 @@
     <script type="text/javascript" src="/public/js/vendors.min.js"></script>
     <script type="text/javascript" src="/public/js/main.js"></script>
     <script type="text/javascript" src="/public/js/custom.js"></script>
-     <!-- Additional javascript links can be included here -->
+    <!-- Additional javascript links can be included here -->
     <?php
     if (isset($additional_javascript_link)) {
         foreach ($additional_javascript_link as $link) {
