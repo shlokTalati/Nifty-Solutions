@@ -7,7 +7,7 @@
         content="Before the next data disaster hits, learn how backup and recovery can keep your business running smoothly and securely.">
     <meta name="category" content="Backup & Recovery">
     <!-- <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/why-every-business-needs-a-backup.webp"> -->
-    <meta name="thumbnail_url" content="http://localhost/public/images/blog/thumbnail/why-every-business-needs-a-backup.webp">
+    <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/why-every-business-needs-a-backup.webp">
     <meta name="date" content="19-10-2025">
     <meta name="author" content="Shlok Talati">
     <meta name="reading-time" content="7 Mins">
@@ -30,7 +30,7 @@
 
 <!-- start section -->
 <section class="full-screen ipad-top-space-margin sm-h-600px" data-parallax-background-ratio="0.5"
-    style="background-image: url(http://localhost/public/images/blog/why-every-business-needs-a-backup.webp)">
+    style="background-image: url(http://niftysolutions.co.in/public/images/blog/why-every-business-needs-a-backup.webp)">
     <div class="opacity-light bg-dark-gray"></div>
     <div class="container-fluid z-index-1 position-relative h-100">
         <div class="row h-100 align-items-center">
