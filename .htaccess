@@ -1,16 +1,16 @@
-# Inner .htaccess for public_html/main-website folder
+# Inner .htaccess for public_html/Nifty-Solutions folder
 # Serves static files directly, routes everything else to index.php
 
 RewriteEngine On
 RewriteBase /
 
-# Serve static files from main-website/public/ if they exist
-RewriteCond %{REQUEST_URI} ^/(main-website/)?public/
+# Serve static files from Nifty-Solutions/public/ if they exist
+RewriteCond %{REQUEST_URI} ^/(Nifty-Solutions/)?public/
 RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f
 RewriteRule ^ - [L]
 
 # Return 404 for missing /public/ files (do not route to index.php)
-RewriteCond %{REQUEST_URI} ^/(main-website/)?public/
+RewriteCond %{REQUEST_URI} ^/(Nifty-Solutions/)?public/
 RewriteRule ^ - [R=404,L]
 
 # If we're already at index.php, don't rewrite again (prevents infinite loop)
