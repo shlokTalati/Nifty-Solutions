@@ -161,7 +161,7 @@
                         <a href="https://www.omgene.com" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
-                                    <img src="/public/images/portfolio/omgene.png" alt="Omgene Website" />
+                                    <img src="/public/images/portfolio/omgene.webp" alt="Omgene Website" />
                                 </div>
                                 <div class="portfolio-hover box-shadow-extra-large">
                                     <div
