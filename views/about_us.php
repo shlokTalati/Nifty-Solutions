@@ -231,36 +231,6 @@
                   <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
                   <div class="row">
                       <div class="col-md-5">
-                          <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Computer Hardware, Server, Networking, AMC, FMS</div>
-                      </div>
-                      <div class="col-md-7 last-paragraph-no-margin">
-<ul>
-  <li>
-    <b>Branded Desktops, Laptops, Workstations:</b><br>
-    HP, Dell, Lenovo
-  </li>
-  <li>
-    <b>Servers & Storage Solutions:</b><br>
-    HPE, Dell EMC, Synology
-  </li>
-  <li>
-    <b>Networking Products:</b><br>
-    Cisco, Netgear, Ubiquiti
-  </li>
-  <li>
-    <b>Structured Cabling & Rack Setup:</b><br>
-    For Office Infrastructure
-  </li>
-  <li>
-    <b>Annual Maintenance Contracts (AMC) & Facility Management Services (FMS)</b>
-  </li>
-</ul>
-
-                      </div>
-                  </div>
-                  <div class="separator-line-1px border-bottom border-color-extra-medium-gray mt-35px mb-35px"></div>
-                  <div class="row">
-                      <div class="col-md-5">
                           <div class="fs-19 fw-600 text-dark-gray w-90 xl-w-100 sm-mb-10px">Infrastructure & Hosting Services</div>
                       </div>
                       <div class="col-md-7 last-paragraph-no-margin">

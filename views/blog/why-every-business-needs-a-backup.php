@@ -6,7 +6,6 @@
     <meta name="description"
         content="Before the next data disaster hits, learn how backup and recovery can keep your business running smoothly and securely.">
     <meta name="category" content="Backup & Recovery">
-    <!-- <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/why-every-business-needs-a-backup.webp"> -->
     <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/why-every-business-needs-a-backup.webp">
     <meta name="date" content="19-10-2025">
     <meta name="author" content="Shlok Talati">
@@ -19,7 +18,7 @@
     <!-- <meta name="author-twitter" content=""> -->
     <!-- <meta name="author-facebook" content=""> -->
     <meta name="author-designation" content="Business Generalist">
-    <meta name="author-bio" content="Shlok Talati is a Business Generalist with a passion for technology and innovation at Nifty Solutions. Shlok has helped numerous businesses optimize their operations and embrace digital transformation.">
+    <meta name="author-bio" content="Shlok Talati is a Business Generalist at Nifty Solutions, where he focuses on streamlining operations, improving systems, and building the company's digital presence.">
     <meta name="author-photo-url" content="https://media.licdn.com/dms/image/v2/D4D03AQEfwtp-ye_9Yg/profile-displayphoto-scale_400_400/B4DZes5CYuGsAg-/0/1750952323512?e=1762387200&v=beta&t=M5H1q-BJmL_P8e4hgqmmMa7qp4cdWi51_U1HFS4OquU">
     
 </head>

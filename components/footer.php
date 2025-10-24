@@ -8,9 +8,11 @@
                     <a href="/" class="footer-logo mb-15px d-inline-block"> 
                             <img src="/public/images/logo-black.webp" alt="Nifty Solutions company logo black" data-at2x="/public/images/logo-black.webp">
                         </a>
-                        <p class="lh-28 w-90 xl-w-100 mx-lg-auto mx-xl-0">You focus on growth, we’ll manage your IT.
+                        <p class="lh-28 w-90 xl-w-100 mx-lg-auto mx-xl-0">You focus on growth, we’ll handle your IT.
                             <br>
                         Est. 1999
+                        <br>
+                        <strong>Vadodara, Gujarat</strong>
                         </p>
                         
                         <div class="elements-social social-icon-style-02 mt-15px">
@@ -37,7 +39,7 @@
                         <ul>
                             <li><a href="/web-and-email-services/website-development">Web Development</a></li>
                             <li><a href="/contact-us">Consulting</a></li>
-                            <li><a href="/backup-and-recovery/data-backup">Backup</a></li>
+                            <li><a href="/backup-and-recovery/data-backup">Data Backup</a></li>
                             <li><a href="/it-infrastructure/hardware-network-amc">AMC/FMS</a></li>
                         </ul>
                     </div>
