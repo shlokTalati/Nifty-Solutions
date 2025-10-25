@@ -1,10 +1,11 @@
-<?php $page_title="Knowledge Articles" ?>
+<?php $page_title="Knowledge Articles - Nifty Solutions" ?>
+<?php $meta_description = "Explore Nifty Solutions' Blog on various IT topics, including cybersecurity, data backup, and network solutions."; ?>
 
      <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0"
     style="background-image:url('public/images/blog/blog-inner.webp');">
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
-        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+        <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
                 <animate attributeName="d" dur="5s" values="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250;
                             M 0 250 C 400 50 400 400 3000 250 L 3000 550 L 0 550 L 0 250;

@@ -1,10 +1,11 @@
-<?php $page_title=$metadata['title'] ?? 'Blog - Untitled'; //Do NOT TOUCH THIS LINE, it dynamically sets Title in the layout page?> 
+<?php $page_title=$metadata['title'] ?? 'Blog - Untitled';
+$meta_description=$metadata['description'] ?? 'Blog Description';
+//Do NOT TOUCH THESE LINES, it dynamically sets Title and Description in the layout page?> 
 
 <!-- Adding Metadata for the blog post is extremely important for SEO and social sharing. Please ensure to fill out the relevant metadata fields below. -->
 <head>
     <meta name="title" content="Why Every Business Needs a Backup Before It Is Too Late?">
-    <meta name="description"
-        content="Before the next data disaster hits, learn how backup and recovery can keep your business running smoothly and securely.">
+    <meta name="description" content="Before the next data disaster hits, learn how backup and recovery can keep your business running smoothly and securely.">
     <meta name="category" content="Backup & Recovery">
     <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/why-every-business-needs-a-backup.webp">
     <meta name="date" content="19-10-2025">
