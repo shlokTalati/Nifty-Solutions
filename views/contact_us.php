@@ -1,5 +1,5 @@
 <?php
-$page_title = "Contact Us";
+$page_title = "Contact Us | Nifty Solutions";
 $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +91 9825412230 or visit us at Nilamber Triumph, Gotri-Vasna Road. Expert IT solutions & consultation available.";
 ?>
 <!-- start page title -->
@@ -13,7 +13,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
          decoding="async"
          loading="eager" />
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
-        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+        <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
                 <animate
                     attributeName="d"
@@ -149,7 +149,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
         </div>
     </div>
     <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
-        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+        <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
                 <animate
                     attributeName="d"

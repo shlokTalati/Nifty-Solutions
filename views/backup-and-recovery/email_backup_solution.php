@@ -1,4 +1,4 @@
-<?php $page_title = "Email Backup";
+<?php $page_title = "Email Backup Solution | Nifty Solutions";
 $meta_description = "Comprehensive email backup services by Nifty Solutions. Secure archiving, compliance support, and instant recovery for all your business email communications and attachments." ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
@@ -11,7 +11,7 @@ $meta_description = "Comprehensive email backup services by Nifty Solutions. Sec
          decoding="async"
          loading="eager" />
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
-            <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+            <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
                     <animate
                         attributeName="d"

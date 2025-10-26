@@ -1,4 +1,4 @@
-<?php $page_title = "Data Leakage Prevention";
+<?php $page_title = "Data Leakage Prevention (DLP) | Nifty Solutions";
 $meta_description = "Prevent data breaches with Nifty Solutions' data leakage prevention services. Monitor, detect, and block unauthorized data transfers to protect sensitive business information and ensure compliance."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
@@ -11,7 +11,7 @@ $meta_description = "Prevent data breaches with Nifty Solutions' data leakage pr
          decoding="async"
          loading="eager" />
         <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
-            <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+            <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                 <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
                     <animate
                         attributeName="d"
@@ -388,7 +388,7 @@ eScan DLP assists in categorizing and securing data:</br>
                         </div>
                     </div>
                     <div class="shape-image-animation p-0 w-100 bottom-minus-40px xl-bottom-0px d-none d-md-block">
-                        <svg xmlns="http://www.w3.org/2000/svg" widht="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
                             <path class="st1" d="M 0 250 C 1200 400 1200 50 3000 250 L 3000 550 L 0 550 L 0 250">
                                 <animate
                                     attributeName="d"

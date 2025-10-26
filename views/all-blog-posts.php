@@ -1,5 +1,5 @@
-<?php $page_title="Knowledge Articles - Nifty Solutions" ?>
-<?php $meta_description = "Explore Nifty Solutions' Blog on various IT topics, including cybersecurity, data backup, and network solutions."; ?>
+<?php $page_title="Knowledge Articles | Nifty Solutions";
+ $meta_description = "Explore Nifty Solutions' Blog on various IT topics, including cybersecurity, data backup, and network solutions."; ?>
 
      <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0"
