@@ -38,7 +38,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                 <div class="ps-15 pe-15 md-ps-10 md-pe-10 sm-px-0"
                     data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 1200, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                     <span class="alt-font fs-20 text-white mb-3 d-inline-block fw-300">Posted by 
-                        <a href="<?php echo $metadata['author-social-link'] ?? '#'; ?>" target="_blank"
+                        <a href="<?php echo $metadata['author-social-link'] ?? '#'; ?>" rel="author" target="_blank"
                             class="text-white text-white-hover fw-700 text-decoration-line-bottom">
                             <?php echo $metadata['author'] ?? 'Unknown'; ?>
                         </a>
@@ -46,6 +46,9 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                     <h1 class="alt-font text-white fw-600 mb-5 ls-minus-2px">
                         <?php echo $metadata['title'] ?? 'The Smartest Business Decision You’ll Make Before a Data Disaster: Backup and Recovery'; ?>
                     </h1>
+                    <span class="alt-font fs-20 text-white mb-3 d-inline-block fw-300">
+                        <?php echo date('j F Y', strtotime($metadata['date'])); ?>
+                    </span>
                 </div>
             </div>
         </div>
