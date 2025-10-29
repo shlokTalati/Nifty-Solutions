@@ -58,7 +58,7 @@ $meta_description = "Custom website development services by Nifty Solutions. Res
                                 </div>
                             </div>
                         </div>
-                        <p class="fs-13 mb-0">We are excited for our work and how it <span class="text-dark-gray text-decoration-line-bottom">positively</span> impacts clients.</p>
+                        <p class="fs-13 mb-0">Based in Vadodara. Serving businesses <span class="text-dark-gray text-decoration-line-bottom">across</span> India</p>
                     </div>
                 </div>
             </div>
