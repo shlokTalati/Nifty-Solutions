@@ -104,7 +104,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                     </p>
 
                     <p>
-                        At <strong>Nifty Solutions</strong>, we’ve seen this change firsthand — helping businesses move from fragmented IT systems to scalable, secure digital ecosystems. The future of business in India isn’t just about going digital. It’s about staying secure while you do.
+                        At <a href="https://niftysolutions.co.in" target="_blank">Nifty Solutions</a>, we’ve seen this change firsthand — helping businesses move from fragmented IT systems to scalable, secure digital ecosystems. The future of business in India isn’t just about going digital. It’s about staying secure while you do.
                     </p>
 
                     <p class="fst-italic mt-5 small">
