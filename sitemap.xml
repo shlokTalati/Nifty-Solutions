@@ -1,164 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
   <loc>https://niftysolutions.co.in/</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/about-us</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/endpoint-security/firewall</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/endpoint-security/antivirus-and-content-security</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/endpoint-security/data-leakage-prevention</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/endpoint-security/email-security</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
+
 <url>
   <loc>https://niftysolutions.co.in/backup-and-recovery/data-backup</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/backup-and-recovery/email-backup</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/backup-and-recovery/cloud-backup</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/backup-and-recovery/disaster-recovery</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://niftysolutions.co.in/backup-and-recovery/nas-storage</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+
 <url>
   <loc>https://niftysolutions.co.in/web-and-email-services/business-email</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/web-and-email-services/website-development</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://niftysolutions.co.in/web-and-email-services/ssl-certificate</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/web-and-email-services/bulk-smtp</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/web-and-email-services/email-distribution</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/remote-work-and-monitoring/remote-access</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/remote-work-and-monitoring/employee-monitoring</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/it-infrastructure/hardware-network-amc</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/it-infrastructure/network-monitoring</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/it-infrastructure/dedicated-vps</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/it-infrastructure/licensed-software</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+
 <url>
   <loc>https://niftysolutions.co.in/portfolio</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/clients</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/careers</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://niftysolutions.co.in/downloads</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/contact-us</loc>
-  <lastmod>2025-06-02T19:13:50+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://niftysolutions.co.in/public/pdf/Nifty_Solutions_profile.pdf</loc>
-  <lastmod>2025-06-02T19:09:41+00:00</lastmod>
-  <priority>0.40</priority>
-</url>
+
 <url>
   <loc>https://niftysolutions.co.in/blog</loc>
-  <lastmod>2025-10-22T19:09:41+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/blog/why-every-business-needs-a-backup</loc>
-  <lastmod>2025-10-22T19:09:41+00:00</lastmod>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://niftysolutions.co.in/blog/how-indian-smes-are-adopting-digital-transformation</loc>
+  <lastmod>2025-11-06</lastmod>
   <priority>0.80</priority>
 </url>
 
