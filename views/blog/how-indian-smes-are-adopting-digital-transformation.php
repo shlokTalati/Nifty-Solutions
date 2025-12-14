@@ -3,8 +3,8 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 //Do NOT TOUCH THESE LINES, it dynamically sets Title and Description in the layout page?> 
 
 <head>
-    <meta name="title" content="How Indian SMEs Are Adopting Digital Transformation and IT Security">
-    <meta name="description" content="Explore how Indian SMEs are embracing digital transformation while tackling IT security challenges across cities like Vadodara and Gujarat.">
+    <meta name="title" content="How Indian SMEs Are Adopting Digital Transformation">
+    <meta name="description" content="Explore how Indian SMEs are embracing digital transformation across cities like Vadodara and Gujarat.">
     <meta name="category" content="Digital Transformation">
     <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/how-indian-smes-are-adopting-digital-transformation.webp">
     <meta name="date" content="29-10-2025">

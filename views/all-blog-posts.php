@@ -71,11 +71,7 @@
                                             </span>
                                         <?php endif; ?>
 
-                                        <?php if (!empty($post['description'])): ?>
-                                            <span class="text-white card-title fs-17 lh-22 fw-200 opacity-6 alt-font">
-                                                <?php echo htmlspecialchars($post['description']); ?>
-                                            </span>
-                                        <?php endif; ?>
+                                        
                                     </figcaption>
                                 </figure>
                             </li>
