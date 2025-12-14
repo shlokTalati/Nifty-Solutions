@@ -5,8 +5,8 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 <head>
     <meta name="title" content="Are You Overpaying for Backup?">
     <meta name="description" content="A practical look at backup software pricing for businesses in Vadodara and Gujarat, comparing subscription and perpetual licensing based on real needs.">
-    <meta name="category" content="Digital Transformation">
-    <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/how-indian-smes-are-adopting-digital-transformation.webp">
+    <meta name="category" content="Backup & Recovery">
+    <meta name="thumbnail_url" content="https://niftysolutions.co.in/public/images/blog/thumbnail/are-you-overpaying-for-backup.webp">
     <meta name="date" content="14-12-2025">
     <meta name="author" content="Shlok Talati">
     <meta name="reading-time" content="7 Mins">
@@ -25,7 +25,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 
 <!-- start hero section -->
 <section class="full-screen ipad-top-space-margin sm-h-600px" data-parallax-background-ratio="0.5"
-    style="background-image: url(https://niftysolutions.co.in/public/images/blog/how-indian-smes-are-adopting-digital-transformation.webp)">
+    style="background-image: url(https://niftysolutions.co.in/public/images/blog/are-you-overpaying-for-backup.webp)">
     <div class="opacity-light bg-dark-gray"></div>
     <div class="container-fluid z-index-1 position-relative h-100">
         <div class="row h-100 align-items-center">
