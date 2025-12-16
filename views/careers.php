@@ -1,4 +1,4 @@
-<?php $page_title = "Careers | Nifty Solutions";
+<?php $page_title = "Careers | Nifty Solutions | Vadodara";
 $meta_description = "Join Nifty Solutions team in Vadodara. IT career opportunities in cybersecurity, data backup & network solutions. Send resume to career@niftysolutions.co.in"; ?>
 
 <!-- Hero Section -->

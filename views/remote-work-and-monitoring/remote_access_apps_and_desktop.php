@@ -1,4 +1,4 @@
-<?php $page_title="Remote Access Apps and Desktop | Nifty Solutions" ?>
+<?php $page_title="Remote Access Apps and Desktop | Nifty Solutions | Vadodara" ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 

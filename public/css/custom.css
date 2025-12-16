@@ -25,3 +25,7 @@ video{
 .btn.btn-rounded.btn-extra-large {
     padding: 0px 0px;
 }
+
+header .navbar-brand img {
+    max-height: 38px;
+}

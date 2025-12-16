@@ -1,4 +1,4 @@
-<?php $page_title = "Email Security | Nifty Solutions";
+<?php $page_title = "Email Security | Nifty Solutions | Vadodara";
 $meta_description = "Secure your email communications with Nifty Solutions' email security services. Advanced spam filtering, phishing protection, and encryption to protect against email-based cyber attacks."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

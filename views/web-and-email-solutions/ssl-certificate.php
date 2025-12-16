@@ -1,4 +1,4 @@
-<?php $page_title = "SSL Certificates | Nifty Solutions";
+<?php $page_title = "SSL Certificates | Nifty Solutions | Vadodara";
 $meta_description = "Secure SSL certificates from Nifty Solutions. Enhanced website security, data encryption, improved SEO rankings, and customer trust with affordable SSL solutions."?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

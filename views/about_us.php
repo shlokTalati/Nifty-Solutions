@@ -1,4 +1,4 @@
-  <?php $page_title = "About Us | Nifty Solutions";
+  <?php $page_title = "About Us | Nifty Solutions | Vadodara";
   $meta_description = "Established in Vadodara, Gujarat in 1999, Nifty Solutions delivers IT security & communication solutions pan India. Data backup, email hosting, cybersecurity & hardware services.";?>
   <!-- start page title -->
   <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

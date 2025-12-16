@@ -1,4 +1,4 @@
-<?php $page_title="Clients | Nifty Solutions";
+<?php $page_title="Clients | Nifty Solutions | Vadodara";
 $meta_description = "Trusted IT partner for 100+ companies including Astral Pipes, Panasonic & IDMC. View our client portfolio showcasing long-term IT solution partnerships." ?>
 <!-- start page title -->
   <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0" style="background-image:url('public/images/client-inner.webp');">

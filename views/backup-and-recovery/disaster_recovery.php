@@ -1,4 +1,4 @@
-<?php $page_title = "Disaster Recovery | Nifty Solutions";
+<?php $page_title = "Disaster Recovery | Nifty Solutions | Vadodara";
 $meta_description= "Business continuity with Nifty Solutions' disaster recovery services. Rapid recovery, minimal downtime, and comprehensive planning to keep your operations running during emergencies." ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

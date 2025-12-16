@@ -1,4 +1,4 @@
-<?php $page_title = "Email Distribution Software | Nifty Solutions";
+<?php $page_title = "Email Distribution Software | Nifty Solutions | Vadodara";
 $meta_description = "Efficient email distribution services from Nifty Solutions. Mass email campaigns, automated distribution, delivery tracking, and list management for effective marketing." ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

@@ -1,4 +1,4 @@
-<?php $page_title="Portfolio | Nifty Solutions" ?>
+<?php $page_title="Portfolio | Nifty Solutions | Vadodara" ?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0"
     style="background-image:url('public/images/portfolio/portfolio-inner.webp');">

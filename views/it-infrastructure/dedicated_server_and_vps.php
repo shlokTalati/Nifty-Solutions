@@ -1,4 +1,4 @@
-<?php $page_title = "Dedicated Server & VPS | Nifty Solutions" ?>
+<?php $page_title = "Dedicated Server & VPS | Nifty Solutions | Vadodara" ?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 

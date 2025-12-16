@@ -1,4 +1,4 @@
-<?php $page_title = "Licensed Software | Nifty Solutions" ?>
+<?php $page_title = "Licensed Software | Nifty Solutions | Vadodara" ?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 

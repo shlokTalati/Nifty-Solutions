@@ -1,4 +1,4 @@
-<?php $page_title = "Email Backup Solution | Nifty Solutions";
+<?php $page_title = "Email Backup Solution | Nifty Solutions | Vadodara";
 $meta_description = "Comprehensive email backup services by Nifty Solutions. Secure archiving, compliance support, and instant recovery for all your business email communications and attachments." ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

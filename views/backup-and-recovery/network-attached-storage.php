@@ -1,4 +1,4 @@
-<?php $page_title = "Network Attached Storage (NAS) | Nifty Solutions";
+<?php $page_title = "Network Attached Storage (NAS) | Nifty Solutions | Vadodara";
 $meta_description = "Network Attached Storage solutions by Nifty Solutions. Centralized data management, secure file sharing, and scalable storage for efficient business operations and backup."?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

@@ -1,4 +1,4 @@
-<?php $page_title = "Data Leakage Prevention (DLP) | Nifty Solutions";
+<?php $page_title = "Data Leakage Prevention (DLP) | Nifty Solutions | Vadodara";
 $meta_description = "Prevent data breaches with Nifty Solutions' data leakage prevention services. Monitor, detect, and block unauthorized data transfers to protect sensitive business information and ensure compliance."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

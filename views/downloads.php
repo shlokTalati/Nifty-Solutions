@@ -1,4 +1,4 @@
-<?php $page_title = "Downloads | Nifty Solutions";
+<?php $page_title = "Downloads | Nifty Solutions | Vadodara";
 $meta_description = "Download Nifty Solutions brochures, feature sheets & product information. Access technical specs for backup software, email security & IT solutions."?>
 
 <!-- Hero Section -->

@@ -1,4 +1,4 @@
-<?php $page_title = "Bulk Email / SMTP Services | Nifty Solutions";
+<?php $page_title = "Bulk Email / SMTP Services | Nifty Solutions | Vadodara";
 $meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume email delivery, marketing campaigns, transactional emails, and detailed analytics for business growth."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

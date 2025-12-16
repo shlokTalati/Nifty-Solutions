@@ -1,4 +1,4 @@
-<?php $page_title="Computer Hardware & AMC | Nifty Solutions" ?>
+<?php $page_title="Computer Hardware & AMC | Nifty Solutions | Vadodara" ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 

@@ -1,4 +1,4 @@
-<?php $page_title = "Business Email Hosting | Nifty Solutions";
+<?php $page_title = "Business Email Hosting | Nifty Solutions | Vadodara";
 $meta_description = "Professional business email solutions from Nifty Solutions. Custom domain emails, secure hosting, spam protection, and 24/7 support for reliable business communication."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

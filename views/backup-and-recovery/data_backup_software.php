@@ -1,4 +1,4 @@
-<?php $page_title = "Data Backup Software | Nifty Solutions";
+<?php $page_title = "Data Backup Software | Nifty Solutions | Vadodara";
 $meta_description = "Reliable data backup solutions from Nifty Solutions. Automated backups, secure storage, and easy recovery to protect your critical business data from loss or corruption."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">

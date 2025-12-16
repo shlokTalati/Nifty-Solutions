@@ -1,4 +1,4 @@
-<?php $page_title = "Web Developement & Hosting | Nifty Solutions";
+<?php $page_title = "Web Developement & Hosting | Nifty Solutions | Vadodara";
 $meta_description = "Custom website development services by Nifty Solutions. Responsive design, SEO optimization, e-commerce solutions, and modern web technologies for your business success."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
