@@ -29,3 +29,9 @@ video{
 header .navbar-brand img {
     max-height: 38px;
 }
+
+@media (max-width: 600px) {
+  footer .footer-logo img {
+    max-height: 40px;
+  }
+}
