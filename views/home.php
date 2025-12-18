@@ -1,5 +1,5 @@
 <?php
-$page_title = "Home | Nifty Solutions | Vadodara | Vadodara";
+$page_title = "Home | Nifty Solutions | Vadodara";
 $meta_description = "Nifty Solutions is a leading IT service provider in Vadodara, specializing in data backup, email solutions, firewall security, web development, and more. We offer comprehensive IT solutions to enhance your business's communication and data security.";
 ?>
 
