@@ -46,7 +46,7 @@ $meta_description = "Protect your network with advanced firewall solutions from 
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Firewall</span>
-                <h3 class="text-dark-gray fw-700 ls-minus-1px">Network Traffic Filtering & Control</h3>
+                <h3 class="text-dark-gray fw-700 ls-minus-1px">Firewall Devices and Solutions</h3>
                 <p class="w-95 md-w-100">At Nifty Solutions, we provide enterprise-grade firewall solutions designed to secure your organization’s network against evolving threats and unwanted traffic. Based in Vadodara with 25+ years of experience, we help local and national businesses alike build resilient IT infrastructures without compromising performance.</p>
                 <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                     <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
