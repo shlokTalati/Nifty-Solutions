@@ -2,8 +2,8 @@
 <html class="no-js" lang="en">
 
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFJPXGTH23"></script>
+    <!-- Google tag (gtag.js) This is commented out to disable Google Analytics temporarily. -->
+    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFJPXGTH23"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -13,7 +13,9 @@
         gtag('js', new Date());
 
         gtag('config', 'G-HFJPXGTH23');
-    </script>
+    </script> -->
+
+
 
     <!-- Auto-generated canonical tag to avoid duplicate content issues. 
     This uses the current domain and URL path (without query parameters) 
@@ -55,7 +57,7 @@
     <?php endif; ?>
 
 
-    <title><?= isset($page_title) ? $page_title : 'Nifty Solutions' ?></title>
+    <title><?= isset($page_title) ? $page_title : 'Nifty Solutions | Vadodara' ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />

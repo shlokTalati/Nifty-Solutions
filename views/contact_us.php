@@ -55,7 +55,7 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
                     <div class="col services-box-style-02 mb-30px">
                         <div class="row g-0 box-shadow-quadruple-large border-radius-6px overflow-hidden">
                             <div class="col-lg-6 col-sm-6">
-                                <div class="h-100 cover-background xs-h-300px" style="background-image: url('/public/images/home-nilamber-triumph-drawing.webp')"></div>
+                                <div class="h-100 cover-background xs-h-300px" style="background-image: url('/public/images/home/nilamber-triumph-drawing.webp')"></div>
                             </div>
                             <div class="col-lg-6 col-sm-6 bg-white box-shadow-extra-large p-40px xl-p-30px">
                                 <div class="services-box-content last-paragraph-no-margin">
