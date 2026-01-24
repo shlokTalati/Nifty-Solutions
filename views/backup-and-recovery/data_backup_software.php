@@ -27,7 +27,7 @@ $meta_description = "Reliable data backup solutions from Nifty Solutions. Automa
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
-                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Data Backup Software</h1>
+                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Data Backup Solutions</h1>
                 </div>
             </div>
         </div>
@@ -44,7 +44,7 @@ $meta_description = "Reliable data backup solutions from Nifty Solutions. Automa
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Data Backup Software</span>
+                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Data Backup Solutions</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Reliable data backup solutions to safeguard critical business data from loss and system failures.</h3>
                     <p class="w-95 md-w-100">Data backup is the process of copying and storing digital information to protect it from loss due to hardware failure, cyberattacks, or accidental deletion. It ensures business continuity by enabling quick recovery of critical files and systems.
                     </p>

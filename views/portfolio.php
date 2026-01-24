@@ -33,10 +33,11 @@
                 <!-- filter navigation -->
                 <ul class="portfolio-filter nav nav-tabs justify-content-center border-0 fw-500">
                     <li class="nav active"><a data-filter="*" href="#">All</a></li>
-                    <li class="nav"><a data-filter=".industry" href="#">Industries</a></li>
+                    <li class="nav"><a data-filter=".industry" href="#">Industry</a></li>
                     <li class="nav"><a data-filter=".corporate" href="#">Corporate</a></li>
-                    <li class="nav"><a data-filter=".smb" href="#">SMBs</a></li>
-                    <li class="nav"><a data-filter=".healthcare-and-education" href="#">Healthcare & Education</a></li>
+                    <li class="nav"><a data-filter=".finance" href="#">Finance</a></li>
+                    <li class="nav"><a data-filter=".education" href="#">Education</a></li>
+                    <li class="nav"><a data-filter=".healthcare-and-lifescience" href="#">Healthcare and Lifescience</a></li>
                 </ul>
                 <!-- end filter navigation -->
             </div>
@@ -47,7 +48,7 @@
                     class="portfolio-modern portfolio-wrapper grid-loading grid grid-3col xxl-grid-3col xl-grid-3col lg-grid-3col md-grid-2col sm-grid-2col xs-grid-1col gutter-extra-large">
                     <li class="grid-sizer"></li>
                     <!-- start portfolio item -->
-                    <li class="grid-item healthcare-and-education smb transition-inner-all">
+                    <li class="grid-item education transition-inner-all">
                         <a href="https://shaishavschool.in/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-4px">
@@ -69,7 +70,7 @@
                     </li>
                     <!-- end portfolio item -->
                    <!-- start portfolio item -->
-                    <li class="grid-item smb corporate transition-inner-all">
+                    <li class="grid-item industry corporate transition-inner-all">
                         <a href="https://www.rubexco.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -93,7 +94,7 @@
 
 
                     <!-- start portfolio item -->
-                    <li class="grid-item corporate smb transition-inner-all">
+                    <li class="grid-item corporate transition-inner-all">
                         <a href="https://inos.in/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -115,7 +116,7 @@
                     </li>
                     <!-- end portfolio item -->
                       <!-- start portfolio item -->
-                    <li class="grid-item industry smb transition-inner-all">
+                    <li class="grid-item industry transition-inner-all">
                         <a href="https://www.bci-india.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -136,7 +137,7 @@
                     </li>
                     <!-- end portfolio item -->
                     <!-- start portfolio item -->
-                    <li class="grid-item industry corporate smb transition-inner-all">
+                    <li class="grid-item industry corporate corporate smb transition-inner-all">
                         <a href="http://www.paborganics.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -157,7 +158,7 @@
                     </li>
                     <!-- end portfolio item -->
 					 <!-- start portfolio item -->
-                    <li class="grid-item industry corporate smb transition-inner-all">
+                    <li class="grid-item healthcare-and-lifescience transition-inner-all">
                         <a href="https://www.omgene.com" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -178,7 +179,7 @@
                     </li>
                     <!-- end portfolio item -->
                     <!-- start portfolio item -->
-                    <li class="grid-item industry corporate smb transition-inner-all">
+                    <li class="grid-item industry corporate transition-inner-all">
                         <a href="https://rubex-phosphates.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -199,7 +200,7 @@
                     </li>
                     <!-- end portfolio item -->
                     <!-- start portfolio item -->
-                    <li class="grid-item industry corporate smb transition-inner-all">
+                    <li class="grid-item industry corporate transition-inner-all">
                         <a href="https://pabpolymers.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -220,7 +221,7 @@
                     </li>
                     <!-- end portfolio item -->
                     <!-- start portfolio item -->
-                    <li class="grid-item industry smb transition-inner-all">
+                    <li class="grid-item healthcare-and-lifescience corporate transition-inner-all">
                         <a href="https://elementspharma.com/" target="_blank">
                             <div class="portfolio-box">
                                 <div class="portfolio-image border border-black border-radius-6px">
@@ -232,6 +233,48 @@
                                         <div class="me-auto">
                                             <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Pharmaceuticals</div>
                                             <div class="fw-700 text-dark-gray text-uppercase lh-initial">Elements Pharma</div>
+                                        </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item transition-inner-all">
+                        <a href="https://organictj.in/" target="_blank">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border border-black border-radius-6px">
+                                    <img src="/public/images/portfolio/portfolio-organictj.webp" alt="Organic TJ Exports Website" />
+                                </div>
+                                <div class="portfolio-hover box-shadow-extra-large">
+                                    <div
+                                        class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
+                                        <div class="me-auto">
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Exports</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Organic TJ Exports</div>
+                                        </div>
+                                         
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <!-- end portfolio item -->
+                    <!-- start portfolio item -->
+                    <li class="grid-item corporate finance transition-inner-all">
+                        <a href="https://trimurticapital.in/" target="_blank">
+                            <div class="portfolio-box">
+                                <div class="portfolio-image border border-black border-radius-6px">
+                                    <img src="/public/images/portfolio/portfolio-trimurti-capital.webp" alt="Trimurti Capital Website" />
+                                </div>
+                                <div class="portfolio-hover box-shadow-extra-large">
+                                    <div
+                                        class="bg-white d-flex align-items-center align-self-end text-start border-radius-4px ps-30px pe-30px pt-20px pb-20px lg-p-20px w-100">
+                                        <div class="me-auto">
+                                            <div class="fs-12 fw-500 text-medium-gray text-uppercase lh-24">Financial Services</div>
+                                            <div class="fw-700 text-dark-gray text-uppercase lh-initial">Trimurti Capital</div>
                                         </div>
                                          
                                     </div>
