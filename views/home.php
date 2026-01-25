@@ -5,7 +5,6 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
 
 <head>
     <link rel="preload" as="image" href="/public/images/home/banner.webp">
-    <link rel="preload" as="stylesheet" href="/public/css/critical.css">
     <style>
     @media (max-width: 768px) {
       #home-banner {
