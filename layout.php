@@ -75,8 +75,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <!-- style sheets and font icons -->
 
-    <link rel="stylesheet" href="/public/css/critical.css">
+    <!-- <link rel="stylesheet" href="/public/css/critical.css"> -->
     <!-- Preload and apply CSS files with high priority -->
+     <link rel="preload" as="style" href="/public/css/critical.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/vendors.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/icon.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/responsive.min.css"

@@ -5,10 +5,18 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
 
 <head>
     <link rel="preload" as="image" href="/public/images/home/banner.webp">
+    <link rel="preload" as="stylesheet" href="/public/css/critical.css">
+    <style>
+    @media (max-width: 768px) {
+      #home-banner {
+        background-image: url('/public/images/home/banner-mobile.webp') !important;
+      }
+    }
+  </style>
 </head>
 
 <!-- start hero section -->
-<section class="cover-background full-screen ipad-top-space-margin py-0 md-h-750px sm-h-650px" style="background-image:url('/public/images/home/banner.webp');">
+<section class="cover-background full-screen ipad-top-space-margin py-0 md-h-750px sm-h-650px" id="home-banner" style="background-image:url('/public/images/home/banner-desktop.webp');">
     <div class="opacity-very-light bg-black"></div>
     <div class="shape-image-animation bottom-0 p-0 w-100 d-none d-md-block">
         <svg xmlns="http://www.w3.org/2000/svg" width="3000" height="400" viewBox="0 180 2500 200" fill="#ffffff">
