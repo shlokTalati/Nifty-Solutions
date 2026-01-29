@@ -70,7 +70,7 @@
                                     <a href="#" class="dropdown-helper-link">Remote Work & Monitoring<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/remote-work-and-monitoring/remote-access"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access Apps. and Remote Desktop</a></li>
-                                        <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li>
+                                        <!-- <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li> -->
                                       
                                     </ul>
                                 </li>
