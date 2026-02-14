@@ -29,7 +29,7 @@ $routes = [
 
     // ── IT Infra & Hosting ──────────────────────────────────────
     'it-infrastructure/hardware-network-amc'       => 'it-infrastructure/computer_hardware_and_network_amc_fms.php',
-    'it-infrastructure/network-monitoring'         => 'it-infrastructure/network_monitoring_and_ticketing.php',
+    // 'it-infrastructure/network-monitoring'         => 'it-infrastructure/network_monitoring_and_ticketing.php',
     'it-infrastructure/dedicated-vps'              => 'it-infrastructure/dedicated_server_and_vps.php',
     'it-infrastructure/licensed-software'          => 'it-infrastructure/licensed_software.php',
 

@@ -69,7 +69,7 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-helper-link">Remote Work & Monitoring<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="/remote-work-and-monitoring/remote-access"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access Apps. and Remote Desktop</a></li>
+                                        <li><a href="/remote-work-and-monitoring/remote-access"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access</a></li>
                                         <!-- <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li> -->
                                       
                                     </ul>
@@ -79,8 +79,8 @@
                                 <li class="dropdown">
                                     <a href="#" class="dropdown-helper-link">IT Infrastructure & Apps. Hosting<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="/it-infrastructure/hardware-network-amc"><i class="bi bi-pc text-dark icon-small me-10px"></i>Computer Hardware, Network & AMC</a></li>
-                                        <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li>
+                                        <li><a href="/it-infrastructure/hardware-network-amc"><i class="bi bi-pc text-dark icon-small me-10px"></i>Computer Network & AMC</a></li>
+                                        <!-- <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li> -->
                                         <li><a href="/it-infrastructure/dedicated-vps"><i class="bi bi-server text-dark icon-small me-10px"></i>Dedicated Server & VPS</a></li>
                                         <li><a href="/it-infrastructure/licensed-software"><i class="bi bi-file-earmark-code text-dark icon-small me-10px"></i>Licensed Software</a></li>
                                     </ul>
