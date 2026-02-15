@@ -53,33 +53,39 @@
                                     </ul>
                                 </li>
 
-                                <!-- Web and Email Solutions -->
+                                <!-- Email Services -->
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-helper-link">Email Solution & Web Development<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">Email Services<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">  
-                                        <li><a href="/web-and-email-services/business-email"><i class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business Email Hosting</a></li>
-										 <li><a href="/web-and-email-services/website-development"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
-                                        <li><a href="/web-and-email-services/ssl-certificate"><i class="bi bi-lock text-dark icon-small me-10px"></i>SSL Certificate</a></li>
-                                        <li><a href="/web-and-email-services/bulk-smtp"><i class="bi bi-send-check text-dark icon-small me-10px"></i>Bulk Email / SMTP Services</a></li>
-                                        <li><a href="/web-and-email-services/email-distribution"><i class="bi bi-diagram-3 text-dark icon-small me-10px"></i>Email Distribution Software</a></li>
+                                        <li><a href="/email-services/business-email"><i class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business Email Hosting</a></li>
+                                        <li><a href="/email-services/bulk-smtp"><i class="bi bi-send-check text-dark icon-small me-10px"></i>Bulk Email / SMTP Services</a></li>
+                                        <li><a href="/email-services/email-distribution"><i class="bi bi-diagram-3 text-dark icon-small me-10px"></i>Email Distribution Software</a></li>
+                                    </ul>
+                                </li>
+
+                                <!-- Website Solutions -->
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-helper-link">Web Development<i class="fa-solid fa-angle-right"></i></a>
+                                    <ul class="dropdown-menu">  
+										 <li><a href="/website-solutions/website-development-and-hosting"><i class="bi bi-globe text-dark icon-small me-10px"></i><span>Website Development & Hosting</span></a></li>
+                                        <li><a href="/website-solutions/ssl-certificate"><i class="bi bi-lock text-dark icon-small me-10px"></i>SSL Certificate</a></li>
                                     </ul>
                                 </li>
 
                                 <!-- Remote Work & Monitoring -->
-                                <li class="dropdown">
+                                <!-- <li class="dropdown">
                                     <a href="#" class="dropdown-helper-link">Remote Work & Monitoring<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="/remote-work-and-monitoring/remote-access"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access</a></li>
-                                        <!-- <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li> -->
-                                      
+                                        <li><a href="/remote-work-and-monitoring/employee-monitoring"><i class="bi bi-eye text-dark icon-small me-10px"></i>Employee Monitoring</a></li>
                                     </ul>
-                                </li>
+                                </li> -->
 
-                                <!-- IT Infra & App Hosting -->
+                                <!-- IT Infrastructure -->
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-helper-link">IT Infrastructure & Apps. Hosting<i class="fa-solid fa-angle-right"></i></a>
+                                    <a href="#" class="dropdown-helper-link">IT Infrastructure<i class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/it-infrastructure/hardware-network-amc"><i class="bi bi-pc text-dark icon-small me-10px"></i>Computer Network & AMC</a></li>
+                                        <li><a href="/it-infrastructure/remote-access-solutions"><i class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote Access Solutions</a></li>
                                         <!-- <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li> -->
                                         <li><a href="/it-infrastructure/dedicated-vps"><i class="bi bi-server text-dark icon-small me-10px"></i>Dedicated Server & VPS</a></li>
                                         <li><a href="/it-infrastructure/licensed-software"><i class="bi bi-file-earmark-code text-dark icon-small me-10px"></i>Licensed Software</a></li>
