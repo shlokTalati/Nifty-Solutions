@@ -51,7 +51,7 @@
                         <br>
                         <span class="d-block mb-10px"><a class="text-dark-gray fw-600" href="tel:9825412230">+91 9825412230</a></span>
                         <span>Need support?</span> <br>
-                        <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support@<br>niftysolutions.co.in</a>
+                        <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support[at]<br>niftysolutions.co.in</a>
                     </div>
                     <!-- end footer column -->        
                 </div>

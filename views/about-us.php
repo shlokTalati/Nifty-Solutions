@@ -44,15 +44,15 @@
                       <div class="row row-cols-1 row-cols-sm-2 justify-content-center m-0">
                           <div class="col p-10 lg-p-8 text-center border-bottom border-end xs-border-end-0 border-color-extra-medium-gray bg-white text-center last-paragraph-no-margin">
                               <i class="line-icon-Medal-2 icon-extra-large text-base-color mb-15px d-block"></i>
-                              <span class="fs-14 fw-700 text-dark-gray text-uppercase lh-20 d-inline-block">Recognized for <br>Excellence</span>
+                              <span class="fs-14 fw-700 text-dark-gray text-uppercase lh-20 d-inline-block">Rapid<br>Support</span>
                           </div>
                           <div class="col p-10 lg-p-8 text-center border-bottom border-color-extra-medium-gray bg-white text-center last-paragraph-no-margin">
                               <i class="line-icon-Knight icon-extra-large text-base-color mb-15px d-block"></i>
-                              <span class="fs-14 fw-700 text-dark-gray text-uppercase lh-20 d-inline-block">Technical <br>Expertise</span>
+                              <span class="fs-14 fw-700 text-dark-gray text-uppercase lh-20 d-inline-block">Predictable<br>IT Costs</span>
                           </div>
                           <div class="col p-10 lg-p-8 text-center border-end xs-border-end-0 xs-border-bottom border-color-extra-medium-gray bg-white text-center last-paragraph-no-margin">
                               <i class="line-icon-Gear icon-extra-large text-base-color mb-15px d-block"></i>
-                              <span class="fs-14 fw-700 text-dark-gray text-uppercase lh-20 d-inline-block">Global-Grade<br>services</span>
+                              <span class="fs-14 fw-700 text-dark-gray text-uppercase lh-20 d-inline-block">Minimal<br>Downtime</span>
                           </div>
                           <div class="col p-10 lg-p-8 text-center bg-white text-center last-paragraph-no-margin">
                               <i class="line-icon-Management icon-extra-large text-base-color mb-15px d-block"></i>

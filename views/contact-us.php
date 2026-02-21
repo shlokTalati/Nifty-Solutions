@@ -91,15 +91,15 @@ $meta_description = "Contact Nifty Solutions in Vadodara for IT support. Call +9
                         </div>
                         <div class="col last-paragraph-no-margin mb-25px">
                             <p>Need live support?</p>
-                            <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support@<br>niftysolutions.co.in</a>
+                            <a href="mailto:support@niftysolutions.co.in" class="text-dark-gray fw-600">support[at]<br>niftysolutions.co.in</a>
                         </div>
                         <div class="col last-paragraph-no-margin sm-mb-25px">
                             <p>Join growing team</p>
-                            <a href="mailto:career@niftysolutions.co.in" class="text-dark-gray fw-600">career@<br>niftysolutions.co.in </a>
+                            <a href="mailto:career@niftysolutions.co.in" class="text-dark-gray fw-600">career[at]<br>niftysolutions.co.in </a>
                         </div>
                         <div class="col last-paragraph-no-margin">
                             <p>Sales Inquiry</p>
-                            <a href="mailto:sales@niftysolutions.co.in" class="text-dark-gray fw-600">sales@<br>niftysolutions.co.in </a>
+                            <a href="mailto:sales@niftysolutions.co.in" class="text-dark-gray fw-600">sales[at]<br>niftysolutions.co.in </a>
                         </div>
                     </div>
                 </div>
