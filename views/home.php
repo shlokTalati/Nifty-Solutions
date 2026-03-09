@@ -215,19 +215,19 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
                                 <!-- start services box style -->
                                 <div class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="/cybersecurity/antivirus-and-content-security"><video autoplay loop muted playsinline>
+                                        <a href="/cybersecurity/antivirus"><video autoplay loop muted playsinline>
   <source src="/public/images/home/product-antivirus.webm" type="video/webm">
   Antivirus
 </video></a>
                                     </div>
                                     <div class="bg-white">
                                         <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                            <a href="/cybersecurity/antivirus-and-content-security" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Antivirus and Endpoint Security</a>
+                                            <a href="/cybersecurity/antivirus" class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Antivirus and Endpoint Security</a>
                                             <p>Safeguard your devices with powerful endpoint protection and antivirus solutions like SOPHOS, Bitdefender, and eScan. Prevent malware, ransomware, and unauthorized access across your network
                                             </p>
                                         </div>
                                         <div class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="/cybersecurity/antivirus-and-content-security" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
+                                            <a href="/cybersecurity/antivirus" class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
                                                 <span>
                                                     <span class="btn-text">Explore services</span>
                                                     <span class="btn-icon"><i class="fa-solid fa-arrow-right"></i></span>

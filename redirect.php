@@ -5,16 +5,18 @@
 $redirects = [
     // ── Endpoint-Security name change to Cybersecurity ─────────────────────
     'endpoint-security/firewall' => 'cybersecurity/firewall',
-    'endpoint-security/antivirus-and-content-security' => 'cybersecurity/antivirus-and-content-security',
+    'endpoint-security/antivirus-and-content-security' => 'cybersecurity/antivirus',
     'endpoint-security/data-leakage-prevention' => 'cybersecurity/data-leakage-prevention',
     'endpoint-security/email-security' => 'cybersecurity/email-security',
+    'cybersecurity/antivirus-and-content-security' => 'cybersecurity/antivirus',
 
     
     'it-infrastructure/dedicated-vps' => 'it-infrastructure/dedicated-server-and-vps',
 
 
     'web-and-email-services/business-email' => 'email-services/business-email',
-    'web-and-email-services/bulk-smtp' => 'email-services/bulk-smtp',
+    'web-and-email-services/bulk-smtp' => 'email-services/bulk-email',
+    'email-services/bulk-smtp' => 'email-services/bulk-email',
     'web-and-email-services/email-distribution' => 'email-services/email-distribution',
 
     'web-and-email-services/ssl-certificate' => 'website-services/ssl-certificate',

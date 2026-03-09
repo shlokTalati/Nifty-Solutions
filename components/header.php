@@ -44,9 +44,8 @@
                                         <li><a href="/cybersecurity/firewall"><i
                                                     class="bi bi-bricks text-dark icon-small me-10px"></i>Firewall</a>
                                         </li>
-                                        <li><a href="/cybersecurity/antivirus-and-content-security"><i
-                                                    class="bi bi-shield-check text-dark icon-small me-10px"></i>Antivirus
-                                                & Content Security</a></li>
+                                        <li><a href="/cybersecurity/antivirus"><i
+                                                    class="bi bi-shield-check text-dark icon-small me-10px"></i>Antivirus</a></li>
                                         <li><a href="/cybersecurity/data-leakage-prevention"><i
                                                     class="bi bi-file-lock text-dark icon-small me-10px"></i>Data
                                                 Leakage Prevention (DLP)</a></li>
@@ -87,7 +86,7 @@
                                         <li><a href="/email-services/business-email"><i
                                                     class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business
                                                 Email Hosting</a></li>
-                                        <li><a href="/email-services/bulk-smtp"><i
+                                        <li><a href="/email-services/bulk-email"><i
                                                     class="bi bi-send-check text-dark icon-small me-10px"></i>Bulk Email
                                                 / SMTP Services</a></li>
                                         <li><a href="/email-services/email-distribution"><i

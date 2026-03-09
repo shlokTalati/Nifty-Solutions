@@ -5,7 +5,7 @@ $routes = [
 
     // ── Cybersecurity ─────────────────────
     'cybersecurity/firewall'                   => 'cybersecurity/firewall.php',
-    'cybersecurity/antivirus-and-content-security'          => 'cybersecurity/antivirus-and-content-security.php',
+    'cybersecurity/antivirus'          => 'cybersecurity/antivirus.php',
     'cybersecurity/data-leakage-prevention'    => 'cybersecurity/data-leakage-prevention.php',
     'cybersecurity/email-security'             => 'cybersecurity/email-security.php',
 
@@ -18,7 +18,7 @@ $routes = [
 
     // ── Email Services ───────────────────────────────────
     'email-services/business-email'        => 'email-services/business-email.php',
-    'email-services/bulk-smtp'             => 'email-services/bulk-smtp.php',
+    'email-services/bulk-email'             => 'email-services/bulk-email.php',
     'email-services/email-distribution'    => 'email-services/email-distribution.php',
 
 
