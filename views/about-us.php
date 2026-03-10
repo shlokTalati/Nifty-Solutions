@@ -114,7 +114,7 @@
 
                       At Nifty Solutions, we are committed to delivering secure, scalable, and efficient I.T. solutions to help businesses thrive in a digital world.
                       </p>
-                      <a href="/public/pdf/Nifty_Solutions_profile.pdf" target="_blank" class="btn btn-extra-large btn-gradient-black-gray btn-hover-animation-switch btn-rounded btn-box-shadow btn-icon-left me-30px">
+                      <a href="/public/pdf/Nifty_Solutions_profile.pdf" target="_blank" class="btn btn-hover-animation-switch btn-box-shadow btn-icon-left me-30px">
                           <span>
                               <span class="btn-text">Brochure</span>
                               <span class="btn-icon"><i class="feather icon-feather-download"></i></span>

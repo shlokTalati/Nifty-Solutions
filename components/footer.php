@@ -63,7 +63,7 @@
                     </div>
                     <!-- end divider -->
                     <!-- start copyright -->
-                    <div class="col-lg-5 pt-20px pb-20px md-pt-0 order-2 order-lg-1 text-center text-lg-start last-paragraph-no-margin fs-14"><p>&copy; Copyright 2025. All Rights Reserved</p></div>
+                    <div class="col-lg-5 pt-20px pb-20px md-pt-0 order-2 order-lg-1 text-center text-lg-start last-paragraph-no-margin fs-14"><p>&copy; Copyright 2026. All Rights Reserved</p></div>
                     <!-- end copyright -->
                     <!-- start footer menu -->
                     <div class="col-lg-7 pt-20px pb-20px md-pt-25px md-pb-5px order-1 order-lg-2 text-center text-lg-end fs-14">
