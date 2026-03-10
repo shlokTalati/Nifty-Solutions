@@ -706,7 +706,7 @@ $meta_description = "Professional website development and hosting services in Va
                         <h2 class="text-white fw-700 ls-minus-1px mb-20px">Build Your Business Website Today</h2>
                         <p class="text-white opacity-7 w-85 mx-auto lg-w-95 md-w-100 mb-35px">A professional website helps your business reach new customers and present your services effectively online. With website development and hosting services from Nifty Solutions, your company gets a reliable, secure, and professionally managed website.</p>
                         <p class="text-white fw-500 fs-18 mb-30px">If your business in Vadodara or anywhere in Gujarat needs a strong online presence, contact Nifty Solutions today to get started.</p>
-                        <a href="/contact-us" class="btn btn-extra-large btn-white btn-box-shadow fw-600">Get Started Today<i class="feather icon-feather-arrow-right ms-10px"></i></a>
+                        <a href="/contact-us" class="btn btn-white btn-box-shadow fw-600">Get Started Today<i class="feather icon-feather-arrow-right ms-10px"></i></a>
                     </div>
                 </div>
             </div>
