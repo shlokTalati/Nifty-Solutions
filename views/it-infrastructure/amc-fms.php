@@ -1,4 +1,4 @@
-<?php $page_title="Computer Hardware & AMC | Nifty Solutions | Vadodara" ?>
+<?php $page_title="Annual Maintainence Contract & FMS | Nifty Solutions | Vadodara" ?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 
@@ -26,7 +26,7 @@
             <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                 <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class business services</span>
-                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Computer Hardware, Network & AMC</h1>
+                    <h1 class="mb-0 text-white fw-600 ls-minus-1px">Annual Maintainence Contract & FMS</h1>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
                     </figure>
                 </div>
                 <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Computer Hardware, Network & AMC</span>
+                    <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Annual Maintainence Contract & FMS</span>
                     <h3 class="text-dark-gray fw-700 ls-minus-1px">Complete IT Infrastructure Solutions Under One Roof</h3>
                     <p class="w-95 md-w-100">At Nifty Solutions, we specialize in delivering end-to-end computer hardware, networking, and AMC solutions tailored to meet the growing demands of businesses across all industries. With decades of expertise, we ensure that your IT infrastructure runs seamlessly, reliably, and securely allowing you to focus on what matters most: your business growth.
                     </p>
