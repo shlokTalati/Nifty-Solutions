@@ -48,10 +48,9 @@
                                                     class="bi bi-shield-check text-dark icon-small me-10px"></i>Antivirus</a></li>
                                         <li><a href="/cybersecurity/data-leakage-prevention"><i
                                                     class="bi bi-file-lock text-dark icon-small me-10px"></i>Data
-                                                Leakage Prevention (DLP)</a></li>
-                                        <li><a href="/cybersecurity/email-security"><i
-                                                    class="bi bi-envelope-exclamation text-dark icon-small me-10px"></i>Email
-                                                Security</a></li>
+                                                Leakage Prevention</a></li>
+                                        <li><a href="/cybersecurity/email-spam-protection"><i
+                                                    class="bi bi-envelope-exclamation text-dark icon-small me-10px"></i>Email Spam Protection</a></li>
                                     </ul>
                                 </li>
 
@@ -74,7 +73,7 @@
                                                 Recovery</a></li>
                                         <li><a href="/backup-and-recovery/nas-storage"><i
                                                     class="bi bi-hdd-network text-dark icon-small me-10px"></i>Network
-                                                Attached Storage (NAS)</a></li>
+                                                Attached Storage</a></li>
                                     </ul>
                                 </li>
 
@@ -87,11 +86,10 @@
                                                     class="bi bi-envelope-at text-dark icon-small me-10px"></i>Business
                                                 Email Hosting</a></li>
                                         <li><a href="/email-services/bulk-email"><i
-                                                    class="bi bi-send-check text-dark icon-small me-10px"></i>Bulk Email
-                                                / SMTP Services</a></li>
+                                                    class="bi bi-send-check text-dark icon-small me-10px"></i>SMTP Services for Bulk Email</a></li>
                                         <li><a href="/email-services/email-distribution"><i
                                                     class="bi bi-diagram-3 text-dark icon-small me-10px"></i>Email
-                                                Distribution Software</a></li>
+                                                Distribution</a></li>
                                     </ul>
                                 </li>
 
@@ -122,9 +120,8 @@
                                     <a href="#" class="dropdown-helper-link">IT Infrastructure<i
                                             class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li><a href="/it-infrastructure/hardware-network-amc"><i
-                                                    class="bi bi-pc text-dark icon-small me-10px"></i>Computer Network &
-                                                AMC</a></li>
+                                        <li><a href="/it-infrastructure/amc-fms"><i
+                                                    class="bi bi-pc text-dark icon-small me-10px"></i>Annual Maintainence Contract</a></li>
                                         <li><a href="/it-infrastructure/remote-access-solutions"><i
                                                     class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote
                                                 Access Solutions</a></li>

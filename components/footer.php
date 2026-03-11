@@ -40,7 +40,7 @@
                             <li><a href="/web-and-email-services/website-development">Web Development</a></li>
                             <li><a href="/contact-us">Consulting</a></li>
                             <li><a href="/backup-and-recovery/data-backup">Data Backup</a></li>
-                            <li><a href="/it-infrastructure/hardware-network-amc">AMC/FMS</a></li>
+                            <li><a href="/it-infrastructure/amc-fms">AMC/FMS</a></li>
                         </ul>
                     </div>
                     <!-- end footer column -->

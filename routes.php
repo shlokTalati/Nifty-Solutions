@@ -7,7 +7,7 @@ $routes = [
     'cybersecurity/firewall'                   => 'cybersecurity/firewall.php',
     'cybersecurity/antivirus'          => 'cybersecurity/antivirus.php',
     'cybersecurity/data-leakage-prevention'    => 'cybersecurity/data-leakage-prevention.php',
-    'cybersecurity/email-security'             => 'cybersecurity/email-security.php',
+    'cybersecurity/email-spam-protection'             => 'cybersecurity/email-spam-protection.php',
 
     // ── Backup & Recovery ───────────────────────────────────────
     'backup-and-recovery/data-backup'              => 'backup-and-recovery/data-backup.php',
@@ -30,7 +30,7 @@ $routes = [
     'remote-work-and-monitoring/employee-monitoring'=> 'remote-work-and-monitoring/employee-monitoring.php',
 
     // ── IT Infra & Hosting ──────────────────────────────────────
-    'it-infrastructure/hardware-network-amc'       => 'it-infrastructure/hardware-network-amc.php',
+    'it-infrastructure/amc-fms'       => 'it-infrastructure/amc-fms.php',
     'it-infrastructure/remote-access-solutions'    => 'it-infrastructure/remote-access-solutions.php',
     // 'it-infrastructure/network-monitoring'         => 'it-infrastructure/network-monitoring-and-ticketing.php',
     'it-infrastructure/dedicated-server-and-vps'              => 'it-infrastructure/dedicated-server-and-vps.php',

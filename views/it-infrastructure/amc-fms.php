@@ -3,7 +3,7 @@
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 
 <!-- Optimized background image with fetchpriority -->
-    <img src="/public/images/hardware-network/hardware-network-inner.webp"
+    <img src="/public/images/amc-fms/amc-fms-inner.webp"
          alt="Careers Background"
          class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-index-minus-1"
          fetchpriority="high"
@@ -38,7 +38,7 @@
             <div class="row align-items-center justify-content-center" data-anime='{ " perspective": 1200 }'>
                 <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                     <figure class="position-relative m-0">
-                        <img src="/public/images/hardware-network/hardware-network1.webp" alt="Hardware Network and AMC" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                        <img src="/public/images/amc-fms/amc-fms1.webp" alt="Hardware Network and AMC" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                         
                     </figure>
                 </div>
@@ -197,7 +197,7 @@
                                     <div class="atropos-scale">
                                         <div class="atropos-rotate">
                                             <div class="atropos-inner">
-                                                <img src="/public/images/hardware-network/hardware-network-draw.webp" alt="Hardware Network and AMC Drawing" class="border-radius-6px w-100" />
+                                                <img src="/public/images/amc-fms/amc-fms-draw.webp" alt="Hardware Network and AMC Drawing" class="border-radius-6px w-100" />
                                             </div>
                                         </div>
                                     </div>
@@ -213,7 +213,7 @@
                 <!-- start section -->
                 <section class="bg-very-light-gray overlap-height position-relative">
                     <div class="bg-very-light-gray p-9 md-p-6 xs-p-9 border-radius-6px overflow-hidden position-relative">
-                                                <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/hardware-network/hardware-network-icon.webp" alt="Hardware Network and AMC Icon"></div>
+                                                <div class="position-absolute right-70px lg-right-20px top-minus-20px w-250px sm-w-180px xs-w-150px opacity-1"><img src="/public/images/amc-fms/amc-fms-icon.webp" alt="Hardware Network and AMC Icon"></div>
                                                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-light-gray-transparent d-inline-flex"><i class="bi bi-patch-check fs-16 me-5px"></i>Detailed Information</span>
                                                 <h3 class="fw-700 text-dark-gray ls-minus-1px">Prominent Highlights</h3>
                                                 <div class="accordion accordion-style-02" id="accordion-style-02" data-active-icon="icon-feather-minus" data-inactive-icon="icon-feather-plus">

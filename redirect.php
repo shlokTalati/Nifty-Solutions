@@ -7,12 +7,13 @@ $redirects = [
     'endpoint-security/firewall' => 'cybersecurity/firewall',
     'endpoint-security/antivirus-and-content-security' => 'cybersecurity/antivirus',
     'endpoint-security/data-leakage-prevention' => 'cybersecurity/data-leakage-prevention',
-    'endpoint-security/email-security' => 'cybersecurity/email-security',
+    'endpoint-security/email-security' => 'cybersecurity/email-spam-protection',
+    'cybersecurity/email-security' => 'cybersecurity/email-spam-protection',
     'cybersecurity/antivirus-and-content-security' => 'cybersecurity/antivirus',
 
     
     'it-infrastructure/dedicated-vps' => 'it-infrastructure/dedicated-server-and-vps',
-
+    'it-infrastructure/hardware-network-amc' => 'it-infrastructure/amc-fms',
 
     'web-and-email-services/business-email' => 'email-services/business-email',
     'web-and-email-services/bulk-smtp' => 'email-services/bulk-email',
