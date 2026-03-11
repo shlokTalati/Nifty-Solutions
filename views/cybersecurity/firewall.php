@@ -1,10 +1,10 @@
-<?php $page_title = "Network Firewall Services in Vadodara | Nifty Solutions";
-$meta_description = "Nifty Solutions provides professional network firewall services in Vadodara for small and medium businesses. We offer Fortinet and Sophos firewall solutions with VPN, threat protection, and ongoing IT support across Gujarat.";?>
+<?php $page_title = "Firewall Services in Vadodara | Nifty Solutions";
+$meta_description = "Nifty Solutions provides professional Firewall services in Vadodara for small and medium businesses. We offer Fortinet and Sophos firewall solutions with VPN, threat protection, and ongoing IT support across Gujarat.";?>
 
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
     <img src="/public/images/firewall/firewall-inner.webp"
-         alt="Network Firewall Services Vadodara"
+         alt="Firewall Services Vadodara"
          class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-index-minus-1"
          fetchpriority="high"
          decoding="async"
@@ -39,14 +39,14 @@ $meta_description = "Nifty Solutions provides professional network firewall serv
         <div class="row align-items-center justify-content-center" data-anime='{ "perspective": 1200 }'>
             <div class="col-lg-6 md-mb-50px" data-anime='{ "translateY": [0, 0], "zoom": [1.1, 1], "rotateX": [50, 0], "opacity": [0,1], "duration": 800, "delay": 200, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <figure class="position-relative m-0">
-                    <img src="/public/images/firewall/firewall1.webp" alt="Network Firewall Services Vadodara" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
+                    <img src="/public/images/firewall/firewall1.webp" alt="Firewall Services Vadodara" class="w-100 border-radius-5px" data-anime='{ "translateY": [0, 0], "opacity": [0,1], "duration": 800, "delay": 0, "staggervalue": 150, "easing": "easeOutQuad" }'>
                 </figure>
             </div>
             <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Firewall</span>
                 <h2 class="text-dark-gray fw-700 ls-minus-1px">Firewall Devices and Solutions</h2>
-                <p class="w-95 md-w-100">Businesses today rely heavily on the internet for communication, operations, and data management. However, constant connectivity also exposes company networks to cyber threats, malware, and unauthorized access. Network firewall services act as the first line of defense for your business network — monitoring and controlling incoming and outgoing traffic to ensure only safe, authorized connections are allowed.</p>
-                <p class="w-95 md-w-100">At Nifty Solutions, we provide reliable network firewall services in Vadodara designed to protect small and medium businesses that may not have an in-house IT team. Our solutions help offices, manufacturing companies, clinics, and service businesses secure their networks while maintaining smooth day-to-day operations. As a trusted IT service provider in Vadodara with over 25 years of experience, we help businesses build strong security systems that prevent downtime, data breaches, and costly cyber incidents.</p>
+                <p class="w-95 md-w-100">Businesses today rely heavily on the internet for communication, operations, and data management. However, constant connectivity also exposes company networks to cyber threats, malware, and unauthorized access. Firewall services act as the first line of defense for your business network — monitoring and controlling incoming and outgoing traffic to ensure only safe, authorized connections are allowed.</p>
+                <p class="w-95 md-w-100">At Nifty Solutions, we provide reliable Firewall services in Vadodara designed to protect small and medium businesses that may not have an in-house IT team. Our solutions help offices, manufacturing companies, clinics, and service businesses secure their networks while maintaining smooth day-to-day operations. As a trusted IT service provider in Vadodara with over 25 years of experience, we help businesses build strong security systems that prevent downtime, data breaches, and costly cyber incidents.</p>
                 <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                     <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
                         <div class="feature-box-icon me-15px">
@@ -582,13 +582,13 @@ $meta_description = "Nifty Solutions provides professional network firewall serv
                         <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
                             <a href="#" data-bs-toggle="collapse" data-bs-target="#faq-01" aria-expanded="false" data-bs-parent="#accordion-faq">
                                 <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">What is a network firewall?</span>
+                                    <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">What is a Firewall?</span>
                                 </div>
                             </a>
                         </div>
                         <div id="faq-01" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>A network firewall is a security system that monitors internet traffic entering and leaving your company network. It blocks malicious activity and unauthorized connections while allowing safe, legitimate traffic to pass through — keeping your business data and systems protected at all times.</p>
+                                <p>A Firewall is a security system that monitors internet traffic entering and leaving your company network. It blocks malicious activity and unauthorized connections while allowing safe, legitimate traffic to pass through — keeping your business data and systems protected at all times.</p>
                             </div>
                         </div>
                     </div>
@@ -659,7 +659,7 @@ $meta_description = "Nifty Solutions provides professional network firewall serv
             <div class="col-xl-8 col-lg-10 text-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center"><i class="bi bi-shield-fill-check fs-16 me-5px"></i>Get Protected</span>
                 <h2 class="text-dark-gray fw-700 ls-minus-1px">Protect Your Business Network Today</h2>
-                <p class="w-80 md-w-100 mx-auto mb-30px">Cyber threats are increasing every year, and businesses in Vadodara and across Gujarat cannot afford to leave their networks unprotected. With professional network firewall services from Nifty Solutions, your company gains a strong security foundation that protects your data, systems, and employees.</p>
+                <p class="w-80 md-w-100 mx-auto mb-30px">Cyber threats are increasing every year, and businesses in Vadodara and across Gujarat cannot afford to leave their networks unprotected. With professional Firewall services from Nifty Solutions, your company gains a strong security foundation that protects your data, systems, and employees.</p>
                 <a href="/contact-us" class="btn btn-medium btn-rounded btn-base-color btn-box-shadow fw-600">Contact Us Today<span class="bg-white text-base-color ms-10px"><i class="feather icon-feather-arrow-right"></i></span></a>
             </div>
         </div>

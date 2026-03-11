@@ -1,5 +1,5 @@
-<?php $page_title = "SSL Certificates | Nifty Solutions | Vadodara";
-$meta_description = "Secure SSL certificates from Nifty Solutions. Enhanced website security, data encryption, improved SEO rankings, and customer trust with affordable SSL solutions."?>
+<?php $page_title = "SSL Certificate Purchase and Installation | Nifty Solutions | Vadodara";
+$meta_description = "Purchase secure SSL certificates from Nifty Solutions. Enhanced website security, data encryption, improved SEO rankings, and customer trust with affordable SSL solutions."?>
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
 
@@ -27,7 +27,7 @@ $meta_description = "Secure SSL certificates from Nifty Solutions. Enhanced webs
         <div class="row align-items-center justify-content-center h-500px sm-h-300px">
             <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>Security</span>
-                <h1 class="mb-0 text-white fw-600 ls-minus-1px">SSL Certificates</h1>
+                <h1 class="mb-0 text-white fw-600 ls-minus-1px">SSL Certificate for website</h1>
             </div>
         </div>
     </div>

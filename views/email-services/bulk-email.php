@@ -1,4 +1,4 @@
-<?php $page_title = "Bulk Email / SMTP Services | Nifty Solutions | Vadodara";
+<?php $page_title = "SMTP Service for Bulk Email | Nifty Solutions | Vadodara";
 $meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume email delivery, marketing campaigns, transactional emails, and detailed analytics for business growth."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
@@ -28,7 +28,7 @@ $meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume
                 <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                     <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class IT services</span>
-                        <h1 class="mb-0 text-white fw-600 ls-minus-1px">Bulk Email SMTP Service </h1>
+                        <h1 class="mb-0 text-white fw-600 ls-minus-1px">SMTP Service for Bulk Email </h1>
                     </div> 
                 </div>
             </div>
