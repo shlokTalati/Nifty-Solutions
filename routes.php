@@ -26,13 +26,10 @@ $routes = [
     'website-services/website-development-and-hosting'       => 'website-services/website-development-and-hosting.php',
     'website-services/ssl-certificate'       => 'website-services/ssl-certificate.php',
 
-    // ── Remote Work & Monitoring ────────────────────────────────
-    'remote-work-and-monitoring/employee-monitoring'=> 'remote-work-and-monitoring/employee-monitoring.php',
-
     // ── IT Infra & Hosting ──────────────────────────────────────
     'it-infrastructure/amc-fms'       => 'it-infrastructure/amc-fms.php',
+    'it-infrastructure/remote-monitoring-management'=> 'it-infrastructure/remote-monitoring-management.php',
     'it-infrastructure/remote-access-solutions'    => 'it-infrastructure/remote-access-solutions.php',
-    // 'it-infrastructure/network-monitoring'         => 'it-infrastructure/network-monitoring-and-ticketing.php',
     'it-infrastructure/dedicated-server-and-vps'              => 'it-infrastructure/dedicated-server-and-vps.php',
     'it-infrastructure/licensed-software'          => 'it-infrastructure/licensed-software.php',
 

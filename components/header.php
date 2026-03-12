@@ -121,11 +121,12 @@
                                             class="fa-solid fa-angle-right"></i></a>
                                     <ul class="dropdown-menu">
                                         <li><a href="/it-infrastructure/amc-fms"><i
-                                                    class="bi bi-pc text-dark icon-small me-10px"></i>Annual Maintainence Contract</a></li>
+                                                    class="bi bi-file-earmark text-dark icon-small me-10px"></i>Annual Maintainence Contract</a></li>
+                                        <li><a href="/it-infrastructure/remote-monitoring-management"><i
+                                                    class="bi bi-display text-dark icon-small me-10px"></i>Remote Monitoring & Management</a></li>
                                         <li><a href="/it-infrastructure/remote-access-solutions"><i
                                                     class="bi bi-pc-display text-dark icon-small me-10px"></i>Remote
                                                 Access Solutions</a></li>
-                                        <!-- <li><a href="/it-infrastructure/network-monitoring"><i class="bi bi-activity text-dark icon-small me-10px"></i>Network Monitoring & Ticketing</a></li> -->
                                         <li><a href="/it-infrastructure/dedicated-server-and-vps"><i
                                                     class="bi bi-server text-dark icon-small me-10px"></i>Dedicated
                                                 Server & VPS</a></li>

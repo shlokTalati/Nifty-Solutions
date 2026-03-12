@@ -545,47 +545,6 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                 <div
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <a href="/it-infrastructure/network-monitoring">
-                                            <video autoplay loop muted playsinline>
-                                                <source src="/public/images/home/product-network-monitoring.webm"
-                                                    type="video/webm">
-                                                Network Monitoring
-                                            </video>
-                                        </a>
-                                    </div>
-                                    <div class="bg-white">
-                                        <div class="ps-65px pe-65px pt-30px pb-30px text-center">
-                                            <a href="/it-infrastructure/network-monitoring"
-                                                class="d-inline-block fs-18 fw-700 text-dark-gray mb-5px">Network
-                                                Monitoring and Ticketing Solution</a>
-                                            <p>Monitor your entire IT infrastructure in real-time and manage issues
-                                                efficiently with an integrated network monitoring and ticketing solution
-                                                — ensuring faster resolution and minimal downtime</p>
-                                        </div>
-                                        <div
-                                            class="d-flex justify-content-center border-top border-color-extra-medium-gray pt-20px pb-20px ps-50px pe-50px position-relative text-center">
-                                            <a href="/it-infrastructure/network-monitoring"
-                                                class="btn btn-link btn-hover-animation-switch btn-medium fw-700 text-dark-gray text-uppercase">
-                                                <span>
-                                                    <span class="btn-text">Explore services</span>
-                                                    <span class="btn-icon"><i
-                                                            class="fa-solid fa-arrow-right"></i></span>
-                                                    <span class="btn-icon"><i
-                                                            class="fa-solid fa-arrow-right"></i></span>
-                                                </span>
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <!-- end services box style -->
-                            </div>
-                            <!-- end slider item -->
-                            <!-- start slider item -->
-                            <div class="swiper-slide">
-                                <!-- start services box style -->
-                                <div
-                                    class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
-                                    <div class="position-relative">
                                         <a href="/web-and-email-services/email-distribution">
                                             <video autoplay loop muted playsinline>
                                                 <source src="/public/images/home/product-email-distribution.webm"

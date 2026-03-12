@@ -326,7 +326,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                             <div id="accordion-style-02-01" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
                                 <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
                                     <p>Nifty Solutions is an authorized partner of Acronis — a globally renowned technology leader in data protection and cybersecurity with presence in over 150 countries, including local data centres in India. Acronis provides comprehensive cloud backup, cyber protection, and disaster recovery solutions for businesses of all sizes in Vadodara and across Gujarat.</p>
-                                    <p><strong>Key Features of Acronis Cloud Backup:</strong></p>
+                                    <p><strong>Key Features of Acronis Cyber Protect:</strong></p>
                                     <ul>
                                         <li><strong>Comprehensive Data Protection</strong> — Protects 20+ workloads including Windows, macOS, Linux, VMware, Microsoft 365, Google Workspace, SQL, Oracle, and SAP HANA with flexible file-level, disk image, and application backup options.</li>
                                         <li><strong>Cloud-to-Cloud Backup</strong> — Backs up Microsoft 365 and Google Workspace including email, Drive, OneDrive, Teams, and SharePoint for complete SaaS data protection.</li>
@@ -528,7 +528,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                         </div>
                         <div id="faq-01" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>Cloud backup is the process of automatically storing copies of your business data on secure remote servers over the internet. If your local systems fail due to hardware damage, ransomware, or any disaster, your data can be quickly restored from the cloud. Solutions like Acronis and BKP360 handle this process automatically, running scheduled backups in the background without interrupting daily operations.</p>
+                                <p>Cloud backup is the process of automatically storing copies of your business data on secure remote servers over the internet. If your local systems fail due to hardware damage, ransomware, or any disaster, your data can be quickly restored from the cloud. Solutions like Acronis Cyber Protect and BKP360 handle this process automatically, running scheduled backups in the background without interrupting daily operations.</p>
                             </div>
                         </div>
                     </div>
@@ -545,7 +545,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                         </div>
                         <div id="faq-02" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>Yes. Modern cloud backup solutions use AES-256 military-grade encryption to protect data both during transmission and while stored on cloud servers. Solutions like Acronis also include immutable storage and blockchain-based integrity verification, while BKP360 offers zero trust architecture and role-based access controls to ensure only authorized users can access your backed-up data.</p>
+                                <p>Yes. Modern cloud backup solutions use AES-256 military-grade encryption to protect data both during transmission and while stored on cloud servers. Solutions like Acronis Cyber Protect also include immutable storage and blockchain-based integrity verification, while BKP360 offers zero trust architecture and role-based access controls to ensure only authorized users can access your backed-up data.</p>
                             </div>
                         </div>
                     </div>
@@ -562,7 +562,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                         </div>
                         <div id="faq-03" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>Most businesses use automatic daily backups to ensure data is always protected. Advanced solutions like Acronis also support continuous data protection (CDP) which captures changes in real time, minimizing data loss to just seconds rather than hours. Nifty Solutions helps you configure the right backup frequency based on your business data volumes and recovery requirements.</p>
+                                <p>Most businesses use automatic daily backups to ensure data is always protected. Advanced solutions like Acronis Cyber Protect also support continuous data protection (CDP) which captures changes in real time, minimizing data loss to just seconds rather than hours. Nifty Solutions helps you configure the right backup frequency based on your business data volumes and recovery requirements.</p>
                             </div>
                         </div>
                     </div>
@@ -579,7 +579,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                         </div>
                         <div id="faq-04" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>Yes. Advanced cloud backup solutions like Acronis support full system image backups, which means you can restore an entire server or workstation — including the operating system, applications, and all data — to either the same or different hardware. This is essential for disaster recovery scenarios where a complete system rebuild is required quickly.</p>
+                                <p>Yes. Advanced cloud backup solutions like Acronis Cyber Protect support full system image backups, which means you can restore an entire server or workstation — including the operating system, applications, and all data — to either the same or different hardware. This is essential for disaster recovery scenarios where a complete system rebuild is required quickly.</p>
                             </div>
                         </div>
                     </div>
