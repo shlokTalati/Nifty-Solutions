@@ -1,8 +1,75 @@
 <?php
 
-// Redirect old URLs to new paths if matched
-// Redirect old URLs to new paths if matched
+
 $redirects = [
+    
+    // OLD PHP REDIRECTS
+    // OLD PHP REDIRECTS
+    
+    'index.php' => '',
+    // Main pages
+    'aboutus.php' => 'about-us',
+    'contact.php' => 'contact-us',
+    'portfolio.php' => 'portfolio',
+    'client.php' => 'clients',
+    'now-hiring.php' => 'careers',
+    // Firewall Solutions
+    'fortinet.php' => 'cybersecurity/firewall',
+    'sophos.php' => 'cybersecurity/firewall',
+    // Antivirus and Content Security
+    'bitdefender.php' => 'cybersecurity/antivirus',
+    'escan.php' => 'cybersecurity/antivirus',
+    // Data Leakage Prevention
+    'safetica.php' => 'cybersecurity/data-leakage-prevention',
+    'dlf-escan.php' => 'cybersecurity/data-leakage-prevention',
+    // Email Security
+    'rmail.php' => 'cybersecurity/email-spam-protection',
+    'spam-expert.php' => 'cybersecurity/email-spam-protection',
+    'barracuda-essentials.php' => 'cybersecurity/email-spam-protection',
+    // Data Backup Solutions
+    'iperiusbackup.php' => 'backup-and-recovery/data-backup',
+    'novabackup.php' => 'backup-and-recovery/data-backup',
+    // Email Backup
+    'mailvault.php' => 'backup-and-recovery/email-backup',
+    'mailstore.php' => 'backup-and-recovery/email-backup',
+    // Cloud Backup
+    'acronis.php' => 'backup-and-recovery/cloud-backup',
+    'bkp360.php' => 'backup-and-recovery/cloud-backup',
+    // Disaster Recovery
+    'disaster-recovery-acronis.php' => 'backup-and-recovery/disaster-recovery',
+    // NAS Storage
+    'synology.php' => 'backup-and-recovery/nas-storage',
+    // Business Email Services
+    'google-email-hosting.php' => 'email-services/business-email',
+    'microsoft-365.php' => 'email-services/business-email',
+    'icewarp.php' => 'email-services/business-email',
+    'linux-email-hosting.php' => 'email-services/business-email',
+    'hybrid-email-hosting.php' => 'email-services/business-email',
+    // Email Distribution
+    'postmaster.php' => 'email-services/email-distribution',
+    // Website Development
+    'web-design-service.php' => 'website-services/website-development-and-hosting',
+    // SSL Certificate
+    'ssl-certificate.php' => 'website-services/ssl-certificate',
+    // Bulk SMTP Services
+    'smtp-services.php' => 'email-services/bulk-email',
+    // Remote Access Solutions
+    'tsplus.php' => 'it-infrastructure/remote-access-solutions',
+    'iperius_remote_desktop.php' => 'it-infrastructure/remote-access-solutions',
+    // Hardware Network AMC
+    'computer-and-network.php' => 'it-infrastructure/amc-fms',
+    // Dedicated VPS
+    'dedicated-server.php' => 'it-infrastructure/dedicated-server-and-vps',
+    // Licensed Software
+    'foxit_pdf.php' => 'it-infrastructure/licensed-software',
+
+
+
+
+
+
+    // NEW SEO REDIRECTS
+
     // ── Endpoint-Security name change to Cybersecurity ─────────────────────
     'endpoint-security/firewall' => 'cybersecurity/firewall',
     'endpoint-security/antivirus-and-content-security' => 'cybersecurity/antivirus',
