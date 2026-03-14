@@ -4,7 +4,7 @@ $meta_description = "Nifty Solutions is a leading IT service provider in Vadodar
 ?>
 
 <head>
-    <link rel="preload" as="image" href="/public/images/home/banner.webp">
+    <link rel="preload" as="image" href="/public/images/home/banner-desktop.webp">
     <style>
         @media (max-width: 768px) {
             #home-banner {
@@ -266,7 +266,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                 <div
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
-                                        <video autoplay loop muted playsinline>
+                                        <video autoplay loop muted playsinline preload="none">
                                             <source src="/public/images/home/product-data-backup.webm"
                                                 type="video/webm">
                                             Data Backup animation (your browser doesn't support WebM).
@@ -303,7 +303,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/cybersecurity/firewall">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-firewall.webm"
                                                     type="video/webm">
                                                 Firewall
@@ -343,7 +343,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/cybersecurity/antivirus">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-antivirus.webm"
                                                     type="video/webm">
                                                 Antivirus
@@ -384,7 +384,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/backup-and-recovery/email-backup">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-email-backup.webm"
                                                     type="video/webm">
                                                 Email Backup
@@ -425,7 +425,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-4px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/cybersecurity/data-leakage-prevention">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-dlp.webm" type="video/webm">
                                                 Data Leakage Prevention
                                             </video>
@@ -465,7 +465,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/remote-work-and-monitoring/remote-access">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-remote-access.webm"
                                                     type="video/webm">
                                                 Remote access apps
@@ -506,7 +506,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/backup-and-recovery/nas-storage">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-nas.webm" type="video/webm">
                                                 Network Attached Storage
                                             </video>
@@ -546,7 +546,7 @@ Nifty Solutions provides managed IT services and IT support for businesses in <s
                                     class="services-box-style-03 last-paragraph-no-margin border-radius-6px overflow-hidden">
                                     <div class="position-relative">
                                         <a href="/web-and-email-services/email-distribution">
-                                            <video autoplay loop muted playsinline>
+                                            <video autoplay loop muted playsinline preload="none">
                                                 <source src="/public/images/home/product-email-distribution.webm"
                                                     type="video/webm">
                                                 Email Distribution

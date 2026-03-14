@@ -3,6 +3,7 @@
 
 <head>
     <!-- Google tag (gtag.js) This is commented out to disable Google Analytics temporarily. -->
+
     <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFJPXGTH23"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -16,6 +17,40 @@
     </script> -->
 
 
+    <meta property="og:title"
+        content="<?= isset($page_title) ? $page_title : 'Managed IT Services in Vadodara | Nifty Solutions' ?>">
+    <meta property="og:description"
+        content="<?= isset($meta_description) ? $meta_description : 'Nifty Solutions provides complete IT solutions in Vadodara — Data backup and Recovery, Enterprise email, firewall, Web Hosting and web development.' ?>">
+    <meta property="og:image" content="https://niftysolutions.co.in/public/images/home/banner-desktop.webp">
+    <meta property="og:url" content="https://niftysolutions.co.in">
+    <meta property="og:type" content="website">
+
+    <link rel="alternate" hreflang="en-in" href="https://niftysolutions.co.in/" />
+
+
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Nifty Solutions",
+  "image": "https://niftysolutions.co.in/public/images/logo-black.webp",
+  "logo": "https://niftysolutions.co.in/public/images/logo-black.webp",
+  "url": "https://niftysolutions.co.in",
+  "telephone": "+91-9825412230",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Vadodara",
+    "addressRegion": "Gujarat",
+    "addressCountry": "India"
+  },
+  "areaServed": ["Vadodara","Gujarat"]
+  "foundingDate": "1999",
+  "sameAs": [
+    "https://www.instagram.com/niftysolutions_it/",
+    "https://www.linkedin.com/company/nifty-solutions/"
+  ]
+}
+</script>
 
     <!-- Auto-generated canonical tag to avoid duplicate content issues. 
     This uses the current domain and URL path (without query parameters) 
@@ -23,41 +58,41 @@
     <link rel="canonical"
         href="<?= htmlspecialchars('https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'), ENT_QUOTES, 'UTF-8') ?>" />
 
-    <?php 
+    <?php
     // if (!empty($metadata)): 
-        if (0 == 1):
-    ?>
+    if (0 == 1):
+        ?>
         <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "BlogPosting",
-      "headline": "<?= htmlspecialchars($metadata['title']) ?>",
-      "description": "<?= htmlspecialchars($metadata['description']) ?>",
-      "image": "<?= htmlspecialchars($metadata['thumbnail_url']) ?>",
-      "author": {
-        "@type": "Person",
-        "name": "<?= htmlspecialchars($metadata['author']) ?>",
-        "url": "<?= htmlspecialchars($metadata['author-social-link']) ?>"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "Nifty Solutions",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://niftysolutions.co.in/public/images/logo-white.webp"
-        }
-      },
-      "datePublished": "<?= date('Y-m-d', strtotime($metadata['date'])) ?>",
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://niftysolutions.co.in<?= htmlspecialchars($_SERVER['REQUEST_URI']) ?>"
-      }
-    }
-    </script>
+                        {
+                          "@context": "https://schema.org",
+                          "@type": "BlogPosting",
+                          "headline": "<?= htmlspecialchars($metadata['title']) ?>",
+                          "description": "<?= htmlspecialchars($metadata['description']) ?>",
+                          "image": "<?= htmlspecialchars($metadata['thumbnail_url']) ?>",
+                          "author": {
+                            "@type": "Person",
+                            "name": "<?= htmlspecialchars($metadata['author']) ?>",
+                            "url": "<?= htmlspecialchars($metadata['author-social-link']) ?>"
+                          },
+                          "publisher": {
+                            "@type": "Organization",
+                            "name": "Nifty Solutions",
+                            "logo": {
+                              "@type": "ImageObject",
+                              "url": "https://niftysolutions.co.in/public/images/logo-white.webp"
+                            }
+                          },
+                          "datePublished": "<?= date('Y-m-d', strtotime($metadata['date'])) ?>",
+                          "mainEntityOfPage": {
+                            "@type": "WebPage",
+                            "@id": "https://niftysolutions.co.in<?= htmlspecialchars($_SERVER['REQUEST_URI']) ?>"
+                          }
+                        }
+                        </script>
     <?php endif; ?>
 
 
-    <title><?= isset($page_title) ? $page_title : 'Nifty Solutions | Vadodara' ?></title>
+    <title><?= isset($page_title) ? $page_title : 'Managed IT Services in Vadodara | Nifty Solutions' ?></title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
