@@ -83,11 +83,6 @@
     "postalCode": "390021",
     "addressCountry": "IN"
   },
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "22.3072",  // ← Your actual coordinates
-    "longitude": "73.1812"
-  },
   "areaServed": ["Vadodara","Gujarat"],
   "foundingDate": "1999",
   "sameAs": [
