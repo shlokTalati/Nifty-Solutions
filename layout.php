@@ -24,10 +24,47 @@
     <meta property="og:image" content="https://niftysolutions.co.in/public/images/home/banner-desktop.webp">
     <meta property="og:url" content="https://niftysolutions.co.in">
     <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Nifty Solutions">
+<meta property="og:locale" content="en_IN">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Nifty Solutions | Managed IT Services | Vadodara">
+<meta name="twitter:description" content="Nifty Solutions is a leading IT service provider in Vadodara, specializing in data backup, email solutions, firewall security, web development, and more.">
+<meta name="twitter:image" content="https://niftysolutions.co.in/public/images/home/banner-desktop.webp">
+
 
     <link rel="alternate" hreflang="en-in" href="https://niftysolutions.co.in/" />
 
+<!-- Organisation Schema  -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Nifty Solutions",
+ "url": "https://niftysolutions.co.in",
+ "logo": "https://niftysolutions.co.in/public/images/logo-black.webp",
+ "foundingDate": "1999",
+ "address": {
+   "@type": "PostalAddress",
+   "addressLocality": "Vadodara",
+   "addressRegion": "Gujarat",
+   "addressCountry": "India"
+ },
+ "sameAs": [
+    "https://www.instagram.com/niftysolutions_it/",
+    "https://www.linkedin.com/company/nifty-solutions/"
+  ],
+ "contactPoint": {
+   "@type": "ContactPoint",
+   "telephone": "+91-9825412230",
+   "contactType": "customer service"
+ }
+}
+</script>
 
+
+<!-- LocalBusiness Schema  -->
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -37,13 +74,21 @@
   "logo": "https://niftysolutions.co.in/public/images/logo-black.webp",
   "url": "https://niftysolutions.co.in",
   "telephone": "+91-9825412230",
+  "email": "sales@niftysolutions.co.in",
   "address": {
     "@type": "PostalAddress",
+    "streetAddress": "1109, Nilamber Triumph, Nilamber Circle, Gotri-Vasna Road",
     "addressLocality": "Vadodara",
     "addressRegion": "Gujarat",
-    "addressCountry": "India"
+    "postalCode": "390021",
+    "addressCountry": "IN"
   },
-  "areaServed": ["Vadodara","Gujarat"]
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "22.3072",  // ← Your actual coordinates
+    "longitude": "73.1812"
+  },
+  "areaServed": ["Vadodara","Gujarat"],
   "foundingDate": "1999",
   "sameAs": [
     "https://www.instagram.com/niftysolutions_it/",
