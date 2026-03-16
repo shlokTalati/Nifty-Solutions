@@ -1,5 +1,5 @@
 <?php $page_title = "Cloud Backup Solutions for Businesses in Vadodara | Nifty Solutions";
-$meta_description = "Nifty Solutions provides reliable cloud backup solutions in Vadodara for small and medium businesses. We deploy Acronis and BKP360 with automated backups, encrypted storage, and fast data recovery across Gujarat.";?>
+$meta_description = "Nifty Solutions provides reliable cloud backup solutions in Vadodara for small and medium businesses. We deploy Acronis Cyber Protect with automated backups, encrypted storage, and fast data recovery across Gujarat.";?>
 
 <!-- start page title -->
 <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
@@ -189,24 +189,6 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                 </div>
             </div>
             <!-- end rotate box item -->
-            <!-- start rotate box item -->
-            <div class="col rotate-box-style-02 mb-30px">
-                <div class="w-100 min-h-300px text-center rotate-box to-left">
-                    <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
-                        <div class="rotate-content-front z-index-2 p-30px">
-                            <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">BKP360</div>
-                            <span>Scalable, easy-to-use cloud storage offering encrypted backup, automated scheduling, and seamless recovery — at up to 70% lower cost than major cloud providers.</span>
-                        </div>
-                    </div>
-                    <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/cloud-backup/BKP360.webp')">
-                        <div class="opacity-light bg-charcoal-blue"></div>
-                        <div class="d-flex flex-column align-items-center justify-content-center h-100 z-index-2 rotate-content-back p-30px">
-                            </br></br></br></br></br></br>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- end rotate box item -->
         </div>
     </div>
 </section>
@@ -342,35 +324,6 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                             </div>
                         </div>
                         <!-- end accordion item -->
-
-                        <!-- start accordion item -->
-                        <div class="accordion-item">
-                            <div class="accordion-header border-bottom border-color-transparent-dark-very-light">
-                                <a href="#" data-bs-toggle="collapse" data-bs-target="#accordion-style-02-02" aria-expanded="false" data-bs-parent="#accordion-style-02">
-                                    <div class="accordion-title mb-0 position-relative text-dark-gray pe-30px">
-                                        <i class="feather icon-feather-plus fs-20"></i><span class="fs-17 fw-500">BKP360 Cloud Storage</span>
-                                    </div>
-                                </a>
-                            </div>
-                            <div id="accordion-style-02-02" class="accordion-collapse collapse" data-bs-parent="#accordion-style-02">
-                                <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                    <p>Nifty Solutions brings you BKP360 — a next-generation cloud storage solution built for modern businesses that demand cost-efficiency, data security, and total control. BKP360 reduces your cloud storage costs by up to 70% compared to major providers, with zero hidden charges, no egress fees, no API request costs, and free immutable backups for ransomware protection.</p>
-                                    <p><strong>Key Features of BKP360 Cloud Storage:</strong></p>
-                                    <ul>
-                                        <li><strong>Immutable Storage</strong> — Protects against ransomware and accidental deletions with object locking that prevents files from being altered or deleted.</li>
-                                        <li><strong>Enterprise-Grade Security</strong> — Role-based user policies, SSO, multi-factor authentication, and zero trust architecture providing security at physical, data, and account levels.</li>
-                                        <li><strong>No Download Charges</strong> — Pay only for storage, not access. No egress fees, no API charges, and completely transparent pricing with no hidden costs.</li>
-                                        <li><strong>Flexible Plans</strong> — Start from 1 TB and scale storage as your business grows, with a 30-day free trial available.</li>
-                                        <li><strong>S3-Compatible</strong> — Works seamlessly with third-party backup applications including Iperius Backup and NovaBACKUP for easy integration with existing backup workflows.</li>
-                                        <li><strong>Multi-Device Backup</strong> — Back up desktops, laptops, and servers with device tagging for organized, easy-to-manage storage.</li>
-                                        <li><strong>Versioning Support</strong> — Retrieve older versions of files as needed to recover from accidental changes or data corruption.</li>
-                                        <li><strong>Smart Search and Monitoring</strong> — Intelligent file search combined with real-time storage usage statistics for complete visibility over your backed-up data.</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- end accordion item -->
-
                     </div>
                 </div>
             </div>
@@ -458,7 +411,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                             <i class="fa-solid fa-check fs-12 text-base-color"></i>
                         </div>
                         <div class="feature-box-content">
-                            <span class="text-dark-gray fw-500">Authorized Acronis partner and BKP360 provider ensuring expert deployment and competitive pricing for businesses across Gujarat</span>
+                            <span class="text-dark-gray fw-500">Authorized Acronis partner ensuring expert deployment and competitive pricing for businesses across Gujarat</span>
                         </div>
                     </div>
                 </div>
@@ -528,7 +481,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                         </div>
                         <div id="faq-01" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>Cloud backup is the process of automatically storing copies of your business data on secure remote servers over the internet. If your local systems fail due to hardware damage, ransomware, or any disaster, your data can be quickly restored from the cloud. Solutions like Acronis Cyber Protect and BKP360 handle this process automatically, running scheduled backups in the background without interrupting daily operations.</p>
+                                <p>Cloud backup is the process of automatically storing copies of your business data on secure remote servers over the internet. If your local systems fail due to hardware damage, ransomware, or any disaster, your data can be quickly restored from the cloud. Solutions like Acronis Cyber Protect handle this process automatically, running scheduled backups in the background without interrupting daily operations.</p>
                             </div>
                         </div>
                     </div>
@@ -545,7 +498,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
                         </div>
                         <div id="faq-02" class="accordion-collapse collapse" data-bs-parent="#accordion-faq">
                             <div class="accordion-body last-paragraph-no-margin border-bottom border-color-transparent-dark-very-light">
-                                <p>Yes. Modern cloud backup solutions use AES-256 military-grade encryption to protect data both during transmission and while stored on cloud servers. Solutions like Acronis Cyber Protect also include immutable storage and blockchain-based integrity verification, while BKP360 offers zero trust architecture and role-based access controls to ensure only authorized users can access your backed-up data.</p>
+                                <p>Yes. Modern cloud backup solutions use AES-256 military-grade encryption to protect data both during transmission and while stored on cloud servers. Solutions like Acronis Cyber Protect also include immutable storage and blockchain-based integrity verification.</p>
                             </div>
                         </div>
                     </div>

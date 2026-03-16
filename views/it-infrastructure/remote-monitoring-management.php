@@ -1,6 +1,6 @@
 <?php 
-$page_title = "Iperius One — Unified RMM Platform | Nifty Solutions | Vadodara";
-$meta_description = "Iperius One unified RMM platform by Nifty Solutions in Vadodara. Manage backups, monitor systems, deploy patches, and remote access in one dashboard for businesses across Gujarat and India.";
+$page_title = "Iperius One — Unified RMM Platform | Nifty Solutions";
+$meta_description = "Iperius One unified RMM platform by Nifty Solutions. Manage backups, monitor systems, deploy patches, and remote access in one dashboard for businesses across Gujarat and India.";
 ?>
 
 <!-- start page title -->
