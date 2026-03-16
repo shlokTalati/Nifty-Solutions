@@ -74,15 +74,11 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                     </p>
                 </div>
 
+                <h5 class="alt-font fw-600 text-dark-gray mt-5">Why backups matter more than ever</h5>
                 <p>
-                    In recent years, cyberattacks have evolved from nuisance-level threats into full-blown business disruptors. According to recent studies summarized by 
-                    <a href="https://www.infosecurity-magazine.com/" target="_blank" rel="nofollow">Infosecurity Magazine</a>, 
-                    nearly 
-                    <a href="https://www.infosecurity-magazine.com/news/ransomware-victims-shut-operations/" target="_blank" class="text-decoration-line-bottom">58% of organizations are forced to suspend operations</a> 
-                    after a ransomware attack while they recover their systems. That downtime doesn’t just hurt reputation — it bleeds revenue, halts customer service, and shakes client trust.
+                    In recent years, cyberattacks have evolved from nuisance-level threats into full-blown business disruptors. According to the <a href="https://www.sophos.com/en-us/content/state-of-ransomware" target="_blank" class="text-decoration-line-bottom">2025 Sophos State of Ransomware report</a>, the average cost of recovery from a ransomware attack (excluding the ransom payment itself) has escalated to $2.73 million. Furthermore, <a href="https://www.infosecurity-magazine.com/news/ransomware-victims-shut-operations/" target="_blank" class="text-decoration-line-bottom">research summarized by Infosecurity Magazine</a> indicates that nearly 58% of organizations are forced to suspend operations entirely during the recovery phase. That downtime doesn't just hurt reputation — it bleeds revenue, halts customer service, and shakes client trust.
                 </p>
 
-                <h5 class="alt-font fw-600 text-dark-gray mt-5">Why backups matter more than ever</h5>
                 <p>
                     Small and medium-sized businesses (SMBs) are especially vulnerable. They’re often the ones who assume, 
                     <em>“We’re too small to be a target.”</em> 
@@ -95,7 +91,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                 </p>
 
                 <p>
-                    For businesses in industries governed by regulations like GDPR, HIPAA, or India’s upcoming Digital Personal Data Protection Act, losing data isn’t just an inconvenience — it’s a compliance violation. The result? Hefty fines and long-term reputational damage that no PR agency can fix overnight.
+                    For businesses in industries governed by regulations like GDPR, HIPAA, or India's <a href="https://www.meity.gov.in/content/digital-personal-data-protection-act-2023" target="_blank" class="text-decoration-line-bottom">Digital Personal Data Protection Act (DPDP)</a>, losing data isn't just an inconvenience — it's a legal violation. The result? Hefty fines and long-term reputational damage that no PR agency can fix overnight.
                 </p>
 
                 <h5 class="alt-font fw-600 text-dark-gray mt-5">Backup and recovery: not the same thing</h5>
@@ -138,7 +134,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                 </p>
 
                 <p class="fst-italic mt-5 small">
-                    Sources: Infosecurity Magazine, Tripwire, Illumio (2024–2025 ransomware impact reports); IBM Cost of a Data Breach Report 2024; TechTarget SMB Downtime Study.
+                    Other Sources: Infosecurity Magazine, Tripwire, Illumio (2024–2025 ransomware impact reports); IBM Cost of a Data Breach Report 2024; TechTarget SMB Downtime Study.
                 </p>
 
             </div>

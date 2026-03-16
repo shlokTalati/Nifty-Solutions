@@ -137,7 +137,7 @@ $meta_description = "Annual Maintenance Contract (AMC) and Facility Management S
             <div class="container">
                 <div class="row justify-content-center mb-5">
                     <div class="col-xl-8 col-lg-9 col-md-10 text-center">
-                        <h2 class="text-dark-gray fw-700 ls-minus-1px mb-20px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Two Ways to Keep Your IT Running Smoothly</h2>
+                        <h2 class="text-dark-gray fw-700 ls-minus-1px mb-20px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Two Core Offerings</h2>
                         <p class="w-85 mx-auto lg-w-95">Nifty Solutions offers two structured IT support models designed for different business needs. Both are built around one idea — your IT should be someone else's problem, not yours.</p>
                     </div>
                 </div>
@@ -153,7 +153,7 @@ $meta_description = "Annual Maintenance Contract (AMC) and Facility Management S
                         <img src="/public/images/amc-fms/amc-fms1.webp" alt="Annual Maintenance Contract AMC IT Support Services" class="w-100 border-radius-6px box-shadow-large">
                     </div>
                     <div class="col-lg-6" data-anime='{ "el": "childs", "translateX": [50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-white d-inline-flex"><i class="bi bi-calendar-check fs-16 me-5px"></i>Offering 1</span>
+                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 mt-4 fw-700 border-radius-100px bg-white d-inline-flex"><i class="bi bi-calendar-check fs-16 me-5px"></i>Offering 1</span>
                         <h3 class="text-dark-gray fw-700 ls-minus-1px mb-15px">AMC (Annual Maintenance Contract)</h3>
                         <h5 class="text-dark-gray fw-600 mb-20px">Scheduled Maintenance and On-Call IT Support</h5>
                         <p class="mb-25px">An Annual Maintenance Contract with Nifty Solutions gives your business access to regular preventive IT maintenance combined with on-call support whenever something needs attention. Instead of reacting to problems after they occur, our AMC is designed to catch and fix issues before they affect your operations.</p>
@@ -187,7 +187,7 @@ $meta_description = "Annual Maintenance Contract (AMC) and Facility Management S
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 order-2 order-lg-1" data-anime='{ "translateX": [-50, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
-                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex"><i class="bi bi-person-workspace fs-16 me-5px"></i>Offering 2</span>
+                        <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex mt-4"><i class="bi bi-person-workspace fs-16 me-5px"></i>Offering 2</span>
                         <h3 class="text-dark-gray fw-700 ls-minus-1px mb-15px">FMS (Facility Management Service)</h3>
                         <h5 class="text-dark-gray fw-600 mb-20px">A Dedicated IT Person, On Your Premises, Every Day</h5>
                         <p class="mb-25px">A Facility Management Service contract means Nifty Solutions places a dedicated, trained IT professional at your business location full time. This person is entirely focused on managing and supporting your IT environment — becoming a familiar, reliable part of your team without the overhead of hiring a permanent employee.</p>
@@ -315,7 +315,7 @@ $meta_description = "Annual Maintenance Contract (AMC) and Facility Management S
             <div class="container">
                 <div class="row justify-content-center mb-5">
                     <div class="col-md-12 text-center">
-                        <h2 class="alt-font text-dark-gray fw-700 ls-minus-1px mb-10px">Why Businesses in Vadodara Trust Nifty Solutions for IT Support</h2>
+                        <h2 class="alt-font text-dark-gray fw-700 ls-minus-1px mb-10px">Why Businesses Trust Nifty Solutions for IT Support</h2>
                         <p class="w-75 mx-auto lg-w-85 md-w-95">Nifty Solutions has been the IT partner of choice for businesses in Vadodara and across Gujarat since 1999. Over 25 years, we have maintained IT infrastructure for manufacturing companies, professional service firms, healthcare organizations, educational institutions, and retail businesses — each with different environments and different needs.</p>
                         <p class="w-75 mx-auto lg-w-85 md-w-95 fw-500 text-dark-gray">When you sign an AMC or FMS contract with us, you are not just getting a service agreement. You are getting a team that takes ownership of your IT so you don't have to think about it.</p>
                     </div>
