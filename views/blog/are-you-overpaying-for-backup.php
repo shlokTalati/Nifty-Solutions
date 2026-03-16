@@ -14,7 +14,6 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 
     <!-- Author Info -->
     <meta name="author-linkedin" content="https://linkedin.com/in/stalati">
-    <meta name="author-instagram" content="https://www.instagram.com/ekthaweirdo/">
     <meta name="author-designation" content="Business Generalist">
     <meta name="author-bio" content="Shlok Talati is a Business Generalist at Nifty Solutions, where he focuses on streamlining operations, improving systems, and building the company's digital presence.">
     <meta name="author-photo-url" content="https://media.licdn.com/dms/image/v2/D4D03AQEfwtp-ye_9Yg/profile-displayphoto-scale_400_400/B4DZes5CYuGsAg-/0/1750952323512?e=1762387200&v=beta&t=M5H1q-BJmL_P8e4hgqmmMa7qp4cdWi51_U1HFS4OquU">
