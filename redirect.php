@@ -34,7 +34,6 @@ $redirects = [
     'mailstore.php' => 'backup-and-recovery/email-backup',
     // Cloud Backup
     'acronis.php' => 'backup-and-recovery/cloud-backup',
-    'bkp360.php' => 'backup-and-recovery/cloud-backup',
     // Disaster Recovery
     'disaster-recovery-acronis.php' => 'backup-and-recovery/disaster-recovery',
     // NAS Storage
