@@ -1,4 +1,4 @@
-<?php $page_title = "Firewall Services in Vadodara | Nifty Solutions";
+<?php $page_title = "Firewall Services in Vadodara | Authorized Dealer and Service Provider ";
 $meta_description = "Nifty Solutions provides professional Firewall services in Vadodara for small and medium businesses. We offer Fortinet and Sophos firewall solutions with VPN, threat protection, and ongoing IT support across Gujarat.";?>
 
 <!-- start page title -->

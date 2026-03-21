@@ -89,7 +89,12 @@ $redirects = [
     'web-and-email-services/ssl-certificate' => 'website-services/ssl-certificate',
     'web-and-email-services/website-development' => 'website-services/website-development-and-hosting',
 
-    'remote-work-and-monitoring/remote-access' => 'it-infrastructure/remote-access-solutions'
+    'remote-work-and-monitoring/remote-access' => 'it-infrastructure/remote-access-solutions',
+
+    
+
+    //NON-SEO REDIRECTS
+    'pdf/Nifty_Solutions_profile.pdf'=>'public/pdf/Nifty_Solutions_profile.pdf'
 ];
 
 // If the request matches an old URL, it will redirect to the new path
