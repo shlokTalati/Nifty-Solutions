@@ -4,7 +4,7 @@
 <head>
     <!-- Google tag (gtag.js) This is commented out to disable Google Analytics temporarily. -->
 
-    <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFJPXGTH23"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFJPXGTH23"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -14,7 +14,7 @@
         gtag('js', new Date());
 
         gtag('config', 'G-HFJPXGTH23');
-    </script> -->
+    </script>
 
 
     <meta property="og:title"
