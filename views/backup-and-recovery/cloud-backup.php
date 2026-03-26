@@ -26,7 +26,7 @@ $meta_description = "Nifty Solutions provides reliable cloud backup solutions in
         <div class="row align-items-center justify-content-center h-500px sm-h-300px">
             <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                 <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>Data Protection</span>
-                <h1 class="mb-0 text-white fw-600 ls-minus-1px">Cloud Backup Solutions for Businesses in Vadodara</h1>
+                <h1 class="mb-0 text-white fw-600 ls-minus-1px">Cloud Backup Solutions for Businesses</h1>
             </div>
         </div>
     </div>

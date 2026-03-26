@@ -32,7 +32,7 @@ $meta_description = "Iperius One unified RMM platform by Nifty Solutions. Manage
                     <div class="col-12 col-lg-9 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-hdd-network text-white icon-small me-10px"></i>Unified RMM Platform</span>
                         <h1 class="mb-20px text-white fw-600 ls-minus-2px">One Platform to Manage Your Entire IT</h1>
-                        <p class="text-white opacity-8 fs-17 fw-400 w-85 mx-auto lg-w-95 mb-20px">Most businesses rely on multiple disconnected tools to manage their IT — one tool for backups, another for remote access, yet another for tracking system health. Iperius One brings all of this together in a single platform so your IT team spends less time switching between tools and more time keeping your business running.</p>
+                        <p class="text-white opacity-8 fs-17 fw-400 w-85 mx-auto lg-w-95 mb-20px">Managing IT with fragmented tools is inefficient. Iperius One centralizes backups, remote access, and system monitoring into one platform. By unifying your workflow, we help your team stop juggling software and start focusing on core operations.</p>
                         <span class="text-white opacity-9 fs-14 fw-500">National Distributor of Iperius in India | Based in Vadodara. Serving businesses across Gujarat and India</span>
                     </div> 
                 </div>
@@ -143,7 +143,7 @@ $meta_description = "Iperius One unified RMM platform by Nifty Solutions. Manage
                     </div>
                     <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-stars fs-16 me-5px"></i>The Solution</span>
-                        <h2 class="text-dark-gray fw-700 ls-minus-1px">Iperius One — Everything Your IT Team Needs, In One Place</h2>
+                        <h2 class="text-dark-gray fw-700 ls-minus-1px">Iperius One — Everything You Need, In One Place</h2>
                         <p class="w-95 md-w-100">At Nifty Solutions, we implement Iperius One for businesses and IT teams in Vadodara and around India that want to bring order to their IT operations. Iperius One is a web-based platform that lets you manage backups, monitor system health, push security updates, and remotely access any device — all from one dashboard, from anywhere.</p>
                         <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                             <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
@@ -575,7 +575,7 @@ $meta_description = "Iperius One unified RMM platform by Nifty Solutions. Manage
                         <h2 class="text-white fw-700 ls-minus-1px mb-20px">Ready to Bring Your IT Under One Roof?</h2>
                         <p class="text-white opacity-7 w-90 mx-auto lg-w-95 md-w-100 mb-35px">Managing IT should not feel like juggling ten different tools and hoping nothing slips through. With Iperius One implemented by Nifty Solutions, your business gets a single platform for backups, monitoring, patch management, and remote access — properly configured and backed by local support in Vadodara.</p>
                         <p class="text-white fw-500 fs-18 mb-30px">Get in touch with us today to find out how Iperius One fits your business.</p>
-                        <a href="/contact-us" class="btn btn-extra-large btn-white btn-box-shadow btn-rounded fw-600">Contact Us Today<i class="feather icon-feather-arrow-right ms-10px"></i></a>
+                        <a href="/contact-us" class="btn btn-white btn-box-shadow fw-600">Contact Us Today<i class="feather icon-feather-arrow-right ms-10px"></i></a>
                     </div>
                 </div>
             </div>

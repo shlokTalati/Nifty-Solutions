@@ -1,4 +1,4 @@
-<?php $page_title = "Website Development and Hosting Services in Vadodara | Nifty Solutions";
+<?php $page_title = "Website Development and Hosting Services | Vadodara | Nifty Solutions";
 $meta_description = "Professional website development and hosting services in Vadodara by Nifty Solutions. Custom design, mobile-friendly layouts, secure hosting, and ongoing support for businesses across Gujarat."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
@@ -28,7 +28,7 @@ $meta_description = "Professional website development and hosting services in Va
                 <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                     <div class="col-12 col-lg-8 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="ps-25px pe-25px pt-5px pb-5px mb-15px text-uppercase text-white fs-12 ls-1px fw-600 border-radius-100px bg-gradient-dark-gray-transparent d-flex"><i class="bi bi-megaphone text-white icon-small me-10px"></i>World class Development services</span>
-                        <h1 class="mb-0 text-white fw-600 ls-minus-1px">Website Development and Hosting Services for Businesses in Vadodara</h1>
+                        <h1 class="mb-0 text-white fw-600 ls-minus-1px">Website Development and Hosting Services for Businesses</h1>
                     </div> 
                 </div>
             </div>

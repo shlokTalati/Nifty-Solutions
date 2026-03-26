@@ -31,8 +31,8 @@ $meta_description = "Annual Maintenance Contract (AMC) and Facility Management S
                 <div class="row align-items-center justify-content-center h-500px sm-h-300px">
                     <div class="col-12 col-lg-9 col-md-10 position-relative text-center page-title-extra-large d-flex flex-wrap flex-column align-items-center justify-content-center" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
 
-                        <h1 class="mb-20px text-white fw-600 ls-minus-2px">Dedicated IT Support So Your Business Never Slows Down</h1>
-                        <p class="text-white opacity-8 fs-17 fw-400 w-85 mx-auto lg-w-95 mb-20px">Every business depends on its computers, servers, and software to keep operations running. But when something breaks, slows down, or needs attention, most businesses either wait too long for help or pay high one-time charges for emergency support. Nifty Solutions offers structured IT support contracts — AMC and FMS — so your business always has the right level of IT support in place, without the uncertainty of ad-hoc service calls.</p>
+                        <h1 class="mb-20px text-white fw-600 ls-minus-2px">Dedicated IT Support So Business Never Slows Down</h1>
+                        <p class="text-white opacity-8 fs-17 fw-400 w-85 mx-auto lg-w-95 mb-20px">Reliable IT is vital, yet many businesses suffer from slow support or high emergency fees. Nifty Solutions offers structured AMC and FMS contracts, providing consistent, proactive IT support without the cost and uncertainty of ad-hoc repairs.</p>
                         <span class="text-white opacity-9 fs-14 fw-500">Based in Vadodara. Serving businesses across Gujarat and India</span>
                     </div> 
                 </div>

@@ -1,4 +1,4 @@
-<?php $page_title = "SMTP Service for Bulk Email | Nifty Solutions | Vadodara";
+<?php $page_title = "SMTP Services for Bulk Email | Nifty Solutions | Vadodara";
 $meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume email delivery, marketing campaigns, transactional emails, and detailed analytics for business growth."?>
 <!-- start page title -->
     <section class="pt-0 cover-background ipad-top-space-margin sm-pb-0">
@@ -50,7 +50,7 @@ $meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume
                     </div>
                     <div class="col-xl-5 offset-xl-1 col-lg-6 text-center text-md-start" data-anime='{ "el": "childs", "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>
                         <span class="ps-25px pe-25px mb-20px text-uppercase text-base-color fs-12 lh-40 fw-700 border-radius-100px bg-gradient-very-light-gray-transparent d-inline-flex justify-content-center justify-content-md-start"><i class="bi bi-award fs-16 me-5px"></i>Advanced Bulk Email</span>
-                        <h3 class="text-dark-gray fw-700 ls-minus-1px">Bulk Email SMTP Service for Businesses.</h3>
+                        <h3 class="text-dark-gray fw-700 ls-minus-1px">Bulk Email SMTP Services for Businesses.</h3>
                         <p class="w-95 md-w-100">Our SMTP service is tailored for small to medium-sized businesses to reliably send large volumes of marketing emails and newsletters.</p>
                         <div class="pt-20px pb-20px ps-30px pe-30px xs-p-15px border border-color-extra-medium-gray border-radius-6px mb-15px icon-with-text-style-08 w-90 lg-w-100">
                             <div class="feature-box feature-box-left-icon-middle d-inline-flex align-middle">
@@ -73,7 +73,7 @@ $meta_description = "Reliable bulk SMTP services by Nifty Solutions. High-volume
             <div class="container">
                 <div class="row justify-content-center mb-3">
                     <div class="col-xl-8 col-lg-9 col-md-10 text-center">
-                        <h3 class="text-dark-gray fw-700 ls-minus-1px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Bulk Email SMTP Service for Businesses</h3>
+                        <h3 class="text-dark-gray fw-700 ls-minus-1px" data-anime='{ "translateY": [30, 0], "opacity": [0,1], "duration": 600, "delay": 0, "staggervalue": 300, "easing": "easeOutQuad" }'>Bulk Email SMTP Services for Businesses</h3>
                     </div>
                 </div>
                 <div class="row row-cols-1 row-cols-lg-4 row-cols-sm-2 justify-content-center" data-anime='{ "el": "childs", "willchange": "transform", "scale":[0.95,1], "opacity": [0, 1], "duration": 800, "delay": 100, "staggervalue": 300, "easing": "easeOutQuad" }'>
