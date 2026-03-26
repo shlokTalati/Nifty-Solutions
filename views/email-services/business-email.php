@@ -233,7 +233,7 @@ $meta_description = "Nifty Solutions provides professional business email hostin
                     <div class="w-100 h-100 overflow-hidden z-index-1 front-side bg-white border-radius-6px box-shadow-quadruple-large">
                         <div class="rotate-content-front z-index-2 p-30px">
                             <div class="fs-19 text-dark-gray alt-font fw-600 mb-5px">Linux</div>
-                            <span>A cost-effective, open-source email server offering complete control, strong security, and full customization for tech-savvy organizations.</span>
+                            <span>Unlimited Email IDs with seamless outgoing email archiving and spam protection for efficient business communication.</span>
                         </div>
                     </div>
                     <div class="w-100 h-100 overflow-hidden back-side cover-background border-radius-6px box-shadow-quadruple-large" style="background-image:url('/public/images/business-email/linux.webp')">
