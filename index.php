@@ -27,7 +27,7 @@ if ($cleanPath === 'robots.txt') {
     }
 }
 
-// 
+
 // 3.2 Check for contact-form
 if ($cleanPath === 'contact-form') {
     $contact_form_path = __DIR__ . '/contact-form.php'; // Path to contact-form.php
@@ -82,7 +82,7 @@ if ($cleanPath === 'favicon.ico') {
 require(__DIR__ . '/redirect.php'); // This file contains the $redirects array and logic
 
 
-// 5. Call blog controller if it is a blog route
+// 5.1 Call blog controller if it is a blog route
 if (preg_match('#^blog(?:/(.*))?$#', $cleanPath, $matches)) {
     require(__DIR__ . '/controllers/blog.php');
 
@@ -95,6 +95,59 @@ if (preg_match('#^blog(?:/(.*))?$#', $cleanPath, $matches)) {
         BlogController::get_blog_post($slug); // e.g., show specific blog post
     }
 
+    exit;
+}
+
+// 5.2 Handle PDF tracking + redirect
+if (preg_match('#^pdf/(.*)$#', $cleanPath, $matches)) {
+    $pdfSlug = trim($matches[1]);
+
+    // Map slug → actual file
+    $pdfMap = [
+        //Eg. 'Nifty-Solutions-Profile' => 'Nifty_Solutions_profile.pdf'
+        'Nifty_Solutions_profile.pdf' => 'Nifty_Solutions_profile.pdf',
+    ];
+
+    // Validate slug
+    if (!array_key_exists($pdfSlug, $pdfMap)) {
+        http_response_code(404);
+        echo "PDF not found.";
+        exit;
+    }
+
+    $fileName = $pdfMap[$pdfSlug];
+    $fileUrl  = '/public/pdf/' . $fileName; // public URL (not file path)
+
+    // -------- TRACKING --------
+    $utm_source   = $_GET['utm_source'] ?? 'unknown';
+    $utm_campaign = $_GET['utm_campaign'] ?? 'unknown';
+    $uid          = $_GET['uid'] ?? null;
+
+    $data = [
+        'client_id' => $uid ?? uniqid(),
+        'events' => [[
+            'name' => 'pdf_click',
+            'params' => [
+                'file_name' => $fileName,
+                'slug' => $pdfSlug,
+                'source' => $utm_source,
+                'campaign' => $utm_campaign
+            ]
+        ]]
+    ];
+
+    $payload = json_encode($data);
+
+    $ch = curl_init('https://www.google-analytics.com/mp/collect?measurement_id=G-XXXXXXX&api_secret=YOUR_SECRET');
+    curl_setopt($ch, CURLOPT_POST, 1);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
+    curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
+    curl_setopt($ch, CURLOPT_TIMEOUT_MS, 300); // keep it fast, don’t block user
+    curl_exec($ch);
+    curl_close($ch);
+
+    // -------- REDIRECT --------
+    header("Location: $fileUrl", true, 302);
     exit;
 }
 

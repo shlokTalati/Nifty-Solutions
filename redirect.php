@@ -91,10 +91,6 @@ $redirects = [
 
     'remote-work-and-monitoring/remote-access' => 'it-infrastructure/remote-access-solutions',
 
-    
-
-    //NON-SEO REDIRECTS
-    'pdf/Nifty_Solutions_profile.pdf'=>'public/pdf/Nifty_Solutions_profile.pdf'
 ];
 
 // If the request matches an old URL, it will redirect to the new path
