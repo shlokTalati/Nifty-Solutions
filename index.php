@@ -104,8 +104,8 @@ if (preg_match('#^pdf/(.*)$#', $cleanPath, $matches)) {
 
     // Map slug → actual file
     $pdfMap = [
-        //Eg. 'Nifty-Solutions-Profile' => 'Nifty_Solutions_profile.pdf'
         'Nifty_Solutions_profile.pdf' => 'Nifty_Solutions_profile.pdf',
+        'Nifty-Solutions-Company-Profile'=> 'Nifty_Solutions_profile.pdf'
     ];
 
     // Validate slug
@@ -138,7 +138,7 @@ if (preg_match('#^pdf/(.*)$#', $cleanPath, $matches)) {
 
     $payload = json_encode($data);
 
-    $ch = curl_init('https://www.google-analytics.com/mp/collect?measurement_id=G-XXXXXXX&api_secret=YOUR_SECRET');
+    $ch = curl_init('https://www.google-analytics.com/mp/collect?measurement_id=G-HFJPXGTH23&api_secret=anR6M3veSCGomH8BIf0_kQ');
     curl_setopt($ch, CURLOPT_POST, 1);
     curl_setopt($ch, CURLOPT_POSTFIELDS, $payload);
     curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/json']);
