@@ -66,11 +66,11 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
                     </div>
 
                     <p>
-                        This isn't a scene from a movie; it is a reality for many small and medium businesses (SMBs) across Gujarat today. In 2025, a mid-sized logistics firm in India faced a similar ransomware attack, and without proper offline backups, they were forced to halt operations for two weeks, resulting in a ₹3.5 crore loss and the cancellation of major client contracts.
+                        This isn't a scene from a movie; it is a reality for many small and medium businesses (SMBs) across Gujarat today. According to the <a href="https://www.ibm.com/reports/data-breach" target="_blank" class="text-decoration-line-bottom">IBM Cost of a Data Breach Report 2025</a>, ransomware remains one of the top causes of financial loss globally, especially for SMBs with weak backup strategies. In 2025, a mid-sized logistics firm in India faced a similar ransomware attack, and without proper offline backups, they were forced to halt operations for two weeks, resulting in a ₹3.5 crore loss and the cancellation of major client contracts.
                     </p>
 
                     <p>
-                        As we navigate 2026, the digital landscape in India has reached a critical tipping point. With over 100 crore internet connections nationwide, the "attack surface"—the number of ways a hacker can enter your business—has widened significantly. For a business owner in <strong>Gujarat</strong>, cybersecurity is no longer a "technical issue" for the IT person to handle; it is a fundamental pillar of business survival.
+                        As we navigate 2026, the digital landscape in India has reached a critical tipping point. <a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2217537" target="_blank" class="text-decoration-line-bottom">With over 100 crore internet connections nationwide</a>, the "attack surface"—the number of ways a hacker can enter your business—has widened significantly. For a business owner in <strong>Gujarat</strong>, cybersecurity is no longer a "technical issue" for the IT person to handle; it is a fundamental pillar of business survival.
                     </p>
 
                     <h5 class="alt-font fw-600 text-dark-gray mt-5">The Digital Siege: Why Gujarat is a Target</h5>
@@ -145,7 +145,8 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 
                     <h5 class="alt-font fw-600 text-dark-gray mt-5">The Impact of the DPDP Act</h5>
                     <p>
-                        India's Digital Personal Data Protection (DPDP) Act is now in full force. This law treats almost every business—from a small clinic in Akota to a large factory in Halol—as a "Data Fiduciary." If you lose your customers' or employees' personal data due to poor security, the penalties can be substantial and depend on the violation.
+                        India's Digital Personal Data Protection (DPDP) Act is now in full force. 
+                        Under the current enforcement framework, the Data Protection Board (DPB) can <a href="https://www.meity.gov.in/content/digital-personal-data-protection-act-2023" target="_blank" class="text-decoration-line-bottom">impose penalties of up to ₹250 Crore</a> for failing to prevent a data breach, making 'basic' security a massive financial liability. This law treats almost every business—from a small clinic in Akota to a large factory in Halol—as a "Data Fiduciary." If you lose your customers' or employees' personal data due to poor security, the penalties can be substantial and depend on the violation.
                     </p>
 
                     <p>
@@ -219,7 +220,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 
                     <p>
                         <strong>Q: My data is in the Cloud (Google/Microsoft), so I don't need a backup, right?</strong><br>
-                        A: Incorrect. Cloud storage is for synchronization. If ransomware encrypts a file on your laptop, the cloud will faithfully "sync" that encrypted version, destroying your cloud copy as well. A true backup keeps "versions" so you can roll back to a clean state.
+                        A: That is a dangerous misconception. Cloud storage is for synchronization. If ransomware encrypts a file on your laptop, the cloud will faithfully "sync" that encrypted version, destroying your cloud copy as well. A true backup keeps "versions" so you can roll back to a clean state.
                     </p>
 
                     <h5 class="alt-font fw-600 text-dark-gray mt-5">Conclusion: Take the First Step Today</h5>
