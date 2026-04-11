@@ -8,7 +8,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
         content="A practical guide to understanding email backup vs sync, legal compliance under DPDP Act, and protecting your business from data loss and ransomware attacks.">
     <meta name="category" content="Email Security & Backup">
     <meta name="thumbnail_url"
-        content="https://niftysolutions.co.in/public/images/blog/thumbnail/enterprise-email-backup-explained.webp">
+        content="https://niftysolutions.co.in/public/images/blog/thumbnail/explained-enterprise-email-backup.webp">
     <meta name="date" content="11-04-2026">
     <meta name="author" content="Absar Ahmad">
     <meta name="reading-time" content="12 Mins">
@@ -25,7 +25,7 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 
     <!-- start hero section -->
     <section class="full-screen ipad-top-space-margin sm-h-600px" data-parallax-background-ratio="0.5"
-        style="background-image: url(http://niftysolutions.co.in/public/images/blog/enterprise-email-backup-explained.webp)">
+        style="background-image: url(http://niftysolutions.co.in/public/images/blog/explained-enterprise-email-backup.webp)">
         <div class="opacity-light bg-dark-gray"></div>
         <div class="container-fluid z-index-1 position-relative h-100">
             <div class="row h-100 align-items-center">
@@ -64,10 +64,6 @@ $meta_description=$metadata['description'] ?? 'Blog Description';
 
                     <p>
                         Today, however, the filing cabinet has been replaced by the email inbox. Every contract, every proprietary formula, every customer interaction, and every financial transaction now lives in a digital stream of data. While this shift has enabled unprecedented efficiency and global reach, it has also introduced a paradox: our most valuable business assets are now our most fragile.
-                    </p>
-
-                    <p>
-                        Last month, a pharmaceutical company in GIDC Savli lost ₹8 lakh in production downtime because their IT team confused "synchronization" with "backup". They thought their emails were safe because they were "in the cloud," but a single sync error—triggered by an accidental deletion—wiped out three years of critical batch records across every device in the office. This isn't just a technical glitch; it is a catastrophic operational failure.
                     </p>
 
                     <p>
