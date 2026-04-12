@@ -156,8 +156,7 @@
     <link rel="preload" as="style" href="/public/css/vendors.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/icon.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/style.min.css" onload="this.onload=null;this.rel='stylesheet'">
-    <link rel="preload" as="style" href="/public/css/responsive.min.css"
-        onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" as="style" href="/public/css/responsive.min.css" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="preload" as="style" href="/public/css/custom.css" onload="this.onload=null;this.rel='stylesheet'">
     <!-- <link rel="stylesheet" href="/public/css/style.min.css"> -->
     <!-- <link rel="stylesheet" href="/public/css/custom.css"> -->
