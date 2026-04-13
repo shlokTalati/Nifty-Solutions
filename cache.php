@@ -7,45 +7,45 @@ function setCacheHeaders() {
     $current_time = time();
     
     switch (strtolower($file_extension)) {
-        // Images - Cache for 1 month (2592000 seconds)
+        // Images - Cache for 1 Year (31536000 seconds)
         case 'jpg':
         case 'jpeg':
         case 'png':
         case 'webp':
         case 'svg':
         case 'ico':
-            $cache_time = 2592000; // 1 month
+            $cache_time = 31536000; // 1 Year
             header('Cache-Control: public, max-age=' . $cache_time . ', immutable');
             header('Expires: ' . gmdate('D, d M Y H:i:s', $current_time + $cache_time) . ' GMT');
             header('Pragma: public');
             break;
             
-        // CSS and JavaScript - Cache for 1 month (2592000 seconds)
+        // CSS and JavaScript - Cache for 1 Year (31536000 seconds)
         case 'css':
         case 'js':
-            $cache_time = 2592000; // 1 month
+            $cache_time = 31536000; // 1 Year
             header('Cache-Control: public, max-age=' . $cache_time);
             header('Expires: ' . gmdate('D, d M Y H:i:s', $current_time + $cache_time) . ' GMT');
             header('Pragma: public');
             break;
             
-        // Fonts - Cache for 1 month
+        // Fonts - Cache for 1 Year
         case 'woff2':
         case 'woff':
         case 'ttf':
         case 'otf':
         case 'eot':
-            $cache_time = 2592000; // 1 month
+            $cache_time = 31536000; // 1 Year
             header('Cache-Control: public, max-age=' . $cache_time . ', immutable');
             header('Expires: ' . gmdate('D, d M Y H:i:s', $current_time + $cache_time) . ' GMT');
             header('Pragma: public');
             break;
             
-        // Videos - Cache for 1 month
+        // Videos - Cache for 1 year
         case 'mp4':
         case 'webm':
         case 'ogg':
-            $cache_time = 2592000; // 1 month
+            $cache_time = 31536000; // 1 year
             header('Cache-Control: public, max-age=' . $cache_time);
             header('Expires: ' . gmdate('D, d M Y H:i:s', $current_time + $cache_time) . ' GMT');
             header('Pragma: public');
